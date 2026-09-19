@@ -9229,5 +9229,18 @@
     "source_count": 12,
     "tags": "AI, legal, courts, contracts",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 701,
+    "topic": "AI Drafts SEC Filings as Regulators Test Automated Disclosure Accuracy",
+    "file": "html/article-0701-ai-drafts-sec-filings-as-regulators-test-automated-disclosure-accuracy-20260919-150205.html",
+    "timestamp": "20260919-150205",
+    "full_timestamp": "2026-09-19T15:02:05-07:00",
+    "summary": "AI now generates iXBRL tags for SEC filings, automating a compliance bottleneck. Regulators will test whether machine-tagged disclosures meet accuracy standards.",
+    "original_topic": "Generative AI for Financial Reporting",
+    "search_query": "AI automated SEC 10-K filing accuracy test 2026 latest",
+    "source_count": 2,
+    "tags": "generative-ai,financial-reporting,regulation,SEC",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
