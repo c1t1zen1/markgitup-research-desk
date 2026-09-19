@@ -9242,5 +9242,18 @@
     "source_count": 2,
     "tags": "generative-ai,financial-reporting,regulation,SEC",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 702,
+    "topic": "AI Video Models Face Compute Cost Shock as Training Runs Spike",
+    "file": "html/article-0702-ai-video-models-face-compute-cost-shock-as-training-runs-spike-20260919-160203.html",
+    "timestamp": "20260919-160203",
+    "full_timestamp": "2026-09-19T16:02:03-07:00",
+    "summary": "Training next-gen video models is becoming a billion-dollar proposition, reshaping the economics of who can compete in AI video generation.",
+    "original_topic": "AI Video Generation Models",
+    "search_query": "AI video generation training compute cost surge 2026",
+    "source_count": 12,
+    "tags": "AI video, compute costs, training, economics",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
