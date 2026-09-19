@@ -9216,5 +9216,18 @@
     "source_count": 2,
     "tags": "AI avatars, virtual presenters, lip sync, broadcast technology",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 700,
+    "topic": "AI Contract Review Tools Face Admissibility Test in Federal Courts",
+    "file": "html/article-0700-ai-contract-review-tools-face-admissibility-test-in-federal-courts-20260919-140153.html",
+    "timestamp": "20260919-140153",
+    "full_timestamp": "2026-09-19T14:01:53-07:00",
+    "summary": "Federal courts are testing whether AI-generated contract analysis meets evidentiary standards, with diverging rulings on privilege, work product, and authentication.",
+    "original_topic": "AI in Legal Systems & Law Practice",
+    "search_query": "AI contract review admissibility federal court 2026",
+    "source_count": 12,
+    "tags": "AI, legal, courts, contracts",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
