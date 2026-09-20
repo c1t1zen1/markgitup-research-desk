@@ -9294,5 +9294,18 @@
     "source_count": 8,
     "tags": "AI video, platform policy, short form, regulation",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 706,
+    "topic": "AI Voice Cloning Targets Voters in Final Days of 2026 Midterms",
+    "file": "html/article-0706-ai-voice-cloning-targets-voters-in-final-days-of-2026-midterms-20260919-200213.html",
+    "timestamp": "20260919-200213",
+    "full_timestamp": "2026-09-19T20:02:13-07:00",
+    "summary": "As the 2026 midterms approach, synthetic voice robocalls are emerging as a potent and deceptive campaign tactic, prompting regulatory action and voter confusion.",
+    "original_topic": "AI in US Elections & Campaigns",
+    "search_query": "AI voice cloning robocalls 2026 midterm elections",
+    "source_count": 12,
+    "tags": "AI, elections, voice cloning, 2026 midterms",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
