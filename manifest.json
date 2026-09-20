@@ -9268,5 +9268,18 @@
     "source_count": 2,
     "tags": "AI, video editing, subtitles, streaming",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 704,
+    "topic": "AI Fraud Detection Faces Real-Time Challenge as Contactless Payments Surge",
+    "file": "html/article-0704-ai-fraud-detection-faces-real-time-challenge-as-contactless-payments-sur-20260919-180152.html",
+    "timestamp": "20260919-180152",
+    "full_timestamp": "2026-09-19T18:01:52-07:00",
+    "summary": "As contactless and mobile payment volumes explode in 2026, AI fraud detection systems face mounting pressure to identify anomalies in real-time without slowing legitimate transactions or increasing false declines.",
+    "original_topic": "AI Fraud Detection in Banking & Finance",
+    "search_query": "AI fraud detection contactless payments 2026",
+    "source_count": 12,
+    "tags": "AI, fraud detection, payments, finance",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
