@@ -9372,5 +9372,18 @@
     "source_count": 12,
     "tags": "AI coding, automation, CI/CD, software engineering",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 712,
+    "topic": "Apple M5 Ultra Enables Edge LLM Inference for Offline Field Workers",
+    "file": "html/article-0712-apple-m5-ultra-enables-edge-llm-inference-for-offline-field-workers-20260920-020138.html",
+    "timestamp": "20260920-020138",
+    "full_timestamp": "2026-09-20T02:01:38-07:00",
+    "summary": "Apple's M5 Ultra chip and 512GB unified memory enable powerful local LLM inference, offering field workers offline AI capabilities without cloud dependency or VRAM constraints.",
+    "original_topic": "M Series Apple Silicon LLM Inference",
+    "search_query": "Apple M5 Ultra edge LLM inference offline field workers 2026",
+    "source_count": 12,
+    "tags": "Apple M5 Ultra, LLM inference, edge computing, offline workers",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
