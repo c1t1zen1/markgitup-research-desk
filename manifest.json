@@ -9307,5 +9307,18 @@
     "source_count": 12,
     "tags": "AI, elections, voice cloning, 2026 midterms",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 707,
+    "topic": "Apple M5 Pro Drives Local AI Coding Agents Past Cloud Latency",
+    "file": "html/article-0707-apple-m5-pro-drives-local-ai-coding-agents-past-cloud-latency-20260919-210159.html",
+    "timestamp": "20260919-210159",
+    "full_timestamp": "2026-09-19T21:01:59-07:00",
+    "summary": "Apple's M5 Pro Mac mini targets always-on local AI coding agents, promising sub-second inference without cloud latency, while the M5 Ultra Mac Studio scales up for heavier workloads.",
+    "original_topic": "AI Development Tools for Apple Silicon",
+    "search_query": "Apple M5 Pro local AI coding agent latency 2026",
+    "source_count": 8,
+    "tags": "Apple Silicon,AI development,local inference,coding tools",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
