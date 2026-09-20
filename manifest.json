@@ -9450,5 +9450,18 @@
     "source_count": 3,
     "tags": "AI, legal tech, dispute resolution, courts",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 718,
+    "topic": "US States Race to Enact Deepfake Disclosure Laws Ahead of 2028",
+    "file": "html/article-0718-us-states-race-to-enact-deepfake-disclosure-laws-ahead-of-2028-20260920-080200.html",
+    "timestamp": "20260920-080200",
+    "full_timestamp": "2026-09-20T08:02:00-07:00",
+    "summary": "With federal deepfake legislation stalled, 49 states have enacted their own patchwork of disclosure and liability laws, creating a complex compliance landscape for media companies ahead of the 2028 election cycle.",
+    "original_topic": "Deepfake Legislation & Synthetic Media Laws",
+    "search_query": "state deepfake disclosure laws passed 2026",
+    "source_count": 12,
+    "tags": "deepfake,legislation,state laws,media",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
