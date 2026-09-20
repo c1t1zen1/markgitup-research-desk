@@ -9476,5 +9476,18 @@
     "source_count": 10,
     "tags": "AI video, open source, licensing, litigation",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 720,
+    "topic": "AI Agents Now Draft SEC Filings, Raising Audit Trail Questions",
+    "file": "html/article-0720-ai-agents-now-draft-sec-filings-raising-audit-trail-questions-20260920-100128.html",
+    "timestamp": "20260920-100128",
+    "full_timestamp": "2026-09-20T10:01:28-07:00",
+    "summary": "AI agents are now drafting regulatory filings like 10-Ks and 10-Qs, raising new questions about audit trails, responsibility, and verification that differ from prior AI-in-finance coverage.",
+    "original_topic": "Generative AI for Financial Reporting",
+    "search_query": "AI drafting SEC filings audit trail 2026",
+    "source_count": 12,
+    "tags": "AI, financial reporting, SEC filings, automation",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
