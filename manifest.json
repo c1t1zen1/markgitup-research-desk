@@ -9398,5 +9398,18 @@
     "source_count": 2,
     "tags": "AI policy, copyright, Washington, legislation",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 714,
+    "topic": "AI Fact-Checkers Clash Over Deepfake Ballot Measures in Swing States",
+    "file": "html/article-0714-ai-fact-checkers-clash-over-deepfake-ballot-measures-in-swing-states-20260920-040141.html",
+    "timestamp": "20260920-040141",
+    "full_timestamp": "2026-09-20T04:01:41-07:00",
+    "summary": "Competing AI fact-checkers are issuing divergent verdicts on the same deepfake political content in swing states, leaving voters and media outlets uncertain which systems to trust as the 2026 midterms approach.",
+    "original_topic": "AI Misinformation & Election Integrity",
+    "search_query": "AI fact-checkers deepfake ballot measures swing states 2026",
+    "source_count": 12,
+    "tags": "AI, misinformation, elections, fact-checking",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
