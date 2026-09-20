@@ -9359,5 +9359,18 @@
     "source_count": 12,
     "tags": "deepfakes, courts, evidence, state law",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 711,
+    "topic": "AI Code Agents Now Run Entire CI Pipelines Without Human Approval",
+    "file": "html/article-0711-ai-code-agents-now-run-entire-ci-pipelines-without-human-approval-20260920-010131.html",
+    "timestamp": "20260920-010131",
+    "full_timestamp": "2026-09-20T01:01:31-07:00",
+    "summary": "Autonomous AI agents are now executing full CI/CD cycles without human approval, a shift that accelerates delivery but exposes pipelines to new attack and verification risks.",
+    "original_topic": "Autonomous AI Code Agents",
+    "search_query": "AI code agents autonomous CI pipeline 2026",
+    "source_count": 12,
+    "tags": "AI coding, automation, CI/CD, software engineering",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
