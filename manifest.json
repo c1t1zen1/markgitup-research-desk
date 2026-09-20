@@ -9333,5 +9333,18 @@
     "source_count": 12,
     "tags": "macOS,local-AI,Apple,Metal",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 709,
+    "topic": "AI Crypto Bots Face Slippage Test as On-Chain Liquidity Fragments",
+    "file": "html/article-0709-ai-crypto-bots-face-slippage-test-as-on-chain-liquidity-fragments-20260919-230200.html",
+    "timestamp": "20260919-230200",
+    "full_timestamp": "2026-09-19T23:02:00-07:00",
+    "summary": "AI trading bots face a new stress test as liquidity fragments across chains, exposing execution risks that latency-focused strategies may not address.",
+    "original_topic": "AI Crypto Trading Bots & Performance",
+    "search_query": "AI crypto trading bots slippage on-chain liquidity fragmentation 2026",
+    "source_count": 7,
+    "tags": "AI trading, crypto, liquidity, execution",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
