@@ -9411,5 +9411,18 @@
     "source_count": 12,
     "tags": "AI, misinformation, elections, fact-checking",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 715,
+    "topic": "Apple M5 Neural Engine Powers New On-Device AI Coding Assistant",
+    "file": "html/article-0715-apple-m5-neural-engine-powers-new-on-device-ai-coding-assistant-20260920-050122.html",
+    "timestamp": "20260920-050122",
+    "full_timestamp": "2026-09-20T05:01:22-07:00",
+    "summary": "Apple's M5 Ultra chip and new Mac Studio prioritize local, on-device AI compute, enabling developers to run demanding coding assistants without cloud reliance.",
+    "original_topic": "AI Development Tools for Apple Silicon",
+    "search_query": "Apple M5 neural engine on-device AI coding assistant 2026",
+    "source_count": 11,
+    "tags": "Apple Silicon, AI coding tools, on-device AI, M5 chip",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
