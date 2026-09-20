@@ -13876,5 +13876,11 @@
     "canonical_query": "apple m5 pro local ai coding agent latency 2026",
     "searched_at": "2026-09-19T21:01:06-07:00",
     "topic": "Apple M5 Pro Drives Local AI Coding Agents Past Cloud Latency"
+  },
+  {
+    "query": "macOS 26 Metal AI runtime local LLM support 2026",
+    "canonical_query": "macos 26 metal ai runtime local llm support 2026",
+    "searched_at": "2026-09-19T22:01:08-07:00",
+    "topic": "macOS 26 Adds Native Metal AI Runtime for Local LLMs"
   }
 ]

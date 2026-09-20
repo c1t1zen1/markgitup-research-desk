@@ -9320,5 +9320,18 @@
     "source_count": 8,
     "tags": "Apple Silicon,AI development,local inference,coding tools",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 708,
+    "topic": "macOS 26 Adds Native Metal AI Runtime for Local LLMs",
+    "file": "html/article-0708-macos-26-adds-native-metal-ai-runtime-for-local-llms-20260919-220208.html",
+    "timestamp": "20260919-220208",
+    "full_timestamp": "2026-09-19T22:02:08-07:00",
+    "summary": "Apple's Metal-based AI runtime emerges as the dominant execution layer for local LLMs on macOS, with Ollama's switch to MLX marking a pivotal shift in developer tooling.",
+    "original_topic": "Local AI Tools & Stacks for macOS",
+    "search_query": "macOS 26 Metal AI runtime local LLM support 2026",
+    "source_count": 12,
+    "tags": "macOS,local-AI,Apple,Metal",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
