@@ -9281,5 +9281,18 @@
     "source_count": 12,
     "tags": "AI, fraud detection, payments, finance",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 705,
+    "topic": "AI Short-Form Video Tools Face Platform Ban Risk as Terms Shift",
+    "file": "html/article-0705-ai-short-form-video-tools-face-platform-ban-risk-as-terms-shift-20260919-190223.html",
+    "timestamp": "20260919-190223",
+    "full_timestamp": "2026-09-19T19:02:23-07:00",
+    "summary": "Social platforms are shifting from labeling AI-generated short videos to actively restricting or banning them, creating new policy risks for creators and advertisers relying on AI tools.",
+    "original_topic": "AI Short Form Video & Social Media",
+    "search_query": "TikTok Instagram ban AI generated videos policy 2026",
+    "source_count": 8,
+    "tags": "AI video, platform policy, short form, regulation",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
