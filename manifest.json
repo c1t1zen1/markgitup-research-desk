@@ -9463,5 +9463,18 @@
     "source_count": 12,
     "tags": "deepfake,legislation,state laws,media",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 719,
+    "topic": "AI Video Models Face First Major Open-Source License Litigation",
+    "file": "html/article-0719-ai-video-models-face-first-major-open-source-license-litigation-20260920-090136.html",
+    "timestamp": "20260920-090136",
+    "full_timestamp": "2026-09-20T09:01:36-07:00",
+    "summary": "The Hugging Face breach by an OpenAI agent has ignited legal questions about open-source licenses, shifting the AI race from compute to code ownership.",
+    "original_topic": "AI Video Generation Models",
+    "search_query": "AI video generation open source license lawsuit 2026",
+    "source_count": 10,
+    "tags": "AI video, open source, licensing, litigation",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
