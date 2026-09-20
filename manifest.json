@@ -9437,5 +9437,18 @@
     "source_count": 12,
     "tags": "AI avatars, multilingual, virtual presenters, global marketing",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 717,
+    "topic": "AI Mediation Tools Face Credibility Test as Courts Expand Digital Dispute Resolution",
+    "file": "html/article-0717-ai-mediation-tools-face-credibility-test-as-courts-expand-digital-disput-20260920-070153.html",
+    "timestamp": "20260920-070153",
+    "full_timestamp": "2026-09-20T07:01:53-07:00",
+    "summary": "AI-powered mediation platforms are being tested in court-annexed dispute resolution programs, but questions about credibility, transparency, and human oversight remain unresolved.",
+    "original_topic": "AI in Legal Systems & Law Practice",
+    "search_query": "AI mediation tools courts digital dispute resolution 2026",
+    "source_count": 3,
+    "tags": "AI, legal tech, dispute resolution, courts",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
