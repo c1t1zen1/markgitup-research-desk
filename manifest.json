@@ -9502,5 +9502,18 @@
     "source_count": 12,
     "tags": "smart-home, energy-efficiency, sensor-fusion, automation",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 722,
+    "topic": "AI Auto-Captioning Accuracy Tested on Regional Dialects",
+    "file": "html/article-0722-ai-auto-captioning-accuracy-tested-on-regional-dialects-20260921-030137.html",
+    "timestamp": "20260921-030137",
+    "full_timestamp": "2026-09-21T03:01:37-07:00",
+    "summary": "AI captioning hits 95%+ accuracy on clean English audio but drops 5-15% on regional accents and dialects, according to 2026 testing across multiple tools and speech samples.",
+    "original_topic": "AI-Powered Video Editing & Post-Production",
+    "search_query": "AI auto-captioning regional dialect accuracy 2026",
+    "source_count": 12,
+    "tags": "AI video, captions, localization, accessibility",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
