@@ -9567,5 +9567,18 @@
     "source_count": 8,
     "tags": "Apple Silicon, PyTorch, AI Training, GPU",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 727,
+    "topic": "AI Reconciles Intercompany Transactions, Speeding Up Global Close",
+    "file": "html/article-0727-ai-reconciles-intercompany-transactions-speeding-up-global-close-20260921-080151.html",
+    "timestamp": "20260921-080151",
+    "full_timestamp": "2026-09-21T08:01:51-07:00",
+    "summary": "AI agents are moving intercompany reconciliation from a week-long manual grind to a continuous, automated flow that matches, reasons about discrepancies, and clears the path for faster global close.",
+    "original_topic": "Generative AI for Financial Reporting",
+    "search_query": "AI intercompany reconciliation financial close automation 2026 latest",
+    "source_count": 12,
+    "tags": "AI, accounting, financial close, reconciliation",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
