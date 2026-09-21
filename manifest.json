@@ -9554,5 +9554,18 @@
     "source_count": 12,
     "tags": "AI coding, certifications, open-source, software industry",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 726,
+    "topic": "Apple M5 Ultra GPU Accelerates PyTorch 2.6 Distributed Training",
+    "file": "html/article-0726-apple-m5-ultra-gpu-accelerates-pytorch-2-6-distributed-training-20260921-070131.html",
+    "timestamp": "20260921-070131",
+    "full_timestamp": "2026-09-21T07:01:31-07:00",
+    "summary": "Apple's M5 Ultra GPU now accelerates PyTorch 2.6 distributed training on Mac Studio, marking a shift from inference to large-scale model development on Apple Silicon.",
+    "original_topic": "AI Development Tools for Apple Silicon",
+    "search_query": "Apple M5 Ultra PyTorch 2.6 distributed training benchmark 2026 latest",
+    "source_count": 8,
+    "tags": "Apple Silicon, PyTorch, AI Training, GPU",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
