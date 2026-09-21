@@ -9528,5 +9528,18 @@
     "source_count": 12,
     "tags": "AI, intelligence, satellites, defense",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 724,
+    "topic": "AI Lobbyists Push Federal Disclosure Law for Political Ads",
+    "file": "html/article-0724-ai-lobbyists-push-federal-disclosure-law-for-political-ads-20260921-050140.html",
+    "timestamp": "20260921-050140",
+    "full_timestamp": "2026-09-21T05:01:40-07:00",
+    "summary": "AI lobbyists and industry groups are pushing for a federal disclosure law to standardize how political ads reveal AI-generated content, aiming to replace a growing patchwork of state rules.",
+    "original_topic": "AI Lobbying & Policy in Washington",
+    "search_query": "AI lobbying federal disclosure law political ads 2026",
+    "source_count": 12,
+    "tags": "AI, lobbying, policy, political ads",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
