@@ -9515,5 +9515,18 @@
     "source_count": 12,
     "tags": "AI video, captions, localization, accessibility",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 723,
+    "topic": "Pentagon Tests AI-Driven Satellite Constellation for Real-Time ISR",
+    "file": "html/article-0723-pentagon-tests-ai-driven-satellite-constellation-for-real-time-isr-20260921-040119.html",
+    "timestamp": "20260921-040119",
+    "full_timestamp": "2026-09-21T04:01:19-07:00",
+    "summary": "The Pentagon is testing AI-driven satellite constellations to deliver real-time intelligence, surveillance, and reconnaissance, shifting ISR from ground stations to autonomous orbital networks.",
+    "original_topic": "AI in US Intelligence & Surveillance",
+    "search_query": "Pentagon AI satellite constellation ISR 2026",
+    "source_count": 12,
+    "tags": "AI, intelligence, satellites, defense",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
