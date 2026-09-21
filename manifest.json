@@ -9541,5 +9541,18 @@
     "source_count": 12,
     "tags": "AI, lobbying, policy, political ads",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 725,
+    "topic": "Open-Source AI Code Agents Now Pass Industry Certification Exams",
+    "file": "html/article-0725-open-source-ai-code-agents-now-pass-industry-certification-exams-20260921-060136.html",
+    "timestamp": "20260921-060136",
+    "full_timestamp": "2026-09-21T06:01:36-07:00",
+    "summary": "Open-source AI coding agents are now passing industry certification exams, signaling a shift from code-writing assistants to production-ready autonomous developers.",
+    "original_topic": "Autonomous AI Code Agents",
+    "search_query": "open-source AI code agents pass certification exams 2026",
+    "source_count": 12,
+    "tags": "AI coding, certifications, open-source, software industry",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
