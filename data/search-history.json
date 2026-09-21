@@ -14044,5 +14044,11 @@
     "canonical_query": "ai intercompany reconciliation financial close automation 2026 latest",
     "searched_at": "2026-09-21T08:00:32-07:00",
     "topic": "AI Reconciles Intercompany Transactions, Speeding Up Global Close"
+  },
+  {
+    "query": "AI fraud detection deepfake voice phishing banking 2026",
+    "canonical_query": "ai fraud detection deepfake voice phishing banking 2026",
+    "searched_at": "2026-09-21T09:00:30-07:00",
+    "topic": "Banks Test AI Fraud Models Against Deepfake Voice Phishing Scams"
   }
 ]

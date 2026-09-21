@@ -9580,5 +9580,18 @@
     "source_count": 12,
     "tags": "AI, accounting, financial close, reconciliation",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 728,
+    "topic": "Banks Test AI Fraud Models Against Deepfake Voice Phishing Scams",
+    "file": "html/article-0728-banks-test-ai-fraud-models-against-deepfake-voice-phishing-scams-20260921-090210.html",
+    "timestamp": "20260921-090210",
+    "full_timestamp": "2026-09-21T09:02:10-07:00",
+    "summary": "Banks are deploying AI tools to detect deepfake voice phishing as synthetic audio scams surge, with some institutions already reporting confirmed incidents.",
+    "original_topic": "AI Fraud Detection in Banking & Finance",
+    "search_query": "AI fraud detection deepfake voice phishing banking 2026",
+    "source_count": 12,
+    "tags": "AI, fraud detection, deepfakes, banking",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
