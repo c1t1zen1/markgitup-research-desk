@@ -9593,5 +9593,18 @@
     "source_count": 12,
     "tags": "AI, fraud detection, deepfakes, banking",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 729,
+    "topic": "Quantized LLMs Now Fit Entirely in Mac RAM, No SSD Swap Needed",
+    "file": "html/article-0729-quantized-llms-now-fit-entirely-in-mac-ram-no-ssd-swap-needed-20260921-100200.html",
+    "timestamp": "20260921-100200",
+    "full_timestamp": "2026-09-21T10:02:00-07:00",
+    "summary": "New quantization techniques let large language models run entirely in Mac unified memory, cutting SSD swap and speeding up inference.",
+    "original_topic": "Quantized LLMs Running on Mac Hardware",
+    "search_query": "quantized LLM Mac RAM no swap 2026",
+    "source_count": 12,
+    "tags": "quantized LLMs, Apple Silicon, memory optimization, edge AI",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
