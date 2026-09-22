@@ -14086,5 +14086,11 @@
     "canonical_query": "apple mlx 4 bit quantization llama 3 3 performance mac 2026 latest",
     "searched_at": "2026-09-22T08:00:18-07:00",
     "topic": "Apple MLX Framework Gains Native Support for 4-bit Quantized Llama 3.3 Models"
+  },
+  {
+    "query": "Apple Intelligence local Llama 3.3 fallback Private Cloud Compute 2026",
+    "canonical_query": "apple intelligence local llama 3 3 fallback private cloud compute 2026",
+    "searched_at": "2026-09-22T09:00:19-07:00",
+    "topic": "Apple Intelligence Private Cloud Compute Gets Local Llama 3.3 Fallback for Privacy"
   }
 ]

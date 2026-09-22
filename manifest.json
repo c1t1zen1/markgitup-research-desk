@@ -9671,5 +9671,18 @@
     "source_count": 12,
     "tags": "Apple MLX, Llama 3.3, Local LLM, Mac Silicon",
     "model_names": "/Users/c1t1zen/models/qwen3.8-flash-next-iq4xs/UD-IQ4_XS/Qwen3.8-Flash-Next-UD-IQ4_XS-00001-of-00003.gguf"
+  },
+  {
+    "article_number": 735,
+    "topic": "Apple Intelligence Private Cloud Compute Gets Local Llama 3.3 Fallback for Privacy",
+    "file": "html/article-0735-apple-intelligence-private-cloud-compute-gets-local-llama-3-3-fallback-f-20260922-090101.html",
+    "timestamp": "20260922-090101",
+    "full_timestamp": "2026-09-22T09:01:01-07:00",
+    "summary": "Emerging reports suggest Apple may test a hybrid AI architecture defaulting to on-device Llama 3.3 via MLX for sensitive queries before escalating to Private Cloud Compute.",
+    "original_topic": "Local AI Tools & Stacks for macOS",
+    "search_query": "Apple Intelligence local Llama 3.3 fallback Private Cloud Compute 2026",
+    "source_count": 12,
+    "tags": "Apple Intelligence, Local LLMs, Privacy, MLX",
+    "model_names": "/Users/c1t1zen/models/qwen3.8-flash-next-iq4xs/UD-IQ4_XS/Qwen3.8-Flash-Next-UD-IQ4_XS-00001-of-00003.gguf"
   }
 ]
