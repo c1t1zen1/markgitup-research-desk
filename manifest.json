@@ -9684,5 +9684,18 @@
     "source_count": 12,
     "tags": "Apple Intelligence, Local LLMs, Privacy, MLX",
     "model_names": "/Users/c1t1zen/models/qwen3.8-flash-next-iq4xs/UD-IQ4_XS/Qwen3.8-Flash-Next-UD-IQ4_XS-00001-of-00003.gguf"
+  },
+  {
+    "article_number": 736,
+    "topic": "Hedge Funds Deploy AI Agents to Audit Proprietary Trading Algorithms for Regulatory Compliance",
+    "file": "html/article-0736-hedge-funds-deploy-ai-agents-to-audit-proprietary-trading-algorithms-for-20260922-100107.html",
+    "timestamp": "20260922-100107",
+    "full_timestamp": "2026-09-22T10:01:07-07:00",
+    "summary": "Hedge funds increasingly deploy autonomous AI agents to audit proprietary trading algorithms, bridging the explainability gap and ensuring regulatory compliance.",
+    "original_topic": "LLMs in Hedge Funds & Trading",
+    "search_query": "hedge funds AI agents audit trading algorithms compliance 2026",
+    "source_count": 12,
+    "tags": "AI Compliance, Hedge Funds, Algorithmic Trading, Regulatory Tech",
+    "model_names": "/Users/c1t1zen/models/qwen3.8-flash-next-iq4xs/UD-IQ4_XS/Qwen3.8-Flash-Next-UD-IQ4_XS-00001-of-00003.gguf"
   }
 ]
