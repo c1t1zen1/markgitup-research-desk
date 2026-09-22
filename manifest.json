@@ -9606,5 +9606,18 @@
     "source_count": 12,
     "tags": "quantized LLMs, Apple Silicon, memory optimization, edge AI",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 730,
+    "topic": "EU Mandates Interoperability Standards for AI Smart Home Hubs in 2026",
+    "file": "html/article-0730-eu-mandates-interoperability-standards-for-ai-smart-home-hubs-in-2026-20260922-040054.html",
+    "timestamp": "20260922-040054",
+    "full_timestamp": "2026-09-22T04:00:54-07:00",
+    "summary": "EU enforces AI Act on August 2, 2026. While not explicitly mandating hub interoperability, new transparency and high-risk rules impact smart home AI compliance.",
+    "original_topic": "AI-Powered Smart Homes & Automation",
+    "search_query": "EU AI Act smart home interoperability enforcement 2026",
+    "source_count": 12,
+    "tags": "EU AI Act, Smart Home, Interoperability, Regulation",
+    "model_names": "/Users/c1t1zen/models/qwen3.8-flash-next-iq4xs/UD-IQ4_XS/Qwen3.8-Flash-Next-UD-IQ4_XS-00001-of-00003.gguf"
   }
 ]

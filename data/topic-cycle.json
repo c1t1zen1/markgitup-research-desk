@@ -1,22 +1,23 @@
 {
   "used_topics": [
-    "Deepfake Legislation & Synthetic Media Laws",
-    "LLMs in Hedge Funds & Trading",
+    "AI Short Form Video & Social Media",
     "AI Video Generation Models",
-    "Local AI Tools & Stacks for macOS",
-    "AI Stock Prediction & Market Analysis",
-    "AI in Mental Health & Therapy",
-    "Privacy-First Local AI on Mac",
-    "AI Crypto Trading Bots & Performance",
-    "AI-Powered Smart Homes & Automation",
-    "AI-Powered Video Editing & Post-Production",
-    "AI in US Intelligence & Surveillance",
     "AI Lobbying & Policy in Washington",
-    "Autonomous AI Code Agents",
-    "AI Development Tools for Apple Silicon",
-    "Generative AI for Financial Reporting",
+    "AI in US Intelligence & Surveillance",
     "AI Fraud Detection in Banking & Finance",
-    "Quantized LLMs Running on Mac Hardware"
+    "AI in Legal Systems & Law Practice",
+    "Autonomous AI Code Agents",
+    "M Series Apple Silicon LLM Inference",
+    "AI in US Elections & Campaigns",
+    "AI-Powered Video Editing & Post-Production",
+    "Deepfake Legislation & Synthetic Media Laws",
+    "AI in Mental Health & Therapy",
+    "AI Misinformation & Election Integrity",
+    "Privacy-First Local AI on Mac",
+    "Generative AI for Financial Reporting",
+    "AI Development Tools for Apple Silicon",
+    "AI Stock Prediction & Market Analysis",
+    "AI-Powered Smart Homes & Automation"
   ],
-  "updated_at": "2026-09-21T10:00:33-07:00"
+  "updated_at": "2026-09-22T04:00:05-07:00"
 }
