@@ -9710,5 +9710,18 @@
     "source_count": 12,
     "tags": "deepfake, legislation, India, political ads",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 738,
+    "topic": "AI Models Now Flag Insider Trading Patterns in Real-Time",
+    "file": "html/article-0738-ai-models-now-flag-insider-trading-patterns-in-real-time-20260923-000231.html",
+    "timestamp": "20260923-000231",
+    "full_timestamp": "2026-09-23T00:02:31-07:00",
+    "summary": "AI systems are shifting from post-hoc analysis to real-time monitoring of insider trading, using machine learning to detect suspicious patterns that human analysts would miss.",
+    "original_topic": "AI Fraud Detection in Banking & Finance",
+    "search_query": "AI insider trading detection real-time 2026",
+    "source_count": 12,
+    "tags": "AI, insider trading, real-time detection, finance",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
