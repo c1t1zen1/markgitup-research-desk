@@ -14110,5 +14110,11 @@
     "canonical_query": "ai insider trading detection real time 2026",
     "searched_at": "2026-09-23T00:01:04-07:00",
     "topic": "AI Models Now Flag Insider Trading Patterns in Real-Time"
+  },
+  {
+    "query": "Apple M5 Ultra 70B LLM 4-bit quantization benchmark 2026 latest",
+    "canonical_query": "apple m5 ultra 70b llm 4 bit quantization benchmark 2026 latest",
+    "searched_at": "2026-09-23T01:01:01-07:00",
+    "topic": "Apple's M5 Ultra Chip Powers 70B Parameter LLMs at 4-Bit Precision"
   }
 ]

@@ -9723,5 +9723,18 @@
     "source_count": 12,
     "tags": "AI, insider trading, real-time detection, finance",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 739,
+    "topic": "Apple's M5 Ultra Chip Powers 70B Parameter LLMs at 4-Bit Precision",
+    "file": "html/article-0739-apple-s-m5-ultra-chip-powers-70b-parameter-llms-at-4-bit-precision-20260923-010213.html",
+    "timestamp": "20260923-010213",
+    "full_timestamp": "2026-09-23T01:02:13-07:00",
+    "summary": "Apple's M5 Ultra chip enables 70B parameter LLMs to run at 4-bit precision on Mac hardware, pushing local AI inference to new performance levels.",
+    "original_topic": "Quantized LLMs Running on Mac Hardware",
+    "search_query": "Apple M5 Ultra 70B LLM 4-bit quantization benchmark 2026 latest",
+    "source_count": 12,
+    "tags": "Apple Silicon, LLM, Quantization, M5 Ultra",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
