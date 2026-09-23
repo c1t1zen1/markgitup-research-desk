@@ -9736,5 +9736,18 @@
     "source_count": 12,
     "tags": "Apple Silicon, LLM, Quantization, M5 Ultra",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 740,
+    "topic": "AI-Powered Ballot Scanners Tested for 2026 Midterms",
+    "file": "html/article-0740-ai-powered-ballot-scanners-tested-for-2026-midterms-20260923-020225.html",
+    "timestamp": "20260923-020225",
+    "full_timestamp": "2026-09-23T02:02:25-07:00",
+    "summary": "AI tools are being deployed in 2026 midterm election infrastructure, from ballot scanner audits to voter information chatbots, raising new questions about privacy, accuracy, and the future of the secret ballot.",
+    "original_topic": "AI Misinformation & Election Integrity",
+    "search_query": "AI ballot scanners tested 2026 midterm elections",
+    "source_count": 12,
+    "tags": "elections,AI,infrastructure,2026",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]

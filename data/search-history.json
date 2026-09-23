@@ -14116,5 +14116,11 @@
     "canonical_query": "apple m5 ultra 70b llm 4 bit quantization benchmark 2026 latest",
     "searched_at": "2026-09-23T01:01:01-07:00",
     "topic": "Apple's M5 Ultra Chip Powers 70B Parameter LLMs at 4-Bit Precision"
+  },
+  {
+    "query": "AI ballot scanners tested 2026 midterm elections",
+    "canonical_query": "ai ballot scanners tested 2026 midterm elections",
+    "searched_at": "2026-09-23T02:01:03-07:00",
+    "topic": "AI-Powered Ballot Scanners Tested for 2026 Midterms"
   }
 ]
