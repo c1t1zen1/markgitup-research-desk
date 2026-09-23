@@ -9749,5 +9749,18 @@
     "source_count": 12,
     "tags": "elections,AI,infrastructure,2026",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 741,
+    "topic": "AI Video Creators Challenge Hollywood Over Training Data Royalties",
+    "file": "html/article-0741-ai-video-creators-challenge-hollywood-over-training-data-royalties-20260923-030204.html",
+    "timestamp": "20260923-030204",
+    "full_timestamp": "2026-09-23T03:02:04-07:00",
+    "summary": "As AI video models scale, short-form creators are positioning their clips as licensable training data, challenging Hollywood's monopoly on royalty negotiations.",
+    "original_topic": "AI Short Form Video & Social Media",
+    "search_query": "AI video creators demand royalty payments training data Hollywood 2026 latest",
+    "source_count": 12,
+    "tags": "AI video, creator economy, intellectual property, Hollywood",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
