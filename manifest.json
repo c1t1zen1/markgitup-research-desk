@@ -9697,5 +9697,18 @@
     "source_count": 12,
     "tags": "AI Compliance, Hedge Funds, Algorithmic Trading, Regulatory Tech",
     "model_names": "/Users/c1t1zen/models/qwen3.8-flash-next-iq4xs/UD-IQ4_XS/Qwen3.8-Flash-Next-UD-IQ4_XS-00001-of-00003.gguf"
+  },
+  {
+    "article_number": 737,
+    "topic": "India's AI Act Mandates Deepfake Disclosure for Political Ads",
+    "file": "html/article-0737-india-s-ai-act-mandates-deepfake-disclosure-for-political-ads-20260922-230204.html",
+    "timestamp": "20260922-230204",
+    "full_timestamp": "2026-09-22T23:02:04-07:00",
+    "summary": "India's 2026 IT Rules require political deepfakes to be labeled and removed within hours, marking a major shift in synthetic media regulation for elections.",
+    "original_topic": "Deepfake Legislation & Synthetic Media Laws",
+    "search_query": "India AI Act deepfake disclosure political ads 2026",
+    "source_count": 12,
+    "tags": "deepfake, legislation, India, political ads",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
