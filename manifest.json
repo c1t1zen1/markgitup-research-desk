@@ -9814,5 +9814,18 @@
     "source_count": 12,
     "tags": "AI, Federal Reserve, monetary policy, speech analysis",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 746,
+    "topic": "Apple Introduces On-Device AI Video Generation in iOS 20",
+    "file": "html/article-0746-apple-introduces-on-device-ai-video-generation-in-ios-20-20260923-080130.html",
+    "timestamp": "20260923-080130",
+    "full_timestamp": "2026-09-23T08:01:30-07:00",
+    "summary": "Apple's September 2026 event introduced on-device AI video generation capabilities in iOS 27, marking a significant shift toward consumer-facing generative AI integrated directly into the iPhone ecosystem.",
+    "original_topic": "AI Video Generation Models",
+    "search_query": "Apple iOS 20 on-device AI video generation feature 2026 latest",
+    "source_count": 10,
+    "tags": "Apple, iOS, AI video, on-device",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]

@@ -14164,5 +14164,17 @@
     "canonical_query": "ai predict federal reserve rate decision speech patterns 2026",
     "searched_at": "2026-09-23T07:00:15-07:00",
     "topic": "AI Models Predict Fed Rate Decisions From Speech Patterns"
+  },
+  {
+    "query": "AI thermostats predict utility rate spikes 2026",
+    "canonical_query": "ai thermostats predict utility rate spikes 2026",
+    "searched_at": "2026-09-23T08:00:17-07:00",
+    "topic": "AI Thermostats Now Predict Utility Rate Spikes and Auto-Schedule Loads"
+  },
+  {
+    "query": "Apple iOS 20 on-device AI video generation feature 2026 latest",
+    "canonical_query": "apple ios 20 on device ai video generation feature 2026 latest",
+    "searched_at": "2026-09-23T08:00:28-07:00",
+    "topic": "Apple Introduces On-Device AI Video Generation in iOS 20"
   }
 ]
