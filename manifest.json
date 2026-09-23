@@ -9788,5 +9788,18 @@
     "source_count": 12,
     "tags": "NSA,quantum encryption,AI cryptanalysis,cybersecurity",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 744,
+    "topic": "FDA Clears First AI-Driven Therapy App for Major Depression Treatment",
+    "file": "html/article-0744-fda-clears-first-ai-driven-therapy-app-for-major-depression-treatment-20260923-060115.html",
+    "timestamp": "20260923-060115",
+    "full_timestamp": "2026-09-23T06:01:15-07:00",
+    "summary": "The FDA's approval of Flow Neuroscience's FL-100 marks a regulatory milestone for at-home digital mental health treatments, offering a new prescription option for major depression.",
+    "original_topic": "AI in Mental Health & Therapy",
+    "search_query": "FDA approval AI therapy app depression 2026",
+    "source_count": 2,
+    "tags": "AI, mental health, FDA, digital therapeutics",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
