@@ -9827,5 +9827,18 @@
     "source_count": 10,
     "tags": "Apple, iOS, AI video, on-device",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 747,
+    "topic": "AI Judges Now Drafting Routine Court Orders in Pilot Programs",
+    "file": "html/article-0747-ai-judges-now-drafting-routine-court-orders-in-pilot-programs-20260923-090137.html",
+    "timestamp": "20260923-090137",
+    "full_timestamp": "2026-09-23T09:01:37-07:00",
+    "summary": "Pilot programs in California and elsewhere are testing AI tools that help judges draft routine orders and rulings, marking a shift from legal research assistance to direct judicial document generation.",
+    "original_topic": "AI in Legal Systems & Law Practice",
+    "search_query": "AI judges drafting court orders pilot programs 2026",
+    "source_count": 12,
+    "tags": "AI, legal systems, courts, automation",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
