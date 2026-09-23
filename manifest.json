@@ -9762,5 +9762,18 @@
     "source_count": 12,
     "tags": "AI video, creator economy, intellectual property, Hollywood",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 742,
+    "topic": "AI Code Agents Now Negotiate Open-Source License Terms Automatically",
+    "file": "html/article-0742-ai-code-agents-now-negotiate-open-source-license-terms-automatically-20260923-040211.html",
+    "timestamp": "20260923-040211",
+    "full_timestamp": "2026-09-23T04:02:11-07:00",
+    "summary": "AI coding agents are evolving beyond code generation to autonomously negotiate open-source license terms, reshaping how organizations manage software dependencies and legal compliance.",
+    "original_topic": "Autonomous AI Code Agents",
+    "search_query": "AI agents negotiate open source license terms 2026",
+    "source_count": 12,
+    "tags": "AI agents, open source, licensing, automation",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
