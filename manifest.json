@@ -9905,5 +9905,18 @@
     "source_count": 12,
     "tags": "AI, elections, political ads, microtargeting",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 753,
+    "topic": "AI Agents Now Manage Social Media Accounts Autonomously",
+    "file": "html/article-0753-ai-agents-now-manage-social-media-accounts-autonomously-20260924-060150.html",
+    "timestamp": "20260924-060150",
+    "full_timestamp": "2026-09-24T06:01:50-07:00",
+    "summary": "AI agents are moving beyond content creation to autonomously manage entire social media accounts, handling posting, engagement, and optimization with minimal human oversight.",
+    "original_topic": "AI Short Form Video & Social Media",
+    "search_query": "AI agents autonomously managing social media accounts 2026",
+    "source_count": 12,
+    "tags": "AI agents, social media, automation, digital marketing",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
