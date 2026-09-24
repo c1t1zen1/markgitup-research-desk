@@ -14188,5 +14188,11 @@
     "canonical_query": "us senate ai bill training data disclosure 2026",
     "searched_at": "2026-09-23T10:00:22-07:00",
     "topic": "Senate AI Bill Would Require Disclosure of Training Data Sources"
+  },
+  {
+    "query": "CIA AI hallucination audit open source intelligence 2026",
+    "canonical_query": "cia ai hallucination audit open source intelligence 2026",
+    "searched_at": "2026-09-24T02:01:06-07:00",
+    "topic": "CIA Launches AI Hallucination Audit for Open-Source Intelligence Reports"
   }
 ]

@@ -9853,5 +9853,18 @@
     "source_count": 4,
     "tags": "AI policy, US legislation, training data, transparency",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 749,
+    "topic": "CIA Launches AI Hallucination Audit for Open-Source Intelligence Reports",
+    "file": "html/article-0749-cia-launches-ai-hallucination-audit-for-open-source-intelligence-reports-20260924-020200.html",
+    "timestamp": "20260924-020200",
+    "full_timestamp": "2026-09-24T02:02:00-07:00",
+    "summary": "The CIA is auditing AI hallucinations in OSINT reports after internal reviews revealed fabrication risks in machine-generated intelligence products.",
+    "original_topic": "AI in US Intelligence & Surveillance",
+    "search_query": "CIA AI hallucination audit open source intelligence 2026",
+    "source_count": 12,
+    "tags": "CIA,AI,OSINT,hallucinations",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
