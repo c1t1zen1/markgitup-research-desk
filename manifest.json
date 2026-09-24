@@ -9957,5 +9957,18 @@
     "source_count": 12,
     "tags": "AI,mental health,dementia,detection",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 757,
+    "topic": "AI Video Editors Now Auto-Grade Color From Storyboard Images",
+    "file": "html/article-0757-ai-video-editors-now-auto-grade-color-from-storyboard-images-20260924-100144.html",
+    "timestamp": "20260924-100144",
+    "full_timestamp": "2026-09-24T10:01:44-07:00",
+    "summary": "AI color-grading tools are beginning to derive palettes from storyboard frames, potentially replacing manual LUT workflows in post-production.",
+    "original_topic": "AI-Powered Video Editing & Post-Production",
+    "search_query": "AI color grading storyboard image input video editing 2026",
+    "source_count": 3,
+    "tags": "AI video, color grading, post-production, machine learning",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
