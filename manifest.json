@@ -9944,5 +9944,18 @@
     "source_count": 12,
     "tags": "AI, copyright, EU law, creative industries",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 756,
+    "topic": "AI Chatbots Now Detect Early Signs of Dementia in Routine Conversations",
+    "file": "html/article-0756-ai-chatbots-now-detect-early-signs-of-dementia-in-routine-conversations-20260924-090202.html",
+    "timestamp": "20260924-090202",
+    "full_timestamp": "2026-09-24T09:02:02-07:00",
+    "summary": "AI chatbots are being tested as low-cost screening tools that detect early cognitive decline through everyday conversation—potentially catching dementia years before traditional diagnosis.",
+    "original_topic": "AI in Mental Health & Therapy",
+    "search_query": "AI chatbot dementia detection 2026",
+    "source_count": 12,
+    "tags": "AI,mental health,dementia,detection",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
