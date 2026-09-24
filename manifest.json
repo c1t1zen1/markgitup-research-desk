@@ -9931,5 +9931,18 @@
     "source_count": 12,
     "tags": "Apple Silicon,AI Development,Graphics Compute,API",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 755,
+    "topic": "EU Court Rules AI-Generated Art Can Infringe Copyright",
+    "file": "html/article-0755-eu-court-rules-ai-generated-art-can-infringe-copyright-20260924-080151.html",
+    "timestamp": "20260924-080151",
+    "full_timestamp": "2026-09-24T08:01:51-07:00",
+    "summary": "A Munich court has ruled that storing copyrighted lyrics in AI model parameters constitutes an infringement, marking a landmark judicial extension of EU copyright law to synthetic media training.",
+    "original_topic": "Deepfake Legislation & Synthetic Media Laws",
+    "search_query": "EU court ruling AI generated art copyright infringement 2026",
+    "source_count": 12,
+    "tags": "AI, copyright, EU law, creative industries",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
