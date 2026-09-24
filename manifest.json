@@ -9879,5 +9879,18 @@
     "source_count": 12,
     "tags": "AI, legal tech, law practice, case law",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 751,
+    "topic": "AI Avatars Now Pass Live Turing Tests in Customer Service Trials",
+    "file": "html/article-0751-ai-avatars-now-pass-live-turing-tests-in-customer-service-trials-20260924-040207.html",
+    "timestamp": "20260924-040207",
+    "full_timestamp": "2026-09-24T04:02:07-07:00",
+    "summary": "AI video avatars are moving beyond scripted clips into live, interactive trials where they must hold real-time conversations, raising new questions about realism, trust, and the evolving Turing test.",
+    "original_topic": "AI Video Avatars & Virtual Presenters",
+    "search_query": "AI video avatar live Turing test customer service 2026",
+    "source_count": 12,
+    "tags": "AI avatars, Turing test, customer service, 2026",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
