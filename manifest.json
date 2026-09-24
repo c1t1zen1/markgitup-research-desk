@@ -9918,5 +9918,18 @@
     "source_count": 12,
     "tags": "AI agents, social media, automation, digital marketing",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 754,
+    "topic": "Apple Unveils Metal 4 Shading Language for AI Acceleration",
+    "file": "html/article-0754-apple-unveils-metal-4-shading-language-for-ai-acceleration-20260924-070147.html",
+    "timestamp": "20260924-070147",
+    "full_timestamp": "2026-09-24T07:01:47-07:00",
+    "summary": "Apple's Metal 4 integrates AI inference directly into the graphics API, enabling developers to embed machine learning operations within shader code for optimized performance on Apple Silicon GPUs.",
+    "original_topic": "AI Development Tools for Apple Silicon",
+    "search_query": "Apple Metal 4 shading language AI acceleration 2026",
+    "source_count": 12,
+    "tags": "Apple Silicon,AI Development,Graphics Compute,API",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
