@@ -9892,5 +9892,18 @@
     "source_count": 12,
     "tags": "AI avatars, Turing test, customer service, 2026",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 752,
+    "topic": "AI Super PACs Target Voters With Personalized Ad Campaigns",
+    "file": "html/article-0752-ai-super-pacs-target-voters-with-personalized-ad-campaigns-20260924-050147.html",
+    "timestamp": "20260924-050147",
+    "full_timestamp": "2026-09-24T05:01:47-07:00",
+    "summary": "AI super PACs are spending tens of millions on hyper-targeted digital ads in the 2026 midterms, using voter data to shape narratives around artificial intelligence policy.",
+    "original_topic": "AI in US Elections & Campaigns",
+    "search_query": "AI super PACs personalized political ads 2026",
+    "source_count": 12,
+    "tags": "AI, elections, political ads, microtargeting",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
