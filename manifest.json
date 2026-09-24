@@ -9866,5 +9866,18 @@
     "source_count": 12,
     "tags": "CIA,AI,OSINT,hallucinations",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 750,
+    "topic": "AI Legal Chatbots Now Cite Case Law With Confidence Scores",
+    "file": "html/article-0750-ai-legal-chatbots-now-cite-case-law-with-confidence-scores-20260924-030220.html",
+    "timestamp": "20260924-030220",
+    "full_timestamp": "2026-09-24T03:02:20-07:00",
+    "summary": "AI legal chatbots now attach confidence scores to case citations, giving lawyers a practical way to gauge reliability before relying on generated legal research.",
+    "original_topic": "AI in Legal Systems & Law Practice",
+    "search_query": "AI legal chatbot case law citation confidence scores 2026",
+    "source_count": 12,
+    "tags": "AI, legal tech, law practice, case law",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
