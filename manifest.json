@@ -10204,5 +10204,18 @@
     "source_count": 12,
     "tags": "AI Policy, Election Integrity, Deepfakes, US Legislation",
     "model_names": "/Users/c1t1zen/models/qwen3.8-flash-next-iq4xs/UD-IQ4_XS/Qwen3.8-Flash-Next-UD-IQ4_XS-00001-of-00003.gguf"
+  },
+  {
+    "article_number": 776,
+    "topic": "EU Digital Services Act Forces Real-Time AI Avatar Disclosure on Major Platforms",
+    "file": "html/article-0776-eu-digital-services-act-forces-real-time-ai-avatar-disclosure-on-major-p-20260926-140147.html",
+    "timestamp": "20260926-140147",
+    "full_timestamp": "2026-09-26T14:01:47-07:00",
+    "summary": "New EU AI Act transparency rules mandate real-time disclosure for AI-generated content, impacting major platforms and chatbots starting August 2, 2026.",
+    "original_topic": "AI Video Avatars & Virtual Presenters",
+    "search_query": "EU Digital Services Act AI avatar disclosure rules 2026",
+    "source_count": 12,
+    "tags": "AI Avatars, EU Regulation, Digital Services Act, Content Transparency",
+    "model_names": "/Users/c1t1zen/models/qwen3.8-flash-next-iq4xs/UD-IQ4_XS/Qwen3.8-Flash-Next-UD-IQ4_XS-00001-of-00003.gguf"
   }
 ]
