@@ -10035,5 +10035,18 @@
     "source_count": 12,
     "tags": "AI, video editing, post-production, generative tools",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 763,
+    "topic": "AI Therapist Avatars Now Licensed as Clinical Staff in UK Hospitals",
+    "file": "html/article-0763-ai-therapist-avatars-now-licensed-as-clinical-staff-in-uk-hospitals-20260926-010202.html",
+    "timestamp": "20260926-010202",
+    "full_timestamp": "2026-09-26T01:02:02-07:00",
+    "summary": "NHS England is rolling out AI assistants to over 500,000 staff by October 2026, with ambient voice tools already freeing up clinician time for patient care.",
+    "original_topic": "AI in Mental Health & Therapy",
+    "search_query": "UK NHS AI therapist licensed clinical staff 2026",
+    "source_count": 12,
+    "tags": "AI therapy, healthcare, UK NHS, licensing",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
