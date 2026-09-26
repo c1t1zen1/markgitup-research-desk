@@ -10191,5 +10191,18 @@
     "source_count": 10,
     "tags": "AI Agents, Software Liability, Enterprise Tech, Legal Tech",
     "model_names": "/Users/c1t1zen/models/qwen3.8-flash-next-iq4xs/UD-IQ4_XS/Qwen3.8-Flash-Next-UD-IQ4_XS-00001-of-00003.gguf"
+  },
+  {
+    "article_number": 775,
+    "topic": "US States Mandate AI Election Deepfake Labels Ahead of Midterms",
+    "file": "html/article-0775-us-states-mandate-ai-election-deepfake-labels-ahead-of-midterms-20260926-130239.html",
+    "timestamp": "20260926-130239",
+    "full_timestamp": "2026-09-26T13:02:39-07:00",
+    "summary": "Thirty-three states have enacted laws addressing political deepfakes ahead of the 2026 midterms, creating a fragmented regulatory landscape with varying disclosure mandates and bans.",
+    "original_topic": "AI Misinformation & Election Integrity",
+    "search_query": "state laws requiring AI deepfake disclosure election 2026",
+    "source_count": 12,
+    "tags": "AI Policy, Election Integrity, Deepfakes, US Legislation",
+    "model_names": "/Users/c1t1zen/models/qwen3.8-flash-next-iq4xs/UD-IQ4_XS/Qwen3.8-Flash-Next-UD-IQ4_XS-00001-of-00003.gguf"
   }
 ]
