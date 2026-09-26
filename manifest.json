@@ -9996,5 +9996,18 @@
     "source_count": 12,
     "tags": "AI, finance, satellite data, trading",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 760,
+    "topic": "M4 Macs Now Run Llama 4 70B Locally Without Cloud",
+    "file": "html/article-0760-m4-macs-now-run-llama-4-70b-locally-without-cloud-20260925-220249.html",
+    "timestamp": "20260925-220249",
+    "full_timestamp": "2026-09-25T22:02:49-07:00",
+    "summary": "Apple's M4 Max with 128GB unified memory achieves real-time inference on 70B-parameter LLMs, a milestone that shifts high-end AI workloads from the cloud to consumer Macs.",
+    "original_topic": "Privacy-First Local AI on Mac",
+    "search_query": "M4 Mac run Llama 4 70B locally 2026 latest",
+    "source_count": 12,
+    "tags": "local AI, Apple Silicon, Llama, on-device",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
