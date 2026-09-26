@@ -10152,5 +10152,18 @@
     "source_count": 12,
     "tags": "Apple Silicon, Metal 4, Core ML, AI Development",
     "model_names": "/Users/c1t1zen/models/qwen3.8-flash-next-iq4xs/UD-IQ4_XS/Qwen3.8-Flash-Next-UD-IQ4_XS-00001-of-00003.gguf"
+  },
+  {
+    "article_number": 772,
+    "topic": "EU AI Act Enforcement Begins: First Fines Target Legal AI Bias",
+    "file": "html/article-0772-eu-ai-act-enforcement-begins-first-fines-target-legal-ai-bias-20260926-100131.html",
+    "timestamp": "20260926-100131",
+    "full_timestamp": "2026-09-26T10:01:31-07:00",
+    "summary": "EU AI Act enforcement begins August 2026, granting authorities powers to fine AI developers, though specific legal AI bias fines remain unconfirmed in current reports.",
+    "original_topic": "AI in Legal Systems & Law Practice",
+    "search_query": "EU AI Act enforcement 2026 legal tech bias fines",
+    "source_count": 9,
+    "tags": "EU AI Act, Legal Tech, Algorithmic Bias, Regulatory Enforcement",
+    "model_names": "/Users/c1t1zen/models/qwen3.8-flash-next-iq4xs/UD-IQ4_XS/Qwen3.8-Flash-Next-UD-IQ4_XS-00001-of-00003.gguf"
   }
 ]
