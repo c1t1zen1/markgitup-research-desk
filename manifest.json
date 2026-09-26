@@ -10061,5 +10061,18 @@
     "source_count": 12,
     "tags": "Apple, AI SDK, Mac development, on-device AI",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 765,
+    "topic": "UK Mandates Deepfake Disclosure in Political Broadcasts",
+    "file": "html/article-0765-uk-mandates-deepfake-disclosure-in-political-broadcasts-20260926-030241.html",
+    "timestamp": "20260926-030241",
+    "full_timestamp": "2026-09-26T03:02:41-07:00",
+    "summary": "The UK is moving toward mandatory disclosure of AI-generated content in political broadcasts, joining a growing global trend to combat deepfake misinformation.",
+    "original_topic": "Deepfake Legislation & Synthetic Media Laws",
+    "search_query": "UK deepfake disclosure law political ads 2026",
+    "source_count": 12,
+    "tags": "deepfakes,legislation,UK,media",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
