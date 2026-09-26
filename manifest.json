@@ -10009,5 +10009,18 @@
     "source_count": 12,
     "tags": "local AI, Apple Silicon, Llama, on-device",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 761,
+    "topic": "AI Drafts First SEC Filings for Public Companies",
+    "file": "html/article-0761-ai-drafts-first-sec-filings-for-public-companies-20260925-230144.html",
+    "timestamp": "20260925-230144",
+    "full_timestamp": "2026-09-25T23:01:44-07:00",
+    "summary": "AI systems are moving from analyzing to autonomously drafting SEC filings, a shift that could reshape financial reporting but faces accuracy and regulatory hurdles.",
+    "original_topic": "Generative AI for Financial Reporting",
+    "search_query": "AI generates SEC 10-K 10-Q filings 2026",
+    "source_count": 12,
+    "tags": "AI, financial reporting, SEC filings, automation",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
