@@ -14272,5 +14272,11 @@
     "canonical_query": "ai generates sec 10 k 10 q filings 2026",
     "searched_at": "2026-09-25T23:00:43-07:00",
     "topic": "AI Drafts First SEC Filings for Public Companies"
+  },
+  {
+    "query": "AI video editing from text notes 2026",
+    "canonical_query": "ai video editing from text notes 2026",
+    "searched_at": "2026-09-26T00:00:48-07:00",
+    "topic": "AI Tools Now Edit Video From Text Notes Alone"
   }
 ]

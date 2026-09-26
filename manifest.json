@@ -10022,5 +10022,18 @@
     "source_count": 12,
     "tags": "AI, financial reporting, SEC filings, automation",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 762,
+    "topic": "AI Tools Now Edit Video From Text Notes Alone",
+    "file": "html/article-0762-ai-tools-now-edit-video-from-text-notes-alone-20260926-000228.html",
+    "timestamp": "20260926-000228",
+    "full_timestamp": "2026-09-26T00:02:28-07:00",
+    "summary": "AI video editors now accept plain-language edit commands, letting creators describe cuts, swaps, and effects in text instead of manipulating timelines manually.",
+    "original_topic": "AI-Powered Video Editing & Post-Production",
+    "search_query": "AI video editing from text notes 2026",
+    "source_count": 12,
+    "tags": "AI, video editing, post-production, generative tools",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
