@@ -10074,5 +10074,18 @@
     "source_count": 12,
     "tags": "deepfakes,legislation,UK,media",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 766,
+    "topic": "Apple M5 Max Benchmarks: Local LLM Inference Hits New Speed Record",
+    "file": "html/article-0766-apple-m5-max-benchmarks-local-llm-inference-hits-new-speed-record-20260926-040201.html",
+    "timestamp": "20260926-040201",
+    "full_timestamp": "2026-09-26T04:02:01-07:00",
+    "summary": "Fresh benchmarks show the Apple M5 Max delivering up to 65 tokens per second on 8B models and 22 on 70B, setting new local LLM inference speeds on Apple Silicon.",
+    "original_topic": "M Series Apple Silicon LLM Inference",
+    "search_query": "Apple M5 Max local LLM inference benchmark results 2026 latest",
+    "source_count": 12,
+    "tags": "Apple Silicon, LLM inference, benchmarks, M5 Max",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
