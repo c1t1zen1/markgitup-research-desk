@@ -10165,5 +10165,18 @@
     "source_count": 9,
     "tags": "EU AI Act, Legal Tech, Algorithmic Bias, Regulatory Enforcement",
     "model_names": "/Users/c1t1zen/models/qwen3.8-flash-next-iq4xs/UD-IQ4_XS/Qwen3.8-Flash-Next-UD-IQ4_XS-00001-of-00003.gguf"
+  },
+  {
+    "article_number": 773,
+    "topic": "Meta Launches AI Video Agents That Auto-Post and Engage on Reels",
+    "file": "html/article-0773-meta-launches-ai-video-agents-that-auto-post-and-engage-on-reels-20260926-110138.html",
+    "timestamp": "20260926-110138",
+    "full_timestamp": "2026-09-26T11:01:38-07:00",
+    "summary": "Meta is shifting from AI-assisted creation to autonomous agents that manage Reels posting, engagement, and ad execution, fundamentally altering social media strategy.",
+    "original_topic": "AI Short Form Video & Social Media",
+    "search_query": "Meta AI video agents auto-posting Reels engagement 2026",
+    "source_count": 12,
+    "tags": "Meta, AI Agents, Short Form Video, Social Media Automation",
+    "model_names": "/Users/c1t1zen/models/qwen3.8-flash-next-iq4xs/UD-IQ4_XS/Qwen3.8-Flash-Next-UD-IQ4_XS-00001-of-00003.gguf"
   }
 ]
