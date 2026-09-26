@@ -10048,5 +10048,18 @@
     "source_count": 12,
     "tags": "AI therapy, healthcare, UK NHS, licensing",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 764,
+    "topic": "Apple's New Neural Engine SDK Brings Custom AI Models to Every Mac",
+    "file": "html/article-0764-apple-s-new-neural-engine-sdk-brings-custom-ai-models-to-every-mac-20260926-020324.html",
+    "timestamp": "20260926-020324",
+    "full_timestamp": "2026-09-26T02:03:24-07:00",
+    "summary": "Apple's new Core AI framework opens the Neural Engine to custom models, shifting macOS from curated AI features to a developer platform for on-device machine learning.",
+    "original_topic": "Local AI Tools & Stacks for macOS",
+    "search_query": "Apple Neural Engine SDK custom AI models Mac 2026",
+    "source_count": 12,
+    "tags": "Apple, AI SDK, Mac development, on-device AI",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
