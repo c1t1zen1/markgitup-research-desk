@@ -10451,5 +10451,18 @@
     "source_count": 3,
     "tags": "FinTech, AI Risk, Quant Trading, Model Drift",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 795,
+    "topic": "Generative AI Video Editing Adapts to New Spatial Computing Interfaces",
+    "file": "html/article-0795-generative-ai-video-editing-adapts-to-new-spatial-computing-interfaces-20261003-221134.html",
+    "timestamp": "20261003-221134",
+    "full_timestamp": "2026-10-03T22:11:34-07:00",
+    "summary": "Generative AI is moving beyond simple content creation, integrating directly with spatial computing interfaces to redefine immersive video workflows.",
+    "original_topic": "AI-Powered Video Editing & Post-Production",
+    "search_query": "Generative AI video editing spatial computing interfaces 2026",
+    "source_count": 9,
+    "tags": "Spatial Computing, Video Editing, Generative AI, Immersive Media",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
