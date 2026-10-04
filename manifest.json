@@ -10438,5 +10438,18 @@
     "source_count": 12,
     "tags": "Enterprise AI, Workflow Automation, Legacy Systems, AI Agents",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 794,
+    "topic": "Quantifying AI Model Drift in High-Frequency Trading Strategies",
+    "file": "html/article-0794-quantifying-ai-model-drift-in-high-frequency-trading-strategies-20261003-211217.html",
+    "timestamp": "20261003-211217",
+    "full_timestamp": "2026-10-03T21:12:17-07:00",
+    "summary": "Model drift is the silent killer of predictive AI in finance, causing trading strategies to degrade even when dashboards appear stable.",
+    "original_topic": "AI Stock Prediction & Market Analysis",
+    "search_query": "AI model drift financial trading performance 2026",
+    "source_count": 3,
+    "tags": "FinTech, AI Risk, Quant Trading, Model Drift",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
