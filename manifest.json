@@ -10542,5 +10542,18 @@
     "source_count": 11,
     "tags": "RegTech, Contract AI, Compliance, LegalTech",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 802,
+    "topic": "Optimizing Local LLMs on Apple Silicon for On-Device Edge AI Deployment",
+    "file": "html/article-0802-optimizing-local-llms-on-apple-silicon-for-on-device-edge-ai-deployment-20261004-050603.html",
+    "timestamp": "20261004-050603",
+    "full_timestamp": "2026-10-04T05:06:03-07:00",
+    "summary": "On-device AI is moving from cloud dependence toward local inference, but the supplied evidence supports only cautious conclusions about model size, throughput, and edge deployment trade-offs.",
+    "original_topic": "AI Development Tools for Apple Silicon",
+    "search_query": "local LLM performance Apple Silicon edge computing 2026",
+    "source_count": 2,
+    "tags": "LLMs, Apple Silicon, Edge AI, On-Device",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
