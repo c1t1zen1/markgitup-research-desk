@@ -10477,5 +10477,18 @@
     "source_count": 4,
     "tags": "AI Ethics, Mental Health, Algorithmic Bias, Healthcare AI",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 797,
+    "topic": "Senate Passes AI Transparency Act After Bipartisan Negotiations",
+    "file": "html/article-0797-senate-passes-ai-transparency-act-after-bipartisan-negotiations-20261004-000116.html",
+    "timestamp": "20261004-000116",
+    "full_timestamp": "2026-10-04T00:01:16-07:00",
+    "summary": "A bipartisan Senate bill to curb AI data center utility costs stalled on September 17, 2026, as Democrats argued it did not go far enough to hold companies accountable for rising power bills.",
+    "original_topic": "AI Lobbying & Policy in Washington",
+    "search_query": "Senate AI Transparency Act passed 2026",
+    "source_count": 6,
+    "tags": "AI policy, US legislation, transparency, 2026",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
