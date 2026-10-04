@@ -10646,5 +10646,18 @@
     "source_count": 5,
     "tags": "LegalTech, AI, JudicialPrediction, Litigation",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 810,
+    "topic": "AI Lobbying Transparency: New Disclosure Rules Target Influence in Federal Spending",
+    "file": "html/article-0810-ai-lobbying-transparency-new-disclosure-rules-target-influence-in-federa-20261004-130821.html",
+    "timestamp": "20261004-130821",
+    "full_timestamp": "2026-10-04T13:08:21-07:00",
+    "summary": "AI lobbying disclosures show rising influence efforts, but the supplied evidence does not establish new rules governing AI-driven pressure on federal spending or policy.",
+    "original_topic": "AI Lobbying & Policy in Washington",
+    "search_query": "AI lobbying disclosure requirements Washington D.C. 2026",
+    "source_count": 7,
+    "tags": "AI Governance, Lobbying, Policy Tech, Washington",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
