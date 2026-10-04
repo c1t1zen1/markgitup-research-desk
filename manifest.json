@@ -10581,5 +10581,18 @@
     "source_count": 3,
     "tags": "Deepfake, Political AI, Regulation, Liability",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 805,
+    "topic": "Decentralized AI Agents Navigating Cross-Chain Liquidity for Crypto Arbitrage",
+    "file": "html/article-0805-decentralized-ai-agents-navigating-cross-chain-liquidity-for-crypto-arbi-20261004-080407.html",
+    "timestamp": "20261004-080407",
+    "full_timestamp": "2026-10-04T08:04:07-07:00",
+    "summary": "Autonomous crypto agents are moving toward on-chain execution, but the supplied evidence supports a cautious thesis: coordination and controls matter more than headline performance.",
+    "original_topic": "AI Crypto Trading Bots & Performance",
+    "search_query": "AI agents cross-chain crypto arbitrage decentralized 2026 latest",
+    "source_count": 10,
+    "tags": "DeFi, AI Agents, Crypto Trading, Cross-Chain",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
