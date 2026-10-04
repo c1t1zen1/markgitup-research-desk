@@ -10672,5 +10672,18 @@
     "source_count": 5,
     "tags": "AI Video, Social Media, Micro-Influencers, Personalization",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 812,
+    "topic": "LLMs Fine-Tuned on Proprietary Trading Data: The Rise of Private Financial Models",
+    "file": "html/article-0812-llms-fine-tuned-on-proprietary-trading-data-the-rise-of-private-financia-20261004-150810.html",
+    "timestamp": "20261004-150810",
+    "full_timestamp": "2026-10-04T15:08:10-07:00",
+    "summary": "Private financial models promise differentiated research, but supplied evidence points first to worsening data quality and a crowded race for proprietary advantage.",
+    "original_topic": "LLMs in Hedge Funds & Trading",
+    "search_query": "private LLMs proprietary trading data hedge funds 2026",
+    "source_count": 5,
+    "tags": "LLMs, Hedge Funds, FinTech, Private AI",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
