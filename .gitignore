@@ -1,0 +1,9 @@
+# Runtime state written by markgitup-html-cron.py every run.
+# The publisher stages with `git add -A`, so any tracked file under data/
+# turns hourly topic-rotation churn into commits. Untrack instead of ignore:
+#   git rm --cached data/topic-cycle.json
+data/topic-cycle.json
+
+# Local build/editor noise
+.DS_Store
+*.swp
