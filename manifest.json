@@ -10555,5 +10555,18 @@
     "source_count": 2,
     "tags": "LLMs, Apple Silicon, Edge AI, On-Device",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 803,
+    "topic": "AI Video Synthesis Meets Digital Twin Simulation for Industrial Training",
+    "file": "html/article-0803-ai-video-synthesis-meets-digital-twin-simulation-for-industrial-training-20261004-061451.html",
+    "timestamp": "20261004-061451",
+    "full_timestamp": "2026-10-04T06:14:51-07:00",
+    "summary": "AI Video Synthesis Merges with Digital Twins to Forge Hyper-Realistic Industrial Training Simulations.",
+    "original_topic": "AI-Generated Video for Filmmaking & Content Creation",
+    "search_query": "AI video generation industrial digital twin simulation 2026 latest",
+    "source_count": 7,
+    "tags": "Industrial AI, Digital Twins, Video Synthesis, Simulation",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
