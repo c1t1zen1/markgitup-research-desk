@@ -10607,5 +10607,18 @@
     "source_count": 12,
     "tags": "Supply Chain, Autonomous Agents, Geopolitics, Logistics",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 807,
+    "topic": "Banks Turn AI Toward Real-Time Mule Account Detection in Instant Payments",
+    "file": "html/article-0807-banks-turn-ai-toward-real-time-mule-account-detection-in-instant-payment-20261004-101440.html",
+    "timestamp": "20261004-101440",
+    "full_timestamp": "2026-10-04T10:14:40-07:00",
+    "summary": "As instant payments accelerate, banks are deploying AI to combat money laundering by detecting coordinated mule account networks in real-time.",
+    "original_topic": "AI Fraud Detection in Banking & Finance",
+    "search_query": "AI mule account detection instant payments banking fraud 2026",
+    "source_count": 5,
+    "tags": "mule accounts, instant payments, fraud detection, banking",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
