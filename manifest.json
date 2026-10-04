@@ -10516,5 +10516,18 @@
     "source_count": 4,
     "tags": "AI video, OpenAI, Sora 2, real-time generation",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 800,
+    "topic": "Synthetic Media Provenance: New Blockchain Standards Track AI Video Origin",
+    "file": "html/article-0800-synthetic-media-provenance-new-blockchain-standards-track-ai-video-origi-20261004-030634.html",
+    "timestamp": "20261004-030634",
+    "full_timestamp": "2026-10-04T03:06:34-07:00",
+    "summary": "AI video provenance is moving from platform assurances toward machine-readable watermarking, with EU and California rules creating pressure for interoperable, auditable origin signals.",
+    "original_topic": "AI-Generated Video for Filmmaking & Content Creation",
+    "search_query": "blockchain watermarking AI video provenance standards 2026",
+    "source_count": 7,
+    "tags": "AI Video, Provenance, Blockchain, Deepfakes",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
