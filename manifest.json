@@ -10503,5 +10503,18 @@
     "source_count": 9,
     "tags": "Apple M4, AI development, hardware acceleration, developer tools",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 799,
+    "topic": "OpenAI's Sora 2 Brings Real-Time Interactive AI Video to Web Browsers",
+    "file": "html/article-0799-openai-s-sora-2-brings-real-time-interactive-ai-video-to-web-browsers-20261004-020107.html",
+    "timestamp": "20261004-020107",
+    "full_timestamp": "2026-10-04T02:01:07-07:00",
+    "summary": "OpenAI shut down the Sora app and API access to Sora 2, disrupting a Disney partnership and ceding momentum to competitors like Alibaba's HappyHorse and emerging iPhone apps.",
+    "original_topic": "AI Video Generation Models",
+    "search_query": "OpenAI Sora 2 release date interactive AI video browser 2026 latest",
+    "source_count": 4,
+    "tags": "AI video, OpenAI, Sora 2, real-time generation",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
