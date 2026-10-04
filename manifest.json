@@ -10529,5 +10529,18 @@
     "source_count": 7,
     "tags": "AI Video, Provenance, Blockchain, Deepfakes",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 801,
+    "topic": "AI-Driven Contractual Compliance: New Frameworks for Automated Regulatory Adherence",
+    "file": "html/article-0801-ai-driven-contractual-compliance-new-frameworks-for-automated-regulatory-20261004-040526.html",
+    "timestamp": "20261004-040526",
+    "full_timestamp": "2026-10-04T04:05:26-07:00",
+    "summary": "As AI enters contractual operations, compliance shifts from periodic legal review toward continuous monitoring, allocation of responsibility, and enforceable cross-jurisdictional controls.",
+    "original_topic": "AI in Legal Systems & Law Practice",
+    "search_query": "AI legal compliance contract monitoring 2026",
+    "source_count": 11,
+    "tags": "RegTech, Contract AI, Compliance, LegalTech",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
