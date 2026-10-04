@@ -10685,5 +10685,18 @@
     "source_count": 5,
     "tags": "LLMs, Hedge Funds, FinTech, Private AI",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 813,
+    "topic": "Generative AI in XBRL Tagging: Automating Complex Financial Disclosure Compliance",
+    "file": "html/article-0813-generative-ai-in-xbrl-tagging-automating-complex-financial-disclosure-co-20261004-161232.html",
+    "timestamp": "20261004-161232",
+    "full_timestamp": "2026-10-04T16:12:32-07:00",
+    "summary": "Sparse evidence limits firm conclusions, but the supplied material frames financial-reporting software claims as context—not proof that generative AI can automate granular XBRL compliance.",
+    "original_topic": "Generative AI for Financial Reporting",
+    "search_query": "Generative AI XBRL financial reporting automation 2026",
+    "source_count": 3,
+    "tags": "XBRL, Financial Compliance, Generative AI, Regulatory Tech",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
