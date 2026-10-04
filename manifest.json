@@ -10490,5 +10490,18 @@
     "source_count": 6,
     "tags": "AI policy, US legislation, transparency, 2026",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 798,
+    "topic": "Apple M4 Chip Powers Next-Gen AI Development Tools",
+    "file": "html/article-0798-apple-m4-chip-powers-next-gen-ai-development-tools-20261004-010105.html",
+    "timestamp": "20261004-010105",
+    "full_timestamp": "2026-10-04T01:01:05-07:00",
+    "summary": "Apple's M4 chip and updated developer tools are accelerating local AI inference, giving developers faster model testing and deployment on Mac desktops.",
+    "original_topic": "AI Development Tools for Apple Silicon",
+    "search_query": "Apple M4 chip AI development tools 2026",
+    "source_count": 9,
+    "tags": "Apple M4, AI development, hardware acceleration, developer tools",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
