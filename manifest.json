@@ -10633,5 +10633,18 @@
     "source_count": 8,
     "tags": "Market Volatility, Geopolitics, Supply Chain, AI Finance",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 809,
+    "topic": "AI-Assisted Litigation Strategy: Predictive Modeling of Judicial Decision Patterns",
+    "file": "html/article-0809-ai-assisted-litigation-strategy-predictive-modeling-of-judicial-decision-20261004-121223.html",
+    "timestamp": "20261004-121223",
+    "full_timestamp": "2026-10-04T12:12:23-07:00",
+    "summary": "Predictive modeling is advancing litigation strategy by analyzing judicial patterns, leveraging AI to simulate outcomes and enhance case preparation.",
+    "original_topic": "AI in Legal Systems & Law Practice",
+    "search_query": "AI predictive analytics judicial sentencing patterns 2026",
+    "source_count": 5,
+    "tags": "LegalTech, AI, JudicialPrediction, Litigation",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
