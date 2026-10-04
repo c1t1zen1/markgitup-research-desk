@@ -10659,5 +10659,18 @@
     "source_count": 7,
     "tags": "AI Governance, Lobbying, Policy Tech, Washington",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 811,
+    "topic": "Micro-Influencer AI: Hyper-Personalized Content Generation for Niche Social Feeds",
+    "file": "html/article-0811-micro-influencer-ai-hyper-personalized-content-generation-for-niche-soci-20261004-140518.html",
+    "timestamp": "20261004-140518",
+    "full_timestamp": "2026-10-04T14:05:18-07:00",
+    "summary": "AI-generated short-form video is shifting from broad trend chasing toward highly tailored content for small, trust-based social communities.",
+    "original_topic": "AI Short Form Video & Social Media",
+    "search_query": "AI content generation micro-influencer marketing 2026",
+    "source_count": 5,
+    "tags": "AI Video, Social Media, Micro-Influencers, Personalization",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
