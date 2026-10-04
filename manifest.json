@@ -10620,5 +10620,18 @@
     "source_count": 5,
     "tags": "mule accounts, instant payments, fraud detection, banking",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 808,
+    "topic": "AI's Role in Predicting Sector-Specific Market Volatility During Global Supply Chain Realignments",
+    "file": "html/article-0808-ai-s-role-in-predicting-sector-specific-market-volatility-during-global-20261004-111609.html",
+    "timestamp": "20261004-111609",
+    "full_timestamp": "2026-10-04T11:16:09-07:00",
+    "summary": "Modeling sector volatility: How AI analyzes geopolitical shifts and supply chain friction for market foresight.",
+    "original_topic": "AI Stock Prediction & Market Analysis",
+    "search_query": "AI market prediction supply chain geopolitical risk 2026",
+    "source_count": 8,
+    "tags": "Market Volatility, Geopolitics, Supply Chain, AI Finance",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
