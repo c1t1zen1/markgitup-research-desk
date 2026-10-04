@@ -4,6 +4,12 @@
 #   git rm --cached data/topic-cycle.json
 data/topic-cycle.json
 
+# Search-novelty ledger (~870 KB, 2.4k queries), rewritten every run at
+# scripts/markgitup-html-cron.py:684 and :839. Tracked history is preserved on
+# disk and in prior commits; a fresh clone backfills only from manifest.json
+# (~790 queries), so copy this file across if the full ledger matters.
+data/search-history.json
+
 # Local build/editor noise
 .DS_Store
 *.swp
