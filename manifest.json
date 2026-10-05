@@ -10932,5 +10932,18 @@
     "source_count": 7,
     "tags": "EdTech, GenerativeAI, DigitalAvatars, PersonalizedLearning",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 832,
+    "topic": "Legislative Scrutiny on Synthetic Media Disclosure in Emerging Digital Platforms",
+    "file": "html/article-0832-legislative-scrutiny-on-synthetic-media-disclosure-in-emerging-digital-p-20261005-111454.html",
+    "timestamp": "20261005-111454",
+    "full_timestamp": "2026-10-05T11:14:54-07:00",
+    "summary": "State-level mandates are creating a complex legal patchwork as jurisdictions enforce disclosure rules for synthetic media in advertising.",
+    "original_topic": "Deepfake Legislation & Synthetic Media Laws",
+    "search_query": "US state laws synthetic media disclosure requirements 2026",
+    "source_count": 6,
+    "tags": "Deepfakes, Legislation, Platform Governance, Synthetic Media",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
