@@ -10893,5 +10893,18 @@
     "source_count": 3,
     "tags": "Voter Data, AI Privacy, Campaign Tech, Sentiment Analysis",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 829,
+    "topic": "AI-Driven Cyber Threat Modeling for Critical Infrastructure Defense in 2026",
+    "file": "html/article-0829-ai-driven-cyber-threat-modeling-for-critical-infrastructure-defense-in-2-20261005-081514.html",
+    "timestamp": "20261005-081514",
+    "full_timestamp": "2026-10-05T08:15:14-07:00",
+    "summary": "AI is reshaping cyber defense by enabling proactive threat modeling, pushing critical infrastructure into a new era of automated risk management.",
+    "original_topic": "AI in US Intelligence & Surveillance",
+    "search_query": "AI modeling industrial control system vulnerabilities 2026",
+    "source_count": 12,
+    "tags": "Cybersecurity, Critical Infrastructure, AI Defense, Threat Modeling",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
