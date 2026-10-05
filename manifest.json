@@ -10971,5 +10971,18 @@
     "source_count": 5,
     "tags": "Smart Grid, Edge AI, Energy Management, Home Automation",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 835,
+    "topic": "AI in Real-Time Transaction Monitoring: Combating Micro-Fraud in Digital Wallets",
+    "file": "html/article-0835-ai-in-real-time-transaction-monitoring-combating-micro-fraud-in-digital-20261005-140517.html",
+    "timestamp": "20261005-140517",
+    "full_timestamp": "2026-10-05T14:05:17-07:00",
+    "summary": "Digital wallets bring fraud detection closer to each transaction, but supplied evidence supports urgency more clearly than it proves how AI currently stops micro-fraud.",
+    "original_topic": "AI Fraud Detection in Banking & Finance",
+    "search_query": "AI micro-fraud detection digital wallets 2026",
+    "source_count": 4,
+    "tags": "FinTech, Micro-Fraud, Real-Time AI, Digital Wallets",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
