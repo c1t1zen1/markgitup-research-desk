@@ -10698,5 +10698,18 @@
     "source_count": 3,
     "tags": "XBRL, Financial Compliance, Generative AI, Regulatory Tech",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 814,
+    "topic": "Federated Learning on Mac: Privacy-Preserving AI Across Local Devices",
+    "file": "html/article-0814-federated-learning-on-mac-privacy-preserving-ai-across-local-devices-20261004-170356.html",
+    "timestamp": "20261004-170356",
+    "full_timestamp": "2026-10-04T17:03:56-07:00",
+    "summary": "Federated learning could let Macs train collaboratively without moving sensitive data, but supplied evidence supports research potential—not proven Mac-specific performance, privacy, or deployment readiness.",
+    "original_topic": "Privacy-First Local AI on Mac",
+    "search_query": "federated learning on apple silicon privacy 2026 latest",
+    "source_count": 2,
+    "tags": "Federated Learning, Local AI, Privacy, Apple Silicon",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
