@@ -10880,5 +10880,18 @@
     "source_count": 11,
     "tags": "Sovereign Wealth, Geopolitics, Portfolio Optimization, AI Finance",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 828,
+    "topic": "AI-Driven Voter Sentiment Analysis: New Privacy Risks in Campaign Data Aggregation",
+    "file": "html/article-0828-ai-driven-voter-sentiment-analysis-new-privacy-risks-in-campaign-data-ag-20261005-071233.html",
+    "timestamp": "20261005-071233",
+    "full_timestamp": "2026-10-05T07:12:33-07:00",
+    "summary": "AI-driven sentiment analysis could aggregate voter signals, but supplied evidence shows model-dependent readings and expanding privacy oversight may make campaign data governance harder to verify.",
+    "original_topic": "AI in US Elections & Campaigns",
+    "search_query": "AI voter sentiment analysis data privacy 2026",
+    "source_count": 3,
+    "tags": "Voter Data, AI Privacy, Campaign Tech, Sentiment Analysis",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
