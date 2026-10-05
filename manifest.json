@@ -10750,5 +10750,18 @@
     "source_count": 3,
     "tags": "Data Sovereignty, AI Governance, International Law, Privacy",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 818,
+    "topic": "Real-Time Neural Rendering: AI Video Generation Meets Volumetric Capture",
+    "file": "html/article-0818-real-time-neural-rendering-ai-video-generation-meets-volumetric-capture-20261004-211019.html",
+    "timestamp": "20261004-211019",
+    "full_timestamp": "2026-10-04T21:10:19-07:00",
+    "summary": "AI video generation is shifting from pre-rendered content to real-time, interactive experiences powered by neural rendering and volumetric capture.",
+    "original_topic": "AI Video Generation Models",
+    "search_query": "real-time neural rendering volumetric video generation 2026",
+    "source_count": 2,
+    "tags": "Neural Rendering, Volumetric Video, Real-Time AI, Immersive Media",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
