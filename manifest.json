@@ -10711,5 +10711,18 @@
     "source_count": 2,
     "tags": "Federated Learning, Local AI, Privacy, Apple Silicon",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 815,
+    "topic": "M-Series LLMs and Neural Engine Efficiency in Low-Power Edge Computing",
+    "file": "html/article-0815-m-series-llms-and-neural-engine-efficiency-in-low-power-edge-computing-20261004-180716.html",
+    "timestamp": "20261004-180716",
+    "full_timestamp": "2026-10-04T18:07:16-07:00",
+    "summary": "M-series Macs are gaining traction for local AI, but the supplied evidence supports deployment interest more clearly than measured Neural Engine power-efficiency claims.",
+    "original_topic": "M Series Apple Silicon LLM Inference",
+    "search_query": "Apple M-series LLM inference power consumption benchmarks 2026 latest",
+    "source_count": 2,
+    "tags": "Edge AI, Apple Silicon, LLM, Power Efficiency",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
