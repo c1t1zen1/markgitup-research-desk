@@ -10828,5 +10828,18 @@
     "source_count": 10,
     "tags": "AI Security, Election Integrity, Deepfakes, Infrastructure",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 824,
+    "topic": "Generative AI Auditing ESG Disclosures: Verifying Greenwashing Claims in 2026",
+    "file": "html/article-0824-generative-ai-auditing-esg-disclosures-verifying-greenwashing-claims-in-20261005-031640.html",
+    "timestamp": "20261005-031640",
+    "full_timestamp": "2026-10-05T03:16:40-07:00",
+    "summary": "Generative AI is poised to become a critical tool for auditing ESG claims, moving beyond simple reporting to actively verify corporate sustainability assertions against operational reality.",
+    "original_topic": "Generative AI for Financial Reporting",
+    "search_query": "Generative AI ESG disclosure verification greenwashing 2026",
+    "source_count": 6,
+    "tags": "ESG, Generative AI, Financial Reporting, Compliance",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
