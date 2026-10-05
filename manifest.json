@@ -10867,5 +10867,18 @@
     "source_count": 12,
     "tags": "AI Ethics, Mental Health, Digital Therapy, Companionship",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 827,
+    "topic": "AI's Role in Sovereign Wealth Fund Portfolio Optimization Amid Geopolitical Shifts",
+    "file": "html/article-0827-ai-s-role-in-sovereign-wealth-fund-portfolio-optimization-amid-geopoliti-20261005-061720.html",
+    "timestamp": "20261005-061720",
+    "full_timestamp": "2026-10-05T06:17:20-07:00",
+    "summary": "AI is reshaping global finance, prompting sovereign wealth funds to use advanced models to navigate geopolitical instability and market volatility.",
+    "original_topic": "AI Stock Prediction & Market Analysis",
+    "search_query": "AI sovereign wealth fund portfolio risk management 2026",
+    "source_count": 11,
+    "tags": "Sovereign Wealth, Geopolitics, Portfolio Optimization, AI Finance",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
