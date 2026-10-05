@@ -10737,5 +10737,18 @@
     "source_count": 9,
     "tags": "UAS, Swarm AI, Intelligence, Surveillance",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 817,
+    "topic": "AI's Impact on Jurisdictional Data Sovereignty in Cross-Border Legal AI",
+    "file": "html/article-0817-ai-s-impact-on-jurisdictional-data-sovereignty-in-cross-border-legal-ai-20261004-200749.html",
+    "timestamp": "20261004-200749",
+    "full_timestamp": "2026-10-04T20:07:49-07:00",
+    "summary": "Cross-border legal AI faces a sovereignty problem: localized privacy enforcement and shifting EU AI Act deadlines complicate globally deployed models handling legal information.",
+    "original_topic": "AI in Legal Systems & Law Practice",
+    "search_query": "AI legal data sovereignty GDPR cross-border compliance 2026 latest",
+    "source_count": 3,
+    "tags": "Data Sovereignty, AI Governance, International Law, Privacy",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
