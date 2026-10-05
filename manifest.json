@@ -10815,5 +10815,18 @@
     "source_count": 6,
     "tags": "Synthetic Media, Watermarking, Provenance, Social Media",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 823,
+    "topic": "AI-Driven Deepfakes Targeting Election Infrastructure Security Protocols",
+    "file": "html/article-0823-ai-driven-deepfakes-targeting-election-infrastructure-security-protocols-20261005-020350.html",
+    "timestamp": "20261005-020350",
+    "full_timestamp": "2026-10-05T02:03:50-07:00",
+    "summary": "AI-generated misinformation could pressure election officials, distort security priorities, and undermine confidence in the technical systems that support voting operations.",
+    "original_topic": "AI Misinformation & Election Integrity",
+    "search_query": "AI disinformation attacks on election infrastructure 2026",
+    "source_count": 10,
+    "tags": "AI Security, Election Integrity, Deepfakes, Infrastructure",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
