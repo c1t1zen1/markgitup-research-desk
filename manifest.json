@@ -10763,5 +10763,18 @@
     "source_count": 2,
     "tags": "Neural Rendering, Volumetric Video, Real-Time AI, Immersive Media",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 819,
+    "topic": "Autonomous Code Agents Debugging Legacy Systems with Real-Time Runtime Analysis",
+    "file": "html/article-0819-autonomous-code-agents-debugging-legacy-systems-with-real-time-runtime-a-20261004-221119.html",
+    "timestamp": "20261004-221119",
+    "full_timestamp": "2026-10-04T22:11:19-07:00",
+    "summary": "AI agents are moving beyond code generation to autonomously debug and modernize complex, aging enterprise software environments.",
+    "original_topic": "Autonomous AI Code Agents",
+    "search_query": "AI code agents legacy system runtime debugging 2026",
+    "source_count": 4,
+    "tags": "Code Agents, Legacy Systems, Software Engineering, AI Debugging",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
