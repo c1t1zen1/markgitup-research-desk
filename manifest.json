@@ -10945,5 +10945,18 @@
     "source_count": 6,
     "tags": "Deepfakes, Legislation, Platform Governance, Synthetic Media",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 833,
+    "topic": "Personalized AI Diagnostics for Early-Stage Neurodegenerative Disorders",
+    "file": "html/article-0833-personalized-ai-diagnostics-for-early-stage-neurodegenerative-disorders-20261005-121712.html",
+    "timestamp": "20261005-121712",
+    "full_timestamp": "2026-10-05T12:17:12-07:00",
+    "summary": "AI is revolutionizing early detection of neurodegeneration by analyzing subtle biological and behavioral markers before symptoms appear.",
+    "original_topic": "AI in Mental Health & Therapy",
+    "search_query": "AI machine learning early dementia biomarker detection 2026",
+    "source_count": 5,
+    "tags": "Neuroscience, Diagnostics, AI, MentalHealth",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
