@@ -10724,5 +10724,18 @@
     "source_count": 2,
     "tags": "Edge AI, Apple Silicon, LLM, Power Efficiency",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 816,
+    "topic": "AI-Powered Sensor Fusion in Drone Swarms for Persistent Intelligence Gathering",
+    "file": "html/article-0816-ai-powered-sensor-fusion-in-drone-swarms-for-persistent-intelligence-gat-20261004-191304.html",
+    "timestamp": "20261004-191304",
+    "full_timestamp": "2026-10-04T19:13:04-07:00",
+    "summary": "AI-powered drone swarms are moving from theory to rigorous testing, enabling persistent, complex intelligence gathering and defense applications.",
+    "original_topic": "AI in US Intelligence & Surveillance",
+    "search_query": "AI drone swarm sensor fusion US intelligence 2026",
+    "source_count": 9,
+    "tags": "UAS, Swarm AI, Intelligence, Surveillance",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
