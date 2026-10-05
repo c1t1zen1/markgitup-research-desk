@@ -10854,5 +10854,18 @@
     "source_count": 5,
     "tags": "AI security, fraud detection, generative AI, banking",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 826,
+    "topic": "AI Companions in Therapy: Ethical Boundaries of Digital Emotional Intimacy",
+    "file": "html/article-0826-ai-companions-in-therapy-ethical-boundaries-of-digital-emotional-intimac-20261005-052705.html",
+    "timestamp": "20261005-052705",
+    "full_timestamp": "2026-10-05T05:27:05-07:00",
+    "summary": "Examining the ethical tightrope of digital intimacy, this article explores the boundaries of emotionally responsive AI companions in mental health support.",
+    "original_topic": "AI in Mental Health & Therapy",
+    "search_query": "AI mental health companion ethical guidelines 2026",
+    "source_count": 12,
+    "tags": "AI Ethics, Mental Health, Digital Therapy, Companionship",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
