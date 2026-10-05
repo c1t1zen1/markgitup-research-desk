@@ -10841,5 +10841,18 @@
     "source_count": 6,
     "tags": "ESG, Generative AI, Financial Reporting, Compliance",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 825,
+    "topic": "AI Combatting AI-Generated Financial Scams: Next-Gen Anomaly Detection",
+    "file": "html/article-0825-ai-combatting-ai-generated-financial-scams-next-gen-anomaly-detection-20261005-041624.html",
+    "timestamp": "20261005-041624",
+    "full_timestamp": "2026-10-05T04:16:24-07:00",
+    "summary": "The AI arms race in finance demands next-gen anomaly detection to counter sophisticated, generative AI-fueled scams.",
+    "original_topic": "AI Fraud Detection in Banking & Finance",
+    "search_query": "AI fraud detection against generative adversarial attacks finance 2026 latest",
+    "source_count": 5,
+    "tags": "AI security, fraud detection, generative AI, banking",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
