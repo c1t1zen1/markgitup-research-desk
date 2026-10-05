@@ -10958,5 +10958,18 @@
     "source_count": 5,
     "tags": "Neuroscience, Diagnostics, AI, MentalHealth",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 834,
+    "topic": "Edge AI for Home Energy Grids: Localized Optimization Against Grid Instability",
+    "file": "html/article-0834-edge-ai-for-home-energy-grids-localized-optimization-against-grid-instab-20261005-130429.html",
+    "timestamp": "20261005-130429",
+    "full_timestamp": "2026-10-05T13:04:29-07:00",
+    "summary": "Localized edge AI could turn homes into responsive microgrid assets, but 2026 evidence shows an emerging ecosystem—not yet verified proof of household-scale stabilization.",
+    "original_topic": "AI-Powered Smart Homes & Automation",
+    "search_query": "Edge AI home energy management grid stability 2026",
+    "source_count": 5,
+    "tags": "Smart Grid, Edge AI, Energy Management, Home Automation",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
