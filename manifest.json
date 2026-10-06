@@ -11192,5 +11192,18 @@
     "source_count": 11,
     "tags": "Apple Silicon, AI, M5 Chip, Developer Tools",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 852,
+    "topic": "AI Predictive Policing Expands Across US Cities in 2026",
+    "file": "html/article-0852-ai-predictive-policing-expands-across-us-cities-in-2026-20261006-070112.html",
+    "timestamp": "20261006-070112",
+    "full_timestamp": "2026-10-06T07:01:12-07:00",
+    "summary": "The FBI is seeking an AI system to build a pre-crime watch list, raising fresh questions about predictive policing and civil liberties in the United States.",
+    "original_topic": "AI in US Intelligence & Surveillance",
+    "search_query": "AI predictive policing expansion US cities 2026",
+    "source_count": 2,
+    "tags": "AI, predictive policing, US cities, 2026",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
