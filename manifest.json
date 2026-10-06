@@ -11244,5 +11244,18 @@
     "source_count": 4,
     "tags": "Apple, AI privacy, on-device ML, silicon",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 856,
+    "topic": "AI-Driven Automated Color Grading and Look Development in Post-Production",
+    "file": "html/article-0856-ai-driven-automated-color-grading-and-look-development-in-post-productio-20261006-112623.html",
+    "timestamp": "20261006-112623",
+    "full_timestamp": "2026-10-06T11:26:23-07:00",
+    "summary": "AI is revolutionizing high-fidelity color science, automating complex grading and look development within professional post-production workflows.",
+    "original_topic": "AI-Powered Video Editing & Post-Production",
+    "search_query": "AI automated color grading workflows film 2026",
+    "source_count": 2,
+    "tags": "Color Grading, Post-Production, AI Workflow, Cinematography",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
