@@ -11114,5 +11114,18 @@
     "source_count": 4,
     "tags": "HealthTech, Data Sovereignty, AI Ethics, Teletherapy",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 846,
+    "topic": "AI Short-Form Video: Deepfakes in Creator Economy and Copyright Battles",
+    "file": "html/article-0846-ai-short-form-video-deepfakes-in-creator-economy-and-copyright-battles-20261006-011804.html",
+    "timestamp": "20261006-011804",
+    "full_timestamp": "2026-10-06T01:18:04-07:00",
+    "summary": "AI short-form video ignites intense legal battles over copyright as deepfakes challenge the established creator economy.",
+    "original_topic": "AI Short Form Video & Social Media",
+    "search_query": "AI generated video copyright creator economy 2026",
+    "source_count": 8,
+    "tags": "AI video, Creator Economy, Copyright, Synthetic Media",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
