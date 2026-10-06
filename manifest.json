@@ -11140,5 +11140,18 @@
     "source_count": 12,
     "tags": "AI video, audio sync, lip movement, generative models",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP- + /home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 848,
+    "topic": "AI Trading Bots Now Exploit Microsecond Exchange Latency Arbitrage",
+    "file": "html/article-0848-ai-trading-bots-now-exploit-microsecond-exchange-latency-arbitrage-20261006-030122.html",
+    "timestamp": "20261006-030122",
+    "full_timestamp": "2026-10-06T03:01:22-07:00",
+    "summary": "AI trading bots are increasingly exploiting microsecond latency gaps between exchanges to capture arbitrage profits, reshaping competitive dynamics in crypto markets.",
+    "original_topic": "AI Crypto Trading Bots & Performance",
+    "search_query": "AI trading bots latency arbitrage crypto exchanges 2026",
+    "source_count": 4,
+    "tags": "AI, crypto, latency, arbitrage",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
