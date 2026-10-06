@@ -11101,5 +11101,18 @@
     "source_count": 9,
     "tags": "DevOps, AI Agents, Software Engineering, Automation",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 845,
+    "topic": "AI Therapeutic Agents and Data Privacy: Navigating Cross-Border Health Data Flows",
+    "file": "html/article-0845-ai-therapeutic-agents-and-data-privacy-navigating-cross-border-health-da-20261006-000756.html",
+    "timestamp": "20261006-000756",
+    "full_timestamp": "2026-10-06T00:07:56-07:00",
+    "summary": "AI therapeutic agents turn mental-health privacy into a cross-border governance problem, where fragmented rules, authentication systems, consent duties, and storage choices may collide.",
+    "original_topic": "AI in Mental Health & Therapy",
+    "search_query": "AI mental health cross-border data privacy regulations 2026",
+    "source_count": 4,
+    "tags": "HealthTech, Data Sovereignty, AI Ethics, Teletherapy",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
