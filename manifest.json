@@ -11062,5 +11062,18 @@
     "source_count": 9,
     "tags": "eDiscovery, LLM, LegalTech, DataAnalysis",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 842,
+    "topic": "Autonomous AI Agents in Software Supply Chain Integrity and Vulnerability Patching",
+    "file": "html/article-0842-autonomous-ai-agents-in-software-supply-chain-integrity-and-vulnerabilit-20261005-211301.html",
+    "timestamp": "20261005-211301",
+    "full_timestamp": "2026-10-05T21:13:01-07:00",
+    "summary": "Autonomous AI agents are reshaping software supply chain integrity, enabling rapid vulnerability response while introducing new attack vectors.",
+    "original_topic": "Autonomous AI Code Agents",
+    "search_query": "AI agents automated vulnerability patching software supply chain 2026 latest",
+    "source_count": 11,
+    "tags": "AI Agents, Software Security, DevSecOps, Supply Chain",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
