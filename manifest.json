@@ -11049,5 +11049,18 @@
     "source_count": 6,
     "tags": "CoreML, AppleSilicon, OnDeviceAI, NeuralEngine",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 841,
+    "topic": "AI's Impact on Legal Discovery: Challenges in Analyzing Massive, Unstructured Data Sets",
+    "file": "html/article-0841-ai-s-impact-on-legal-discovery-challenges-in-analyzing-massive-unstructu-20261005-201034.html",
+    "timestamp": "20261005-201034",
+    "full_timestamp": "2026-10-05T20:10:34-07:00",
+    "summary": "AI-assisted discovery is moving toward agentic tools, but the supplied evidence supports a narrower conclusion: matter-specific strategy and verifiable handling of scale matter more than automation claims.",
+    "original_topic": "AI in Legal Systems & Law Practice",
+    "search_query": "AI e-discovery large language model challenges 2026",
+    "source_count": 9,
+    "tags": "eDiscovery, LLM, LegalTech, DataAnalysis",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
