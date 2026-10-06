@@ -11218,5 +11218,18 @@
     "source_count": 5,
     "tags": "deepfakes,EU AI Act,political ads,regulation",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 854,
+    "topic": "AI Code Agents Now Writing Production Tests Alongside Features",
+    "file": "html/article-0854-ai-code-agents-now-writing-production-tests-alongside-features-20261006-090144.html",
+    "timestamp": "20261006-090144",
+    "full_timestamp": "2026-10-06T09:01:44-07:00",
+    "summary": "AI agents are moving from writing code to autonomously generating and maintaining test suites, but enterprises are pulling back on trust as governance challenges emerge.",
+    "original_topic": "Autonomous AI Code Agents",
+    "search_query": "AI code agents writing production tests 2026",
+    "source_count": 10,
+    "tags": "AI coding, software testing, developer tools, automation",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
