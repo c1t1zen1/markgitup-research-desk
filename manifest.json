@@ -11153,5 +11153,18 @@
     "source_count": 4,
     "tags": "AI, crypto, latency, arbitrage",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 849,
+    "topic": "AI-Generated Voter Guides Spark Accuracy Debates Ahead of Midterms",
+    "file": "html/article-0849-ai-generated-voter-guides-spark-accuracy-debates-ahead-of-midterms-20261006-040200.html",
+    "timestamp": "20261006-040200",
+    "full_timestamp": "2026-10-06T04:02:00-07:00",
+    "summary": "As AI chatbots become go-to tools for election information, researchers find mixed accuracy, variable answers, and growing scrutiny over how these tools could shape voter understanding ahead of the 2026 midterms.",
+    "original_topic": "AI Misinformation & Election Integrity",
+    "search_query": "AI voter guide accuracy election misinformation 2026",
+    "source_count": 8,
+    "tags": "AI, elections, misinformation, voter guides",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
