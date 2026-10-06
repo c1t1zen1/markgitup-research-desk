@@ -11088,5 +11088,18 @@
     "source_count": 2,
     "tags": "Live Streaming, Deepfakes, Media Integrity, Real-Time AI",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 844,
+    "topic": "AI Agents Managing Complex, Multi-Modal Software Deployment Pipelines",
+    "file": "html/article-0844-ai-agents-managing-complex-multi-modal-software-deployment-pipelines-20261005-233407.html",
+    "timestamp": "20261005-233407",
+    "full_timestamp": "2026-10-05T23:34:07-07:00",
+    "summary": "AI agents are moving beyond code generation to autonomously manage complex software deployment, demanding new governance and security frameworks.",
+    "original_topic": "Autonomous AI Code Agents",
+    "search_query": "AI agents automated CI/CD pipeline management 2026",
+    "source_count": 9,
+    "tags": "DevOps, AI Agents, Software Engineering, Automation",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
