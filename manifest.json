@@ -11231,5 +11231,18 @@
     "source_count": 10,
     "tags": "AI coding, software testing, developer tools, automation",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 855,
+    "topic": "Apple's New Privacy Chip Isolates On-Device AI Training Data",
+    "file": "html/article-0855-apple-s-new-privacy-chip-isolates-on-device-ai-training-data-20261006-100109.html",
+    "timestamp": "20261006-100109",
+    "full_timestamp": "2026-10-06T10:01:09-07:00",
+    "summary": "Apple's A20 Pro chip introduces a dedicated secure enclave for on-device AI, isolating training data from the main OS to enhance user privacy.",
+    "original_topic": "Privacy-First Local AI on Mac",
+    "search_query": "Apple privacy chip on-device AI training data isolation 2026",
+    "source_count": 4,
+    "tags": "Apple, AI privacy, on-device ML, silicon",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
