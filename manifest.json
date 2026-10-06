@@ -11036,5 +11036,18 @@
     "source_count": 5,
     "tags": "VFX, Post-Production, Labor, Generative AI",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 840,
+    "topic": "Optimizing On-Device ML Workloads with Core ML and Neural Engine Advances",
+    "file": "html/article-0840-optimizing-on-device-ml-workloads-with-core-ml-and-neural-engine-advance-20261005-193702.html",
+    "timestamp": "20261005-193702",
+    "full_timestamp": "2026-10-05T19:37:02-07:00",
+    "summary": "Exploring Core ML and Neural Engine optimization for high-performance, on-device AI workloads on Apple Silicon.",
+    "original_topic": "AI Development Tools for Apple Silicon",
+    "search_query": "Core ML performance benchmarks Apple Silicon 2026",
+    "source_count": 6,
+    "tags": "CoreML, AppleSilicon, OnDeviceAI, NeuralEngine",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
