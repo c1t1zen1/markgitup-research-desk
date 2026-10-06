@@ -11023,5 +11023,18 @@
     "source_count": 7,
     "tags": "AI, Surveillance, Border Security, Biometrics",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 839,
+    "topic": "AI-Generated Video's Impact on Post-Production VFX Pipelines in 2026",
+    "file": "html/article-0839-ai-generated-video-s-impact-on-post-production-vfx-pipelines-in-2026-20261005-181535.html",
+    "timestamp": "20261005-181535",
+    "full_timestamp": "2026-10-05T18:15:35-07:00",
+    "summary": "AI is reshaping VFX pipelines, forcing the industry to navigate profound technological shifts and labor market disruptions by 2026.",
+    "original_topic": "AI-Generated Video for Filmmaking & Content Creation",
+    "search_query": "AI tools replacing visual effects artists 2026",
+    "source_count": 5,
+    "tags": "VFX, Post-Production, Labor, Generative AI",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
