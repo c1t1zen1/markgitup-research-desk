@@ -11257,5 +11257,18 @@
     "source_count": 2,
     "tags": "Color Grading, Post-Production, AI Workflow, Cinematography",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 857,
+    "topic": "Generative AI in Financial Reporting: Auditing Synthetic Data Integrity and Trust",
+    "file": "html/article-0857-generative-ai-in-financial-reporting-auditing-synthetic-data-integrity-a-20261006-121017.html",
+    "timestamp": "20261006-121017",
+    "full_timestamp": "2026-10-06T12:10:17-07:00",
+    "summary": "Financial reporting’s synthetic-data challenge is not proven by speed: supplied evidence points instead to validation, auditability, and emerging accountability for AI reviewers and agents.",
+    "original_topic": "Generative AI for Financial Reporting",
+    "search_query": "AI synthetic data auditing financial reporting standards 2026",
+    "source_count": 3,
+    "tags": "Generative AI, Financial Reporting, Data Integrity, Auditing",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
