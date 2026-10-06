@@ -11127,5 +11127,18 @@
     "source_count": 8,
     "tags": "AI video, Creator Economy, Copyright, Synthetic Media",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 847,
+    "topic": "AI Video Generation Models Now Produce Audio-Synced Lip Movements",
+    "file": "html/article-0847-ai-video-generation-models-now-produce-audio-synced-lip-movements-20261006-020430.html",
+    "timestamp": "20261006-020430",
+    "full_timestamp": "2026-10-06T02:04:30-07:00",
+    "summary": "AI video tools now sync lip movements to audio, with Amazon Prime Video leading the charge in dubbed content and localization teams adopting the tech for production workflows.",
+    "original_topic": "AI Video Generation Models",
+    "search_query": "AI video generation audio-synced lip movements 2026",
+    "source_count": 12,
+    "tags": "AI video, audio sync, lip movement, generative models",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP- + /home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
