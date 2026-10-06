@@ -11166,5 +11166,18 @@
     "source_count": 8,
     "tags": "AI, elections, misinformation, voter guides",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 850,
+    "topic": "Apple Silicon's Neural Engine Gains New AI Workload Support",
+    "file": "html/article-0850-apple-silicon-s-neural-engine-gains-new-ai-workload-support-20261006-050151.html",
+    "timestamp": "20261006-050151",
+    "full_timestamp": "2026-10-06T05:01:51-07:00",
+    "summary": "Apple's Neural Engine is evolving from a mobile feature into the core of its hardware strategy, driving new Mac and iPhone performance while exposing early reliability challenges.",
+    "original_topic": "Local AI Tools & Stacks for macOS",
+    "search_query": "Apple Silicon Neural Engine new AI workload support 2026",
+    "source_count": 11,
+    "tags": "Apple Silicon, Neural Engine, Local AI, macOS",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
