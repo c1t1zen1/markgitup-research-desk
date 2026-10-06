@@ -11010,5 +11010,18 @@
     "source_count": 12,
     "tags": "DeFi, AI, Blockchain, Trading",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 838,
+    "topic": "AI Surveillance and Biometric Data Sovereignty in US Border Operations",
+    "file": "html/article-0838-ai-surveillance-and-biometric-data-sovereignty-in-us-border-operations-20261005-171319.html",
+    "timestamp": "20261005-171319",
+    "full_timestamp": "2026-10-05T17:13:19-07:00",
+    "summary": "AI-driven biometric surveillance at US borders raises critical questions about data sovereignty, oversight, and the ethical limits of technological enforcement.",
+    "original_topic": "AI in US Intelligence & Surveillance",
+    "search_query": "AI biometric surveillance US border technology 2026",
+    "source_count": 7,
+    "tags": "AI, Surveillance, Border Security, Biometrics",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
