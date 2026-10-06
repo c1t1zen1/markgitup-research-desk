@@ -11075,5 +11075,18 @@
     "source_count": 11,
     "tags": "AI Agents, Software Security, DevSecOps, Supply Chain",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 843,
+    "topic": "Synthetic Media in Live Broadcasts: Real-Time Deepfakes Challenging Broadcast Integrity",
+    "file": "html/article-0843-synthetic-media-in-live-broadcasts-real-time-deepfakes-challenging-broad-20261005-222241.html",
+    "timestamp": "20261005-222241",
+    "full_timestamp": "2026-10-05T22:22:41-07:00",
+    "summary": "Live synthetic media could test broadcast integrity before viewers can verify what they see, but supplied evidence currently points to detection investment—not documented on-air incidents.",
+    "original_topic": "AI-Generated Video for Filmmaking & Content Creation",
+    "search_query": "real-time deepfake detection live broadcast 2026",
+    "source_count": 2,
+    "tags": "Live Streaming, Deepfakes, Media Integrity, Real-Time AI",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
