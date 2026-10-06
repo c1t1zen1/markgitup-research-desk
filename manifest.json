@@ -11283,5 +11283,18 @@
     "source_count": 3,
     "tags": "Generative Video, Real-Time AI, Social Media, Ephemeral Content",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 859,
+    "topic": "AI's Role in Cross-Jurisdictional Regulatory Compliance for Global Legal Tech",
+    "file": "html/article-0859-ai-s-role-in-cross-jurisdictional-regulatory-compliance-for-global-legal-20261006-141256.html",
+    "timestamp": "20261006-141256",
+    "full_timestamp": "2026-10-06T14:12:56-07:00",
+    "summary": "AI is navigating global regulatory divergence, demanding sophisticated tech to manage complex, multi-jurisdictional compliance risks for global legal practices.",
+    "original_topic": "AI in Legal Systems & Law Practice",
+    "search_query": "AI regulatory compliance legal tech international law 2026 latest",
+    "source_count": 10,
+    "tags": "RegTech, Global Law, AI Compliance, Legal Tech",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
