@@ -11309,5 +11309,18 @@
     "source_count": 11,
     "tags": "Digital Twins, Corporate Training, Simulation, Enterprise AI",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 861,
+    "topic": "Optimizing LLM Inference on Edge Devices: M-Series Memory Bandwidth Constraints",
+    "file": "html/article-0861-optimizing-llm-inference-on-edge-devices-m-series-memory-bandwidth-const-20261006-161724.html",
+    "timestamp": "20261006-161724",
+    "full_timestamp": "2026-10-06T16:17:24-07:00",
+    "summary": "M-Series LLM Inference: Memory Bandwidth is the Bottleneck, Not Compute Power, Limiting Edge Deployment.",
+    "original_topic": "M Series Apple Silicon LLM Inference",
+    "search_query": "LLM inference memory bandwidth Apple Silicon bottlenecks 2026 latest",
+    "source_count": 9,
+    "tags": "LLM, Apple Silicon, Memory, Inference",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
