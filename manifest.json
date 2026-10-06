@@ -11179,5 +11179,18 @@
     "source_count": 11,
     "tags": "Apple Silicon, Neural Engine, Local AI, macOS",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 851,
+    "topic": "Apple's M5 Chip: AI Performance Leap for Developers",
+    "file": "html/article-0851-apple-s-m5-chip-ai-performance-leap-for-developers-20261006-060119.html",
+    "timestamp": "20261006-060119",
+    "full_timestamp": "2026-10-06T06:01:19-07:00",
+    "summary": "Apple's M5 Ultra chip delivers frontier-level local AI performance, matching desktop GPUs in benchmarks while offering developers unprecedented compute power in a compact desktop form factor.",
+    "original_topic": "AI Development Tools for Apple Silicon",
+    "search_query": "Apple M5 chip AI performance developer benchmarks 2026 latest",
+    "source_count": 11,
+    "tags": "Apple Silicon, AI, M5 Chip, Developer Tools",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
