@@ -11205,5 +11205,18 @@
     "source_count": 2,
     "tags": "AI, predictive policing, US cities, 2026",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 853,
+    "topic": "EU's Deepfake Disclosure Rules Take Effect for Political Ads",
+    "file": "html/article-0853-eu-s-deepfake-disclosure-rules-take-effect-for-political-ads-20261006-080127.html",
+    "timestamp": "20261006-080127",
+    "full_timestamp": "2026-10-06T08:01:27-07:00",
+    "summary": "EU's AI Act deepfake disclosure rules now bind political advertisers, but enforcement and effectiveness remain untested as campaigns increasingly use synthetic media.",
+    "original_topic": "Deepfake Legislation & Synthetic Media Laws",
+    "search_query": "EU deepfake disclosure rules political ads 2026",
+    "source_count": 5,
+    "tags": "deepfakes,EU AI Act,political ads,regulation",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
