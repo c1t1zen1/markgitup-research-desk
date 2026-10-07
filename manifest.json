@@ -11556,5 +11556,18 @@
     "source_count": 4,
     "tags": "AI policy, lobbying, data portability, legislation",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 880,
+    "topic": "Synthetic Media Provenance: Tracking AI-Generated Video Across Global Distribution Networks",
+    "file": "html/article-0880-synthetic-media-provenance-tracking-ai-generated-video-across-global-dis-20261007-111359.html",
+    "timestamp": "20261007-111359",
+    "full_timestamp": "2026-10-07T11:13:59-07:00",
+    "summary": "Tracking synthetic media requires robust technical infrastructure like watermarking to maintain provenance across complex global distribution networks.",
+    "original_topic": "AI Video Generation Models",
+    "search_query": "digital content provenance tracking AI video 2026",
+    "source_count": 9,
+    "tags": "AI video, provenance, digital rights, media security",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
