@@ -11335,5 +11335,18 @@
     "source_count": 2,
     "tags": "AI governance, legislative tech, policy drafting, Washington D.C.",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 863,
+    "topic": "AI Voice and Likeness Laws Reach a 2026 Test Over Estates and Platform Liability",
+    "file": "html/article-0863-ai-voice-and-likeness-laws-reach-a-2026-test-over-estates-and-platform-l-20261006-181331.html",
+    "timestamp": "20261006-181331",
+    "full_timestamp": "2026-10-06T18:13:31-07:00",
+    "summary": "As 2026 looms, state laws test whether estates can control digital replicas and if platforms face liability for AI-generated likenesses.",
+    "original_topic": "Deepfake Legislation & Synthetic Media Laws",
+    "search_query": "2026 AI voice likeness laws estates platform liability state legislatures",
+    "source_count": 4,
+    "tags": "digital replicas, right of publicity, AI legislation",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
