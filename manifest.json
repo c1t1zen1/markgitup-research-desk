@@ -11387,5 +11387,18 @@
     "source_count": 2,
     "tags": "Sparse AI, Apple Silicon, LLM Optimization, Edge Computing",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 867,
+    "topic": "Behavioral Biometrics Target Deepfake Call-Center Account Takeovers at Financial Institutions",
+    "file": "html/article-0867-behavioral-biometrics-target-deepfake-call-center-account-takeovers-at-f-20261006-221243.html",
+    "timestamp": "20261006-221243",
+    "full_timestamp": "2026-10-06T22:12:43-07:00",
+    "summary": "Behavioral biometrics are emerging as a key defense against sophisticated deepfake attacks targeting customer service and account recovery.",
+    "original_topic": "AI Fraud Detection in Banking & Finance",
+    "search_query": "financial institutions behavioral biometrics deepfake call center account takeover 2026",
+    "source_count": 2,
+    "tags": "behavioral biometrics, deepfakes, account takeover",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
