@@ -11491,5 +11491,18 @@
     "source_count": 3,
     "tags": "AI video editing, live sports, real-time processing, broadcast technology",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 875,
+    "topic": "AI Judges in Small Claims: First U.S. Court Pilots Algorithmic Rulings",
+    "file": "html/article-0875-ai-judges-in-small-claims-first-u-s-court-pilots-algorithmic-rulings-20261007-060123.html",
+    "timestamp": "20261007-060123",
+    "full_timestamp": "2026-10-07T06:01:23-07:00",
+    "summary": "A U.S. court pilot is testing algorithmic rulings in small claims, raising questions about accuracy, bias, and the future of human judges.",
+    "original_topic": "AI in Legal Systems & Law Practice",
+    "search_query": "AI judges small claims pilot court 2026",
+    "source_count": 3,
+    "tags": "AI, law, courts, automation",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
