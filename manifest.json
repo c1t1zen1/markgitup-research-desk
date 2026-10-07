@@ -11374,5 +11374,18 @@
     "source_count": 2,
     "tags": "Local AI, macOS, LLM, Fine-Tuning",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 866,
+    "topic": "Optimizing Sparse Model Inference for Low-Power Apple Silicon AI Workloads",
+    "file": "html/article-0866-optimizing-sparse-model-inference-for-low-power-apple-silicon-ai-workloa-20261006-211126.html",
+    "timestamp": "20261006-211126",
+    "full_timestamp": "2026-10-06T21:11:26-07:00",
+    "summary": "Achieving low-power AI on Apple Silicon requires mastering sparse model inference, a key frontier for efficient, battery-conscious workloads.",
+    "original_topic": "AI Development Tools for Apple Silicon",
+    "search_query": "sparse model inference optimization Apple Silicon 2026",
+    "source_count": 2,
+    "tags": "Sparse AI, Apple Silicon, LLM Optimization, Edge Computing",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
