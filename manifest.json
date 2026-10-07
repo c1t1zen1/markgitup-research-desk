@@ -11569,5 +11569,18 @@
     "source_count": 9,
     "tags": "AI video, provenance, digital rights, media security",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 881,
+    "topic": "Edge AI Deployment on macOS: Securing Personal Data Against Cloud Exfiltration",
+    "file": "html/article-0881-edge-ai-deployment-on-macos-securing-personal-data-against-cloud-exfiltr-20261007-121824.html",
+    "timestamp": "20261007-121824",
+    "full_timestamp": "2026-10-07T12:18:24-07:00",
+    "summary": "Architecting macOS for Edge AI requires rigorous hardening to prevent local models from leaking sensitive user data to external clouds.",
+    "original_topic": "Privacy-First Local AI on Mac",
+    "search_query": "macOS local AI data security architecture 2026",
+    "source_count": 9,
+    "tags": "Edge AI, macOS, Data Security, Local LLM",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
