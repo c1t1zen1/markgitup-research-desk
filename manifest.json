@@ -11452,5 +11452,18 @@
     "source_count": 2,
     "tags": "mental health, AI therapy, FDA approval, digital health",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 872,
+    "topic": "AI Code Agents Now Writing Production Tests Alongside Features",
+    "file": "html/article-0872-ai-code-agents-now-writing-production-tests-alongside-features-20261007-030145.html",
+    "timestamp": "20261007-030145",
+    "full_timestamp": "2026-10-07T03:01:45-07:00",
+    "summary": "AI coding agents are shifting from writing features to autonomously generating production-faithful tests, addressing the reliability gap as agentic code authorship scales.",
+    "original_topic": "Autonomous AI Code Agents",
+    "search_query": "AI code agents automated test generation production 2026",
+    "source_count": 12,
+    "tags": "AI, software testing, automation, 2026",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
