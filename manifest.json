@@ -11400,5 +11400,18 @@
     "source_count": 2,
     "tags": "behavioral biometrics, deepfakes, account takeover",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 868,
+    "topic": "AI Trading Bots Face New SEC Disclosure Rules for Crypto Strategies",
+    "file": "html/article-0868-ai-trading-bots-face-new-sec-disclosure-rules-for-crypto-strategies-20261006-230120.html",
+    "timestamp": "20261006-230120",
+    "full_timestamp": "2026-10-06T23:01:20-07:00",
+    "summary": "As SEC enforcement against AI crypto trading schemes intensifies, regulators signal tighter disclosure requirements for automated strategies.",
+    "original_topic": "AI Crypto Trading Bots & Performance",
+    "search_query": "SEC AI crypto trading bot disclosure rules 2026",
+    "source_count": 10,
+    "tags": "AI, crypto, regulation, SEC",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
