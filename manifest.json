@@ -11361,5 +11361,18 @@
     "source_count": 12,
     "tags": "Quantum AI, Cryptography, Intelligence, Security",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 865,
+    "topic": "Local LLM Fine-Tuning on macOS: Bridging Privacy and Performance Gaps",
+    "file": "html/article-0865-local-llm-fine-tuning-on-macos-bridging-privacy-and-performance-gaps-20261006-201429.html",
+    "timestamp": "20261006-201429",
+    "full_timestamp": "2026-10-06T20:14:29-07:00",
+    "summary": "Fine-tuning LLMs locally on macOS is becoming viable, leveraging Apple Silicon's capabilities to balance privacy with specialized model performance.",
+    "original_topic": "Local AI Tools & Stacks for macOS",
+    "search_query": "macOS local LLM fine-tuning performance 2026",
+    "source_count": 2,
+    "tags": "Local AI, macOS, LLM, Fine-Tuning",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
