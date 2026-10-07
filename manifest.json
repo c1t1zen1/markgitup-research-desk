@@ -11621,5 +11621,18 @@
     "source_count": 9,
     "tags": "GNN, Synthetic Identity, KYC, Fraud Detection",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 885,
+    "topic": "Real-Time Emotional Fidelity in Virtual Presenters for Remote Therapy Sessions",
+    "file": "html/article-0885-real-time-emotional-fidelity-in-virtual-presenters-for-remote-therapy-se-20261007-161319.html",
+    "timestamp": "20261007-161319",
+    "full_timestamp": "2026-10-07T16:13:19-07:00",
+    "summary": "Examining the need for emotional nuance, this article explores how AI avatars could evolve from simple chatbots to sophisticated, empathetic partners in remote therapy.",
+    "original_topic": "AI Video Avatars & Virtual Presenters",
+    "search_query": "AI avatar emotional responsiveness mental health therapy 2026",
+    "source_count": 12,
+    "tags": "AI avatars, Digital Therapy, Emotional AI, Healthcare",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
