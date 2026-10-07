@@ -11426,5 +11426,18 @@
     "source_count": 8,
     "tags": "AI, stock markets, earnings, forecasting",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 870,
+    "topic": "AI Fact-Checking Tools Struggle With 2026 Election Deepfake Surge",
+    "file": "html/article-0870-ai-fact-checking-tools-struggle-with-2026-election-deepfake-surge-20261007-010114.html",
+    "timestamp": "20261007-010114",
+    "full_timestamp": "2026-10-07T01:01:14-07:00",
+    "summary": "Automated fact-checking tools are struggling to keep pace with the surge in AI-generated deepfakes during the 2026 election cycle, raising concerns about their real-time effectiveness.",
+    "original_topic": "AI Misinformation & Election Integrity",
+    "search_query": "AI fact-checking tools 2026 election deepfakes",
+    "source_count": 10,
+    "tags": "AI, misinformation, elections, fact-checking",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
