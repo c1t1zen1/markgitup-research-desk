@@ -11517,5 +11517,18 @@
     "source_count": 4,
     "tags": "AI, crypto, cross-chain, trading bots",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 877,
+    "topic": "AI Video Tools Now Generate Full Films From One-Line Prompts",
+    "file": "html/article-0877-ai-video-tools-now-generate-full-films-from-one-line-prompts-20261007-080116.html",
+    "timestamp": "20261007-080116",
+    "full_timestamp": "2026-10-07T08:01:16-07:00",
+    "summary": "AI video tools are shifting from short clip generation to full narrative filmmaking, with recent demos showing coherent multi-minute stories emerging from simple text prompts.",
+    "original_topic": "AI-Generated Video for Filmmaking & Content Creation",
+    "search_query": "AI generate full feature film from single prompt 2026",
+    "source_count": 10,
+    "tags": "AI video, generative AI, filmmaking, content creation",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
