@@ -11439,5 +11439,18 @@
     "source_count": 10,
     "tags": "AI, misinformation, elections, fact-checking",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 871,
+    "topic": "FDA Approves First AI-Powered Therapy Companion for Mild Depression",
+    "file": "html/article-0871-fda-approves-first-ai-powered-therapy-companion-for-mild-depression-20261007-020108.html",
+    "timestamp": "20261007-020108",
+    "full_timestamp": "2026-10-07T02:01:08-07:00",
+    "summary": "FDA approval of Flow Neuroscience's FL-100 marks the first regulatory green light for an at-home transcranial direct current stimulation device targeting depression.",
+    "original_topic": "AI in Mental Health & Therapy",
+    "search_query": "FDA approves AI therapy companion depression 2026",
+    "source_count": 2,
+    "tags": "mental health, AI therapy, FDA approval, digital health",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
