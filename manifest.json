@@ -11413,5 +11413,18 @@
     "source_count": 10,
     "tags": "AI, crypto, regulation, SEC",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 869,
+    "topic": "AI Now Predicts Earnings Beats Before Analysts Release Forecasts",
+    "file": "html/article-0869-ai-now-predicts-earnings-beats-before-analysts-release-forecasts-20261007-000120.html",
+    "timestamp": "20261007-000120",
+    "full_timestamp": "2026-10-07T00:01:20-07:00",
+    "summary": "AI-driven earnings prediction models are now outpacing Wall Street analyst consensus, as seen in recent beats by Foxconn, Micron, and Jabil, signaling a shift in market intelligence.",
+    "original_topic": "AI Stock Prediction & Market Analysis",
+    "search_query": "AI earnings prediction beats analyst forecasts 2026",
+    "source_count": 8,
+    "tags": "AI, stock markets, earnings, forecasting",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
