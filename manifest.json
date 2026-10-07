@@ -11348,5 +11348,18 @@
     "source_count": 4,
     "tags": "digital replicas, right of publicity, AI legislation",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 864,
+    "topic": "Quantum AI Integration: Cryptographic Vulnerabilities in US Intelligence Data Streams",
+    "file": "html/article-0864-quantum-ai-integration-cryptographic-vulnerabilities-in-us-intelligence-20261006-190429.html",
+    "timestamp": "20261006-190429",
+    "full_timestamp": "2026-10-06T19:04:29-07:00",
+    "summary": "AI-driven analysis may increase the value of intelligence data while quantum advances threaten encrypted streams, creating a migration, retention, and governance problem before decryption becomes practical.",
+    "original_topic": "AI in US Intelligence & Surveillance",
+    "search_query": "Quantum computing AI intelligence security 2026",
+    "source_count": 12,
+    "tags": "Quantum AI, Cryptography, Intelligence, Security",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
