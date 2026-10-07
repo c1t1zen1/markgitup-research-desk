@@ -11608,5 +11608,18 @@
     "source_count": 6,
     "tags": "smart thermostats, demand response, grid flexibility",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 884,
+    "topic": "AI Detecting Synthetic Identity Fraud Using Graph Neural Networks on KYC Data",
+    "file": "html/article-0884-ai-detecting-synthetic-identity-fraud-using-graph-neural-networks-on-kyc-20261007-151455.html",
+    "timestamp": "20261007-151455",
+    "full_timestamp": "2026-10-07T15:14:55-07:00",
+    "summary": "Graph Neural Networks offer a cutting-edge defense against synthetic identity fraud by mapping complex, fabricated data relationships within KYC profiles.",
+    "original_topic": "AI Fraud Detection in Banking & Finance",
+    "search_query": "GNN synthetic identity fraud detection KYC banking 2026",
+    "source_count": 9,
+    "tags": "GNN, Synthetic Identity, KYC, Fraud Detection",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
