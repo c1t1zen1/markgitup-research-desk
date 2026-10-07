@@ -11465,5 +11465,18 @@
     "source_count": 12,
     "tags": "AI, software testing, automation, 2026",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 873,
+    "topic": "Pentagon Tests AI-Driven Satellite Constellation for Real-Time Targeting",
+    "file": "html/article-0873-pentagon-tests-ai-driven-satellite-constellation-for-real-time-targeting-20261007-040116.html",
+    "timestamp": "20261007-040116",
+    "full_timestamp": "2026-10-07T04:01:16-07:00",
+    "summary": "The Pentagon is actively testing AI-managed satellite constellations for live targeting, marking a shift from retrospective intelligence analysis to real-time military operations.",
+    "original_topic": "AI in US Intelligence & Surveillance",
+    "search_query": "Pentagon AI satellite constellation targeting 2026",
+    "source_count": 5,
+    "tags": "AI, military, satellites, targeting",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
