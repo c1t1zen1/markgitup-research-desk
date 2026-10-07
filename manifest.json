@@ -11595,5 +11595,18 @@
     "source_count": 2,
     "tags": "LLM, Edge AI, Model Drift, macOS",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 883,
+    "topic": "Utilities Test AI Thermostat Fleets as Grid Assets in Residential Demand-Response Pilots",
+    "file": "html/article-0883-utilities-test-ai-thermostat-fleets-as-grid-assets-in-residential-demand-20261007-140453.html",
+    "timestamp": "20261007-140453",
+    "full_timestamp": "2026-10-07T14:04:53-07:00",
+    "summary": "Utilities are moving connected-home pilots toward grid-scale coordination, but the supplied evidence leaves customer control, compensation terms, and reliability results largely unreported.",
+    "original_topic": "AI-Powered Smart Homes & Automation",
+    "search_query": "utility AI thermostat demand response pilots residential grid 2026",
+    "source_count": 6,
+    "tags": "smart thermostats, demand response, grid flexibility",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
