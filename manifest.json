@@ -11530,5 +11530,18 @@
     "source_count": 10,
     "tags": "AI video, generative AI, filmmaking, content creation",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 878,
+    "topic": "AI Chatbots Now Staffing Campaign Call Centers Nationwide",
+    "file": "html/article-0878-ai-chatbots-now-staffing-campaign-call-centers-nationwide-20261007-090127.html",
+    "timestamp": "20261007-090127",
+    "full_timestamp": "2026-10-07T09:01:27-07:00",
+    "summary": "Campaigns are replacing human phone banks with AI chatbots, raising questions about voter experience, disclosure, and the potential for foreign influence in live outreach.",
+    "original_topic": "AI in US Elections & Campaigns",
+    "search_query": "AI chatbot campaign call center staffing 2026",
+    "source_count": 2,
+    "tags": "AI, elections, call centers, outreach",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
