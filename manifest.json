@@ -11322,5 +11322,18 @@
     "source_count": 9,
     "tags": "LLM, Apple Silicon, Memory, Inference",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 862,
+    "topic": "AI Influence on Congressional Committee Rulemaking: Transparency and Bias Risks",
+    "file": "html/article-0862-ai-influence-on-congressional-committee-rulemaking-transparency-and-bias-20261006-171443.html",
+    "timestamp": "20261006-171443",
+    "full_timestamp": "2026-10-06T17:14:43-07:00",
+    "summary": "Examining the granular influence of AI tools on legislative drafting reveals risks concerning transparency, bias, and national security implications within Congressional rulemaking.",
+    "original_topic": "AI Lobbying & Policy in Washington",
+    "search_query": "AI influence congressional committee policy drafting 2026",
+    "source_count": 2,
+    "tags": "AI governance, legislative tech, policy drafting, Washington D.C.",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
