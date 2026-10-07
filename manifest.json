@@ -11478,5 +11478,18 @@
     "source_count": 5,
     "tags": "AI, military, satellites, targeting",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 874,
+    "topic": "AI Video Editing Now Handles Live Sports Highlights in Real Time",
+    "file": "html/article-0874-ai-video-editing-now-handles-live-sports-highlights-in-real-time-20261007-050126.html",
+    "timestamp": "20261007-050126",
+    "full_timestamp": "2026-10-07T05:01:26-07:00",
+    "summary": "New AI tools from NVIDIA and Dolby aim to automate real-time video processing for live sports broadcasts, while standalone cameras bring automated filming to youth games.",
+    "original_topic": "AI-Powered Video Editing & Post-Production",
+    "search_query": "AI live sports highlight editing real time 2026",
+    "source_count": 3,
+    "tags": "AI video editing, live sports, real-time processing, broadcast technology",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
