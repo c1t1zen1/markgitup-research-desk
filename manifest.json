@@ -11582,5 +11582,18 @@
     "source_count": 9,
     "tags": "Edge AI, macOS, Data Security, Local LLM",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 882,
+    "topic": "Quantifying Model Drift in On-Device LLMs Across Diverse macOS User Profiles",
+    "file": "html/article-0882-quantifying-model-drift-in-on-device-llms-across-diverse-macos-user-prof-20261007-131359.html",
+    "timestamp": "20261007-131359",
+    "full_timestamp": "2026-10-07T13:13:59-07:00",
+    "summary": "Assessing the long-term stability of on-device LLMs on Apple Silicon requires quantifying model drift across varied macOS user environments.",
+    "original_topic": "M Series Apple Silicon LLM Inference",
+    "search_query": "LLM model drift detection macOS Apple Silicon 2026",
+    "source_count": 2,
+    "tags": "LLM, Edge AI, Model Drift, macOS",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
