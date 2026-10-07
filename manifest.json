@@ -11543,5 +11543,18 @@
     "source_count": 2,
     "tags": "AI, elections, call centers, outreach",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 879,
+    "topic": "AI Lobbyists Push for Federal Data Portability Mandate",
+    "file": "html/article-0879-ai-lobbyists-push-for-federal-data-portability-mandate-20261007-100124.html",
+    "timestamp": "20261007-100124",
+    "full_timestamp": "2026-10-07T10:01:24-07:00",
+    "summary": "AI trade groups are lobbying for a federal data portability mandate to standardize how users and businesses move AI-generated data across platforms.",
+    "original_topic": "AI Lobbying & Policy in Washington",
+    "search_query": "AI industry lobbying federal data portability bill 2026",
+    "source_count": 4,
+    "tags": "AI policy, lobbying, data portability, legislation",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
