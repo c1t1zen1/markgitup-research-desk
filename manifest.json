@@ -11712,5 +11712,18 @@
     "source_count": 12,
     "tags": "Smart Home, AI Agents, Energy Management, IoT",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 892,
+    "topic": "Generative AI for Regulatory Compliance: Automating XBRL Tagging and Disclosure Mapping",
+    "file": "html/article-0892-generative-ai-for-regulatory-compliance-automating-xbrl-tagging-and-disc-20261007-230450.html",
+    "timestamp": "20261007-230450",
+    "full_timestamp": "2026-10-07T23:04:50-07:00",
+    "summary": "LLMs may accelerate XBRL tagging and disclosure mapping, but taxonomy expertise, accounting judgment, validation, and human accountability remain central to regulatory filings.",
+    "original_topic": "Generative AI for Financial Reporting",
+    "search_query": "Generative AI XBRL tagging financial reporting 2026 latest",
+    "source_count": 12,
+    "tags": "XBRL, Regulatory Tech, Financial Reporting, LLM",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
