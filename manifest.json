@@ -11907,5 +11907,18 @@
     "source_count": 12,
     "tags": "Generative Video, Emotional AI, Digital Humans, Performance Capture",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 907,
+    "topic": "AI Lobbying's New Frontier: Algorithmic Influence on Climate Policy Legislation",
+    "file": "html/article-0907-ai-lobbying-s-new-frontier-algorithmic-influence-on-climate-policy-legis-20261008-141352.html",
+    "timestamp": "20261008-141352",
+    "full_timestamp": "2026-10-08T14:13:52-07:00",
+    "summary": "AI agents are emerging as sophisticated tools in Washington, modeling and influencing the drafting of complex climate policy legislation.",
+    "original_topic": "AI Lobbying & Policy in Washington",
+    "search_query": "AI lobbying climate policy legislative influence 2026",
+    "source_count": 12,
+    "tags": "AI Policy, Climate Tech, Washington D.C., Legislative AI",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
