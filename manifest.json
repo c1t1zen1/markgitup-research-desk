@@ -11803,5 +11803,18 @@
     "source_count": 12,
     "tags": "LegalTech, NLP, Jurisprudence, AI",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 899,
+    "topic": "Controlling Synthetic Media Watermarking: Legal Frameworks for AI Video Provenance",
+    "file": "html/article-0899-controlling-synthetic-media-watermarking-legal-frameworks-for-ai-video-p-20261008-060406.html",
+    "timestamp": "20261008-060406",
+    "full_timestamp": "2026-10-08T06:04:06-07:00",
+    "summary": "As watermarking moves from optional branding toward compliance, AI-video producers face a fragmented evidence base spanning durable embedding, provenance frameworks, public detection, and emerging disclosure rules.",
+    "original_topic": "AI Video Generation Models",
+    "search_query": "AI video watermarking standards and legal frameworks 2026",
+    "source_count": 12,
+    "tags": "AI Video, Watermarking, Provenance, Regulation",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
