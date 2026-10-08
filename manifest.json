@@ -11894,5 +11894,18 @@
     "source_count": 12,
     "tags": "AI, Intelligence, Counter-Proliferation, Supply Chain",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 906,
+    "topic": "Real-Time Emotional Fidelity: AI Video Generation Adapting to Actor Micro-Expressions",
+    "file": "html/article-0906-real-time-emotional-fidelity-ai-video-generation-adapting-to-actor-micro-20261008-131223.html",
+    "timestamp": "20261008-131223",
+    "full_timestamp": "2026-10-08T13:12:23-07:00",
+    "summary": "AI video generation is moving beyond visuals to master emotional fidelity, using advanced tools to simulate nuanced, real-time actor micro-expressions.",
+    "original_topic": "AI-Generated Video for Filmmaking & Content Creation",
+    "search_query": "AI video generation emotional fidelity micro-expressions 2026",
+    "source_count": 12,
+    "tags": "Generative Video, Emotional AI, Digital Humans, Performance Capture",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
