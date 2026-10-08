@@ -11829,5 +11829,18 @@
     "source_count": 12,
     "tags": "Generative AI, Market Simulation, Risk Management, Finance",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 901,
+    "topic": "Federated Learning for Privacy-Preserving Local LLMs on Consumer Devices",
+    "file": "html/article-0901-federated-learning-for-privacy-preserving-local-llms-on-consumer-devices-20261008-081152.html",
+    "timestamp": "20261008-081152",
+    "full_timestamp": "2026-10-08T08:11:52-07:00",
+    "summary": "Federated Learning enables collaborative, privacy-preserving LLM training directly on consumer devices like Macs.",
+    "original_topic": "Privacy-First Local AI on Mac",
+    "search_query": "federated learning local LLM privacy Mac 2026",
+    "source_count": 12,
+    "tags": "Federated Learning, Local AI, Privacy, Apple Silicon",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
