@@ -11777,5 +11777,18 @@
     "source_count": 12,
     "tags": "AI Security, Election Integrity, Prompt Injection, Cybersecurity",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 897,
+    "topic": "Jurisdictional Challenges in Policing Cross-Border Deepfake Misinformation Campaigns",
+    "file": "html/article-0897-jurisdictional-challenges-in-policing-cross-border-deepfake-misinformati-20261008-040352.html",
+    "timestamp": "20261008-040352",
+    "full_timestamp": "2026-10-08T04:03:52-07:00",
+    "summary": "Cross-border deepfake campaigns expose a practical gap: national rules are changing unevenly while synthetic media moves faster than enforcement, attribution, and coordinated response.",
+    "original_topic": "Deepfake Legislation & Synthetic Media Laws",
+    "search_query": "international legal frameworks deepfake content moderation 2026",
+    "source_count": 12,
+    "tags": "Deepfakes, International Law, Media Regulation, AI Governance",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
