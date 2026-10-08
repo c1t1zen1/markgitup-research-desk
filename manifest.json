@@ -11699,5 +11699,18 @@
     "source_count": 12,
     "tags": "Social Media, AI Marketing, Influencer Marketing, Content Strategy",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 891,
+    "topic": "Autonomous Home Systems Negotiate Utility Contracts Using Predictive AI Agents",
+    "file": "html/article-0891-autonomous-home-systems-negotiate-utility-contracts-using-predictive-ai-20261007-221345.html",
+    "timestamp": "20261007-221345",
+    "full_timestamp": "2026-10-07T22:13:45-07:00",
+    "summary": "AI agents are poised to move beyond simple home automation, actively negotiating complex utility contracts using predictive intelligence.",
+    "original_topic": "AI-Powered Smart Homes & Automation",
+    "search_query": "AI home agents utility contract negotiation 2026",
+    "source_count": 12,
+    "tags": "Smart Home, AI Agents, Energy Management, IoT",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
