@@ -11660,5 +11660,18 @@
     "source_count": 12,
     "tags": "Enterprise AI, Digital Humans, Corporate Training, Simulation",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 888,
+    "topic": "International Regulatory Divergence on Deepfake Disclosure in Cross-Border Media",
+    "file": "html/article-0888-international-regulatory-divergence-on-deepfake-disclosure-in-cross-bord-20261007-191325.html",
+    "timestamp": "20261007-191325",
+    "full_timestamp": "2026-10-07T19:13:25-07:00",
+    "summary": "Navigating the borderless flow of synthetic media demands understanding the friction between diverse global labeling mandates.",
+    "original_topic": "Deepfake Legislation & Synthetic Media Laws",
+    "search_query": "EU vs US deepfake disclosure laws 2026",
+    "source_count": 12,
+    "tags": "Deepfakes, International Law, Media Regulation, Synthetic Media",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
