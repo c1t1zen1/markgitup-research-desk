@@ -11725,5 +11725,18 @@
     "source_count": 12,
     "tags": "XBRL, Regulatory Tech, Financial Reporting, LLM",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 893,
+    "topic": "AI Agents Navigating DeFi Volatility: Risk Management in Decentralized Finance",
+    "file": "html/article-0893-ai-agents-navigating-defi-volatility-risk-management-in-decentralized-fi-20261008-001205.html",
+    "timestamp": "20261008-001205",
+    "full_timestamp": "2026-10-08T00:12:05-07:00",
+    "summary": "AI agents are revolutionizing DeFi by autonomously managing complex risks, optimizing yields, and navigating volatile decentralized finance environments.",
+    "original_topic": "AI Crypto Trading Bots & Performance",
+    "search_query": "AI trading agents DeFi risk management 2026",
+    "source_count": 12,
+    "tags": "DeFi, AI Trading, Risk Management, Crypto",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
