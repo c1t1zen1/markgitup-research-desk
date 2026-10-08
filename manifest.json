@@ -11933,5 +11933,18 @@
     "source_count": 12,
     "tags": "macOS, LLM, Metal, Edge AI",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 909,
+    "topic": "Behavioral Biometrics and AI for Detecting Synthetic Account Takeovers in Digital Banking",
+    "file": "html/article-0909-behavioral-biometrics-and-ai-for-detecting-synthetic-account-takeovers-i-20261008-161408.html",
+    "timestamp": "20261008-161408",
+    "full_timestamp": "2026-10-08T16:14:08-07:00",
+    "summary": "Proactive defense against synthetic account takeovers relies on behavioral biometrics and AI, shifting banking security from static checks to continuous identity verification.",
+    "original_topic": "AI Fraud Detection in Banking & Finance",
+    "search_query": "AI behavioral biometrics account takeover prevention banking 2026 latest",
+    "source_count": 12,
+    "tags": "Behavioral Biometrics, Account Takeover, Fraud Detection, Digital Banking",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
