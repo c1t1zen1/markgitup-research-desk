@@ -11647,5 +11647,18 @@
     "source_count": 12,
     "tags": "macOS, Local AI, LLM Inference, Core ML",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 887,
+    "topic": "AI-Generated Avatars Navigate Complex Corporate Training Simulations",
+    "file": "html/article-0887-ai-generated-avatars-navigate-complex-corporate-training-simulations-20261007-181052.html",
+    "timestamp": "20261007-181052",
+    "full_timestamp": "2026-10-07T18:10:52-07:00",
+    "summary": "AI avatars are reshaping corporate learning by enabling sophisticated, scalable simulations for compliance and professional development.",
+    "original_topic": "AI Short Form Video & Social Media",
+    "search_query": "AI corporate training avatar simulation adoption 2026",
+    "source_count": 12,
+    "tags": "Enterprise AI, Digital Humans, Corporate Training, Simulation",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
