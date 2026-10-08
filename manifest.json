@@ -11790,5 +11790,18 @@
     "source_count": 12,
     "tags": "Deepfakes, International Law, Media Regulation, AI Governance",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 898,
+    "topic": "AI in Legal Discovery: Automated Semantic Analysis of Evolving Jurisprudence",
+    "file": "html/article-0898-ai-in-legal-discovery-automated-semantic-analysis-of-evolving-jurisprude-20261008-050355.html",
+    "timestamp": "20261008-050355",
+    "full_timestamp": "2026-10-08T05:03:55-07:00",
+    "summary": "Semantic AI promises to move legal discovery beyond keyword matching, but the supplied evidence supports a cautious view centered on search, verification, workflow design, and unresolved risks.",
+    "original_topic": "AI in Legal Systems & Law Practice",
+    "search_query": "AI legal discovery semantic analysis evolving case law 2026",
+    "source_count": 12,
+    "tags": "LegalTech, NLP, Jurisprudence, AI",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
