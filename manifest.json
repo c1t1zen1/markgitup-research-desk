@@ -11920,5 +11920,18 @@
     "source_count": 12,
     "tags": "AI Policy, Climate Tech, Washington D.C., Legislative AI",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 908,
+    "topic": "Optimizing Local LLM Inference on macOS with Metal Performance Shaders",
+    "file": "html/article-0908-optimizing-local-llm-inference-on-macos-with-metal-performance-shaders-20261008-151531.html",
+    "timestamp": "20261008-151531",
+    "full_timestamp": "2026-10-08T15:15:31-07:00",
+    "summary": "Unlock peak local LLM performance on macOS by leveraging Metal Performance Shaders for deep GPU acceleration.",
+    "original_topic": "Local AI Tools & Stacks for macOS",
+    "search_query": "Metal Performance Shaders LLM inference macOS 2026",
+    "source_count": 12,
+    "tags": "macOS, LLM, Metal, Edge AI",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
