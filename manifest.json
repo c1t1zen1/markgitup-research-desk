@@ -11881,5 +11881,18 @@
     "source_count": 12,
     "tags": "Virtual Production, Semantic AI, Video Editing, Real-Time",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 905,
+    "topic": "AI Surveillance in Counter-Proliferation: Tracking Dual-Use Technology Flows",
+    "file": "html/article-0905-ai-surveillance-in-counter-proliferation-tracking-dual-use-technology-fl-20261008-120348.html",
+    "timestamp": "20261008-120348",
+    "full_timestamp": "2026-10-08T12:03:48-07:00",
+    "summary": "AI could help identify suspicious dual-use technology flows, but the supplied evidence supports a cautious forecast—not a documented account of operational counter-proliferation systems.",
+    "original_topic": "AI in US Intelligence & Surveillance",
+    "search_query": "AI monitoring dual-use technology supply chains intelligence 2026 latest",
+    "source_count": 12,
+    "tags": "AI, Intelligence, Counter-Proliferation, Supply Chain",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
