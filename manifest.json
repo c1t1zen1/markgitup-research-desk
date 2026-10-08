@@ -11673,5 +11673,18 @@
     "source_count": 12,
     "tags": "Deepfakes, International Law, Media Regulation, Synthetic Media",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 889,
+    "topic": "Optimizing Neural Engine Utilization for Large Language Models on Apple Silicon",
+    "file": "html/article-0889-optimizing-neural-engine-utilization-for-large-language-models-on-apple-20261007-201239.html",
+    "timestamp": "20261007-201239",
+    "full_timestamp": "2026-10-07T20:12:39-07:00",
+    "summary": "Deep dive into optimizing LLM performance on Apple Silicon by targeting the Neural Engine's specific computational strengths.",
+    "original_topic": "AI Development Tools for Apple Silicon",
+    "search_query": "Apple Silicon Neural Engine LLM performance benchmarks 2026",
+    "source_count": 12,
+    "tags": "Apple Silicon, LLM, Neural Engine, On-Device AI",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
