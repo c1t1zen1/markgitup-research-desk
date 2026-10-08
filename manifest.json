@@ -11634,5 +11634,18 @@
     "source_count": 12,
     "tags": "AI avatars, Digital Therapy, Emotional AI, Healthcare",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 886,
+    "topic": "macOS Native ML Frameworks Optimize Local LLM Inference for Power Users",
+    "file": "html/article-0886-macos-native-ml-frameworks-optimize-local-llm-inference-for-power-users-20261007-171252.html",
+    "timestamp": "20261007-171252",
+    "full_timestamp": "2026-10-07T17:12:52-07:00",
+    "summary": "Leveraging macOS native frameworks unlocks significant local LLM inference gains on Apple Silicon hardware for power users.",
+    "original_topic": "Local AI Tools & Stacks for macOS",
+    "search_query": "macOS Core ML local LLM performance benchmarks 2026",
+    "source_count": 12,
+    "tags": "macOS, Local AI, LLM Inference, Core ML",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
