@@ -11868,5 +11868,18 @@
     "source_count": 12,
     "tags": "LLMs, Quantization, Apple Silicon, Edge AI",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 904,
+    "topic": "Real-Time Semantic Scene Understanding in AI Video Editing for Virtual Production",
+    "file": "html/article-0904-real-time-semantic-scene-understanding-in-ai-video-editing-for-virtual-p-20261008-110354.html",
+    "timestamp": "20261008-110354",
+    "full_timestamp": "2026-10-08T11:03:54-07:00",
+    "summary": "Semantic scene understanding could make virtual-production post workflows adaptive, but supplied evidence supports only a cautious forecast, not demonstrated real-time capability.",
+    "original_topic": "AI-Powered Video Editing & Post-Production",
+    "search_query": "real-time semantic video editing virtual production 2026",
+    "source_count": 12,
+    "tags": "Virtual Production, Semantic AI, Video Editing, Real-Time",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
