@@ -11855,5 +11855,18 @@
     "source_count": 12,
     "tags": "LLM, Quantization, Apple Silicon, Edge AI",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 903,
+    "topic": "Quantized LLMs on Apple Silicon: Bridging the Gap to Prosumer Enterprise Deployment",
+    "file": "html/article-0903-quantized-llms-on-apple-silicon-bridging-the-gap-to-prosumer-enterprise-20261008-100426.html",
+    "timestamp": "20261008-100426",
+    "full_timestamp": "2026-10-08T10:04:26-07:00",
+    "summary": "Quantization and Apple Silicon optimizations may move local LLMs from experimentation toward practical, privacy-sensitive applications, but deployment readiness still depends on measured quality, scale, and licensing.",
+    "original_topic": "Quantized LLMs Running on Mac Hardware",
+    "search_query": "LLM quantization deployment Apple Silicon enterprise use cases 2026",
+    "source_count": 12,
+    "tags": "LLMs, Quantization, Apple Silicon, Edge AI",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
