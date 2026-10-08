@@ -11764,5 +11764,18 @@
     "source_count": 12,
     "tags": "AI Ethics, Gerontology, Mental Health, Companion AI",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 896,
+    "topic": "Adversarial Prompt Injection Targeting Election Infrastructure Security Protocols",
+    "file": "html/article-0896-adversarial-prompt-injection-targeting-election-infrastructure-security-20261008-031043.html",
+    "timestamp": "20261008-031043",
+    "full_timestamp": "2026-10-08T03:10:43-07:00",
+    "summary": "Adversarial Prompt Injection: The Emerging Threat Vector Targeting AI Systems in Election Administration.",
+    "original_topic": "AI Misinformation & Election Integrity",
+    "search_query": "Adversarial prompt injection election security 2026",
+    "source_count": 12,
+    "tags": "AI Security, Election Integrity, Prompt Injection, Cybersecurity",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
