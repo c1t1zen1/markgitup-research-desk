@@ -11816,5 +11816,18 @@
     "source_count": 12,
     "tags": "AI Video, Watermarking, Provenance, Regulation",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 900,
+    "topic": "Generative AI for Synthetic Market Scenarios: Stress Testing Financial Resilience",
+    "file": "html/article-0900-generative-ai-for-synthetic-market-scenarios-stress-testing-financial-re-20261008-070600.html",
+    "timestamp": "20261008-070600",
+    "full_timestamp": "2026-10-08T07:06:00-07:00",
+    "summary": "Generative models could expand financial stress testing beyond replayed history by constructing novel market failures, but the supplied evidence remains early and largely directional.",
+    "original_topic": "AI Stock Prediction & Market Analysis",
+    "search_query": "Generative AI synthetic financial market simulation 2026",
+    "source_count": 12,
+    "tags": "Generative AI, Market Simulation, Risk Management, Finance",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
