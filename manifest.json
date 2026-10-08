@@ -11686,5 +11686,18 @@
     "source_count": 12,
     "tags": "Apple Silicon, LLM, Neural Engine, On-Device AI",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 890,
+    "topic": "AI-Driven Micro-Influencer Networks Optimize Content Virality on TikTok",
+    "file": "html/article-0890-ai-driven-micro-influencer-networks-optimize-content-virality-on-tiktok-20261007-210345.html",
+    "timestamp": "20261007-210345",
+    "full_timestamp": "2026-10-07T21:03:45-07:00",
+    "summary": "AI may help brands coordinate niche creators, but the supplied evidence supports a cautious opportunity thesis—not verified proof that micro-influencer networks optimize TikTok virality.",
+    "original_topic": "AI Short Form Video & Social Media",
+    "search_query": "AI optimizing micro-influencer content strategy 2026",
+    "source_count": 12,
+    "tags": "Social Media, AI Marketing, Influencer Marketing, Content Strategy",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
