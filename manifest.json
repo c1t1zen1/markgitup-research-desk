@@ -12037,5 +12037,18 @@
     "source_count": 12,
     "tags": "Healthcare, Privacy, Edge AI, LLM",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 917,
+    "topic": "Quantized LLMs and Next-Gen Spatial Computing: Interacting with AR Environments",
+    "file": "html/article-0917-quantized-llms-and-next-gen-spatial-computing-interacting-with-ar-enviro-20261009-000553.html",
+    "timestamp": "20261009-000553",
+    "full_timestamp": "2026-10-09T00:05:53-07:00",
+    "summary": "Quantized LLMs could make spatial assistants more responsive, but supplied evidence supports the interaction architecture—not yet claims about quantization, on-device performance, or Apple product deployment.",
+    "original_topic": "Quantized LLMs Running on Mac Hardware",
+    "search_query": "LLM integration spatial computing Apple AR 2026",
+    "source_count": 12,
+    "tags": "Spatial Computing, Quantization, LLMs, AR",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
