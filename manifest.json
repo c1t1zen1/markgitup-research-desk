@@ -11998,5 +11998,18 @@
     "source_count": 12,
     "tags": "LLMs, HFT, Model Risk, FinTech",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 914,
+    "topic": "Generative Models for Simulating Extreme Climate Events in Digital Twins",
+    "file": "html/article-0914-generative-models-for-simulating-extreme-climate-events-in-digital-twins-20261008-211421.html",
+    "timestamp": "20261008-211421",
+    "full_timestamp": "2026-10-08T21:14:21-07:00",
+    "summary": "Generative AI is revolutionizing digital twins, enabling high-fidelity simulations of rare, extreme climate events for critical infrastructure planning.",
+    "original_topic": "AI Video Generation Models",
+    "search_query": "AI video generation climate simulation digital twins 2026",
+    "source_count": 12,
+    "tags": "ClimateTech, DigitalTwins, SyntheticMedia, AIModeling",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
