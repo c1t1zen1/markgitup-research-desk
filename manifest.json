@@ -12180,5 +12180,18 @@
     "source_count": 12,
     "tags": "deepfakes, robocalls, election security, telecom fraud",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + glm-5.2-colibri"
+  },
+  {
+    "article_number": 928,
+    "topic": "Election Officials Deploy AI Watermarking Standards Ahead of November 2026 Vote",
+    "file": "html/article-0928-election-officials-deploy-ai-watermarking-standards-ahead-of-november-20-20261009-113347.html",
+    "timestamp": "20261009-113347",
+    "full_timestamp": "2026-10-09T11:33:47-07:00",
+    "summary": "Election officials are adopting AI watermarking standards to combat misinformation ahead of the 2026 vote.",
+    "original_topic": "AI Misinformation & Election Integrity",
+    "search_query": "AI watermarking standards 2026 election officials misinformation",
+    "source_count": 12,
+    "tags": "AI watermarking, election integrity, content provenance",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + glm-5.2-colibri"
   }
 ]
