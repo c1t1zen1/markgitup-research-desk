@@ -12115,5 +12115,18 @@
     "source_count": 12,
     "tags": "AI policy, lobbying, federalism, regulation",
     "model_names": "glm-5.2-colibri"
+  },
+  {
+    "article_number": 923,
+    "topic": "AI-Novel Harvester: Copyright Infringement Suits Target Legal Research Tool Training Data",
+    "file": "html/article-0923-ai-novel-harvester-copyright-infringement-suits-target-legal-research-to-20261009-062321.html",
+    "timestamp": "20261009-062321",
+    "full_timestamp": "2026-10-09T06:23:21-07:00",
+    "summary": "A thin but consequential evidence trail points toward copyright fights over AI training, with Thomson Reuters litigation testing whether fair use can cover automated legal analysis.",
+    "original_topic": "AI in Legal Systems & Law Practice",
+    "search_query": "AI legal research tool copyright infringement training data lawsuits 2026",
+    "source_count": 12,
+    "tags": "AI, copyright, legal research, fair use",
+    "model_names": "GPT 5.6 Luna + glm-5.2-colibri"
   }
 ]
