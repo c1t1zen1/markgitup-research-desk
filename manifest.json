@@ -12076,5 +12076,18 @@
     "source_count": 12,
     "tags": "Generative AI, Financial Reporting, M&A, Revenue Recognition",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + glm-5.2-colibri"
+  },
+  {
+    "article_number": 920,
+    "topic": "Apple's Local AI Stack: New Framework Gaps Expose macOS Enterprise Data",
+    "file": "html/article-0920-apple-s-local-ai-stack-new-framework-gaps-expose-macos-enterprise-data-20261009-034256.html",
+    "timestamp": "20261009-034256",
+    "full_timestamp": "2026-10-09T03:42:56-07:00",
+    "summary": "Newly disclosed macOS privilege escalation flaws expose enterprise data through Apple's on-device AI framework, enabling zero-click exfiltration via sandbox escapes.",
+    "original_topic": "Local AI Tools & Stacks for macOS",
+    "search_query": "Apple Foundation Model local macOS security vulnerability 2026",
+    "source_count": 12,
+    "tags": "macOS, AI security, local LLM, enterprise",
+    "model_names": "glm-5.2-colibri"
   }
 ]
