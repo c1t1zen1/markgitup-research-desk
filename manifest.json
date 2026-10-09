@@ -12024,5 +12024,18 @@
     "source_count": 12,
     "tags": "AI, Copyright, Generative Art, Intellectual Property",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 916,
+    "topic": "Local LLMs and Private Data Sovereignty: Edge Inference for Healthcare Records",
+    "file": "html/article-0916-local-llms-and-private-data-sovereignty-edge-inference-for-healthcare-re-20261008-230846.html",
+    "timestamp": "20261008-230846",
+    "full_timestamp": "2026-10-08T23:08:46-07:00",
+    "summary": "For healthcare, local LLM inference promises tighter control over sensitive records—but the supplied evidence supports governance principles, not M-series-specific clinical or compliance claims.",
+    "original_topic": "M Series Apple Silicon LLM Inference",
+    "search_query": "on-device LLM privacy healthcare data processing 2026 latest",
+    "source_count": 12,
+    "tags": "Healthcare, Privacy, Edge AI, LLM",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
