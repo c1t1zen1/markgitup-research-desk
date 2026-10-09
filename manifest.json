@@ -11972,5 +11972,18 @@
     "source_count": 12,
     "tags": "Voter Targeting, Social Media AI, Political Data, Micro-targeting",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 912,
+    "topic": "On-Device AI for Spatial Computing: Optimizing Vision Models on Apple Neural Engine",
+    "file": "html/article-0912-on-device-ai-for-spatial-computing-optimizing-vision-models-on-apple-neu-20261008-190441.html",
+    "timestamp": "20261008-190441",
+    "full_timestamp": "2026-10-08T19:04:41-07:00",
+    "summary": "Apple’s visionOS 27 evidence points to AI-enhanced spatial experiences, but supplied sources do not yet prove Neural Engine model paths, benchmarks, or real-time vision performance.",
+    "original_topic": "AI Development Tools for Apple Silicon",
+    "search_query": "Apple VisionOS on-device AI performance optimization 2026 latest",
+    "source_count": 12,
+    "tags": "Spatial Computing, Neural Engine, On-Device AI, VisionOS",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
