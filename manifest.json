@@ -12167,5 +12167,18 @@
     "source_count": 12,
     "tags": "smart home, voice cloning, matter protocol, security",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + glm-5.2-colibri"
+  },
+  {
+    "article_number": 927,
+    "topic": "Deepfake Robocalls Impersonating 2026 Candidates Exploit Telecom Ringback Tones",
+    "file": "html/article-0927-deepfake-robocalls-impersonating-2026-candidates-exploit-telecom-ringbac-20261009-103347.html",
+    "timestamp": "20261009-103347",
+    "full_timestamp": "2026-10-09T10:33:47-07:00",
+    "summary": "AI-cloned candidate voices in robocalls are exploiting telecom latency, shifting election fraud from social media to direct voter phone manipulation.",
+    "original_topic": "AI in US Elections & Campaigns",
+    "search_query": "AI deepfake robocalls impersonating candidates 2026 elections",
+    "source_count": 12,
+    "tags": "deepfakes, robocalls, election security, telecom fraud",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + glm-5.2-colibri"
   }
 ]
