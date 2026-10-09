@@ -12102,5 +12102,18 @@
     "source_count": 12,
     "tags": "AI trading bots, oracle manipulation, adversarial attacks, DeFi",
     "model_names": "glm-5.2-colibri"
+  },
+  {
+    "article_number": 922,
+    "topic": "AI Firms' Lobbying Surge Ahead of 2026 Election: Pre-emption Clauses Target State AI Laws",
+    "file": "html/article-0922-ai-firms-lobbying-surge-ahead-of-2026-election-pre-emption-clauses-targe-20261009-051811.html",
+    "timestamp": "20261009-051811",
+    "full_timestamp": "2026-10-09T05:18:11-07:00",
+    "summary": "Tech firms are pushing federal preemption to override state AI laws, but states enacted 109 AI laws while Congress stalled.",
+    "original_topic": "AI Lobbying & Policy in Washington",
+    "search_query": "AI lobbying federal preemption state AI laws 2026",
+    "source_count": 12,
+    "tags": "AI policy, lobbying, federalism, regulation",
+    "model_names": "glm-5.2-colibri"
   }
 ]
