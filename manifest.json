@@ -12089,5 +12089,18 @@
     "source_count": 12,
     "tags": "macOS, AI security, local LLM, enterprise",
     "model_names": "glm-5.2-colibri"
+  },
+  {
+    "article_number": 921,
+    "topic": "AI Crypto Trading Bots Exploited via Cross-Exchange Oracle Manipulation",
+    "file": "html/article-0921-ai-crypto-trading-bots-exploited-via-cross-exchange-oracle-manipulation-20261009-042217.html",
+    "timestamp": "20261009-042217",
+    "full_timestamp": "2026-10-09T04:22:17-07:00",
+    "summary": "Attackers are exploiting price oracle data feeds to trigger AI bot liquidation cascades, shifting focus from bot performance to adversarial market manipulation.",
+    "original_topic": "AI Crypto Trading Bots & Performance",
+    "search_query": "AI crypto trading bots oracle manipulation exploit 2026",
+    "source_count": 12,
+    "tags": "AI trading bots, oracle manipulation, adversarial attacks, DeFi",
+    "model_names": "glm-5.2-colibri"
   }
 ]
