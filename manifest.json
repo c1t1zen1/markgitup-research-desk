@@ -12128,5 +12128,18 @@
     "source_count": 12,
     "tags": "AI, copyright, legal research, fair use",
     "model_names": "GPT 5.6 Luna + glm-5.2-colibri"
+  },
+  {
+    "article_number": 924,
+    "topic": "Hedge Fund Quants Expose LLM Hallucination Risk in SEC Mandatory AI Stress Tests",
+    "file": "html/article-0924-hedge-fund-quants-expose-llm-hallucination-risk-in-sec-mandatory-ai-stre-20261009-073134.html",
+    "timestamp": "20261009-073134",
+    "full_timestamp": "2026-10-09T07:31:34-07:00",
+    "summary": "New SEC guidance mandates stress-testing LLM strategies, spotlighting systemic hallucination risks when AI models face adversarial market prompts.",
+    "original_topic": "LLMs in Hedge Funds & Trading",
+    "search_query": "SEC AI stress testing LLM hallucination hedge funds 2026",
+    "source_count": 12,
+    "tags": "LLMs, hedge funds, regulation, hallucination",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + glm-5.2-colibri"
   }
 ]
