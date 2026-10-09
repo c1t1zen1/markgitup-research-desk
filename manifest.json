@@ -11959,5 +11959,18 @@
     "source_count": 12,
     "tags": "AI Agents, DevOps, Microservices, CloudOps",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 911,
+    "topic": "AI-Driven Micro-Targeting of Voter Sentiment via Social Media Platform APIs",
+    "file": "html/article-0911-ai-driven-micro-targeting-of-voter-sentiment-via-social-media-platform-a-20261008-180629.html",
+    "timestamp": "20261008-180629",
+    "full_timestamp": "2026-10-08T18:06:29-07:00",
+    "summary": "AI can turn social-media sentiment signals into campaign targeting decisions, but supplied evidence offers few verified API details and leaves privacy, platform-policy, and manipulation questions unresolved.",
+    "original_topic": "AI in US Elections & Campaigns",
+    "search_query": "AI voter sentiment micro-targeting social media 2026",
+    "source_count": 12,
+    "tags": "Voter Targeting, Social Media AI, Political Data, Micro-targeting",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
