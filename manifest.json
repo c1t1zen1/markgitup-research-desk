@@ -12193,5 +12193,18 @@
     "source_count": 12,
     "tags": "AI watermarking, election integrity, content provenance",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + glm-5.2-colibri"
+  },
+  {
+    "article_number": 929,
+    "topic": "AI-Powered Predictive Biometrics: Surveillance and Pre-Crime in National Security",
+    "file": "html/article-0929-ai-powered-predictive-biometrics-surveillance-and-pre-crime-in-national-20261009-120434.html",
+    "timestamp": "20261009-120434",
+    "full_timestamp": "2026-10-09T12:04:34-07:00",
+    "summary": "U.S. national-security policy is embracing AI’s strategic potential, but the supplied evidence stops short of proving predictive biometric deployment, leaving pre-crime claims firmly in the forecast category.",
+    "original_topic": "AI in US Intelligence & Surveillance",
+    "search_query": "AI predictive biometrics national security deployment 2026",
+    "source_count": 12,
+    "tags": "Biometrics, Predictive Policing, Intelligence, Surveillance",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
