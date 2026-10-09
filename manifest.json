@@ -12206,5 +12206,18 @@
     "source_count": 12,
     "tags": "Biometrics, Predictive Policing, Intelligence, Surveillance",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 930,
+    "topic": "Real-Time Neural Rendering: AI Video Synthesis for Virtual Production Pipelines",
+    "file": "html/article-0930-real-time-neural-rendering-ai-video-synthesis-for-virtual-production-pip-20261009-130504.html",
+    "timestamp": "20261009-130504",
+    "full_timestamp": "2026-10-09T13:05:04-07:00",
+    "summary": "The supplied evidence points to faster, more cinematic real-time rendering, but offers limited proof that neural video synthesis already creates production-ready virtual-set assets.",
+    "original_topic": "AI-Generated Video for Filmmaking & Content Creation",
+    "search_query": "real-time neural rendering AI video production 2026",
+    "source_count": 12,
+    "tags": "Virtual Production, Neural Rendering, AI Filmmaking, Real-Time Graphics",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
