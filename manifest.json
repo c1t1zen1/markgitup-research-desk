@@ -12154,5 +12154,18 @@
     "source_count": 12,
     "tags": "AI stock prediction, market volatility, tariff shock, model risk",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + glm-5.2-colibri"
+  },
+  {
+    "article_number": 926,
+    "topic": "Smart Home AI Voice Cloning Attacks Exploit New Matter 1.3 Automation Routines",
+    "file": "html/article-0926-smart-home-ai-voice-cloning-attacks-exploit-new-matter-1-3-automation-ro-20261009-093240.html",
+    "timestamp": "20261009-093240",
+    "full_timestamp": "2026-10-09T09:32:40-07:00",
+    "summary": "Matter 1.3 expands local automation, creating new vulnerabilities where AI voice cloning could bypass smart home biometric locks.",
+    "original_topic": "AI-Powered Smart Homes & Automation",
+    "search_query": "Matter 1.3 smart home AI voice cloning vulnerability 2026",
+    "source_count": 12,
+    "tags": "smart home, voice cloning, matter protocol, security",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + glm-5.2-colibri"
   }
 ]
