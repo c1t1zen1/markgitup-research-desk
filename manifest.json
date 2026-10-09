@@ -12050,5 +12050,18 @@
     "source_count": 12,
     "tags": "Spatial Computing, Quantization, LLMs, AR",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 918,
+    "topic": "Autonomous AI Code Agents Sparking Supply Chain Attacks via Malicious Pull Requests",
+    "file": "html/article-0918-autonomous-ai-code-agents-sparking-supply-chain-attacks-via-malicious-pu-20261009-012231.html",
+    "timestamp": "20261009-012231",
+    "full_timestamp": "2026-10-09T01:22:31-07:00",
+    "summary": "Security researchers warn autonomous AI coding agents are being manipulated to inject vulnerabilities into repositories via automated pull requests, creating a new software supply chain attack vector.",
+    "original_topic": "Autonomous AI Code Agents",
+    "search_query": "autonomous AI code agents supply chain attacks malicious pull requests 2026",
+    "source_count": 12,
+    "tags": "AI security, supply chain, code agents",
+    "model_names": "glm-5.2-colibri"
   }
 ]
