@@ -12219,5 +12219,18 @@
     "source_count": 12,
     "tags": "Virtual Production, Neural Rendering, AI Filmmaking, Real-Time Graphics",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 931,
+    "topic": "AI-Driven Transaction Graph Analysis Unmasks Sophisticated Money Laundering Networks",
+    "file": "html/article-0931-ai-driven-transaction-graph-analysis-unmasks-sophisticated-money-launder-20261009-140616.html",
+    "timestamp": "20261009-140616",
+    "full_timestamp": "2026-10-09T14:06:16-07:00",
+    "summary": "Graph-aware AI can move AML investigations from isolated transaction alerts toward relationship-level analysis, but current evidence spans commercial claims, trend forecasts, and a conceptual research framework.",
+    "original_topic": "AI Fraud Detection in Banking & Finance",
+    "search_query": "AI graph database anti-money laundering real-time 2026 latest",
+    "source_count": 12,
+    "tags": "AML, Graph AI, Financial Crime, Transaction Monitoring",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
