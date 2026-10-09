@@ -11985,5 +11985,18 @@
     "source_count": 12,
     "tags": "Spatial Computing, Neural Engine, On-Device AI, VisionOS",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 913,
+    "topic": "LLMs and Algorithmic Drift: Managing Model Decay in High-Frequency Trading Systems",
+    "file": "html/article-0913-llms-and-algorithmic-drift-managing-model-decay-in-high-frequency-tradin-20261008-202613.html",
+    "timestamp": "20261008-202613",
+    "full_timestamp": "2026-10-08T20:26:13-07:00",
+    "summary": "Operationalizing LLM stability in HFT: Addressing algorithmic drift as a critical threat to capital preservation.",
+    "original_topic": "LLMs in Hedge Funds & Trading",
+    "search_query": "LLM model drift in algorithmic trading risk management 2026 latest",
+    "source_count": 12,
+    "tags": "LLMs, HFT, Model Risk, FinTech",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
