@@ -12141,5 +12141,18 @@
     "source_count": 12,
     "tags": "LLMs, hedge funds, regulation, hallucination",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + glm-5.2-colibri"
+  },
+  {
+    "article_number": 925,
+    "topic": "AI Earnings Sentiment Models Confounded by 2026 Tariff Shock Whiplash",
+    "file": "html/article-0925-ai-earnings-sentiment-models-confounded-by-2026-tariff-shock-whiplash-20261009-083307.html",
+    "timestamp": "20261009-083307",
+    "full_timestamp": "2026-10-09T08:33:07-07:00",
+    "summary": "Sudden 2026 tariff policy shifts are exposing structural flaws in AI models, leading to market mispricings amid volatile global trade.",
+    "original_topic": "AI Stock Prediction & Market Analysis",
+    "search_query": "AI stock prediction models tariff shock 2026 market volatility",
+    "source_count": 12,
+    "tags": "AI stock prediction, market volatility, tariff shock, model risk",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + glm-5.2-colibri"
   }
 ]
