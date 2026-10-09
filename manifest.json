@@ -12232,5 +12232,18 @@
     "source_count": 12,
     "tags": "AML, Graph AI, Financial Crime, Transaction Monitoring",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 932,
+    "topic": "AI-Driven Temporal Consistency in Long-Form Video Generation and Editing",
+    "file": "html/article-0932-ai-driven-temporal-consistency-in-long-form-video-generation-and-editing-20261009-150529.html",
+    "timestamp": "20261009-150529",
+    "full_timestamp": "2026-10-09T15:05:29-07:00",
+    "summary": "Long-form AI video depends on continuity systems that preserve characters, scenes, and narrative state across generated shots—an emerging challenge whose evidence remains uneven and largely vendor descriptive.",
+    "original_topic": "AI-Powered Video Editing & Post-Production",
+    "search_query": "AI video consistency long-form generation 2026",
+    "source_count": 12,
+    "tags": "Video Synthesis, Temporal AI, Generative Models, Post-Production",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
