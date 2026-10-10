@@ -12297,5 +12297,18 @@
     "source_count": 12,
     "tags": "Digital Identity, Media Forensics, AI Trust, Provenance",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 937,
+    "topic": "Jurisdictional Friction: Cross-Border Enforcement of Synthetic Media Liability in 2026",
+    "file": "html/article-0937-jurisdictional-friction-cross-border-enforcement-of-synthetic-media-liab-20261009-200351.html",
+    "timestamp": "20261009-200351",
+    "full_timestamp": "2026-10-09T20:03:51-07:00",
+    "summary": "Domestic deepfake rules may reach cross-border harm unevenly, as conflicting conflict-of-laws doctrines, fragmented remedies, and uneven synthetic-media obligations complicate enforcement across creators, platforms, and boards.",
+    "original_topic": "Deepfake Legislation & Synthetic Media Laws",
+    "search_query": "international legal frameworks synthetic media liability cross-border 2026 latest",
+    "source_count": 12,
+    "tags": "Jurisdiction, AI Law, Cross-Border, Synthetic Media",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
