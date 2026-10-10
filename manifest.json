@@ -12414,5 +12414,18 @@
     "source_count": 12,
     "tags": "AI Regulation, Financial Compliance, EU AI Act, Fraud Detection",
     "model_names": "/Users/c1t1zen/models/qwen3.8-flash-next-iq4xs/UD-IQ4_XS/Qwen3.8-Flash-Next-UD-IQ4_XS-00001-of-00003.gguf"
+  },
+  {
+    "article_number": 946,
+    "topic": "SEC Proposes Strict Disclosure Rules for AI-Generated Financial Statements in 2026",
+    "file": "html/article-0946-sec-proposes-strict-disclosure-rules-for-ai-generated-financial-statemen-20261010-050808.html",
+    "timestamp": "20261010-050808",
+    "full_timestamp": "2026-10-10T05:08:08-07:00",
+    "summary": "Contrary to rumors of strict 2026 AI rules, no standalone SEC regulation exists. Current compliance relies on existing materiality frameworks and enforcement actions.",
+    "original_topic": "Generative AI for Financial Reporting",
+    "search_query": "SEC AI financial reporting disclosure rules 2026",
+    "source_count": 12,
+    "tags": "SEC, AI Regulation, Financial Reporting, Compliance",
+    "model_names": "/Users/c1t1zen/models/qwen3.8-flash-next-iq4xs/UD-IQ4_XS/Qwen3.8-Flash-Next-UD-IQ4_XS-00001-of-00003.gguf"
   }
 ]
