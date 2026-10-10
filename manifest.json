@@ -12557,5 +12557,18 @@
     "source_count": 12,
     "tags": "Apple Silicon, M5 Ultra, LLM, benchmarks",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 957,
+    "topic": "Quantized LLMs on Edge: Optimizing On-Device Inference for Next-Gen Mac Workflows",
+    "file": "html/article-0957-quantized-llms-on-edge-optimizing-on-device-inference-for-next-gen-mac-w-20261010-160521.html",
+    "timestamp": "20261010-160521",
+    "full_timestamp": "2026-10-10T16:05:21-07:00",
+    "summary": "Quantized models can make local Mac inference more practical, but developers must validate memory fit, runtime behavior, and measured latency instead of trusting broad hardware or benchmark claims.",
+    "original_topic": "Quantized LLMs Running on Mac Hardware",
+    "search_query": "quantized LLMs local inference Apple Silicon 2026",
+    "source_count": 12,
+    "tags": "LLMs, Edge AI, Quantization, Apple Silicon",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
