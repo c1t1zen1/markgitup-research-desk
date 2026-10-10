@@ -12336,5 +12336,18 @@
     "source_count": 12,
     "tags": "AI regulation, policy, sandboxes, governance",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 940,
+    "topic": "LLM Agents in Algorithmic Trading: Managing Latency and Regulatory Drift",
+    "file": "html/article-0940-llm-agents-in-algorithmic-trading-managing-latency-and-regulatory-drift-20261009-230358.html",
+    "timestamp": "20261009-230358",
+    "full_timestamp": "2026-10-09T23:03:58-07:00",
+    "summary": "Deploying LLM agents in trading is less a model-selection problem than an operations problem: preserve execution discipline while compliance expectations move across jurisdictions.",
+    "original_topic": "LLMs in Hedge Funds & Trading",
+    "search_query": "LLM agent latency algorithmic trading compliance 2026",
+    "source_count": 12,
+    "tags": "LLMs, Algorithmic Trading, FinTech, Regulation",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
