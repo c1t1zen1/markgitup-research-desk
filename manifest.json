@@ -12271,5 +12271,18 @@
     "source_count": 12,
     "tags": "macOS TCC, AI agents, Accessibility permissions, privacy",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 935,
+    "topic": "Optimizing Metal Performance: Compiler Innovations for Apple Silicon AI Workloads",
+    "file": "html/article-0935-optimizing-metal-performance-compiler-innovations-for-apple-silicon-ai-w-20261009-181414.html",
+    "timestamp": "20261009-181414",
+    "full_timestamp": "2026-10-09T18:14:14-07:00",
+    "summary": "Metal’s low-overhead API, compute integration, and profiling stack make compiler-aware optimization central to extracting efficient AI performance from Apple Silicon.",
+    "original_topic": "AI Development Tools for Apple Silicon",
+    "search_query": "Metal API performance optimization AI Apple Silicon 2026",
+    "source_count": 12,
+    "tags": "Metal, Apple Silicon, Compiler, AI Performance",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
