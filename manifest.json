@@ -12284,5 +12284,18 @@
     "source_count": 12,
     "tags": "Metal, Apple Silicon, Compiler, AI Performance",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 936,
+    "topic": "Synthetic Media Provenance: AI Avatar Authentication in Digital Identity Verification",
+    "file": "html/article-0936-synthetic-media-provenance-ai-avatar-authentication-in-digital-identity-20261009-190423.html",
+    "timestamp": "20261009-190423",
+    "full_timestamp": "2026-10-09T19:04:23-07:00",
+    "summary": "AI avatar identity checks may require more than deepfake detection: tamper-evident credentials, recorded creation history, watermarking, and policy alignment that make origin auditable.",
+    "original_topic": "AI Video Avatars & Virtual Presenters",
+    "search_query": "AI video avatar provenance authentication standards 2026",
+    "source_count": 12,
+    "tags": "Digital Identity, Media Forensics, AI Trust, Provenance",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
