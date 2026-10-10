@@ -12349,5 +12349,18 @@
     "source_count": 12,
     "tags": "LLMs, Algorithmic Trading, FinTech, Regulation",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 941,
+    "topic": "Decentralized Autonomous Organizations and AI Bot Governance in Crypto Markets",
+    "file": "html/article-0941-decentralized-autonomous-organizations-and-ai-bot-governance-in-crypto-m-20261010-000555.html",
+    "timestamp": "20261010-000555",
+    "full_timestamp": "2026-10-10T00:05:55-07:00",
+    "summary": "AI bots could make DAO voting and treasury operations faster, but decentralized control does not remove accountability, model risk, governance attacks, or regulatory uncertainty.",
+    "original_topic": "AI Crypto Trading Bots & Performance",
+    "search_query": "DAO governance AI trading bot risk management 2026",
+    "source_count": 12,
+    "tags": "DAO, AI, DeFi, Governance",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
