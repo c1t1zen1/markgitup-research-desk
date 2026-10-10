@@ -12544,5 +12544,18 @@
     "source_count": 12,
     "tags": "supply chain, AI chips, Apple Silicon, rare earths",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 956,
+    "topic": "Apple M5 Ultra Benchmarks: LLM Inference Speeds Up 40% vs M4",
+    "file": "html/article-0956-apple-m5-ultra-benchmarks-llm-inference-speeds-up-40-vs-m4-20261010-150237.html",
+    "timestamp": "20261010-150237",
+    "full_timestamp": "2026-10-10T15:02:37-07:00",
+    "summary": "Early benchmarks suggest the Apple M5 Ultra delivers roughly 40% faster local LLM inference than the M4 Ultra, driven by higher memory bandwidth and a redesigned Neural Engine.",
+    "original_topic": "M Series Apple Silicon LLM Inference",
+    "search_query": "Apple M5 Ultra LLM inference benchmark performance 2026 latest",
+    "source_count": 12,
+    "tags": "Apple Silicon, M5 Ultra, LLM, benchmarks",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
