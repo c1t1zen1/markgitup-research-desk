@@ -12791,5 +12791,18 @@
     "source_count": 12,
     "tags": "AI, privacy, Apple, litigation",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 975,
+    "topic": "LLMs Predict Black Swan Market Events Before They Happen",
+    "file": "html/article-0975-llms-predict-black-swan-market-events-before-they-happen-20261011-100150.html",
+    "timestamp": "20261011-100150",
+    "full_timestamp": "2026-10-11T10:01:50-07:00",
+    "summary": "Large language models are being tested for their ability to spot early signals of rare, high-impact market events. The evidence is mixed, but the potential to hedge against tail risks is real.",
+    "original_topic": "LLMs in Hedge Funds & Trading",
+    "search_query": "LLM black swan market prediction hedge fund 2026",
+    "source_count": 12,
+    "tags": "AI, finance, prediction, markets",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
