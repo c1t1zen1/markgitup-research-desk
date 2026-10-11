@@ -12596,5 +12596,18 @@
     "source_count": 12,
     "tags": "AI, film restoration, video upscaling, entertainment",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 960,
+    "topic": "AI-Powered Jury Selection Tools Face First Federal Constitutional Challenge",
+    "file": "html/article-0960-ai-powered-jury-selection-tools-face-first-federal-constitutional-challe-20261010-190231.html",
+    "timestamp": "20261010-190231",
+    "full_timestamp": "2026-10-10T19:02:31-07:00",
+    "summary": "A federal court will decide whether AI juror-profiling tools violate Sixth Amendment rights, testing algorithmic bias claims against constitutional guarantees.",
+    "original_topic": "AI in Legal Systems & Law Practice",
+    "search_query": "AI jury selection software constitutional challenge 2026",
+    "source_count": 12,
+    "tags": "AI, legal, courts, constitutional law",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
