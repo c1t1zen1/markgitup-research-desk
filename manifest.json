@@ -12609,5 +12609,18 @@
     "source_count": 12,
     "tags": "AI, legal, courts, constitutional law",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 961,
+    "topic": "Pentagon Tests AI for Real-Time Satellite Imagery Analysis",
+    "file": "html/article-0961-pentagon-tests-ai-for-real-time-satellite-imagery-analysis-20261010-200238.html",
+    "timestamp": "20261010-200238",
+    "full_timestamp": "2026-10-10T20:02:38-07:00",
+    "summary": "The Pentagon is testing AI systems to analyze satellite and missile threat data in seconds, aiming to transform raw sensor feeds into actionable intelligence for real-time battlefield decisions.",
+    "original_topic": "AI in US Intelligence & Surveillance",
+    "search_query": "Pentagon AI satellite imagery analysis testing 2026",
+    "source_count": 12,
+    "tags": "AI, military, satellite imagery, surveillance",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
