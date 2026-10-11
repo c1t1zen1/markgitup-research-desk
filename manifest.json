@@ -12817,5 +12817,18 @@
     "source_count": 12,
     "tags": "Synthetic Fraud, Behavioral Biometrics, FinTech, AI Security",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 977,
+    "topic": "Optimizing Local LLM Inference on macOS: New Frameworks for Edge AI Performance",
+    "file": "html/article-0977-optimizing-local-llm-inference-on-macos-new-frameworks-for-edge-ai-perfo-20261011-121546.html",
+    "timestamp": "20261011-121546",
+    "full_timestamp": "2026-10-11T12:15:46-07:00",
+    "summary": "Achieving peak local LLM performance on macOS requires deep dives into Apple Silicon optimization, framework selection, and hardware matching.",
+    "original_topic": "Local AI Tools & Stacks for macOS",
+    "search_query": "macOS local LLM inference optimization frameworks 2026",
+    "source_count": 12,
+    "tags": "LocalAI, macOS, LLM, EdgeComputing",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
