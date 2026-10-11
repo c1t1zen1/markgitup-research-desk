@@ -12765,5 +12765,18 @@
     "source_count": 12,
     "tags": "Apple Silicon, LLM inference, hardware architecture",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 973,
+    "topic": "Apple Unveils M7 Chip With Dedicated AI Neural Engine",
+    "file": "html/article-0973-apple-unveils-m7-chip-with-dedicated-ai-neural-engine-20261011-080204.html",
+    "timestamp": "20261011-080204",
+    "full_timestamp": "2026-10-11T08:02:04-07:00",
+    "summary": "Apple is skipping M6 Pro and Max variants to fast-track an AI-first M7 chip generation, featuring a redesigned Neural Engine and up to 1.5TB of unified memory for on-device AI workloads.",
+    "original_topic": "AI Development Tools for Apple Silicon",
+    "search_query": "Apple M7 chip AI neural engine announcement 2026",
+    "source_count": 12,
+    "tags": "Apple Silicon, AI Chips, M7, Neural Engine",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
