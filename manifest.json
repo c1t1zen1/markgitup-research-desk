@@ -12700,5 +12700,18 @@
     "source_count": 12,
     "tags": "AI, mental health, FDA, digital therapeutics",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 968,
+    "topic": "Matter 2.0 Adds AI Scene Automation to Smart Home Standard",
+    "file": "html/article-0968-matter-2-0-adds-ai-scene-automation-to-smart-home-standard-20261011-030249.html",
+    "timestamp": "20261011-030249",
+    "full_timestamp": "2026-10-11T03:02:49-07:00",
+    "summary": "Matter 2.0 extends the smart home standard beyond device interoperability, adding AI-driven scene automation, local control, and expanded ecosystem support for 2026.",
+    "original_topic": "AI-Powered Smart Homes & Automation",
+    "search_query": "Matter 2.0 AI scene automation smart home standard 2026 latest",
+    "source_count": 12,
+    "tags": "smart home, automation, Matter, AI",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
