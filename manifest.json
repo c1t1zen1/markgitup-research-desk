@@ -12674,5 +12674,18 @@
     "source_count": 12,
     "tags": "AI misinformation, election integrity, legal challenges, 2026 midterms",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 966,
+    "topic": "EU AI Act Enforcement Begins: First Fines for Non-Compliant Deepfake Tools",
+    "file": "html/article-0966-eu-ai-act-enforcement-begins-first-fines-for-non-compliant-deepfake-tool-20261011-010352.html",
+    "timestamp": "20261011-010352",
+    "full_timestamp": "2026-10-11T01:03:52-07:00",
+    "summary": "The EU AI Act's deepfake disclosure rules became enforceable law on August 2, 2026, with fines up to €15M or 3% of turnover for non-compliance.",
+    "original_topic": "Deepfake Legislation & Synthetic Media Laws",
+    "search_query": "EU AI Act first fines deepfake synthetic media 2026",
+    "source_count": 12,
+    "tags": "deepfakes,EU AI Act,regulation,synthetic media",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
