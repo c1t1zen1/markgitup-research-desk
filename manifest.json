@@ -12856,5 +12856,18 @@
     "source_count": 12,
     "tags": "AI, Intelligence, Cyberwarfare, Predictive Modeling",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 980,
+    "topic": "Regulators Scrutinize AI's Role in ESG Data Integrity for Corporate Filings",
+    "file": "html/article-0980-regulators-scrutinize-ai-s-role-in-esg-data-integrity-for-corporate-fili-20261011-151551.html",
+    "timestamp": "20261011-151551",
+    "full_timestamp": "2026-10-11T15:15:51-07:00",
+    "summary": "Regulatory bodies are intensifying scrutiny on AI's role in ESG data, demanding verifiable accuracy and bias mitigation in corporate financial filings.",
+    "original_topic": "Generative AI for Financial Reporting",
+    "search_query": "AI generated ESG data financial reporting audit 2026 latest",
+    "source_count": 12,
+    "tags": "ESG, Financial Regulation, AI Auditing, Corporate Governance",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
