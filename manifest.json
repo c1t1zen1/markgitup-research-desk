@@ -12726,5 +12726,18 @@
     "source_count": 12,
     "tags": "AI video, labor, entertainment, virtual actors",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 970,
+    "topic": "AI Legal Research Tools Face First Supreme Court Admissibility Test",
+    "file": "html/article-0970-ai-legal-research-tools-face-first-supreme-court-admissibility-test-20261011-050507.html",
+    "timestamp": "20261011-050507",
+    "full_timestamp": "2026-10-11T05:05:07-07:00",
+    "summary": "AI-generated legal documents face their first major U.S. Supreme Court admissibility test, potentially reshaping how law firms deploy artificial intelligence in high-stakes litigation.",
+    "original_topic": "AI in Legal Systems & Law Practice",
+    "search_query": "AI legal research tool Supreme Court admissibility 2026",
+    "source_count": 12,
+    "tags": "AI, legal systems, Supreme Court, litigation",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
