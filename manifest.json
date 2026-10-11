@@ -12687,5 +12687,18 @@
     "source_count": 12,
     "tags": "deepfakes,EU AI Act,regulation,synthetic media",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 967,
+    "topic": "FDA Clears First AI-Powered Digital Therapeutic for Treatment-Resistant Depression",
+    "file": "html/article-0967-fda-clears-first-ai-powered-digital-therapeutic-for-treatment-resistant-20261011-020716.html",
+    "timestamp": "20261011-020716",
+    "full_timestamp": "2026-10-11T02:07:16-07:00",
+    "summary": "FDA clears first AI-powered digital therapeutic for treatment-resistant depression, marking a new era for prescription software in mental health care.",
+    "original_topic": "AI in Mental Health & Therapy",
+    "search_query": "FDA approved AI digital therapeutic depression 2026",
+    "source_count": 12,
+    "tags": "AI, mental health, FDA, digital therapeutics",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
