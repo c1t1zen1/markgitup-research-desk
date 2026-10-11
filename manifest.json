@@ -12830,5 +12830,18 @@
     "source_count": 12,
     "tags": "LocalAI, macOS, LLM, EdgeComputing",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 978,
+    "topic": "Synthetic Media Authenticity Standards Emerge Amid Global Deepfake Arms Race",
+    "file": "html/article-0978-synthetic-media-authenticity-standards-emerge-amid-global-deepfake-arms-20261011-131524.html",
+    "timestamp": "20261011-131524",
+    "full_timestamp": "2026-10-11T13:15:24-07:00",
+    "summary": "As synthetic media proliferates, industry standards like C2PA and digital watermarking are emerging as critical tools to verify content authenticity.",
+    "original_topic": "AI Video Generation Models",
+    "search_query": "digital provenance standards synthetic media 2026",
+    "source_count": 12,
+    "tags": "Deepfake, Watermarking, Provenance, Media Forensics",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
