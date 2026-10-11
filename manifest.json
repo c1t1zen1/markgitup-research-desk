@@ -12752,5 +12752,18 @@
     "source_count": 12,
     "tags": "AI trading, crypto regulation, SEC enforcement, fintech",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 972,
+    "topic": "Apple M5 Pro Brings Transformer Engine to Mac",
+    "file": "html/article-0972-apple-m5-pro-brings-transformer-engine-to-mac-20261011-070210.html",
+    "timestamp": "20261011-070210",
+    "full_timestamp": "2026-10-11T07:02:10-07:00",
+    "summary": "Apple's M5 Pro chip adds a dedicated transformer engine to accelerate LLM inference, marking a hardware-level shift for on-device AI on the Mac.",
+    "original_topic": "M Series Apple Silicon LLM Inference",
+    "search_query": "Apple M5 Pro transformer engine Mac 2026",
+    "source_count": 12,
+    "tags": "Apple Silicon, LLM inference, hardware architecture",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
