@@ -12570,5 +12570,18 @@
     "source_count": 12,
     "tags": "LLMs, Edge AI, Quantization, Apple Silicon",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 958,
+    "topic": "AI Code Agents Confront Corporate IP Rights in Open-Source Model Training",
+    "file": "html/article-0958-ai-code-agents-confront-corporate-ip-rights-in-open-source-model-trainin-20261010-170408.html",
+    "timestamp": "20261010-170408",
+    "full_timestamp": "2026-10-10T17:04:08-07:00",
+    "summary": "Autonomous coding systems turn open-source training, verbatim-output allegations, and unresolved ownership rules into an immediate corporate IP problem—while litigation and policy responses remain unsettled.",
+    "original_topic": "Autonomous AI Code Agents",
+    "search_query": "AI code agent intellectual property lawsuits 2026",
+    "source_count": 12,
+    "tags": "AI Agents, IP Law, Software Licensing, Copyright",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
