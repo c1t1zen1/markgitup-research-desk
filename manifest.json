@@ -12869,5 +12869,18 @@
     "source_count": 12,
     "tags": "ESG, Financial Regulation, AI Auditing, Corporate Governance",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 981,
+    "topic": "Quantized LLMs on Mac: Bridging the Gap Between Edge AI and Enterprise Deployment",
+    "file": "html/article-0981-quantized-llms-on-mac-bridging-the-gap-between-edge-ai-and-enterprise-de-20261011-161306.html",
+    "timestamp": "20261011-161306",
+    "full_timestamp": "2026-10-11T16:13:06-07:00",
+    "summary": "Local LLMs on Mac: Moving beyond demos to practical enterprise adoption, leveraging Apple Silicon for private, on-premise AI.",
+    "original_topic": "Quantized LLMs Running on Mac Hardware",
+    "search_query": "local LLM deployment macOS enterprise use cases 2026",
+    "source_count": 12,
+    "tags": "LLMs, EdgeAI, macOS, Enterprise",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
