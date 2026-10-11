@@ -12661,5 +12661,18 @@
     "source_count": 12,
     "tags": "AI video, copyright, legal, training data",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 965,
+    "topic": "AI-Generated Voter Guides Spark First Legal Challenges in 2026 Midterms",
+    "file": "html/article-0965-ai-generated-voter-guides-spark-first-legal-challenges-in-2026-midterms-20261011-000441.html",
+    "timestamp": "20261011-000441",
+    "full_timestamp": "2026-10-11T00:04:41-07:00",
+    "summary": "As AI chatbots and deepfakes flood the 2026 midterm campaign, voters increasingly rely on AI voter guides — prompting the first legal challenges over accuracy, bias, and disclosure.",
+    "original_topic": "AI Misinformation & Election Integrity",
+    "search_query": "AI-generated voter guide legal challenge 2026 midterm",
+    "source_count": 12,
+    "tags": "AI misinformation, election integrity, legal challenges, 2026 midterms",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
