@@ -12648,5 +12648,18 @@
     "source_count": 12,
     "tags": "AI, code generation, patents, legal",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 964,
+    "topic": "AI Video Tools Face First Major Copyright Lawsuit Over Training Data",
+    "file": "html/article-0964-ai-video-tools-face-first-major-copyright-lawsuit-over-training-data-20261010-230150.html",
+    "timestamp": "20261010-230150",
+    "full_timestamp": "2026-10-10T23:01:50-07:00",
+    "summary": "A wave of copyright lawsuits targeting AI video tools over their training data is reshaping how companies build and deploy generative models, with early rulings signaling the end of an era of unchecked data scraping.",
+    "original_topic": "AI-Powered Video Editing & Post-Production",
+    "search_query": "AI video generation copyright lawsuit training data 2026",
+    "source_count": 12,
+    "tags": "AI video, copyright, legal, training data",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
