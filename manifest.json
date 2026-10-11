@@ -12635,5 +12635,18 @@
     "source_count": 12,
     "tags": "AI, policy, Washington, federal contracting",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 963,
+    "topic": "AI Code Agents Face First Major Patent Infringement Lawsuits in 2026",
+    "file": "html/article-0963-ai-code-agents-face-first-major-patent-infringement-lawsuits-in-2026-20261010-220227.html",
+    "timestamp": "20261010-220227",
+    "full_timestamp": "2026-10-10T22:02:27-07:00",
+    "summary": "As autonomous coding agents write production code at scale, the first major patent infringement lawsuits are emerging, challenging who owns AI-generated software and whether it infringes existing patents.",
+    "original_topic": "Autonomous AI Code Agents",
+    "search_query": "AI code agent patent infringement lawsuit 2026",
+    "source_count": 12,
+    "tags": "AI, code generation, patents, legal",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
