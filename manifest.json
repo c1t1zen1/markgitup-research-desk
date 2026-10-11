@@ -12583,5 +12583,18 @@
     "source_count": 12,
     "tags": "AI Agents, IP Law, Software Licensing, Copyright",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 959,
+    "topic": "Major Studios Adopt AI Video Upscaling for Legacy Film Restorations",
+    "file": "html/article-0959-major-studios-adopt-ai-video-upscaling-for-legacy-film-restorations-20261010-180158.html",
+    "timestamp": "20261010-180158",
+    "full_timestamp": "2026-10-10T18:01:58-07:00",
+    "summary": "Major studios are increasingly using AI video upscaling to restore and enhance legacy film content, marking a shift toward comprehensive restoration pipelines.",
+    "original_topic": "AI-Powered Video Editing & Post-Production",
+    "search_query": "AI video upscaling film restoration 2026",
+    "source_count": 12,
+    "tags": "AI, film restoration, video upscaling, entertainment",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
