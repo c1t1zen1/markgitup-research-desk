@@ -13116,5 +13116,18 @@
     "source_count": 12,
     "tags": "Adversarial AI, Fraud Detection, Cybersecurity, Banking AI",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1000,
+    "topic": "AI's Impact on Jurisdictional Conflicts in Cross-Border Digital Litigation",
+    "file": "html/article-1000-ai-s-impact-on-jurisdictional-conflicts-in-cross-border-digital-litigati-20261012-111314.html",
+    "timestamp": "20261012-111314",
+    "full_timestamp": "2026-10-12T11:13:14-07:00",
+    "summary": "Examining the complex legal friction when AI-generated evidence crosses borders, this article explores jurisdictional clashes in digital litigation.",
+    "original_topic": "AI in Legal Systems & Law Practice",
+    "search_query": "AI evidence admissibility international law 2026",
+    "source_count": 12,
+    "tags": "International Law, AI Evidence, Digital Jurisprudence, Cross-Border AI",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
