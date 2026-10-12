@@ -13168,5 +13168,18 @@
     "source_count": 12,
     "tags": "AI Policy, Lobbying, Geopolitics, Influence Operations",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1004,
+    "topic": "AI Companionship in Therapy: Addressing Digital Dependency and Emotional Over-Reliance",
+    "file": "html/article-1004-ai-companionship-in-therapy-addressing-digital-dependency-and-emotional-20261012-150400.html",
+    "timestamp": "20261012-150400",
+    "full_timestamp": "2026-10-12T15:04:00-07:00",
+    "summary": "Therapeutic AI may provide accessible support, but emotionally dependent relationships can blur care boundaries, reinforce isolation, and make healthy disengagement harder.",
+    "original_topic": "AI in Mental Health & Therapy",
+    "search_query": "AI mental health companions digital dependency ethical concerns 2026",
+    "source_count": 12,
+    "tags": "AI Therapy, Digital Ethics, Mental Health, Companionship",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
