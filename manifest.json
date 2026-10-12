@@ -13038,5 +13038,18 @@
     "source_count": 12,
     "tags": "Autonomous Agents, Industrial AI, Cyber-Physical Systems, Robotics",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 994,
+    "topic": "AI Video Editing's New Frontier: Procedural Generation of Complex Cinematography",
+    "file": "html/article-0994-ai-video-editing-s-new-frontier-procedural-generation-of-complex-cinemat-20261012-050410.html",
+    "timestamp": "20261012-050410",
+    "full_timestamp": "2026-10-12T05:04:10-07:00",
+    "summary": "Procedural cinematography promises richer AI video workflows, but the supplied evidence supports a cautious forecast—not proof that complex scene construction is production-ready.",
+    "original_topic": "AI-Powered Video Editing & Post-Production",
+    "search_query": "Procedural generation video editing cinematography AI 2026",
+    "source_count": 12,
+    "tags": "Procedural Generation, Video Synthesis, Cinematography, AI Tools",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
