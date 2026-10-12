@@ -13077,5 +13077,18 @@
     "source_count": 12,
     "tags": "Voter Behavior, Election AI, Predictive Modeling, Turnout",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 997,
+    "topic": "M-Series Silicon's Role in On-Device LLM Fine-Tuning for Personal Data Sovereignty",
+    "file": "html/article-0997-m-series-silicon-s-role-in-on-device-llm-fine-tuning-for-personal-data-s-20261012-081400.html",
+    "timestamp": "20261012-081400",
+    "full_timestamp": "2026-10-12T08:14:00-07:00",
+    "summary": "M-Series Silicon Enables Private LLM Fine-Tuning, Offering Users Control Over Personal Data Sovereignty in 2026.",
+    "original_topic": "M Series Apple Silicon LLM Inference",
+    "search_query": "M-series LLM fine-tuning local privacy 2026",
+    "source_count": 12,
+    "tags": "Edge AI, Privacy, M-Series, LLM",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
