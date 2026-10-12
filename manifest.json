@@ -12973,5 +12973,18 @@
     "source_count": 12,
     "tags": "AI, macOS, open source, developer tools",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 989,
+    "topic": "EU MiCA Rules Force Crypto AI Bots to Disclose Algorithmic Strategies",
+    "file": "html/article-0989-eu-mica-rules-force-crypto-ai-bots-to-disclose-algorithmic-strategies-20261012-000702.html",
+    "timestamp": "20261012-000702",
+    "full_timestamp": "2026-10-12T00:07:02-07:00",
+    "summary": "The EU's MiCA regulation, with a final implementation deadline of July 2026, mandates strict oversight for crypto trading bots, contrasting with US enforcement models.",
+    "original_topic": "AI Crypto Trading Bots & Performance",
+    "search_query": "EU MiCA crypto AI trading bot transparency rules 2026",
+    "source_count": 12,
+    "tags": "crypto regulation, AI trading, MiCA, algorithmic transparency",
+    "model_names": "/Users/c1t1zen/models/qwen3.8-flash-next-iq3s/IQ3_S/Qwen3.8-Flash-Next-GSQ-RCO-IQ3_S-00001-of-00002.gguf"
   }
 ]
