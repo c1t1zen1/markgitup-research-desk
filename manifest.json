@@ -12908,5 +12908,18 @@
     "source_count": 12,
     "tags": "Digital Rights, AI Law, Persona, Intellectual Property",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 984,
+    "topic": "AI-Generated Short-Form Video's Impact on Platform Algorithm Transparency",
+    "file": "html/article-0984-ai-generated-short-form-video-s-impact-on-platform-algorithm-transparenc-20261011-191344.html",
+    "timestamp": "20261011-191344",
+    "full_timestamp": "2026-10-11T19:13:44-07:00",
+    "summary": "AI-generated video floods social media, forcing platforms to confront the opaque nature of their recommendation algorithms.",
+    "original_topic": "AI Short Form Video & Social Media",
+    "search_query": "AI video generation impact on social media algorithms 2026",
+    "source_count": 12,
+    "tags": "AI Video, Social Media, Algorithms, Transparency",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
