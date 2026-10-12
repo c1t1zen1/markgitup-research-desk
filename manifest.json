@@ -12999,5 +12999,18 @@
     "source_count": 12,
     "tags": "AI Regulation, Synthetic Media, Advertising Compliance",
     "model_names": "/Users/c1t1zen/models/qwen3.8-flash-next-iq3s/IQ3_S/Qwen3.8-Flash-Next-GSQ-RCO-IQ3_S-00001-of-00002.gguf"
+  },
+  {
+    "article_number": 991,
+    "topic": "State Lawsuits Challenge AI Chatbot Election Misinformation Liability",
+    "file": "html/article-0991-state-lawsuits-challenge-ai-chatbot-election-misinformation-liability-20261012-020140.html",
+    "timestamp": "20261012-020140",
+    "full_timestamp": "2026-10-12T02:01:40-07:00",
+    "summary": "State-level litigation and legislation are rapidly expanding, targeting AI chatbot liability for election misinformation and data privacy, creating a fragmented regulatory landscape distinct from federal efforts.",
+    "original_topic": "AI Misinformation & Election Integrity",
+    "search_query": "state lawsuits AI chatbots election misinformation liability 2026",
+    "source_count": 12,
+    "tags": "AI liability, election integrity, state legislation",
+    "model_names": "/Users/c1t1zen/models/qwen3.8-flash-next-iq3s/IQ3_S/Qwen3.8-Flash-Next-GSQ-RCO-IQ3_S-00001-of-00002.gguf"
   }
 ]
