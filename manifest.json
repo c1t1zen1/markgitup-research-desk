@@ -13155,5 +13155,18 @@
     "source_count": 12,
     "tags": "deepfakes, AI legislation, image abuse, takedown laws",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1003,
+    "topic": "AI Lobbying: How Synthetic Influence Operations Are Shaping Congressional Priorities",
+    "file": "html/article-1003-ai-lobbying-how-synthetic-influence-operations-are-shaping-congressional-20261012-140420.html",
+    "timestamp": "20261012-140420",
+    "full_timestamp": "2026-10-12T14:04:20-07:00",
+    "summary": "Washington’s AI lobbying boom is moving toward machine-assisted influence, but supplied evidence documents spending and tools more clearly than proof of synthetic advocacy campaigns.",
+    "original_topic": "AI Lobbying & Policy in Washington",
+    "search_query": "synthetic influence operations AI lobbying Washington 2026",
+    "source_count": 12,
+    "tags": "AI Policy, Lobbying, Geopolitics, Influence Operations",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
