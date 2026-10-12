@@ -13103,5 +13103,18 @@
     "source_count": 12,
     "tags": "LLM, Quantization, Apple Silicon, Edge AI",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 999,
+    "topic": "Real-Time Adversarial Attacks on Banking AI: Detecting Evolving Synthetic Fraud",
+    "file": "html/article-0999-real-time-adversarial-attacks-on-banking-ai-detecting-evolving-synthetic-20261012-100459.html",
+    "timestamp": "20261012-100459",
+    "full_timestamp": "2026-10-12T10:04:59-07:00",
+    "summary": "Banking AI is entering an adaptive arms race as synthetic identities, deepfake-enabled attacks, and adversarial inputs test whether deployed fraud controls can recognize changing behavior in real time.",
+    "original_topic": "AI Fraud Detection in Banking & Finance",
+    "search_query": "Adversarial attacks on financial fraud detection AI 2026",
+    "source_count": 12,
+    "tags": "Adversarial AI, Fraud Detection, Cybersecurity, Banking AI",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
