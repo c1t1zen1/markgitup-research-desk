@@ -12934,5 +12934,18 @@
     "source_count": 12,
     "tags": "Supply Chain, Geopolitics, Risk Management, AI",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 986,
+    "topic": "AI Auditing Financial Models for Synthetic Data Bias in Regulatory Filings",
+    "file": "html/article-0986-ai-auditing-financial-models-for-synthetic-data-bias-in-regulatory-filin-20261011-211301.html",
+    "timestamp": "20261011-211301",
+    "full_timestamp": "2026-10-11T21:13:01-07:00",
+    "summary": "AI Auditing Synthetic Data Bias: Ensuring Integrity in Financial Models for Regulatory Compliance",
+    "original_topic": "Generative AI for Financial Reporting",
+    "search_query": "AI auditing financial models synthetic data bias 2026",
+    "source_count": 12,
+    "tags": "AI Auditing, Financial Integrity, Synthetic Data, Regulation",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
