@@ -12921,5 +12921,18 @@
     "source_count": 12,
     "tags": "AI Video, Social Media, Algorithms, Transparency",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 985,
+    "topic": "AI's Role in Supply Chain Resilience: Predictive Modeling for Geopolitical Risk",
+    "file": "html/article-0985-ai-s-role-in-supply-chain-resilience-predictive-modeling-for-geopolitica-20261011-200513.html",
+    "timestamp": "20261011-200513",
+    "full_timestamp": "2026-10-11T20:05:13-07:00",
+    "summary": "AI is moving supply-chain analysis toward geopolitical risk sensing, but the supplied evidence supports directional capabilities—not yet validated claims that models can predict crises or prevent disruption.",
+    "original_topic": "AI Stock Prediction & Market Analysis",
+    "search_query": "AI supply chain geopolitical risk modeling 2026",
+    "source_count": 12,
+    "tags": "Supply Chain, Geopolitics, Risk Management, AI",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
