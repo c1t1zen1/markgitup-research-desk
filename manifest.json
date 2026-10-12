@@ -13012,5 +13012,18 @@
     "source_count": 12,
     "tags": "AI liability, election integrity, state legislation",
     "model_names": "/Users/c1t1zen/models/qwen3.8-flash-next-iq3s/IQ3_S/Qwen3.8-Flash-Next-GSQ-RCO-IQ3_S-00001-of-00002.gguf"
+  },
+  {
+    "article_number": 992,
+    "topic": "Generative AI's Impact on Creator Economy: New Monetization Models Emerge",
+    "file": "html/article-0992-generative-ai-s-impact-on-creator-economy-new-monetization-models-emerge-20261012-030441.html",
+    "timestamp": "20261012-030441",
+    "full_timestamp": "2026-10-12T03:04:41-07:00",
+    "summary": "Sparse but suggestive evidence points to AI-enabled creator monetization, while available sources leave the scale, durability, and economics of emerging short-form revenue models largely unverified.",
+    "original_topic": "AI Short Form Video & Social Media",
+    "search_query": "AI content monetization creator economy 2026",
+    "source_count": 12,
+    "tags": "Creator Economy, AI Monetization, Short-Form Video, Digital Rights",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
