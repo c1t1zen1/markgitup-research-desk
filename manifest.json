@@ -12895,5 +12895,18 @@
     "source_count": 12,
     "tags": "AI, Elections, Ethics, Microtargeting",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 983,
+    "topic": "Governing Digital Persona Rights: New Legal Frameworks for AI Avatars",
+    "file": "html/article-0983-governing-digital-persona-rights-new-legal-frameworks-for-ai-avatars-20261011-180744.html",
+    "timestamp": "20261011-180744",
+    "full_timestamp": "2026-10-11T18:07:44-07:00",
+    "summary": "New avatar laws and rulings are shifting attention from copyright to personality, publicity, moral, contract, and post-mortem claims—but ownership rules remain unsettled.",
+    "original_topic": "AI Video Avatars & Virtual Presenters",
+    "search_query": "AI avatar personality rights legal precedent 2026",
+    "source_count": 12,
+    "tags": "Digital Rights, AI Law, Persona, Intellectual Property",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
