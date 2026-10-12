@@ -13025,5 +13025,18 @@
     "source_count": 12,
     "tags": "Creator Economy, AI Monetization, Short-Form Video, Digital Rights",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 993,
+    "topic": "Autonomous Agents Navigating Complex Multi-Agent Systems in Industrial Control",
+    "file": "html/article-0993-autonomous-agents-navigating-complex-multi-agent-systems-in-industrial-c-20261012-040410.html",
+    "timestamp": "20261012-040410",
+    "full_timestamp": "2026-10-12T04:04:10-07:00",
+    "summary": "Industrial agentic AI is moving toward multi-step manufacturing orchestration, but evidence supports guarded recommendations and integration more strongly than autonomous control of critical infrastructure.",
+    "original_topic": "Autonomous AI Code Agents",
+    "search_query": "AI code agents industrial control systems deployment 2026 latest",
+    "source_count": 12,
+    "tags": "Autonomous Agents, Industrial AI, Cyber-Physical Systems, Robotics",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
