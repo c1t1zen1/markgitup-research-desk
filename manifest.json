@@ -12960,5 +12960,18 @@
     "source_count": 12,
     "tags": "AI video editing, filmmaking, content creation, script-to-film",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 988,
+    "topic": "Local AI Inference on Mac: New Open-Source Frameworks Emerge",
+    "file": "html/article-0988-local-ai-inference-on-mac-new-open-source-frameworks-emerge-20261011-230630.html",
+    "timestamp": "20261011-230630",
+    "full_timestamp": "2026-10-11T23:06:30-07:00",
+    "summary": "A growing open-source ecosystem of inference engines, including Apple's MLX, is enabling developers to run large language models locally on Apple Silicon without cloud dependencies.",
+    "original_topic": "Local AI Tools & Stacks for macOS",
+    "search_query": "open source local AI inference frameworks Mac 2026",
+    "source_count": 12,
+    "tags": "AI, macOS, open source, developer tools",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
