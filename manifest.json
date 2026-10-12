@@ -13051,5 +13051,18 @@
     "source_count": 12,
     "tags": "Procedural Generation, Video Synthesis, Cinematography, AI Tools",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 995,
+    "topic": "AI Market Sentiment Analysis Adapts to Quantum Computing Investment Shifts",
+    "file": "html/article-0995-ai-market-sentiment-analysis-adapts-to-quantum-computing-investment-shif-20261012-061228.html",
+    "timestamp": "20261012-061228",
+    "full_timestamp": "2026-10-12T06:12:28-07:00",
+    "summary": "AI sentiment analysis is evolving to track quantum computing investment shifts, navigating potential bubble claims amidst sector growth.",
+    "original_topic": "AI Stock Prediction & Market Analysis",
+    "search_query": "AI market sentiment quantum computing investment 2026",
+    "source_count": 12,
+    "tags": "AI, Quantum, Finance, Market Prediction",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
