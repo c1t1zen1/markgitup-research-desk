@@ -12882,5 +12882,18 @@
     "source_count": 12,
     "tags": "LLMs, EdgeAI, macOS, Enterprise",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 982,
+    "topic": "AI Campaign Micro-Targeting Hits New Ethical Crossroads in 2026",
+    "file": "html/article-0982-ai-campaign-micro-targeting-hits-new-ethical-crossroads-in-2026-20261011-170453.html",
+    "timestamp": "20261011-170453",
+    "full_timestamp": "2026-10-11T17:04:53-07:00",
+    "summary": "As campaigns move from generic AI content toward voter targeting, the 2026 debate turns on safeguards, disclosure, enforcement, and whether personalization outpaces public oversight.",
+    "original_topic": "AI in US Elections & Campaigns",
+    "search_query": "AI micro-targeting ethical concerns 2026 elections",
+    "source_count": 12,
+    "tags": "AI, Elections, Ethics, Microtargeting",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
