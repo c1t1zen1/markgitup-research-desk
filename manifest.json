@@ -13142,5 +13142,18 @@
     "source_count": 12,
     "tags": "Intelligence, Surveillance, AI Ethics, National Security",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1002,
+    "topic": "Deepfake Law Enforcement Shifts Toward Rapid Takedowns for Nonconsensual AI Images",
+    "file": "html/article-1002-deepfake-law-enforcement-shifts-toward-rapid-takedowns-for-nonconsensual-20261012-130509.html",
+    "timestamp": "20261012-130509",
+    "full_timestamp": "2026-10-12T13:05:09-07:00",
+    "summary": "The supplied trackers point to a legal shift: victim complaints and rapid platform removal are gaining priority, while state coverage, civil remedies, and enforcement details remain uneven.",
+    "original_topic": "Deepfake Legislation & Synthetic Media Laws",
+    "search_query": "2026 state laws nonconsensual AI images rapid takedown enforcement",
+    "source_count": 12,
+    "tags": "deepfakes, AI legislation, image abuse, takedown laws",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
