@@ -12986,5 +12986,18 @@
     "source_count": 12,
     "tags": "crypto regulation, AI trading, MiCA, algorithmic transparency",
     "model_names": "/Users/c1t1zen/models/qwen3.8-flash-next-iq3s/IQ3_S/Qwen3.8-Flash-Next-GSQ-RCO-IQ3_S-00001-of-00002.gguf"
+  },
+  {
+    "article_number": 990,
+    "topic": "FTC Mandates Watermarking for AI Avatars in Commercial Video Ads",
+    "file": "html/article-0990-ftc-mandates-watermarking-for-ai-avatars-in-commercial-video-ads-20261012-010145.html",
+    "timestamp": "20261012-010145",
+    "full_timestamp": "2026-10-12T01:01:45-07:00",
+    "summary": "Emerging 2026 regulatory frameworks mandate dual disclosure for AI avatars in ads, combining promotional tags with synthetic content labels to prevent consumer deception.",
+    "original_topic": "AI Video Avatars & Virtual Presenters",
+    "search_query": "FTC AI avatar watermarking rules commercial video ads 2026",
+    "source_count": 12,
+    "tags": "AI Regulation, Synthetic Media, Advertising Compliance",
+    "model_names": "/Users/c1t1zen/models/qwen3.8-flash-next-iq3s/IQ3_S/Qwen3.8-Flash-Next-GSQ-RCO-IQ3_S-00001-of-00002.gguf"
   }
 ]
