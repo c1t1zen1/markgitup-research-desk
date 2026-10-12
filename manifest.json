@@ -13090,5 +13090,18 @@
     "source_count": 12,
     "tags": "Edge AI, Privacy, M-Series, LLM",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 998,
+    "topic": "Optimizing Quantized LLMs for Heterogeneous Apple Silicon Workloads in 2026",
+    "file": "html/article-0998-optimizing-quantized-llms-for-heterogeneous-apple-silicon-workloads-in-2-20261012-091349.html",
+    "timestamp": "20261012-091349",
+    "full_timestamp": "2026-10-12T09:13:49-07:00",
+    "summary": "Optimizing LLMs on Apple Silicon requires mastering heterogeneous workloads across CPU, GPU, and Neural Engine for peak 2026 performance.",
+    "original_topic": "Quantized LLMs Running on Mac Hardware",
+    "search_query": "LLM quantization performance heterogeneous Apple Silicon 2026",
+    "source_count": 12,
+    "tags": "LLM, Quantization, Apple Silicon, Edge AI",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
