@@ -13467,5 +13467,18 @@
     "source_count": 12,
     "tags": "DevOps, Autonomous Agents, Software Engineering, CI/CD",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1027,
+    "topic": "Synthetic Identity Fraud: AI Deepfakes Targeting Voter Registration and Biometric Systems",
+    "file": "html/article-1027-synthetic-identity-fraud-ai-deepfakes-targeting-voter-registration-and-b-20261013-141320.html",
+    "timestamp": "20261013-141320",
+    "full_timestamp": "2026-10-13T14:13:20-07:00",
+    "summary": "Synthetic identity fraud leverages generative AI to compromise voter registration and biometric verification systems, threatening election integrity.",
+    "original_topic": "AI Misinformation & Election Integrity",
+    "search_query": "AI deepfake voter registration fraud detection 2026",
+    "source_count": 12,
+    "tags": "Deepfakes, Election Security, Synthetic Identity, Biometrics",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
