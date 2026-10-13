@@ -13350,5 +13350,18 @@
     "source_count": 12,
     "tags": "AI, Infrastructure, Lobbying, Federal Spending",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1018,
+    "topic": "Hyper-Realistic Avatars in Metaverse Commerce: The Next Frontier of Digital Sales",
+    "file": "html/article-1018-hyper-realistic-avatars-in-metaverse-commerce-the-next-frontier-of-digit-20261013-051152.html",
+    "timestamp": "20261013-051152",
+    "full_timestamp": "2026-10-13T05:11:52-07:00",
+    "summary": "Hyper-realistic AI avatars are poised to redefine commerce by embedding digital sales representatives directly within immersive metaverse environments.",
+    "original_topic": "AI Video Avatars & Virtual Presenters",
+    "search_query": "AI video avatars in virtual retail experiences 2026",
+    "source_count": 12,
+    "tags": "Metaverse, E-commerce, AI Avatars, Virtual Commerce",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
