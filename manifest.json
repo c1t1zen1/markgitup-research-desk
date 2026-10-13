@@ -13298,5 +13298,18 @@
     "source_count": 12,
     "tags": "AR/VR, Edge AI, M-Series, Low-Latency",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1014,
+    "topic": "Decentralized Autonomous Organizations and AI: Governing Crypto Trading Bot Behavior",
+    "file": "html/article-1014-decentralized-autonomous-organizations-and-ai-governing-crypto-trading-b-20261013-010437.html",
+    "timestamp": "20261013-010437",
+    "full_timestamp": "2026-10-13T01:04:37-07:00",
+    "summary": "As AI trading agents enter DAO decision systems, performance alone cannot define success: control rights, treasury safeguards, proposal integrity, and accountability become governance questions.",
+    "original_topic": "AI Crypto Trading Bots & Performance",
+    "search_query": "DAO governance AI crypto trading bot risk 2026 latest",
+    "source_count": 12,
+    "tags": "DAO, AI Governance, Crypto Trading, Autonomy",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
