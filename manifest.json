@@ -13207,5 +13207,18 @@
     "source_count": 12,
     "tags": "FinTech, Regulation, LLMs, Compliance",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1007,
+    "topic": "Local LLMs on Mac: Bridging Privacy Gaps with Federated Learning Architectures",
+    "file": "html/article-1007-local-llms-on-mac-bridging-privacy-gaps-with-federated-learning-architec-20261012-180503.html",
+    "timestamp": "20261012-180503",
+    "full_timestamp": "2026-10-12T18:05:03-07:00",
+    "summary": "Mac-based local LLMs are moving toward a possible privacy-preserving training layer, but supplied evidence supports hardware and inference claims far more strongly than federated-learning adoption.",
+    "original_topic": "Privacy-First Local AI on Mac",
+    "search_query": "Federated learning local LLM Apple Silicon 2026",
+    "source_count": 12,
+    "tags": "LocalAI, Privacy, FederatedLearning, AppleSilicon",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
