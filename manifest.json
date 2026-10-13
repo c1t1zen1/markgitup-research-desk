@@ -13402,5 +13402,18 @@
     "source_count": 12,
     "tags": "HFT, Sentiment Analysis, LLMs, FinTech",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1022,
+    "topic": "AI-Driven Counter-Intelligence: Detecting Adversarial Influence in US Defense Networks",
+    "file": "html/article-1022-ai-driven-counter-intelligence-detecting-adversarial-influence-in-us-def-20261013-091202.html",
+    "timestamp": "20261013-091202",
+    "full_timestamp": "2026-10-13T09:12:02-07:00",
+    "summary": "AI is being deployed to actively detect sophisticated, state-sponsored adversarial influence embedded within critical US defense networks.",
+    "original_topic": "AI in US Intelligence & Surveillance",
+    "search_query": "AI detection adversarial influence US intelligence 2026",
+    "source_count": 12,
+    "tags": "Cybersecurity, Defense AI, Counter-Intelligence, Information Warfare",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
