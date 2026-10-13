@@ -13441,5 +13441,18 @@
     "source_count": 12,
     "tags": "Generative Video, Post-Production, Temporal Coherence, AI Editing",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1025,
+    "topic": "MCP and macOS Permission Walls Reshape the Next Generation of Local AI Desktop Agents",
+    "file": "html/article-1025-mcp-and-macos-permission-walls-reshape-the-next-generation-of-local-ai-d-20261013-120518.html",
+    "timestamp": "20261013-120518",
+    "full_timestamp": "2026-10-13T12:05:18-07:00",
+    "summary": "MCP policy boundaries, macOS sandboxing, and unresolved TCC details will determine whether local desktop agents can act broadly without turning developer access into uncontrolled risk.",
+    "original_topic": "Local AI Tools & Stacks for macOS",
+    "search_query": "macOS local AI agents MCP TCC permissions sandboxing 2026",
+    "source_count": 12,
+    "tags": "MCP, macOS security, AI agents, local AI",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
