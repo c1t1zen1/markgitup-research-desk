@@ -13246,5 +13246,18 @@
     "source_count": 12,
     "tags": "Compiler, Neural Engine, Apple Silicon, Performance",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1010,
+    "topic": "Post-Quantum Cryptography Challenges in Real-Time Financial Transaction Integrity",
+    "file": "html/article-1010-post-quantum-cryptography-challenges-in-real-time-financial-transaction-20261012-210511.html",
+    "timestamp": "20261012-210511",
+    "full_timestamp": "2026-10-12T21:05:11-07:00",
+    "summary": "Financial institutions face a practical quantum-safety transition: protecting transaction integrity requires crypto-agility, controlled pilots, interoperability testing, resilient operations, and governance before quantum threats become immediate.",
+    "original_topic": "AI Fraud Detection in Banking & Finance",
+    "search_query": "Quantum resistance banking transaction security 2026",
+    "source_count": 12,
+    "tags": "Quantum Security, FinTech, Cryptography, Banking AI",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
