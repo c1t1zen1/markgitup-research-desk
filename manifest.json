@@ -13220,5 +13220,18 @@
     "source_count": 12,
     "tags": "LocalAI, Privacy, FederatedLearning, AppleSilicon",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1008,
+    "topic": "Edge AI in Smart Homes: Decentralized Processing for Enhanced Local Privacy",
+    "file": "html/article-1008-edge-ai-in-smart-homes-decentralized-processing-for-enhanced-local-priva-20261012-191401.html",
+    "timestamp": "20261012-191401",
+    "full_timestamp": "2026-10-12T19:14:01-07:00",
+    "summary": "Edge AI is decentralizing smart homes, shifting processing from the cloud to local hubs for enhanced data privacy and reduced latency.",
+    "original_topic": "AI-Powered Smart Homes & Automation",
+    "search_query": "edge ai smart home local processing privacy 2026",
+    "source_count": 12,
+    "tags": "Edge AI, Smart Homes, Privacy, Decentralization",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
