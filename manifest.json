@@ -13311,5 +13311,18 @@
     "source_count": 12,
     "tags": "DAO, AI Governance, Crypto Trading, Autonomy",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1015,
+    "topic": "AI-Generated Video Authenticity in Live Broadcasts: New Detection Paradigms Emergence",
+    "file": "html/article-1015-ai-generated-video-authenticity-in-live-broadcasts-new-detection-paradig-20261013-020415.html",
+    "timestamp": "20261013-020415",
+    "full_timestamp": "2026-10-13T02:04:15-07:00",
+    "summary": "Live broadcasts need authenticity checks that survive compression and re-encoding, shifting deepfake detection from visible glitches toward statistical analysis inside production workflows.",
+    "original_topic": "AI Short Form Video & Social Media",
+    "search_query": "AI synthetic video detection live streaming 2026",
+    "source_count": 12,
+    "tags": "Deepfakes, Live Media, Authenticity, AI Detection",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
