@@ -13233,5 +13233,18 @@
     "source_count": 12,
     "tags": "Edge AI, Smart Homes, Privacy, Decentralization",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1009,
+    "topic": "Accelerating Neural Engine Efficiency: New Compiler Optimizations for Apple Silicon AI",
+    "file": "html/article-1009-accelerating-neural-engine-efficiency-new-compiler-optimizations-for-app-20261012-201523.html",
+    "timestamp": "20261012-201523",
+    "full_timestamp": "2026-10-12T20:15:23-07:00",
+    "summary": "Compiler optimizations are key to unlocking Apple Silicon's Neural Engine potential for next-generation local AI acceleration.",
+    "original_topic": "AI Development Tools for Apple Silicon",
+    "search_query": "Apple Silicon compiler optimizations neural engine performance 2026",
+    "source_count": 12,
+    "tags": "Compiler, Neural Engine, Apple Silicon, Performance",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
