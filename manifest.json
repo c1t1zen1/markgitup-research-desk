@@ -13376,5 +13376,18 @@
     "source_count": 12,
     "tags": "Deepfakes, International Law, AI Regulation, Cross-Border",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1020,
+    "topic": "Verifying AI-Generated Financial Narratives: The Rise of Explainable Reporting",
+    "file": "html/article-1020-verifying-ai-generated-financial-narratives-the-rise-of-explainable-repo-20261013-071359.html",
+    "timestamp": "20261013-071359",
+    "full_timestamp": "2026-10-13T07:13:59-07:00",
+    "summary": "Auditing AI Narratives: The Critical Need for Explainable Reporting to Meet Evolving Regulatory Scrutiny.",
+    "original_topic": "Generative AI for Financial Reporting",
+    "search_query": "Explainable AI financial disclosure auditing standards 2026",
+    "source_count": 12,
+    "tags": "XAI, Financial Auditing, Regulatory Tech, Generative AI",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
