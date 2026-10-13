@@ -13389,5 +13389,18 @@
     "source_count": 12,
     "tags": "XAI, Financial Auditing, Regulatory Tech, Generative AI",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1021,
+    "topic": "LLMs for Real-Time Market Sentiment Analysis in High-Frequency Trading",
+    "file": "html/article-1021-llms-for-real-time-market-sentiment-analysis-in-high-frequency-trading-20261013-081312.html",
+    "timestamp": "20261013-081312",
+    "full_timestamp": "2026-10-13T08:13:12-07:00",
+    "summary": "LLMs enable HFT to shift from lagging to real-time market sentiment extraction by synthesizing vast, high-velocity data streams.",
+    "original_topic": "LLMs in Hedge Funds & Trading",
+    "search_query": "LLMs real-time market sentiment high-frequency trading 2026 latest",
+    "source_count": 12,
+    "tags": "HFT, Sentiment Analysis, LLMs, FinTech",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
