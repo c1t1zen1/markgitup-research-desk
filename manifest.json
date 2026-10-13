@@ -13259,5 +13259,18 @@
     "source_count": 12,
     "tags": "Quantum Security, FinTech, Cryptography, Banking AI",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1011,
+    "topic": "Personalized Knowledge Graphs Powered by Local LLMs on Mac",
+    "file": "html/article-1011-personalized-knowledge-graphs-powered-by-local-llms-on-mac-20261012-220543.html",
+    "timestamp": "20261012-220543",
+    "full_timestamp": "2026-10-12T22:05:43-07:00",
+    "summary": "Local LLMs could turn a Mac’s private notes and documents into a personalized knowledge graph, but the evidence supports a cautious architecture-first forecast, not proof of Mac-specific performance.",
+    "original_topic": "Privacy-First Local AI on Mac",
+    "search_query": "local LLM knowledge graph personal data sovereignty 2026 latest",
+    "source_count": 12,
+    "tags": "Knowledge Graphs, Local AI, Data Sovereignty, Mac",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
