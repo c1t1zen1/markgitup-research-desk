@@ -13493,5 +13493,18 @@
     "source_count": 12,
     "tags": "Video Synthesis, Temporal Modeling, Generative AI, Consistency",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1029,
+    "topic": "AI Companionship in Geriatric Care: Ethical Boundaries of Affective Computing",
+    "file": "html/article-1029-ai-companionship-in-geriatric-care-ethical-boundaries-of-affective-compu-20261013-160403.html",
+    "timestamp": "20261013-160403",
+    "full_timestamp": "2026-10-13T16:04:03-07:00",
+    "summary": "Emotionally responsive AI may ease loneliness and support elder care, but privacy, dignity, dependence, scams, and human connection demand clear ethical limits.",
+    "original_topic": "AI in Mental Health & Therapy",
+    "search_query": "AI companions mental health elderly care ethics 2026",
+    "source_count": 12,
+    "tags": "Affective Computing, Geriatrics, AI Ethics, Digital Health",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
