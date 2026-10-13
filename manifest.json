@@ -13415,5 +13415,18 @@
     "source_count": 12,
     "tags": "Cybersecurity, Defense AI, Counter-Intelligence, Information Warfare",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1023,
+    "topic": "KV-Cache Quantization Becomes Mac LLMs’ New Battleground for Long-Context Inference",
+    "file": "html/article-1023-kv-cache-quantization-becomes-mac-llms-new-battleground-for-long-context-20261013-101436.html",
+    "timestamp": "20261013-101436",
+    "full_timestamp": "2026-10-13T10:14:36-07:00",
+    "summary": "KV-Cache compression is redefining long-context LLMs on Macs, making memory efficiency the new frontier for local AI.",
+    "original_topic": "Quantized LLMs Running on Mac Hardware",
+    "search_query": "MLX-LM KV cache quantization long context Apple Silicon Macs 2026",
+    "source_count": 12,
+    "tags": "KV-cache, long-context, MLX, Apple Silicon",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
