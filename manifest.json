@@ -13480,5 +13480,18 @@
     "source_count": 12,
     "tags": "Deepfakes, Election Security, Synthetic Identity, Biometrics",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1028,
+    "topic": "Temporal Coherence in AI Video: Modeling Long-Term Scene Evolution Beyond Current Diffusion Limits",
+    "file": "html/article-1028-temporal-coherence-in-ai-video-modeling-long-term-scene-evolution-beyond-20261013-150416.html",
+    "timestamp": "20261013-150416",
+    "full_timestamp": "2026-10-13T15:04:16-07:00",
+    "summary": "Short clips can look convincing while long-form generation still faces an unresolved coherence problem: preserving visual continuity and story logic across extended sequences.",
+    "original_topic": "AI Video Generation Models",
+    "search_query": "AI video generation long-term temporal coherence models 2026",
+    "source_count": 12,
+    "tags": "Video Synthesis, Temporal Modeling, Generative AI, Consistency",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
