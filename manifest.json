@@ -13363,5 +13363,18 @@
     "source_count": 12,
     "tags": "Metaverse, E-commerce, AI Avatars, Virtual Commerce",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1019,
+    "topic": "Jurisdictional Conflicts in Cross-Border Synthetic Media Liability Post-GDPR Expansion",
+    "file": "html/article-1019-jurisdictional-conflicts-in-cross-border-synthetic-media-liability-post-20261013-061249.html",
+    "timestamp": "20261013-061249",
+    "full_timestamp": "2026-10-13T06:12:49-07:00",
+    "summary": "Navigating global legal fragmentation, cross-border synthetic media liability clashes with evolving data privacy mandates like GDPR.",
+    "original_topic": "Deepfake Legislation & Synthetic Media Laws",
+    "search_query": "international legal frameworks synthetic media liability 2026",
+    "source_count": 12,
+    "tags": "Deepfakes, International Law, AI Regulation, Cross-Border",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
