@@ -13428,5 +13428,18 @@
     "source_count": 12,
     "tags": "KV-cache, long-context, MLX, Apple Silicon",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1024,
+    "topic": "Generative Video Synthesis: Real-Time Consistency Challenges in Multi-Scene Editing",
+    "file": "html/article-1024-generative-video-synthesis-real-time-consistency-challenges-in-multi-sce-20261013-111222.html",
+    "timestamp": "20261013-111222",
+    "full_timestamp": "2026-10-13T11:12:22-07:00",
+    "summary": "Generative video synthesis faces critical hurdles in maintaining temporal and visual coherence across complex, multi-scene AI-generated sequences.",
+    "original_topic": "AI-Powered Video Editing & Post-Production",
+    "search_query": "real-time video consistency generative AI editing 2026 latest",
+    "source_count": 12,
+    "tags": "Generative Video, Post-Production, Temporal Coherence, AI Editing",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
