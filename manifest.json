@@ -13714,5 +13714,18 @@
     "source_count": 12,
     "tags": "AI Video, Hollywood, Sora 2, Post-Production",
     "model_names": "/Users/c1t1zen/models/qwen3.8-flash-next-iq4xs/UD-IQ4_XS/Qwen3.8-Flash-Next-UD-IQ4_XS-00001-of-00003.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1046,
+    "topic": "Real-Time Voice Cloning Scams Force Banks to Adopt Dynamic Audio Watermarking",
+    "file": "html/article-1046-real-time-voice-cloning-scams-force-banks-to-adopt-dynamic-audio-waterma-20261014-092340.html",
+    "timestamp": "20261014-092340",
+    "full_timestamp": "2026-10-14T09:23:40-07:00",
+    "summary": "Banks face increasingly credible real-time voice-cloning fraud, but supplied evidence shows operational detection and consent gaps—not proof that dynamic audio watermarking has emerged or works.",
+    "original_topic": "AI Fraud Detection in Banking & Finance",
+    "search_query": "dynamic audio watermarking voice cloning banking fraud 2026",
+    "source_count": 12,
+    "tags": "voice cloning, audio watermarking, banking security, fraud detection",
+    "model_names": "/Users/c1t1zen/models/qwen3.8-flash-next-iq4xs/UD-IQ4_XS/Qwen3.8-Flash-Next-UD-IQ4_XS-00001-of-00003.gguf + GPT 5.6 Luna"
   }
 ]
