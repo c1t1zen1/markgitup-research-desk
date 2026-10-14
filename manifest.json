@@ -13571,5 +13571,18 @@
     "source_count": 12,
     "tags": "Emotional AI, Virtual Presenters, Biometric Feedback, Real-Time Interaction",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1035,
+    "topic": "On-Device LLMs and Secure Enclave Integration for Sensitive Data Processing",
+    "file": "html/article-1035-on-device-llms-and-secure-enclave-integration-for-sensitive-data-process-20261013-220552.html",
+    "timestamp": "20261013-220552",
+    "full_timestamp": "2026-10-13T22:05:52-07:00",
+    "summary": "Local Apple Silicon inference can reduce exposure, but the supplied evidence shows secure-enclave isolation and LLM execution remain separate design claims—not a verified cryptographically isolated pipeline.",
+    "original_topic": "Privacy-First Local AI on Mac",
+    "search_query": "macOS Secure Enclave LLM data isolation 2026",
+    "source_count": 12,
+    "tags": "Secure Enclave, Local AI, Data Privacy, Apple Silicon",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
