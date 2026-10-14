@@ -13506,5 +13506,18 @@
     "source_count": 12,
     "tags": "Affective Computing, Geriatrics, AI Ethics, Digital Health",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1030,
+    "topic": "AI-Driven Voter Targeting: Micro-Segmentation of Persuasion in Digital Campaigns",
+    "file": "html/article-1030-ai-driven-voter-targeting-micro-segmentation-of-persuasion-in-digital-ca-20261013-171252.html",
+    "timestamp": "20261013-171252",
+    "full_timestamp": "2026-10-13T17:12:52-07:00",
+    "summary": "AI is enabling hyper-granular political persuasion, allowing campaigns to exploit specific voter anxieties through precise digital micro-segmentation.",
+    "original_topic": "AI in US Elections & Campaigns",
+    "search_query": "AI micro-segmentation political advertising 2026",
+    "source_count": 12,
+    "tags": "AI, Elections, Microtargeting, CampaignTech",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
