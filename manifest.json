@@ -13584,5 +13584,18 @@
     "source_count": 12,
     "tags": "Secure Enclave, Local AI, Data Privacy, Apple Silicon",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1036,
+    "topic": "Bridging the Gap: Bridging Model Fidelity and Latency on M-Series Architectures",
+    "file": "html/article-1036-bridging-the-gap-bridging-model-fidelity-and-latency-on-m-series-archite-20261013-230603.html",
+    "timestamp": "20261013-230603",
+    "full_timestamp": "2026-10-13T23:06:03-07:00",
+    "summary": "On M-Series inference, preserving model fidelity under low latency demands evidence-led trade-offs: quantify quality loss, test memory-bound behavior, and choose optimization layers deliberately.",
+    "original_topic": "M Series Apple Silicon LLM Inference",
+    "search_query": "M-series LLM deployment latency optimization 2026",
+    "source_count": 12,
+    "tags": "LLM, Apple Silicon, Inference, Latency",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
