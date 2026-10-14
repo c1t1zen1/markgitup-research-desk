@@ -13779,5 +13779,18 @@
     "source_count": 12,
     "tags": "AI, Elections, Data Privacy, Microtargeting",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1051,
+    "topic": "Generative Video Models Addressing IP Rights in Post-Production Workflows",
+    "file": "html/article-1051-generative-video-models-addressing-ip-rights-in-post-production-workflow-20261014-140420.html",
+    "timestamp": "20261014-140420",
+    "full_timestamp": "2026-10-14T14:04:20-07:00",
+    "summary": "As generative video tools transform licensed footage, creators must separate source permissions, output authorship, reproduction liability, and jurisdiction-specific compliance in every post-production workflow.",
+    "original_topic": "AI-Powered Video Editing & Post-Production",
+    "search_query": "Generative AI video intellectual property rights 2026",
+    "source_count": 12,
+    "tags": "AI Video, Copyright, IP Law, Post-Production",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
