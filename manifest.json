@@ -13805,5 +13805,18 @@
     "source_count": 12,
     "tags": "TinyML, EdgeAI, Quantization, Embedded",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1053,
+    "topic": "Provenance Tracking: Blockchain Solutions for Authenticating Synthetic Media in 2026",
+    "file": "html/article-1053-provenance-tracking-blockchain-solutions-for-authenticating-synthetic-me-20261014-161247.html",
+    "timestamp": "20261014-161247",
+    "full_timestamp": "2026-10-14T16:12:47-07:00",
+    "summary": "Blockchain and digital provenance are emerging as critical technological countermeasures to authenticate synthetic media in 2026.",
+    "original_topic": "Deepfake Legislation & Synthetic Media Laws",
+    "search_query": "digital content provenance blockchain authentication 2026",
+    "source_count": 12,
+    "tags": "Synthetic Media, Blockchain, Provenance, Digital Forensics",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
