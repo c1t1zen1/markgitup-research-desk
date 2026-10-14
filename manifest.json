@@ -13597,5 +13597,18 @@
     "source_count": 12,
     "tags": "LLM, Apple Silicon, Inference, Latency",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1037,
+    "topic": "Algorithmic Homogenization: How AI Short-Form Video Is Flattening Global Cultural Distinctiveness",
+    "file": "html/article-1037-algorithmic-homogenization-how-ai-short-form-video-is-flattening-global-20261014-000318.html",
+    "timestamp": "20261014-000318",
+    "full_timestamp": "2026-10-14T00:03:18-07:00",
+    "summary": "Generative AI and recommendation algorithms are converging global content aesthetics, eroding local cultural nuances in favor of optimized, generic visual patterns.",
+    "original_topic": "AI Short Form Video & Social Media",
+    "search_query": "AI short-form video algorithms cultural homogenization 2026 study",
+    "source_count": 12,
+    "tags": "AI Video, Cultural Impact, Algorithmic Bias, Social Media",
+    "model_names": "/Users/c1t1zen/models/qwen3.8-flash-next-iq4xs/UD-IQ4_XS/Qwen3.8-Flash-Next-UD-IQ4_XS-00001-of-00003.gguf"
   }
 ]
