@@ -13545,5 +13545,18 @@
     "source_count": 12,
     "tags": "MCP, Home Assistant, agentic automation, smart-home security",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1033,
+    "topic": "AI Video Synthesis for De-aging Talent: Ethical and Practical Hurdles in Production",
+    "file": "html/article-1033-ai-video-synthesis-for-de-aging-talent-ethical-and-practical-hurdles-in-20261013-201215.html",
+    "timestamp": "20261013-201215",
+    "full_timestamp": "2026-10-13T20:12:15-07:00",
+    "summary": "AI video synthesis allows filmmakers to de-age actors, but this technology introduces complex ethical debates regarding digital likeness and creative rights.",
+    "original_topic": "AI-Generated Video for Filmmaking & Content Creation",
+    "search_query": "AI de-aging actors video production ethics 2026",
+    "source_count": 12,
+    "tags": "AI Video, Digital Likeness, Ethics, Filmmaking",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
