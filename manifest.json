@@ -13662,5 +13662,18 @@
     "source_count": 12,
     "tags": "Matter, Smart Home, Interoperability, Thread",
     "model_names": "/Users/c1t1zen/models/qwen3.8-flash-next-iq4xs/UD-IQ4_XS/Qwen3.8-Flash-Next-UD-IQ4_XS-00001-of-00003.gguf"
+  },
+  {
+    "article_number": 1042,
+    "topic": "XBRL Automation: AI Agents Automate Complex Financial Disclosures in 2026",
+    "file": "html/article-1042-xbrl-automation-ai-agents-automate-complex-financial-disclosures-in-2026-20261014-051529.html",
+    "timestamp": "20261014-051529",
+    "full_timestamp": "2026-10-14T05:15:29-07:00",
+    "summary": "In 2026, AI agents are shifting from assisting financial drafting to autonomously managing XBRL tagging and regulatory compliance, altering filer liability.",
+    "original_topic": "Generative AI for Financial Reporting",
+    "search_query": "generative AI XBRL automation financial reporting 2026",
+    "source_count": 12,
+    "tags": "Generative AI, Financial Reporting, XBRL, Compliance",
+    "model_names": "/Users/c1t1zen/models/qwen3.8-flash-next-iq4xs/UD-IQ4_XS/Qwen3.8-Flash-Next-UD-IQ4_XS-00001-of-00003.gguf"
   }
 ]
