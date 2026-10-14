@@ -13792,5 +13792,18 @@
     "source_count": 12,
     "tags": "AI Video, Copyright, IP Law, Post-Production",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1052,
+    "topic": "Quantized LLMs and Edge Compute: Powering Local AI in Next-Gen IoT Devices",
+    "file": "html/article-1052-quantized-llms-and-edge-compute-powering-local-ai-in-next-gen-iot-device-20261014-151650.html",
+    "timestamp": "20261014-151650",
+    "full_timestamp": "2026-10-14T15:16:50-07:00",
+    "summary": "Quantization and TinyML are enabling the shift from cloud-centric AI to powerful, low-power, on-device inference for next-gen IoT.",
+    "original_topic": "Quantized LLMs Running on Mac Hardware",
+    "search_query": "TinyML LLM deployment edge devices 2026",
+    "source_count": 12,
+    "tags": "TinyML, EdgeAI, Quantization, Embedded",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
