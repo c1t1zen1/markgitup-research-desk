@@ -13532,5 +13532,18 @@
     "source_count": 12,
     "tags": "Metal, LLM, Fine-Tuning, Apple Silicon",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1032,
+    "topic": "MCP Comes Home: AI Agents Face New Permission Risks in Smart-Home Automation",
+    "file": "html/article-1032-mcp-comes-home-ai-agents-face-new-permission-risks-in-smart-home-automat-20261013-191231.html",
+    "timestamp": "20261013-191231",
+    "full_timestamp": "2026-10-13T19:12:31-07:00",
+    "summary": "MCP grants AI agents direct control over smart homes, introducing novel permission, safety, and accountability issues beyond existing automation debates.",
+    "original_topic": "AI-Powered Smart Homes & Automation",
+    "search_query": "Home Assistant MCP integrations AI agents smart home security 2026",
+    "source_count": 12,
+    "tags": "MCP, Home Assistant, agentic automation, smart-home security",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
