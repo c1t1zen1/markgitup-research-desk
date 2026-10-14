@@ -13519,5 +13519,18 @@
     "source_count": 12,
     "tags": "AI, Elections, Microtargeting, CampaignTech",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1031,
+    "topic": "Optimizing Metal Performance Shaders for On-Device Large Language Model Fine-Tuning",
+    "file": "html/article-1031-optimizing-metal-performance-shaders-for-on-device-large-language-model-20261013-180429.html",
+    "timestamp": "20261013-180429",
+    "full_timestamp": "2026-10-13T18:04:29-07:00",
+    "summary": "On-device LLM fine-tuning on Apple Silicon depends less on broad framework claims than on validating chip-specific Metal kernels, memory behavior, and iterative training throughput.",
+    "original_topic": "AI Development Tools for Apple Silicon",
+    "search_query": "Metal Performance Shaders LLM fine-tuning Apple Silicon 2026 latest",
+    "source_count": 12,
+    "tags": "Metal, LLM, Fine-Tuning, Apple Silicon",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
