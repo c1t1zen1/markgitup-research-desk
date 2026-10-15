@@ -14039,5 +14039,18 @@
     "source_count": 10,
     "tags": "AI, mental health, FDA, therapy",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1071,
+    "topic": "AI-Powered Predictive Policing Faces New Civil Rights Scrutiny in 2026",
+    "file": "html/article-1071-ai-powered-predictive-policing-faces-new-civil-rights-scrutiny-in-2026-20261015-100210.html",
+    "timestamp": "20261015-100210",
+    "full_timestamp": "2026-10-15T10:02:10-07:00",
+    "summary": "Algorithmic policing tools face mounting civil rights litigation as plaintiffs argue biased training data and opaque AI models violate constitutional protections, according to legal scholars and civil rights attorneys.",
+    "original_topic": "AI in US Intelligence & Surveillance",
+    "search_query": "AI predictive policing civil rights lawsuit 2026",
+    "source_count": 12,
+    "tags": "AI, predictive policing, civil rights, law enforcement",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
