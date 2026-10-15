@@ -13922,5 +13922,18 @@
     "source_count": 12,
     "tags": "MLX, distributed inference, Mac Studio, quantization",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1062,
+    "topic": "Optimizing On-Device LLMs for Extreme Low-Power Edge AI on Apple Silicon",
+    "file": "html/article-1062-optimizing-on-device-llms-for-extreme-low-power-edge-ai-on-apple-silicon-20261015-011528.html",
+    "timestamp": "20261015-011528",
+    "full_timestamp": "2026-10-15T01:15:28-07:00",
+    "summary": "Achieving extreme low-power edge AI requires deep optimization of quantized LLMs for Apple Silicon's unique architecture.",
+    "original_topic": "AI Development Tools for Apple Silicon",
+    "search_query": "Apple Silicon LLM power efficiency optimization 2026",
+    "source_count": 12,
+    "tags": "Edge AI, Apple Silicon, Low Power, LLMs",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
