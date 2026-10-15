@@ -13909,5 +13909,18 @@
     "source_count": 12,
     "tags": "AI, Policy, Governance, Misinformation",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1061,
+    "topic": "MLX Distributed Inference Turns Multiple Macs Into a Shared Quantized-Model Testbed",
+    "file": "html/article-1061-mlx-distributed-inference-turns-multiple-macs-into-a-shared-quantized-mo-20261015-001613.html",
+    "timestamp": "20261015-001613",
+    "full_timestamp": "2026-10-15T00:16:13-07:00",
+    "summary": "MLX enables multi-Mac LLM testbeds by sharding quantized models, moving local AI beyond single-device limits.",
+    "original_topic": "Quantized LLMs Running on Mac Hardware",
+    "search_query": "MLX distributed inference Mac Studio quantized language models 2026 news",
+    "source_count": 12,
+    "tags": "MLX, distributed inference, Mac Studio, quantization",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
