@@ -14117,5 +14117,18 @@
     "source_count": 12,
     "tags": "Smart Home, Edge AI, Climate Tech, Energy Efficiency",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1077,
+    "topic": "AI Video Synthesis Meets IP Law: Copyright Battles Over Generated Footage",
+    "file": "html/article-1077-ai-video-synthesis-meets-ip-law-copyright-battles-over-generated-footage-20261015-160417.html",
+    "timestamp": "20261015-160417",
+    "full_timestamp": "2026-10-15T16:04:17-07:00",
+    "summary": "AI video pipelines face unresolved ownership, registration, infringement, fair-use, training-data, and platform-policy questions, while the supplied evidence offers issue maps rather than settled rules for generated footage.",
+    "original_topic": "AI-Generated Video for Filmmaking & Content Creation",
+    "search_query": "copyright law AI generated video footage 2026",
+    "source_count": 12,
+    "tags": "AI, Copyright, Filmmaking, IP Law",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
