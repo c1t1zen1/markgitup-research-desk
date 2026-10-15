@@ -13935,5 +13935,18 @@
     "source_count": 12,
     "tags": "Edge AI, Apple Silicon, Low Power, LLMs",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1063,
+    "topic": "AI's Role in Predictive Litigation: Automated Case Outcome Forecasting in Civil Courts",
+    "file": "html/article-1063-ai-s-role-in-predictive-litigation-automated-case-outcome-forecasting-in-20261015-020427.html",
+    "timestamp": "20261015-020427",
+    "full_timestamp": "2026-10-15T02:04:27-07:00",
+    "summary": "AI is moving litigation forecasting from abstract promise toward early case assessment, motion strategy, settlement analysis, and more disciplined client expectations.",
+    "original_topic": "AI in Legal Systems & Law Practice",
+    "search_query": "AI predictive analytics legal case outcomes 2026",
+    "source_count": 12,
+    "tags": "LegalTech, PredictiveAI, Litigation, CivilLaw",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
