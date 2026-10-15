@@ -13987,5 +13987,18 @@
     "source_count": 12,
     "tags": "AI lobbying, synthetic media, federal policy, disclosure law",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1067,
+    "topic": "Apple's M-Series Chips Now Run 70B-Parameter LLMs Without Cloud",
+    "file": "html/article-1067-apple-s-m-series-chips-now-run-70b-parameter-llms-without-cloud-20261015-060222.html",
+    "timestamp": "20261015-060222",
+    "full_timestamp": "2026-10-15T06:02:22-07:00",
+    "summary": "Apple's M4 Max and Ultra silicon can now run 70B-parameter dense LLMs and massive MoE models entirely on-device, eliminating cloud dependency for local AI inference.",
+    "original_topic": "M Series Apple Silicon LLM Inference",
+    "search_query": "Apple M4 Max 70 billion LLM local inference 2026",
+    "source_count": 12,
+    "tags": "Apple Silicon, LLMs, On-Device AI, M-Series",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
