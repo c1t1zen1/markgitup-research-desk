@@ -13844,5 +13844,18 @@
     "source_count": 12,
     "tags": "Biometrics, Border Security, AI Drift, Surveillance",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1056,
+    "topic": "Optimizing Metal Performance: Fine-Tuning LLMs for Apple Silicon Neural Engine",
+    "file": "html/article-1056-optimizing-metal-performance-fine-tuning-llms-for-apple-silicon-neural-e-20261014-191604.html",
+    "timestamp": "20261014-191604",
+    "full_timestamp": "2026-10-14T19:16:04-07:00",
+    "summary": "Mastering Metal: Advanced techniques for fine-tuning LLMs to maximize Apple Silicon Neural Engine performance.",
+    "original_topic": "AI Development Tools for Apple Silicon",
+    "search_query": "LLM optimization Metal Neural Engine performance macOS 2026 latest",
+    "source_count": 12,
+    "tags": "Apple Silicon, LLM, Edge AI, Metal",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
