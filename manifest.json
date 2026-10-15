@@ -14013,5 +14013,18 @@
     "source_count": 12,
     "tags": "AI avatars, customer service, real-time video, 2026 tech",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1069,
+    "topic": "AI-Generated Earnings Calls Now Pass Human-Like Audibility Tests",
+    "file": "html/article-1069-ai-generated-earnings-calls-now-pass-human-like-audibility-tests-20261015-080157.html",
+    "timestamp": "20261015-080157",
+    "full_timestamp": "2026-10-15T08:01:57-07:00",
+    "summary": "Synthetic voice technology is producing earnings call audio indistinguishable from human executives, raising new questions about authenticity, compliance, and investor trust in financial reporting.",
+    "original_topic": "Generative AI for Financial Reporting",
+    "search_query": "AI generated earnings call audio 2026",
+    "source_count": 12,
+    "tags": "generative AI, financial reporting, synthetic voice, earnings calls",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
