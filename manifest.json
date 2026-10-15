@@ -13896,5 +13896,18 @@
     "source_count": 12,
     "tags": "digital forensics, synthetic media, video authentication, AI threats",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1060,
+    "topic": "AI-Generated Policy Briefs Skewing Legislative Priorities in Local Elections",
+    "file": "html/article-1060-ai-generated-policy-briefs-skewing-legislative-priorities-in-local-elect-20261014-231334.html",
+    "timestamp": "20261014-231334",
+    "full_timestamp": "2026-10-14T23:13:34-07:00",
+    "summary": "Beyond deepfakes: AI-authored policy briefs risk subtly steering local legislative priorities and shaping political discourse.",
+    "original_topic": "AI Misinformation & Election Integrity",
+    "search_query": "AI generated policy briefs local government elections 2026",
+    "source_count": 12,
+    "tags": "AI, Policy, Governance, Misinformation",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
