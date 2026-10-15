@@ -13961,5 +13961,18 @@
     "source_count": 12,
     "tags": "DeFi, Arbitrage, Blockchain, AI",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1065,
+    "topic": "AI Traders Face New SEC Rulebook for Algorithmic Market Conduct",
+    "file": "html/article-1065-ai-traders-face-new-sec-rulebook-for-algorithmic-market-conduct-20261015-040613.html",
+    "timestamp": "20261015-040613",
+    "full_timestamp": "2026-10-15T04:06:13-07:00",
+    "summary": "Regulators are drafting the first comprehensive framework for AI-driven trading desks, marking a shift from post-crash reviews to proactive oversight of algorithmic market conduct.",
+    "original_topic": "AI Stock Prediction & Market Analysis",
+    "search_query": "SEC new rules AI algorithmic trading 2026",
+    "source_count": 12,
+    "tags": "AI, finance, regulation, SEC",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
