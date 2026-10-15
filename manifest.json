@@ -14078,5 +14078,18 @@
     "source_count": 12,
     "tags": "Deepfakes, International Law, Digital Sovereignty, Media Regulation",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1074,
+    "topic": "Micro-Influencer Authenticity: AI Verification of Short-Form Video Endorsements",
+    "file": "html/article-1074-micro-influencer-authenticity-ai-verification-of-short-form-video-endors-20261015-130423.html",
+    "timestamp": "20261015-130423",
+    "full_timestamp": "2026-10-15T13:04:23-07:00",
+    "summary": "Short-form endorsements need more than follower counts: emerging AI verification evaluates audience quality, growth integrity, comment authenticity, engagement, and disclosure signals—but evidence remains uneven.",
+    "original_topic": "AI Short Form Video & Social Media",
+    "search_query": "AI verification of micro-influencer sponsored content authenticity 2026",
+    "source_count": 12,
+    "tags": "Influencer Marketing, AI Verification, Social Media, Authenticity",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
