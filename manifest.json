@@ -14026,5 +14026,18 @@
     "source_count": 12,
     "tags": "generative AI, financial reporting, synthetic voice, earnings calls",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1070,
+    "topic": "FDA Clears First AI-Driven Psychotherapy Companion for Home Use",
+    "file": "html/article-1070-fda-clears-first-ai-driven-psychotherapy-companion-for-home-use-20261015-090206.html",
+    "timestamp": "20261015-090206",
+    "full_timestamp": "2026-10-15T09:02:06-07:00",
+    "summary": "The FDA's mandate to ensure safety and efficacy of medical products sets the framework for evaluating AI-driven psychotherapy tools as regulated devices rather than consumer apps.",
+    "original_topic": "AI in Mental Health & Therapy",
+    "search_query": "FDA approval AI therapy companion 2026",
+    "source_count": 10,
+    "tags": "AI, mental health, FDA, therapy",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
