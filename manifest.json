@@ -14000,5 +14000,18 @@
     "source_count": 12,
     "tags": "Apple Silicon, LLMs, On-Device AI, M-Series",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1068,
+    "topic": "Real-Time AI Avatars Now Power Live Customer Service Calls",
+    "file": "html/article-1068-real-time-ai-avatars-now-power-live-customer-service-calls-20261015-070155.html",
+    "timestamp": "20261015-070155",
+    "full_timestamp": "2026-10-15T07:01:55-07:00",
+    "summary": "AI avatars are shifting from pre-recorded videos to real-time, interactive agents that can handle live customer service calls, marking a significant step in virtual presenter technology.",
+    "original_topic": "AI Video Avatars & Virtual Presenters",
+    "search_query": "AI video avatar live customer service calls 2026",
+    "source_count": 12,
+    "tags": "AI avatars, customer service, real-time video, 2026 tech",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
