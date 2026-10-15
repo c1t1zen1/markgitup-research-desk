@@ -14091,5 +14091,18 @@
     "source_count": 12,
     "tags": "Influencer Marketing, AI Verification, Social Media, Authenticity",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1075,
+    "topic": "AI's Role in Micro-Targeting Voter Sentiment via Personalized Digital Narratives",
+    "file": "html/article-1075-ai-s-role-in-micro-targeting-voter-sentiment-via-personalized-digital-na-20261015-141339.html",
+    "timestamp": "20261015-141339",
+    "full_timestamp": "2026-10-15T14:13:39-07:00",
+    "summary": "AI is revolutionizing political outreach by deploying personalized digital narratives to micro-target specific voter sentiments.",
+    "original_topic": "AI in US Elections & Campaigns",
+    "search_query": "AI micro-targeting voter sentiment personalized narratives 2026",
+    "source_count": 12,
+    "tags": "AI, Elections, Microtargeting, Political Communication",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
