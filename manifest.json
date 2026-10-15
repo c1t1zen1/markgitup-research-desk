@@ -13857,5 +13857,18 @@
     "source_count": 12,
     "tags": "Apple Silicon, LLM, Edge AI, Metal",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1057,
+    "topic": "AI Influence on Congressional Staffing: Algorithmic Vetting of Policy Briefs",
+    "file": "html/article-1057-ai-influence-on-congressional-staffing-algorithmic-vetting-of-policy-bri-20261014-201418.html",
+    "timestamp": "20261014-201418",
+    "full_timestamp": "2026-10-14T20:14:18-07:00",
+    "summary": "AI is reshaping congressional operations, with tools increasingly used by staff to vet, summarize, and prioritize policy documents internally.",
+    "original_topic": "AI Lobbying & Policy in Washington",
+    "search_query": "AI tools vetting congressional policy briefs 2026",
+    "source_count": 12,
+    "tags": "AI Governance, Capitol Hill, Policy Automation, Legislative Tech",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
