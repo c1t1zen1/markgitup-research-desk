@@ -13948,5 +13948,18 @@
     "source_count": 12,
     "tags": "LegalTech, PredictiveAI, Litigation, CivilLaw",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1064,
+    "topic": "AI-Driven Arbitrage Bots Navigating Cross-Chain Liquidity Gaps in DeFi",
+    "file": "html/article-1064-ai-driven-arbitrage-bots-navigating-cross-chain-liquidity-gaps-in-defi-20261015-030845.html",
+    "timestamp": "20261015-030845",
+    "full_timestamp": "2026-10-15T03:08:45-07:00",
+    "summary": "Cross-chain AI arbitrage targets fragmented DeFi liquidity, but execution uncertainty, uneven evidence, and unproven autonomy make infrastructure quality more important than bot branding.",
+    "original_topic": "AI Crypto Trading Bots & Performance",
+    "search_query": "AI bots cross-chain arbitrage liquidities 2026",
+    "source_count": 12,
+    "tags": "DeFi, Arbitrage, Blockchain, AI",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
