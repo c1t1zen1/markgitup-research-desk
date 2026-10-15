@@ -13818,5 +13818,18 @@
     "source_count": 12,
     "tags": "Synthetic Media, Blockchain, Provenance, Digital Forensics",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1054,
+    "topic": "Synthetic Media Detection: New Watermarking Techniques Combat Deepfakes in Live Broadcasts",
+    "file": "html/article-1054-synthetic-media-detection-new-watermarking-techniques-combat-deepfakes-i-20261014-171348.html",
+    "timestamp": "20261014-171348",
+    "full_timestamp": "2026-10-14T17:13:48-07:00",
+    "summary": "Live broadcast integrity faces a synthetic threat. New techniques are needed to detect AI-generated deepfakes in real-time streams.",
+    "original_topic": "AI Video Generation Models",
+    "search_query": "real-time forensic analysis synthetic video streams 2026 latest",
+    "source_count": 12,
+    "tags": "Deepfake Detection, Live Broadcast, Media Forensics, AI Security",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
