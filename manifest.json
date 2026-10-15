@@ -14065,5 +14065,18 @@
     "source_count": 10,
     "tags": "FinTech, LLMs, RegulatoryTech, AlgorithmicTrading",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1073,
+    "topic": "Jurisdictional Nightmares: Cross-Border Enforcement of Deepfake Content Across Digital Borders",
+    "file": "html/article-1073-jurisdictional-nightmares-cross-border-enforcement-of-deepfake-content-a-20261015-121313.html",
+    "timestamp": "20261015-121313",
+    "full_timestamp": "2026-10-15T12:13:13-07:00",
+    "summary": "Navigating the fragmented global legal landscape for deepfakes presents complex challenges for cross-border enforcement.",
+    "original_topic": "Deepfake Legislation & Synthetic Media Laws",
+    "search_query": "international legal frameworks for synthetic media content 2026 latest",
+    "source_count": 12,
+    "tags": "Deepfakes, International Law, Digital Sovereignty, Media Regulation",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
