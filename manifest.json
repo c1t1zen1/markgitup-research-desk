@@ -13974,5 +13974,18 @@
     "source_count": 12,
     "tags": "AI, finance, regulation, SEC",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1066,
+    "topic": "AI Lobbying Groups Push for Federal Synthetic Media Disclosure Law",
+    "file": "html/article-1066-ai-lobbying-groups-push-for-federal-synthetic-media-disclosure-law-20261015-050444.html",
+    "timestamp": "20261015-050444",
+    "full_timestamp": "2026-10-15T05:04:44-07:00",
+    "summary": "AI industry lobbying groups are actively shaping federal legislation on synthetic media disclosure, a critical policy battleground as Congress considers bills to regulate deepfakes and AI-generated content in political campaigns.",
+    "original_topic": "AI Lobbying & Policy in Washington",
+    "search_query": "AI lobbying federal synthetic media disclosure bill 2026",
+    "source_count": 12,
+    "tags": "AI lobbying, synthetic media, federal policy, disclosure law",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
