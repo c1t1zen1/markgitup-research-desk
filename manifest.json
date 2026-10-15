@@ -14104,5 +14104,18 @@
     "source_count": 12,
     "tags": "AI, Elections, Microtargeting, Political Communication",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1076,
+    "topic": "Hyper-Personalized Climate Adaptation in Smart Homes via Edge AI",
+    "file": "html/article-1076-hyper-personalized-climate-adaptation-in-smart-homes-via-edge-ai-20261015-150426.html",
+    "timestamp": "20261015-150426",
+    "full_timestamp": "2026-10-15T15:04:26-07:00",
+    "summary": "Edge AI could turn smart homes into adaptive climate systems, but supplied evidence supports an emerging direction—not proven hyper-local modeling or measured energy performance.",
+    "original_topic": "AI-Powered Smart Homes & Automation",
+    "search_query": "Edge AI climate control personalized home energy use 2026 latest",
+    "source_count": 12,
+    "tags": "Smart Home, Edge AI, Climate Tech, Energy Efficiency",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
