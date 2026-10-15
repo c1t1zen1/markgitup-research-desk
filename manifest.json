@@ -13883,5 +13883,18 @@
     "source_count": 12,
     "tags": "AI Fraud, Identity Theft, Banking Security, Agent Systems",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1059,
+    "topic": "Synthetic Video's Impact on Digital Forensics and Evidence Integrity in 2026",
+    "file": "html/article-1059-synthetic-video-s-impact-on-digital-forensics-and-evidence-integrity-in-20261014-221406.html",
+    "timestamp": "20261014-221406",
+    "full_timestamp": "2026-10-14T22:14:06-07:00",
+    "summary": "As synthetic video proliferates, forensic experts face unprecedented challenges authenticating evidence against sophisticated AI generation.",
+    "original_topic": "AI Video Generation Models",
+    "search_query": "Forensic analysis of generative video artifacts 2026",
+    "source_count": 12,
+    "tags": "digital forensics, synthetic media, video authentication, AI threats",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
