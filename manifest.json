@@ -14286,5 +14286,18 @@
     "source_count": 12,
     "tags": "AI Risk, Market Stability, Algorithmic Bias, FinTech",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1090,
+    "topic": "AI-Generated Narratives and Election Integrity: The Rise of 'Synthetic Reality' Campaigns",
+    "file": "html/article-1090-ai-generated-narratives-and-election-integrity-the-rise-of-synthetic-rea-20261016-050421.html",
+    "timestamp": "20261016-050421",
+    "full_timestamp": "2026-10-16T05:04:21-07:00",
+    "summary": "Election influence is moving beyond isolated fake clips toward scalable, targeted narratives that can confuse voters, strain trust, and outpace fragmented rules.",
+    "original_topic": "AI Misinformation & Election Integrity",
+    "search_query": "AI political deepfakes election 2026",
+    "source_count": 12,
+    "tags": "Misinformation, Election Integrity, Generative AI, Synthetic Media",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
