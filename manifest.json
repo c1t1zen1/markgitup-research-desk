@@ -14195,5 +14195,18 @@
     "source_count": 12,
     "tags": "world models, robotics, synthetic data, AI video",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1083,
+    "topic": "Quantized LLMs on Mac: Optimizing Inference for On-Device Medical Diagnostics",
+    "file": "html/article-1083-quantized-llms-on-mac-optimizing-inference-for-on-device-medical-diagnos-20261015-220414.html",
+    "timestamp": "20261015-220414",
+    "full_timestamp": "2026-10-15T22:04:14-07:00",
+    "summary": "Quantization may make Mac-based local inference more practical, but the supplied evidence covers tools and benchmarks—not clinical accuracy, imaging validation, or safe diagnostic deployment.",
+    "original_topic": "Quantized LLMs Running on Mac Hardware",
+    "search_query": "local LLM medical diagnostics macOS performance 2026 latest",
+    "source_count": 12,
+    "tags": "Quantized LLMs, Edge AI, Healthcare, macOS",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
