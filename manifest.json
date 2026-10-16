@@ -14182,5 +14182,18 @@
     "source_count": 12,
     "tags": "DevOps, AI Agents, Software Engineering, CI/CD",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1082,
+    "topic": "AI Video Models Enter Robotics Race Through Predictive World Simulators",
+    "file": "html/article-1082-ai-video-models-enter-robotics-race-through-predictive-world-simulators-20261015-210512.html",
+    "timestamp": "20261015-210512",
+    "full_timestamp": "2026-10-15T21:05:12-07:00",
+    "summary": "Video generators are being recast as predictive world models: systems that forecast how environments evolve under robot actions, creating a bridge from visual generation to planning and training.",
+    "original_topic": "AI Video Generation Models",
+    "search_query": "AI video world models robotics planning training benchmark 2026",
+    "source_count": 12,
+    "tags": "world models, robotics, synthetic data, AI video",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
