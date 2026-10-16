@@ -14234,5 +14234,18 @@
     "source_count": 12,
     "tags": "AI, Intelligence, Cryptography, Quantum",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1086,
+    "topic": "Synthetic Identity Fraud: AI Detecting Deepfake KYC in Digital Onboarding",
+    "file": "html/article-1086-synthetic-identity-fraud-ai-detecting-deepfake-kyc-in-digital-onboarding-20261016-010426.html",
+    "timestamp": "20261016-010426",
+    "full_timestamp": "2026-10-16T01:04:26-07:00",
+    "summary": "Synthetic identities and deepfake KYC attacks converge at digital onboarding, challenging single-signal liveness and forcing institutions to combine capture integrity, document analysis, biometrics, and device trust.",
+    "original_topic": "AI Fraud Detection in Banking & Finance",
+    "search_query": "AI detection synthetic identity deepfake KYC banking 2026 latest",
+    "source_count": 12,
+    "tags": "Synthetic Fraud, Deepfake, KYC, Banking AI",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
