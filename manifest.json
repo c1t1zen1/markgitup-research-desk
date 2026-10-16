@@ -14273,5 +14273,18 @@
     "source_count": 12,
     "tags": "LocalAI, DataSovereignty, EdgeComputing, macOS",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1089,
+    "topic": "Algorithmic Drift in Market Sentiment: Detecting Subtle AI Bias in Trading Signals",
+    "file": "html/article-1089-algorithmic-drift-in-market-sentiment-detecting-subtle-ai-bias-in-tradin-20261016-040419.html",
+    "timestamp": "20261016-040419",
+    "full_timestamp": "2026-10-16T04:04:19-07:00",
+    "summary": "As market regimes shift, sentiment models can quietly lose calibration or amplify bias; disciplined monitoring, cross-model comparison, and explicit uncertainty are essential safeguards.",
+    "original_topic": "AI Stock Prediction & Market Analysis",
+    "search_query": "AI model drift stock market sentiment bias 2026",
+    "source_count": 12,
+    "tags": "AI Risk, Market Stability, Algorithmic Bias, FinTech",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
