@@ -14429,5 +14429,18 @@
     "source_count": 12,
     "tags": "Metal, Compiler, Apple Silicon, AI Acceleration",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1101,
+    "topic": "LLMs for High-Frequency Trading: Latency, Explainability, and Regulatory Scrutiny",
+    "file": "html/article-1101-llms-for-high-frequency-trading-latency-explainability-and-regulatory-sc-20261016-160425.html",
+    "timestamp": "20261016-160425",
+    "full_timestamp": "2026-10-16T16:04:25-07:00",
+    "summary": "Large language models may improve trading intelligence, but ultra-low-latency deployment faces inference bottlenecks, weak explainability, and intensifying demands for auditable regulatory evidence.",
+    "original_topic": "LLMs in Hedge Funds & Trading",
+    "search_query": "LLMs high-frequency trading latency explainability 2026",
+    "source_count": 12,
+    "tags": "HFT, LLMs, FinTech, Latency",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
