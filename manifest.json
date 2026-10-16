@@ -14169,5 +14169,18 @@
     "source_count": 12,
     "tags": "macOS, LocalAI, SystemIntegration, EdgeComputing",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1081,
+    "topic": "Autonomous Agents Managing Complex Software Deployment Pipelines in CI/CD",
+    "file": "html/article-1081-autonomous-agents-managing-complex-software-deployment-pipelines-in-ci-c-20261015-201322.html",
+    "timestamp": "20261015-201322",
+    "full_timestamp": "2026-10-15T20:13:22-07:00",
+    "summary": "Autonomous AI Agents are moving beyond coding help to manage entire CI/CD release cycles, demanding new deployment infrastructure.",
+    "original_topic": "Autonomous AI Code Agents",
+    "search_query": "autonomous AI agents software deployment pipeline management 2026 latest",
+    "source_count": 12,
+    "tags": "DevOps, AI Agents, Software Engineering, CI/CD",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
