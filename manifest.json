@@ -14221,5 +14221,18 @@
     "source_count": 12,
     "tags": "LLM, Privacy, Edge AI, Apple Silicon",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1085,
+    "topic": "AI-Driven Signal Intelligence: New Challenges in Quantum-Resistant Cryptography",
+    "file": "html/article-1085-ai-driven-signal-intelligence-new-challenges-in-quantum-resistant-crypto-20261016-000422.html",
+    "timestamp": "20261016-000422",
+    "full_timestamp": "2026-10-16T00:04:22-07:00",
+    "summary": "AI-enhanced cryptanalysis and quantum attacks create a converging cryptographic challenge, but supplied evidence supports migration concerns more strongly than claims about US intelligence operations.",
+    "original_topic": "AI in US Intelligence & Surveillance",
+    "search_query": "AI signal intelligence quantum cryptography challenges 2026",
+    "source_count": 12,
+    "tags": "AI, Intelligence, Cryptography, Quantum",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
