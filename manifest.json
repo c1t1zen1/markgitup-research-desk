@@ -14416,5 +14416,18 @@
     "source_count": 12,
     "tags": "Climate Risk, Financial Reporting, Generative AI, ESG",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1100,
+    "topic": "Optimizing Metal Performance: New Compiler Techniques for Apple Silicon AI Workloads",
+    "file": "html/article-1100-optimizing-metal-performance-new-compiler-techniques-for-apple-silicon-a-20261016-150416.html",
+    "timestamp": "20261016-150416",
+    "full_timestamp": "2026-10-16T15:04:16-07:00",
+    "summary": "Apple’s Metal stack offers low-overhead GPU control, while sparse evidence points to evolving tensor APIs and runtime paths—not yet enough to substantiate specific compiler breakthroughs.",
+    "original_topic": "AI Development Tools for Apple Silicon",
+    "search_query": "Metal API compiler optimizations Apple Silicon AI 2026",
+    "source_count": 12,
+    "tags": "Metal, Compiler, Apple Silicon, AI Acceleration",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
