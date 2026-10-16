@@ -14299,5 +14299,18 @@
     "source_count": 12,
     "tags": "Misinformation, Election Integrity, Generative AI, Synthetic Media",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1091,
+    "topic": "Therapeutic AI: Ethical Frameworks for Autonomous Emotional Support in Remote Care",
+    "file": "html/article-1091-therapeutic-ai-ethical-frameworks-for-autonomous-emotional-support-in-re-20261016-060442.html",
+    "timestamp": "20261016-060442",
+    "full_timestamp": "2026-10-16T06:04:42-07:00",
+    "summary": "As conversational systems move toward autonomous emotional support in remote care, the central question is not capability alone, but who governs safety, consent, privacy, accountability, and clinical boundaries.",
+    "original_topic": "AI in Mental Health & Therapy",
+    "search_query": "AI therapy ethical guidelines autonomous emotional support 2026 latest",
+    "source_count": 12,
+    "tags": "AI Ethics, Digital Mental Health, Teletherapy, Autonomy",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
