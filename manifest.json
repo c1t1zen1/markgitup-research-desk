@@ -14403,5 +14403,18 @@
     "source_count": 12,
     "tags": "Emotional AI, Video Personalization, Social Media, Affective Computing",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1099,
+    "topic": "Generative AI's Role in Stress-Testing Financial Models Against Climate Risk Scenarios",
+    "file": "html/article-1099-generative-ai-s-role-in-stress-testing-financial-models-against-climate-20261016-141340.html",
+    "timestamp": "20261016-141340",
+    "full_timestamp": "2026-10-16T14:13:40-07:00",
+    "summary": "Harnessing Generative AI to simulate complex, non-linear climate impacts on financial stress testing models.",
+    "original_topic": "Generative AI for Financial Reporting",
+    "search_query": "Generative AI climate risk financial stress testing 2026",
+    "source_count": 12,
+    "tags": "Climate Risk, Financial Reporting, Generative AI, ESG",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
