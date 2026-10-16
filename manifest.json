@@ -14208,5 +14208,18 @@
     "source_count": 12,
     "tags": "Quantized LLMs, Edge AI, Healthcare, macOS",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1084,
+    "topic": "M-Series LLMs and Federated Learning: Privacy-Preserving Inference on Local Data",
+    "file": "html/article-1084-m-series-llms-and-federated-learning-privacy-preserving-inference-on-loc-20261015-231627.html",
+    "timestamp": "20261015-231627",
+    "full_timestamp": "2026-10-15T23:16:27-07:00",
+    "summary": "Exploring the convergence of M-Series hardware, local LLM inference, and federated learning for enhanced data privacy.",
+    "original_topic": "M Series Apple Silicon LLM Inference",
+    "search_query": "Apple Silicon federated learning on-device LLM privacy 2026 latest",
+    "source_count": 12,
+    "tags": "LLM, Privacy, Edge AI, Apple Silicon",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
