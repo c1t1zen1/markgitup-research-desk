@@ -14338,5 +14338,18 @@
     "source_count": 12,
     "tags": "Volumetric Video, Neural Rendering, Real-Time VFX, AI Production",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1094,
+    "topic": "AI-Assisted Legal Discovery: Navigating Evolving Data Sovereignty in Cross-Border Litigation",
+    "file": "html/article-1094-ai-assisted-legal-discovery-navigating-evolving-data-sovereignty-in-cros-20261016-091247.html",
+    "timestamp": "20261016-091247",
+    "full_timestamp": "2026-10-16T09:12:47-07:00",
+    "summary": "AI-driven e-discovery confronts complex global rules, forcing legal practitioners to navigate evolving data sovereignty in cross-border litigation.",
+    "original_topic": "AI in Legal Systems & Law Practice",
+    "search_query": "AI legal discovery data sovereignty international law 2026",
+    "source_count": 12,
+    "tags": "e-discovery, data sovereignty, legal AI, cross-border",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
