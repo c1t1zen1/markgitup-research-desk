@@ -14377,5 +14377,18 @@
     "source_count": 12,
     "tags": "DeFi, AI Agents, Crypto, Governance",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1097,
+    "topic": "Regulatory Sandboxes for Frontier AI: Governing Lobbying Transparency in Washington",
+    "file": "html/article-1097-regulatory-sandboxes-for-frontier-ai-governing-lobbying-transparency-in-20261016-120414.html",
+    "timestamp": "20261016-120414",
+    "full_timestamp": "2026-10-16T12:04:14-07:00",
+    "summary": "Washington’s AI lobbying surge raises a governance question: can transparent, bounded regulatory sandboxes test disclosure rules without allowing frontier firms to shape oversight from inside the process?",
+    "original_topic": "AI Lobbying & Policy in Washington",
+    "search_query": "AI lobbying regulatory sandboxes Washington 2026",
+    "source_count": 12,
+    "tags": "AI Governance, Policy Tech, Lobbying, Regulation",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
