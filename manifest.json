@@ -14312,5 +14312,18 @@
     "source_count": 12,
     "tags": "AI Ethics, Digital Mental Health, Teletherapy, Autonomy",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1092,
+    "topic": "AI Accountability in Campaign Finance: Auditing Algorithmic Spending Transparency",
+    "file": "html/article-1092-ai-accountability-in-campaign-finance-auditing-algorithmic-spending-tran-20261016-070439.html",
+    "timestamp": "20261016-070439",
+    "full_timestamp": "2026-10-16T07:04:39-07:00",
+    "summary": "New disclosure data can reveal AI-related campaign spending, but opaque vendor categories and ad production decisions leave auditors with an incomplete map of algorithmic political influence.",
+    "original_topic": "AI in US Elections & Campaigns",
+    "search_query": "AI campaign finance algorithmic spending disclosure 2026",
+    "source_count": 12,
+    "tags": "Campaign Finance, AI Regulation, Transparency, Election Tech",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
