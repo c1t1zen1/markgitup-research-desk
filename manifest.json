@@ -14351,5 +14351,18 @@
     "source_count": 12,
     "tags": "e-discovery, data sovereignty, legal AI, cross-border",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1095,
+    "topic": "Digital Twin Avatars: Real-Time Emotional Fidelity in Remote Corporate Training",
+    "file": "html/article-1095-digital-twin-avatars-real-time-emotional-fidelity-in-remote-corporate-tr-20261016-101255.html",
+    "timestamp": "20261016-101255",
+    "full_timestamp": "2026-10-16T10:12:55-07:00",
+    "summary": "Digital Twin Avatars are moving beyond simple presentations to offer high-fidelity, emotionally nuanced simulations for complex corporate training.",
+    "original_topic": "AI Video Avatars & Virtual Presenters",
+    "search_query": "AI digital twin avatars emotional fidelity corporate training 2026",
+    "source_count": 12,
+    "tags": "Digital Twins, AI Avatars, Corporate Training, Emotional AI",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
