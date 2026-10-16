@@ -14325,5 +14325,18 @@
     "source_count": 12,
     "tags": "Campaign Finance, AI Regulation, Transparency, Election Tech",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1093,
+    "topic": "Real-Time Neural Rendering: AI Editing for Volumetric Video Capture in Production",
+    "file": "html/article-1093-real-time-neural-rendering-ai-editing-for-volumetric-video-capture-in-pr-20261016-081417.html",
+    "timestamp": "20261016-081417",
+    "full_timestamp": "2026-10-16T08:14:17-07:00",
+    "summary": "AI is revolutionizing video capture, moving beyond simple editing to synthesize and refine 3D volumetric data in real-time during production.",
+    "original_topic": "AI-Powered Video Editing & Post-Production",
+    "search_query": "real-time neural rendering volumetric video editing 2026",
+    "source_count": 12,
+    "tags": "Volumetric Video, Neural Rendering, Real-Time VFX, AI Production",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
