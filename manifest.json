@@ -14156,5 +14156,18 @@
     "source_count": 12,
     "tags": "AI Security, Hardware Attacks, Local AI, Privacy",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1080,
+    "topic": "Bridging the Gap: Local LLMs Interfacing with macOS System APIs for Deep Integration",
+    "file": "html/article-1080-bridging-the-gap-local-llms-interfacing-with-macos-system-apis-for-deep-20261015-191439.html",
+    "timestamp": "20261015-191439",
+    "full_timestamp": "2026-10-15T19:14:39-07:00",
+    "summary": "Local LLMs are moving beyond chat: Explore how they are integrating directly with macOS APIs for deep system control.",
+    "original_topic": "Local AI Tools & Stacks for macOS",
+    "search_query": "macOS local LLM system integration APIs 2026",
+    "source_count": 12,
+    "tags": "macOS, LocalAI, SystemIntegration, EdgeComputing",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
