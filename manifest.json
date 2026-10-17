@@ -14689,5 +14689,18 @@
     "source_count": 12,
     "tags": "crypto, AI trading, exchanges, latency",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1121,
+    "topic": "Smart Home Hubs Now Run Local AI Models Without Cloud",
+    "file": "html/article-1121-smart-home-hubs-now-run-local-ai-models-without-cloud-20261017-120148.html",
+    "timestamp": "20261017-120148",
+    "full_timestamp": "2026-10-17T12:01:48-07:00",
+    "summary": "Local AI processing in smart home hubs is reducing cloud dependency, improving privacy and latency, but standardization and adoption remain uneven.",
+    "original_topic": "AI-Powered Smart Homes & Automation",
+    "search_query": "smart home hub local AI model 2026",
+    "source_count": 12,
+    "tags": "smart homes, local AI, automation, edge computing",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
