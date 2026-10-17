@@ -14676,5 +14676,18 @@
     "source_count": 12,
     "tags": "deepfakes, EU regulation, political ads, disclosure",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1120,
+    "topic": "AI Trading Bots Hit New Speed Limits on Crypto Exchanges",
+    "file": "html/article-1120-ai-trading-bots-hit-new-speed-limits-on-crypto-exchanges-20261017-110401.html",
+    "timestamp": "20261017-110401",
+    "full_timestamp": "2026-10-17T11:04:01-07:00",
+    "summary": "AI trading bots are pushing crypto exchanges to their operational limits, prompting new throttling measures and latency caps that could reshape high-frequency algorithmic trading.",
+    "original_topic": "AI Crypto Trading Bots & Performance",
+    "search_query": "crypto exchange rate limits AI trading bots 2026",
+    "source_count": 12,
+    "tags": "crypto, AI trading, exchanges, latency",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
