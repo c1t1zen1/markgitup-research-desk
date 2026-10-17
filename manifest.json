@@ -14442,5 +14442,18 @@
     "source_count": 12,
     "tags": "HFT, LLMs, FinTech, Latency",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1102,
+    "topic": "Edge AI for Real-Time Sensor Fusion: Local Processing of IoT Streams on macOS",
+    "file": "html/article-1102-edge-ai-for-real-time-sensor-fusion-local-processing-of-iot-streams-on-m-20261016-170619.html",
+    "timestamp": "20261016-170619",
+    "full_timestamp": "2026-10-16T17:06:19-07:00",
+    "summary": "Local processing on macOS could support privacy-sensitive, low-latency sensor fusion, but the supplied evidence offers broad edge-AI direction rather than validated IoT performance data.",
+    "original_topic": "Local AI Tools & Stacks for macOS",
+    "search_query": "macOS edge AI sensor fusion real-time processing 2026 latest",
+    "source_count": 12,
+    "tags": "Edge AI, IoT, macOS, Sensor Fusion",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
