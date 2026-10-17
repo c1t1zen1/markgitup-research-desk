@@ -14546,5 +14546,18 @@
     "source_count": 12,
     "tags": "AI mental health, regulation, clinical trials, digital therapeutics",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1110,
+    "topic": "AI Lobbying and Sectoral Capture: Mapping Algorithmic Influence on Infrastructure Bills",
+    "file": "html/article-1110-ai-lobbying-and-sectoral-capture-mapping-algorithmic-influence-on-infras-20261017-010421.html",
+    "timestamp": "20261017-010421",
+    "full_timestamp": "2026-10-17T01:04:21-07:00",
+    "summary": "The supplied record shows rising AI-policy activity and public-sector governance, but offers no direct evidence that industry groups use AI models to shape infrastructure legislation.",
+    "original_topic": "AI Lobbying & Policy in Washington",
+    "search_query": "AI influence on infrastructure policy Washington 2026",
+    "source_count": 12,
+    "tags": "AI, Lobbying, Infrastructure, Policy",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
