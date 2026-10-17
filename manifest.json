@@ -14728,5 +14728,18 @@
     "source_count": 12,
     "tags": "AI, elections, micro-targeting, biometrics",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1124,
+    "topic": "Apple M5 Ultra vs Nvidia RTX 5090: Local LLM Inference Showdown",
+    "file": "html/article-1124-apple-m5-ultra-vs-nvidia-rtx-5090-local-llm-inference-showdown-20261017-150128.html",
+    "timestamp": "20261017-150128",
+    "full_timestamp": "2026-10-17T15:01:28-07:00",
+    "summary": "Apple's M5 Ultra and Nvidia's RTX 5090 target different local LLM use cases: the M5 Ultra's massive unified memory enables huge models, while the RTX 5090 delivers superior speed on smaller workloads.",
+    "original_topic": "M Series Apple Silicon LLM Inference",
+    "search_query": "Apple M5 Ultra vs Nvidia RTX 5090 local LLM inference benchmark 2026",
+    "source_count": 12,
+    "tags": "Apple M5 Ultra, Nvidia RTX 5090, LLM inference, benchmark",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
