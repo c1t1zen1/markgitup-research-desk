@@ -14559,5 +14559,18 @@
     "source_count": 12,
     "tags": "AI, Lobbying, Infrastructure, Policy",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1111,
+    "topic": "AI Video Tools Now Handle Post-Production Color Grading",
+    "file": "html/article-1111-ai-video-tools-now-handle-post-production-color-grading-20261017-020202.html",
+    "timestamp": "20261017-020202",
+    "full_timestamp": "2026-10-17T02:02:02-07:00",
+    "summary": "AI color grading tools now automate lighting, skin tone, and texture analysis frame-by-frame, delivering cinematic consistency without manual keyframing and potentially cutting post-production time by 40%.",
+    "original_topic": "AI-Generated Video for Filmmaking & Content Creation",
+    "search_query": "AI color grading tools post-production 2026",
+    "source_count": 12,
+    "tags": "AI video, post-production, color grading, filmmaking",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
