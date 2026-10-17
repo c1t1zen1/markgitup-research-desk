@@ -14715,5 +14715,18 @@
     "source_count": 12,
     "tags": "NSA,AI,encryption,surveillance",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1123,
+    "topic": "AI Micro-Targeting Now Exploits Voter Emotion in Real Time",
+    "file": "html/article-1123-ai-micro-targeting-now-exploits-voter-emotion-in-real-time-20261017-140112.html",
+    "timestamp": "20261017-140112",
+    "full_timestamp": "2026-10-17T14:01:12-07:00",
+    "summary": "Campaigns are moving beyond static voter profiles to target emotional states in real time, using biometric data and live sentiment analysis to adjust messaging on the fly.",
+    "original_topic": "AI in US Elections & Campaigns",
+    "search_query": "AI micro-targeting voter emotion real time 2026",
+    "source_count": 12,
+    "tags": "AI, elections, micro-targeting, biometrics",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
