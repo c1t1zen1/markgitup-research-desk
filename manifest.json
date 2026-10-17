@@ -14624,5 +14624,18 @@
     "source_count": 12,
     "tags": "AI video, interactive media, real-time generation, 2026",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1116,
+    "topic": "AI Code Agents Now Write and Run Their Own Tests",
+    "file": "html/article-1116-ai-code-agents-now-write-and-run-their-own-tests-20261017-070215.html",
+    "timestamp": "20261017-070215",
+    "full_timestamp": "2026-10-17T07:02:15-07:00",
+    "summary": "AI coding agents are evolving from code generators into autonomous testers that write, run, and iterate on test suites with minimal human oversight.",
+    "original_topic": "Autonomous AI Code Agents",
+    "search_query": "AI coding agents autonomous test generation 2026",
+    "source_count": 12,
+    "tags": "AI, software development, testing, automation",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
