@@ -14611,5 +14611,18 @@
     "source_count": 12,
     "tags": "AI fraud, synthetic social proof, banking, 2026",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1115,
+    "topic": "AI Video Models Now Generate Real-Time Interactive Scenes",
+    "file": "html/article-1115-ai-video-models-now-generate-real-time-interactive-scenes-20261017-060341.html",
+    "timestamp": "20261017-060341",
+    "full_timestamp": "2026-10-17T06:03:41-07:00",
+    "summary": "AI video generation is shifting from pre-rendered clips to real-time, user-driven interactive scenes, with new research and industry forecasts pointing to live, frame-level control in 2026.",
+    "original_topic": "AI Video Generation Models",
+    "search_query": "AI video real-time interactive scene generation 2026",
+    "source_count": 12,
+    "tags": "AI video, interactive media, real-time generation, 2026",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
