@@ -14650,5 +14650,18 @@
     "source_count": 12,
     "tags": "AI, fact-checking, political ads, real-time verification",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1118,
+    "topic": "Apple Unveils M5 Ultra for Local LLM Inference",
+    "file": "html/article-1118-apple-unveils-m5-ultra-for-local-llm-inference-20261017-090218.html",
+    "timestamp": "20261017-090218",
+    "full_timestamp": "2026-10-17T09:02:18-07:00",
+    "summary": "Apple's M5 Ultra Mac Studio brings 512GB unified memory and 1.2 TB/s bandwidth for local LLM inference, potentially enabling 70B+ parameter models without cloud dependency.",
+    "original_topic": "Quantized LLMs Running on Mac Hardware",
+    "search_query": "Apple M5 Ultra chip local LLM inference 2026 latest",
+    "source_count": 12,
+    "tags": "Apple Silicon, LLM inference, hardware acceleration, local AI",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
