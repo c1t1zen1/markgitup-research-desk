@@ -14663,5 +14663,18 @@
     "source_count": 12,
     "tags": "Apple Silicon, LLM inference, hardware acceleration, local AI",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1119,
+    "topic": "EU Mandates Deepfake Disclosure Labels for Political Ads",
+    "file": "html/article-1119-eu-mandates-deepfake-disclosure-labels-for-political-ads-20261017-100159.html",
+    "timestamp": "20261017-100159",
+    "full_timestamp": "2026-10-17T10:01:59-07:00",
+    "summary": "The EU AI Act requires political ads using deepfakes to be clearly labeled, with enforcement starting in 2026 and fines up to €15 million for non-compliance.",
+    "original_topic": "Deepfake Legislation & Synthetic Media Laws",
+    "search_query": "EU deepfake disclosure labels political ads 2026 latest",
+    "source_count": 12,
+    "tags": "deepfakes, EU regulation, political ads, disclosure",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
