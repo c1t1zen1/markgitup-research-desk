@@ -14741,5 +14741,18 @@
     "source_count": 12,
     "tags": "Apple M5 Ultra, Nvidia RTX 5090, LLM inference, benchmark",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1125,
+    "topic": "LLMs Now Predict Fed Rate Moves From Speech Patterns",
+    "file": "html/article-1125-llms-now-predict-fed-rate-moves-from-speech-patterns-20261017-160130.html",
+    "timestamp": "20261017-160130",
+    "full_timestamp": "2026-10-17T16:01:30-07:00",
+    "summary": "Hedge funds are deploying LLMs to parse Federal Reserve speech patterns and tone, seeking predictive signals in monetary policy communication that traditional text analysis misses.",
+    "original_topic": "LLMs in Hedge Funds & Trading",
+    "search_query": "LLMs predicting Federal Reserve rate decisions speech analysis 2026",
+    "source_count": 12,
+    "tags": "LLMs, hedge funds, Federal Reserve, speech analysis",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
