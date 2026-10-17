@@ -14494,5 +14494,18 @@
     "source_count": 12,
     "tags": "Legacy Systems, AI Agents, Software Engineering, Digital Transformation",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1106,
+    "topic": "MCP Security on macOS: The New Bottleneck for Local AI Agent Stacks",
+    "file": "html/article-1106-mcp-security-on-macos-the-new-bottleneck-for-local-ai-agent-stacks-20261016-211432.html",
+    "timestamp": "20261016-211432",
+    "full_timestamp": "2026-10-16T21:14:32-07:00",
+    "summary": "MCP Security Risks Force macOS Local AI Stacks to Prioritize Sandboxing Over Raw Performance Gains.",
+    "original_topic": "Local AI Tools & Stacks for macOS",
+    "search_query": "MCP security vulnerabilities macOS local AI agents sandboxing October 2026",
+    "source_count": 12,
+    "tags": "MCP, macOS security, AI agents, sandboxing",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
