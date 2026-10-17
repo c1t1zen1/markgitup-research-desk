@@ -14455,5 +14455,18 @@
     "source_count": 12,
     "tags": "Edge AI, IoT, macOS, Sensor Fusion",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1103,
+    "topic": "The 2026 Deepfake Crackdown: State Takedown Deadlines Test Platform Liability",
+    "file": "html/article-1103-the-2026-deepfake-crackdown-state-takedown-deadlines-test-platform-liabi-20261016-180503.html",
+    "timestamp": "20261016-180503",
+    "full_timestamp": "2026-10-16T18:05:03-07:00",
+    "summary": "State deepfake rules are moving beyond creator penalties, but the supplied evidence leaves rapid platform removal duties and enforcement responsibility unresolved.",
+    "original_topic": "Deepfake Legislation & Synthetic Media Laws",
+    "search_query": "2026 state laws nonconsensual intimate deepfake takedown deadlines platforms",
+    "source_count": 12,
+    "tags": "nonconsensual deepfakes, platform liability, state legislation",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
