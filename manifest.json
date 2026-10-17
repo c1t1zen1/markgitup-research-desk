@@ -14585,5 +14585,18 @@
     "source_count": 12,
     "tags": "Apple, privacy, AI, iOS",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1113,
+    "topic": "AI Video Avatars Now Pass Real-Time Lip-Sync Audits",
+    "file": "html/article-1113-ai-video-avatars-now-pass-real-time-lip-sync-audits-20261017-040342.html",
+    "timestamp": "20261017-040342",
+    "full_timestamp": "2026-10-17T04:03:42-07:00",
+    "summary": "New benchmarking studies show AI avatars now achieve real-time lip-sync accuracy that passes professional QA audits, a measurable milestone for virtual presenters.",
+    "original_topic": "AI Video Avatars & Virtual Presenters",
+    "search_query": "AI avatar lip sync accuracy benchmark 2026",
+    "source_count": 12,
+    "tags": "AI avatars, lip sync, benchmarking, virtual presenters",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
