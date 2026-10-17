@@ -14572,5 +14572,18 @@
     "source_count": 12,
     "tags": "AI video, post-production, color grading, filmmaking",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1112,
+    "topic": "Apple's Neural Engine Gets Privacy-First AI Boost in iOS 20",
+    "file": "html/article-1112-apple-s-neural-engine-gets-privacy-first-ai-boost-in-ios-20-20261017-030207.html",
+    "timestamp": "20261017-030207",
+    "full_timestamp": "2026-10-17T03:02:07-07:00",
+    "summary": "Apple's A20 Pro chip doubles on-device AI compute with a 32-core Neural Engine, enabling more privacy-focused AI features in iOS 27 while reducing reliance on cloud processing.",
+    "original_topic": "Privacy-First Local AI on Mac",
+    "search_query": "Apple Neural Engine privacy AI iOS 20 2026",
+    "source_count": 12,
+    "tags": "Apple, privacy, AI, iOS",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
