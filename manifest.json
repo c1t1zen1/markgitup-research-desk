@@ -14533,5 +14533,18 @@
     "source_count": 12,
     "tags": "legal-tech,EU-regulation,AI-contracts,compliance",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1109,
+    "topic": "AI Therapist Apps Face New Clinical Trial Mandate",
+    "file": "html/article-1109-ai-therapist-apps-face-new-clinical-trial-mandate-20261017-000204.html",
+    "timestamp": "20261017-000204",
+    "full_timestamp": "2026-10-17T00:02:04-07:00",
+    "summary": "Regulators are tightening oversight of AI mental health apps, demanding randomized controlled trials before marketing claims can be made, marking a shift from rapid deployment to evidence-based validation.",
+    "original_topic": "AI in Mental Health & Therapy",
+    "search_query": "AI therapy app clinical trial requirement 2026",
+    "source_count": 12,
+    "tags": "AI mental health, regulation, clinical trials, digital therapeutics",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
