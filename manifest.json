@@ -14520,5 +14520,18 @@
     "source_count": 12,
     "tags": "AI deepfakes, election integrity, mail-in ballots, voice synthesis",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1108,
+    "topic": "AI Contract Drafting Faces New EU Transparency Mandate",
+    "file": "html/article-1108-ai-contract-drafting-faces-new-eu-transparency-mandate-20261016-230411.html",
+    "timestamp": "20261016-230411",
+    "full_timestamp": "2026-10-16T23:04:11-07:00",
+    "summary": "New EU transparency rules for AI systems take effect August 2, 2026, requiring disclosure when users interact with AI or encounter AI-generated content, reshaping how legal contracts are drafted and reviewed.",
+    "original_topic": "AI in Legal Systems & Law Practice",
+    "search_query": "EU AI transparency mandate contract drafting October 2026",
+    "source_count": 12,
+    "tags": "legal-tech,EU-regulation,AI-contracts,compliance",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
