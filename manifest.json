@@ -14468,5 +14468,18 @@
     "source_count": 12,
     "tags": "nonconsensual deepfakes, platform liability, state legislation",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1104,
+    "topic": "AI Video Synthesis in Live Broadcast: Real-Time Virtual Set Generation and IP Rights",
+    "file": "html/article-1104-ai-video-synthesis-in-live-broadcast-real-time-virtual-set-generation-an-20261016-191245.html",
+    "timestamp": "20261016-191245",
+    "full_timestamp": "2026-10-16T19:12:45-07:00",
+    "summary": "Live broadcast production faces a critical nexus: leveraging real-time AI video synthesis while navigating complex, evolving IP rights and legal frameworks.",
+    "original_topic": "AI-Generated Video for Filmmaking & Content Creation",
+    "search_query": "AI virtual set live broadcast intellectual property 2026 latest",
+    "source_count": 12,
+    "tags": "Live Broadcast, Generative Video, IP Law, Media Production",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
