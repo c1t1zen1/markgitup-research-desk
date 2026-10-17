@@ -14598,5 +14598,18 @@
     "source_count": 12,
     "tags": "AI avatars, lip sync, benchmarking, virtual presenters",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1114,
+    "topic": "AI Fraud Models Struggle With Synthetic Social Proof Networks",
+    "file": "html/article-1114-ai-fraud-models-struggle-with-synthetic-social-proof-networks-20261017-050505.html",
+    "timestamp": "20261017-050505",
+    "full_timestamp": "2026-10-17T05:05:05-07:00",
+    "summary": "AI-generated fake social proof is emerging as a new fraud vector, challenging detection models built for traditional synthetic identity and deepfake threats.",
+    "original_topic": "AI Fraud Detection in Banking & Finance",
+    "search_query": "AI fraud detection synthetic social proof networks 2026",
+    "source_count": 12,
+    "tags": "AI fraud, synthetic social proof, banking, 2026",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
