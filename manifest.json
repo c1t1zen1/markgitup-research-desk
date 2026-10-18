@@ -14845,5 +14845,18 @@
     "source_count": 12,
     "tags": "AI, mental health, FDA, digital therapeutics",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1133,
+    "topic": "US Senate Advances Federal Deepfake Disclosure Bill",
+    "file": "html/article-1133-us-senate-advances-federal-deepfake-disclosure-bill-20261018-000526.html",
+    "timestamp": "20261018-000526",
+    "full_timestamp": "2026-10-18T00:05:26-07:00",
+    "summary": "The US Senate has advanced federal legislation requiring platforms to remove unauthorized AI-generated images, marking a major step in American deepfake regulation.",
+    "original_topic": "Deepfake Legislation & Synthetic Media Laws",
+    "search_query": "US Senate federal deepfake disclosure bill 2026",
+    "source_count": 12,
+    "tags": "deepfakes,legislation,US politics,synthetic media",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
