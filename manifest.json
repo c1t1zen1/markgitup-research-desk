@@ -15001,5 +15001,18 @@
     "source_count": 12,
     "tags": "AI video, provenance, watermarking, deepfake",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1145,
+    "topic": "M-Series LLMs Powering On-Device Medical Diagnostics in Clinical Settings",
+    "file": "html/article-1145-m-series-llms-powering-on-device-medical-diagnostics-in-clinical-setting-20261018-121402.html",
+    "timestamp": "20261018-121402",
+    "full_timestamp": "2026-10-18T12:14:02-07:00",
+    "summary": "Leveraging M-Series Silicon for Local LLMs Enables Private, Immediate Diagnostic Support in Clinical Environments.",
+    "original_topic": "M Series Apple Silicon LLM Inference",
+    "search_query": "Apple Silicon LLM medical diagnostics deployment 2026",
+    "source_count": 12,
+    "tags": "Healthcare AI, Edge Computing, Apple Silicon, Diagnostics",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
