@@ -14767,5 +14767,18 @@
     "source_count": 12,
     "tags": "AI video, sound design, film production, generative audio",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1127,
+    "topic": "AI-Generated Short Videos Now Pass TikTok's Authenticity Filters",
+    "file": "html/article-1127-ai-generated-short-videos-now-pass-tiktok-s-authenticity-filters-20261017-180102.html",
+    "timestamp": "20261017-180102",
+    "full_timestamp": "2026-10-17T18:01:02-07:00",
+    "summary": "TikTok's automated authenticity filters are increasingly catching AI-generated short videos, forcing creators and brands to adapt their content strategies for 2026.",
+    "original_topic": "AI Short Form Video & Social Media",
+    "search_query": "AI short videos pass TikTok authenticity filters 2026",
+    "source_count": 12,
+    "tags": "AI video, social media, authenticity, TikTok",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
