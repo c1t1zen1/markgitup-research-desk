@@ -14871,5 +14871,18 @@
     "source_count": 12,
     "tags": "AI, crypto, trading, latency",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1135,
+    "topic": "AI Agents Debugging Proprietary, Obscure Legacy Systems in Finance",
+    "file": "html/article-1135-ai-agents-debugging-proprietary-obscure-legacy-systems-in-finance-20261018-020530.html",
+    "timestamp": "20261018-020530",
+    "full_timestamp": "2026-10-18T02:05:30-07:00",
+    "summary": "AI agents may assist with documentation, testing, and migration around COBOL and mainframes, but the evidence leaves finance-specific debugging, verification, and autonomy unproven.",
+    "original_topic": "Autonomous AI Code Agents",
+    "search_query": "AI agents debugging COBOL mainframes 2026",
+    "source_count": 12,
+    "tags": "Legacy Code, FinTech, AI Agents, Enterprise IT",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
