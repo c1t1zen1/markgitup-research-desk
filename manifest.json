@@ -14832,5 +14832,18 @@
     "source_count": 12,
     "tags": "generative AI, earnings forecasting, alternative data, financial modeling",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1132,
+    "topic": "FDA Approves First AI-Driven Digital Therapeutic for Treatment-Resistant Depression",
+    "file": "html/article-1132-fda-approves-first-ai-driven-digital-therapeutic-for-treatment-resistant-20261017-230115.html",
+    "timestamp": "20261017-230115",
+    "full_timestamp": "2026-10-17T23:01:15-07:00",
+    "summary": "FDA approval of an AI-discovered antidepressant marks a regulatory milestone, validating machine learning's role in psychiatric drug development and setting precedent for future AI-driven therapeutics.",
+    "original_topic": "AI in Mental Health & Therapy",
+    "search_query": "FDA approval AI digital therapeutic depression 2026",
+    "source_count": 12,
+    "tags": "AI, mental health, FDA, digital therapeutics",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
