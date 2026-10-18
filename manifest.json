@@ -15027,5 +15027,18 @@
     "source_count": 12,
     "tags": "smart homes, energy management, demand response",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1147,
+    "topic": "Election Offices Deploy AI Voter Chatbots Before 2026 Midterms, Testing Accuracy Safeguards",
+    "file": "html/article-1147-election-offices-deploy-ai-voter-chatbots-before-2026-midterms-testing-a-20261018-140412.html",
+    "timestamp": "20261018-140412",
+    "full_timestamp": "2026-10-18T14:04:12-07:00",
+    "summary": "Election offices may use conversational AI to guide voters before the 2026 midterms, but supplied evidence emphasizes accuracy, sourcing, language gaps, and safeguards over confirmed deployment.",
+    "original_topic": "AI in US Elections & Campaigns",
+    "search_query": "2026 election offices AI voter information chatbots accuracy safeguards",
+    "source_count": 12,
+    "tags": "election administration, chatbots, voter information, AI safety",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
