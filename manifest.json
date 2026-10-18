@@ -14936,5 +14936,18 @@
     "source_count": 12,
     "tags": "video restoration, archival, deep learning, image processing",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1140,
+    "topic": "Bridging the Gap: Local AI Toolchains for Cross-Platform macOS Development",
+    "file": "html/article-1140-bridging-the-gap-local-ai-toolchains-for-cross-platform-macos-developmen-20261018-071418.html",
+    "timestamp": "20261018-071418",
+    "full_timestamp": "2026-10-18T07:14:18-07:00",
+    "summary": "Integrating local AI models directly into the macOS developer environment is maturing, offering developers privacy and offline resilience.",
+    "original_topic": "Local AI Tools & Stacks for macOS",
+    "search_query": "macOS local AI toolchains for developer workflow 2026",
+    "source_count": 12,
+    "tags": "macOS, LocalAI, DeveloperTools, LLM",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
