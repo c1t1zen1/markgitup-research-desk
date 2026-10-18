@@ -14975,5 +14975,18 @@
     "source_count": 12,
     "tags": "Virtual Production, AI Directing, Real-Time Rendering, Filmmaking",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1143,
+    "topic": "Generative AI's Impact on Algorithmic Trading Risk Modeling and Volatility",
+    "file": "html/article-1143-generative-ai-s-impact-on-algorithmic-trading-risk-modeling-and-volatili-20261018-101258.html",
+    "timestamp": "20261018-101258",
+    "full_timestamp": "2026-10-18T10:12:58-07:00",
+    "summary": "Generative AI is moving beyond simple prediction to stress-test and model systemic risk in modern algorithmic trading.",
+    "original_topic": "AI Stock Prediction & Market Analysis",
+    "search_query": "Generative AI risk modeling algorithmic trading 2026",
+    "source_count": 12,
+    "tags": "Algorithmic Trading, Risk Management, Generative AI, Finance",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
