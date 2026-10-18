@@ -14910,5 +14910,18 @@
     "source_count": 12,
     "tags": "AI Security, Data Sovereignty, Enterprise AI, macOS",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1138,
+    "topic": "AI's Role in Sovereign Cyber Defense Against Nation-State AI Offensives",
+    "file": "html/article-1138-ai-s-role-in-sovereign-cyber-defense-against-nation-state-ai-offensives-20261018-051323.html",
+    "timestamp": "20261018-051323",
+    "full_timestamp": "2026-10-18T05:13:23-07:00",
+    "summary": "Defending the digital frontier: How sovereign nations must leverage AI to counter sophisticated nation-state cyber offensives.",
+    "original_topic": "AI in US Intelligence & Surveillance",
+    "search_query": "AI counter-intelligence nation-state cyber defense 2026",
+    "source_count": 12,
+    "tags": "Cybersecurity, AI Defense, Intelligence, Geopolitics",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
