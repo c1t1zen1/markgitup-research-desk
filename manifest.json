@@ -14819,5 +14819,18 @@
     "source_count": 12,
     "tags": "AI, lobbying, regulation, policy",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1131,
+    "topic": "AI Models Now Forecast Quarterly Earnings From Supply Chain Data",
+    "file": "html/article-1131-ai-models-now-forecast-quarterly-earnings-from-supply-chain-data-20261017-220259.html",
+    "timestamp": "20261017-220259",
+    "full_timestamp": "2026-10-17T22:02:59-07:00",
+    "summary": "AI models are shifting from post-hoc financial statement analysis to pre-earnings predictive modeling using alternative data streams like supply chain signals.",
+    "original_topic": "Generative AI for Financial Reporting",
+    "search_query": "AI earnings forecasting supply chain data 2026",
+    "source_count": 12,
+    "tags": "generative AI, earnings forecasting, alternative data, financial modeling",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
