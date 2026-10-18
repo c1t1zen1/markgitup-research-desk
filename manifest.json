@@ -14884,5 +14884,18 @@
     "source_count": 12,
     "tags": "Legacy Code, FinTech, AI Agents, Enterprise IT",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1136,
+    "topic": "Optimizing Quantization for Next-Gen Edge AI on Apple Silicon",
+    "file": "html/article-1136-optimizing-quantization-for-next-gen-edge-ai-on-apple-silicon-20261018-031213.html",
+    "timestamp": "20261018-031213",
+    "full_timestamp": "2026-10-18T03:12:13-07:00",
+    "summary": "Mastering Quantization: Deploying Next-Gen LLMs Efficiently on Apple Silicon for On-Device AI.",
+    "original_topic": "AI Development Tools for Apple Silicon",
+    "search_query": "Apple Silicon model quantization edge deployment 2026",
+    "source_count": 12,
+    "tags": "Edge AI, Quantization, Apple Silicon, ML Optimization",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
