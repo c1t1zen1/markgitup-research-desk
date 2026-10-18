@@ -14858,5 +14858,18 @@
     "source_count": 12,
     "tags": "deepfakes,legislation,US politics,synthetic media",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1134,
+    "topic": "AI Trading Bots Now Exploit Exchange Latency Arbitrage",
+    "file": "html/article-1134-ai-trading-bots-now-exploit-exchange-latency-arbitrage-20261018-010430.html",
+    "timestamp": "20261018-010430",
+    "full_timestamp": "2026-10-18T01:04:30-07:00",
+    "summary": "AI-driven bots now systematically exploit microsecond latency gaps between crypto exchanges, marking a shift from simple speed competition to sophisticated arbitrage strategies that require deep infrastructure investment.",
+    "original_topic": "AI Crypto Trading Bots & Performance",
+    "search_query": "AI trading bots latency arbitrage crypto exchanges 2026",
+    "source_count": 12,
+    "tags": "AI, crypto, trading, latency",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
