@@ -14962,5 +14962,18 @@
     "source_count": 12,
     "tags": "AI avatars, broadcasting, localization",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1142,
+    "topic": "Real-Time Interactive AI Directors Shaping Live Virtual Production Experiences",
+    "file": "html/article-1142-real-time-interactive-ai-directors-shaping-live-virtual-production-exper-20261018-091135.html",
+    "timestamp": "20261018-091135",
+    "full_timestamp": "2026-10-18T09:11:35-07:00",
+    "summary": "AI is moving beyond pre-rendered assets to become a real-time director within live virtual production, revolutionizing how stories are told.",
+    "original_topic": "AI-Generated Video for Filmmaking & Content Creation",
+    "search_query": "AI director real-time interactive virtual production 2026",
+    "source_count": 12,
+    "tags": "Virtual Production, AI Directing, Real-Time Rendering, Filmmaking",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
