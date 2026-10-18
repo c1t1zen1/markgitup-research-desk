@@ -14754,5 +14754,18 @@
     "source_count": 12,
     "tags": "LLMs, hedge funds, Federal Reserve, speech analysis",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1126,
+    "topic": "AI Auto-Generates Sound Design and Foley for Indie Films",
+    "file": "html/article-1126-ai-auto-generates-sound-design-and-foley-for-indie-films-20261017-170309.html",
+    "timestamp": "20261017-170309",
+    "full_timestamp": "2026-10-17T17:03:09-07:00",
+    "summary": "Generative AI tools are moving beyond picture-only video editing into sound design, letting indie filmmakers produce custom foley, effects, and ambient audio from text prompts at low cost.",
+    "original_topic": "AI-Powered Video Editing & Post-Production",
+    "search_query": "AI foley sound design indie film 2026",
+    "source_count": 12,
+    "tags": "AI video, sound design, film production, generative audio",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
