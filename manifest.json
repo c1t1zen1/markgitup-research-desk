@@ -14923,5 +14923,18 @@
     "source_count": 12,
     "tags": "Cybersecurity, AI Defense, Intelligence, Geopolitics",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1139,
+    "topic": "AI Video Restoration: Reversing Digital Artifacts in Archival Footage with Deep Learning",
+    "file": "html/article-1139-ai-video-restoration-reversing-digital-artifacts-in-archival-footage-wit-20261018-061329.html",
+    "timestamp": "20261018-061329",
+    "full_timestamp": "2026-10-18T06:13:29-07:00",
+    "summary": "Deep Learning is revolutionizing archival preservation, allowing AI to reverse digital artifacts, upscale, and restore degraded historical video footage.",
+    "original_topic": "AI-Powered Video Editing & Post-Production",
+    "search_query": "AI video de-noising archival footage restoration 2026",
+    "source_count": 12,
+    "tags": "video restoration, archival, deep learning, image processing",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
