@@ -14780,5 +14780,18 @@
     "source_count": 12,
     "tags": "AI video, social media, authenticity, TikTok",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1128,
+    "topic": "AI Drafts SEC Filings, But Auditors Still Sign Off",
+    "file": "html/article-1128-ai-drafts-sec-filings-but-auditors-still-sign-off-20261017-190436.html",
+    "timestamp": "20261017-190436",
+    "full_timestamp": "2026-10-17T19:04:36-07:00",
+    "summary": "Generative AI is beginning to draft portions of SEC filings, but human auditors and filers retain ultimate liability, creating a new review workflow rather than full automation.",
+    "original_topic": "Generative AI for Financial Reporting",
+    "search_query": "AI SEC filing automation audit 2026",
+    "source_count": 12,
+    "tags": "generative AI, financial reporting, SEC filings, auditing",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
