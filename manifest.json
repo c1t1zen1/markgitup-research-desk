@@ -14949,5 +14949,18 @@
     "source_count": 12,
     "tags": "macOS, LocalAI, DeveloperTools, LLM",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1141,
+    "topic": "Can AI Avatar Presenters Make Minority-Language Newscasts Economically Viable?",
+    "file": "html/article-1141-can-ai-avatar-presenters-make-minority-language-newscasts-economically-v-20261018-081714.html",
+    "timestamp": "20261018-081714",
+    "full_timestamp": "2026-10-18T08:17:14-07:00",
+    "summary": "AI avatars offer a potential path to financial viability for minority-language newscasts by drastically reducing production overhead.",
+    "original_topic": "AI Video Avatars & Virtual Presenters",
+    "search_query": "AI virtual presenters minority language broadcast pilots Europe 2026",
+    "source_count": 12,
+    "tags": "AI avatars, broadcasting, localization",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
