@@ -15196,5 +15196,18 @@
     "source_count": 12,
     "tags": "AML, FinTech, RegulatoryTech, AI",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1160,
+    "topic": "AI Agent Networks Predicting Micro-Market Shifts in Commodity Futures Trading",
+    "file": "html/article-1160-ai-agent-networks-predicting-micro-market-shifts-in-commodity-futures-tr-20261019-030329.html",
+    "timestamp": "20261019-030329",
+    "full_timestamp": "2026-10-19T03:03:29-07:00",
+    "summary": "A cautious look at how interacting AI specialists might detect high-frequency commodity-futures shifts—and why current evidence supports research more strongly than a proven trading edge.",
+    "original_topic": "AI Stock Prediction & Market Analysis",
+    "search_query": "Multi-agent AI commodity futures prediction models 2026",
+    "source_count": 12,
+    "tags": "AI Agents, Commodity Markets, High Frequency Trading, Market Simulation",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
