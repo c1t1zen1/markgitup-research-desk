@@ -15313,5 +15313,18 @@
     "source_count": 12,
     "tags": "AI, Micro-Content, Community, Personalization",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1169,
+    "topic": "Federated Learning on Mac: Securing Sensitive Data for Localized Health AI",
+    "file": "html/article-1169-federated-learning-on-mac-securing-sensitive-data-for-localized-health-a-20261019-121152.html",
+    "timestamp": "20261019-121152",
+    "full_timestamp": "2026-10-19T12:11:52-07:00",
+    "summary": "Federated Learning on Mac enables collaborative, privacy-first AI by training models locally, keeping sensitive patient data secure.",
+    "original_topic": "Privacy-First Local AI on Mac",
+    "search_query": "Federated learning on Apple Silicon health data privacy 2026 latest",
+    "source_count": 12,
+    "tags": "Federated Learning, Healthcare AI, Data Privacy, Apple Silicon",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
