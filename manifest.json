@@ -15183,5 +15183,18 @@
     "source_count": 12,
     "tags": "AI, Storyboarding, Pre-production, Filmmaking",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1159,
+    "topic": "AI Monitoring Cross-Border Transaction Patterns for Emerging AML Compliance Risks",
+    "file": "html/article-1159-ai-monitoring-cross-border-transaction-patterns-for-emerging-aml-complia-20261019-021327.html",
+    "timestamp": "20261019-021327",
+    "full_timestamp": "2026-10-19T02:13:27-07:00",
+    "summary": "AI is evolving AML from simple detection to proactive, cross-border pattern monitoring, driven by complex regulatory shifts and vast data analysis.",
+    "original_topic": "AI Fraud Detection in Banking & Finance",
+    "search_query": "AI AML transaction monitoring cross-border compliance 2026",
+    "source_count": 12,
+    "tags": "AML, FinTech, RegulatoryTech, AI",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
