@@ -15157,5 +15157,18 @@
     "source_count": 12,
     "tags": "AI Ethics, Mental Health, Companionship, Digital Therapy",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1157,
+    "topic": "AI Video Avatars Replace Live Hosts in 24/7 News Operations",
+    "file": "html/article-1157-ai-video-avatars-replace-live-hosts-in-24-7-news-operations-20261019-000143.html",
+    "timestamp": "20261019-000143",
+    "full_timestamp": "2026-10-19T00:01:43-07:00",
+    "summary": "Newsrooms are deploying AI avatars as permanent, cost-effective replacements for live human hosts in continuous broadcast cycles.",
+    "original_topic": "AI Video Avatars & Virtual Presenters",
+    "search_query": "AI video avatars replacing live news anchors 2026",
+    "source_count": 12,
+    "tags": "AI avatars, news media, broadcast automation, 2026 trends",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
