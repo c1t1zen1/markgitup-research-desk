@@ -15235,5 +15235,18 @@
     "source_count": 12,
     "tags": "Edge AI, Quantization, Industrial IoT, Apple Silicon",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1163,
+    "topic": "Real-Time AI Video Stabilization for Drone Cinematography in Adverse Weather",
+    "file": "html/article-1163-real-time-ai-video-stabilization-for-drone-cinematography-in-adverse-wea-20261019-060424.html",
+    "timestamp": "20261019-060424",
+    "full_timestamp": "2026-10-19T06:04:24-07:00",
+    "summary": "AI stabilization could make drone cinematography more usable in difficult conditions, but supplied evidence supports market direction—not yet validated real-time performance.",
+    "original_topic": "AI-Powered Video Editing & Post-Production",
+    "search_query": "AI video stabilization drone adverse weather 2026",
+    "source_count": 12,
+    "tags": "Video Editing, Drone Tech, Computer Vision, Stabilization",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
