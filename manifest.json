@@ -15131,5 +15131,18 @@
     "source_count": 12,
     "tags": "ESG, Regulatory Compliance, Generative AI, Greenwashing",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1155,
+    "topic": "Decentralized Autonomous Organizations: AI Agents Managing Crypto Treasury Governance",
+    "file": "html/article-1155-decentralized-autonomous-organizations-ai-agents-managing-crypto-treasur-20261018-221248.html",
+    "timestamp": "20261018-221248",
+    "full_timestamp": "2026-10-18T22:12:48-07:00",
+    "summary": "AI agents are emerging to manage the fiduciary duties of DAO treasuries, revolutionizing governance and capital allocation in decentralized finance.",
+    "original_topic": "AI Crypto Trading Bots & Performance",
+    "search_query": "AI agents DAO treasury management protocols 2026",
+    "source_count": 12,
+    "tags": "DeFi, AI Governance, DAOs, Crypto",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
