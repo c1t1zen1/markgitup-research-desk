@@ -15248,5 +15248,18 @@
     "source_count": 12,
     "tags": "Video Editing, Drone Tech, Computer Vision, Stabilization",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1164,
+    "topic": "AI Code Agents Debugging Legacy Systems in Industrial Control Networks",
+    "file": "html/article-1164-ai-code-agents-debugging-legacy-systems-in-industrial-control-networks-20261019-070328.html",
+    "timestamp": "20261019-070328",
+    "full_timestamp": "2026-10-19T07:03:28-07:00",
+    "summary": "AI coding agents show growing debugging and legacy-refactoring ambitions, but supplied evidence does not yet demonstrate safe operation inside decades-old industrial control networks.",
+    "original_topic": "Autonomous AI Code Agents",
+    "search_query": "AI code agents industrial control system debugging 2026 latest",
+    "source_count": 12,
+    "tags": "AI Agents, Industrial IoT, Legacy Code, Cyber-Physical Systems",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
