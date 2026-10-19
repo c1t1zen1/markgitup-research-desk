@@ -15144,5 +15144,18 @@
     "source_count": 12,
     "tags": "DeFi, AI Governance, DAOs, Crypto",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1156,
+    "topic": "Personalized AI Companions: Ethical Boundaries in Digital Mental Health Support",
+    "file": "html/article-1156-personalized-ai-companions-ethical-boundaries-in-digital-mental-health-s-20261018-231314.html",
+    "timestamp": "20261018-231314",
+    "full_timestamp": "2026-10-18T23:13:14-07:00",
+    "summary": "As AI companions grow complex, navigating the ethical lines between support and dependency in digital mental health is critical.",
+    "original_topic": "AI in Mental Health & Therapy",
+    "search_query": "AI companion therapy ethics 2026",
+    "source_count": 12,
+    "tags": "AI Ethics, Mental Health, Companionship, Digital Therapy",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
