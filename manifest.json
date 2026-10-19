@@ -15079,5 +15079,18 @@
     "source_count": 12,
     "tags": "AI, Misinformation, Local Politics, Elections",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1151,
+    "topic": "AI Video Synthesis and Copyright: New Legal Frameworks for Creator Economies",
+    "file": "html/article-1151-ai-video-synthesis-and-copyright-new-legal-frameworks-for-creator-econom-20261018-180321.html",
+    "timestamp": "20261018-180321",
+    "full_timestamp": "2026-10-18T18:03:21-07:00",
+    "summary": "AI video is pushing creator economies beyond detection: training-data legitimacy, output ownership, reproduction liability, and studio contracts remain linked questions in an unsettled copyright landscape.",
+    "original_topic": "AI Short Form Video & Social Media",
+    "search_query": "AI video generation copyright law 2026 updates",
+    "source_count": 12,
+    "tags": "Copyright, Generative AI, Media Law, IP",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
