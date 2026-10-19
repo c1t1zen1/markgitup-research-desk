@@ -15118,5 +15118,18 @@
     "source_count": 12,
     "tags": "RegTech, Compliance, International Law, AI Auditing",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1154,
+    "topic": "Generative AI for ESG Reporting: Automating Disclosure and Mitigating Greenwashing Risk",
+    "file": "html/article-1154-generative-ai-for-esg-reporting-automating-disclosure-and-mitigating-gre-20261018-211218.html",
+    "timestamp": "20261018-211218",
+    "full_timestamp": "2026-10-18T21:12:18-07:00",
+    "summary": "Generative AI is transforming ESG reporting by automating disclosures and offering novel methods to audit claims against greenwashing.",
+    "original_topic": "Generative AI for Financial Reporting",
+    "search_query": "Generative AI ESG reporting greenwashing detection 2026",
+    "source_count": 12,
+    "tags": "ESG, Regulatory Compliance, Generative AI, Greenwashing",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
