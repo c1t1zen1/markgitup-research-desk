@@ -15209,5 +15209,18 @@
     "source_count": 12,
     "tags": "AI Agents, Commodity Markets, High Frequency Trading, Market Simulation",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1161,
+    "topic": "AI Lobbying Transparency: Mandates for Disclosure in Legislative AI Interactions",
+    "file": "html/article-1161-ai-lobbying-transparency-mandates-for-disclosure-in-legislative-ai-inter-20261019-041322.html",
+    "timestamp": "20261019-041322",
+    "full_timestamp": "2026-10-19T04:13:22-07:00",
+    "summary": "New regulatory pressure demands transparency when AI systems actively engage with legislative bodies, shifting focus from mere AI use to interaction.",
+    "original_topic": "AI Lobbying & Policy in Washington",
+    "search_query": "AI lobbying disclosure regulations Washington D.C. 2026",
+    "source_count": 12,
+    "tags": "AI Governance, Lobbying, Regulation, Policy",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
