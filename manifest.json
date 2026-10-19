@@ -15300,5 +15300,18 @@
     "source_count": 12,
     "tags": "Cybersecurity, Critical Infrastructure, AI Defense, National Security",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1168,
+    "topic": "AI-Generated Micro-Content Adapters for Niche Community Engagement",
+    "file": "html/article-1168-ai-generated-micro-content-adapters-for-niche-community-engagement-20261019-110524.html",
+    "timestamp": "20261019-110524",
+    "full_timestamp": "2026-10-19T11:05:24-07:00",
+    "summary": "AI micro-content adapters promise one-source, many-format publishing, but evidence remains thin on whether granular community tailoring improves engagement without sacrificing relevance or trust.",
+    "original_topic": "AI Short Form Video & Social Media",
+    "search_query": "AI content adaptation for specialized online communities 2026 latest",
+    "source_count": 12,
+    "tags": "AI, Micro-Content, Community, Personalization",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
