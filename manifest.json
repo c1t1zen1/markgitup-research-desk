@@ -15222,5 +15222,18 @@
     "source_count": 12,
     "tags": "AI Governance, Lobbying, Regulation, Policy",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1162,
+    "topic": "Quantized LLMs on Apple Silicon: Edge AI for Real-Time Industrial IoT Control",
+    "file": "html/article-1162-quantized-llms-on-apple-silicon-edge-ai-for-real-time-industrial-iot-con-20261019-051333.html",
+    "timestamp": "20261019-051333",
+    "full_timestamp": "2026-10-19T05:13:33-07:00",
+    "summary": "Deploying quantized LLMs on Apple Silicon enables low-latency, private AI inference, positioning Macs for real-time edge control in industrial IoT.",
+    "original_topic": "Quantized LLMs Running on Mac Hardware",
+    "search_query": "LLM inference on Mac for industrial control systems 2026 latest",
+    "source_count": 12,
+    "tags": "Edge AI, Quantization, Industrial IoT, Apple Silicon",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
