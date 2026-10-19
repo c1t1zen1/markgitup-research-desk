@@ -15092,5 +15092,18 @@
     "source_count": 12,
     "tags": "Copyright, Generative AI, Media Law, IP",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1152,
+    "topic": "LLMs Analyzing Real-Time Geopolitical Sentiment for Macro Hedge Fund Strategy Shifts",
+    "file": "html/article-1152-llms-analyzing-real-time-geopolitical-sentiment-for-macro-hedge-fund-str-20261018-191303.html",
+    "timestamp": "20261018-191303",
+    "full_timestamp": "2026-10-18T19:13:03-07:00",
+    "summary": "LLMs are transforming macro hedge fund strategy by interpreting real-time geopolitical sentiment from unstructured global news feeds.",
+    "original_topic": "LLMs in Hedge Funds & Trading",
+    "search_query": "LLM geopolitical sentiment analysis hedge funds 2026",
+    "source_count": 12,
+    "tags": "Geopolitics, Macro Trading, LLMs, Risk Management",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
