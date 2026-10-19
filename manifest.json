@@ -15066,5 +15066,18 @@
     "source_count": 12,
     "tags": "LLMs, Quantization, Apple Silicon, Edge AI",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1150,
+    "topic": "AI-Generated Narratives Targeting Localized Voter Behavior in Municipal Elections",
+    "file": "html/article-1150-ai-generated-narratives-targeting-localized-voter-behavior-in-municipal-20261018-171441.html",
+    "timestamp": "20261018-171441",
+    "full_timestamp": "2026-10-18T17:14:41-07:00",
+    "summary": "AI misinformation is shifting from national headlines to hyper-local municipal campaigns, demanding new defenses against targeted narrative attacks.",
+    "original_topic": "AI Misinformation & Election Integrity",
+    "search_query": "AI misinformation local elections municipal targeting 2026",
+    "source_count": 12,
+    "tags": "AI, Misinformation, Local Politics, Elections",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
