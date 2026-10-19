@@ -15339,5 +15339,18 @@
     "source_count": 12,
     "tags": "LLMs, Trading, Model Risk, FinTech",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1171,
+    "topic": "Optimizing Vision Models for On-Device Medical Imaging Analysis on Apple Silicon",
+    "file": "html/article-1171-optimizing-vision-models-for-on-device-medical-imaging-analysis-on-apple-20261019-140325.html",
+    "timestamp": "20261019-140325",
+    "full_timestamp": "2026-10-19T14:03:25-07:00",
+    "summary": "Apple Silicon’s on-device AI stack could make medical imaging more private and responsive, but supplied evidence supports platform direction—not clinical accuracy, workflow validation, or diagnostic readiness.",
+    "original_topic": "AI Development Tools for Apple Silicon",
+    "search_query": "on-device medical image processing Apple Silicon 2026",
+    "source_count": 12,
+    "tags": "Medical AI, Edge Computing, Apple Silicon, Computer Vision",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
