@@ -15547,5 +15547,18 @@
     "source_count": 12,
     "tags": "Video Restoration, Generative AI, Image Inpainting, Archival Media",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1187,
+    "topic": "AI Campaign Chatbots Enter 2026 Voter Contact, Testing Transparency and Human Oversight Rules",
+    "file": "html/article-1187-ai-campaign-chatbots-enter-2026-voter-contact-testing-transparency-and-h-20261020-061347.html",
+    "timestamp": "20261020-061347",
+    "full_timestamp": "2026-10-20T06:13:47-07:00",
+    "summary": "As AI chatbots enter 2026 voter outreach, campaigns face a complex web of emerging disclosure, recordkeeping, and human oversight rules.",
+    "original_topic": "AI in US Elections & Campaigns",
+    "search_query": "2026 US campaign AI volunteer chatbots voter contact disclosure rules",
+    "source_count": 12,
+    "tags": "campaign technology, chatbots, election law, voter contact",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
