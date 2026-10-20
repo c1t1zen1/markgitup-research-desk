@@ -15482,5 +15482,18 @@
     "source_count": 12,
     "tags": "e-discovery, legal tech, AI compliance, litigation",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1182,
+    "topic": "Real-Time Emotional Resonance: AI Avatars Adapting to User Biometrics",
+    "file": "html/article-1182-real-time-emotional-resonance-ai-avatars-adapting-to-user-biometrics-20261020-010328.html",
+    "timestamp": "20261020-010328",
+    "full_timestamp": "2026-10-20T01:03:28-07:00",
+    "summary": "Biometric feedback could move virtual presenters beyond scripted dialogue, but sparse evidence and contested emotion inference make consent, calibration, and uncertainty central design requirements.",
+    "original_topic": "AI Video Avatars & Virtual Presenters",
+    "search_query": "AI avatar emotional response physiological signals 2026",
+    "source_count": 12,
+    "tags": "Emotional AI, Virtual Presence, Biometrics, Affective Computing",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
