@@ -15625,5 +15625,18 @@
     "source_count": 12,
     "tags": "Algorithmic Trading, Market Surveillance, Generative AI, Financial Crime",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1193,
+    "topic": "Optimizing Local LLM Performance for Next-Gen macOS Neural Engine Features",
+    "file": "html/article-1193-optimizing-local-llm-performance-for-next-gen-macos-neural-engine-featur-20261020-120330.html",
+    "timestamp": "20261020-120330",
+    "full_timestamp": "2026-10-20T12:03:30-07:00",
+    "summary": "Local LLM speed on macOS increasingly depends on matching MLX, Metal, unified memory, quantization, and chip-specific Neural Engine behavior—while evidence still demands cautious, repeatable benchmarking.",
+    "original_topic": "Local AI Tools & Stacks for macOS",
+    "search_query": "macOS LLM optimization Neural Engine 2026",
+    "source_count": 12,
+    "tags": "Apple Silicon, Local LLM, Performance, macOS",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
