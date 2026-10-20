@@ -15521,5 +15521,18 @@
     "source_count": 12,
     "tags": "Neuro-Symbolic AI, Mental Health, Emotional AI, Therapy",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1185,
+    "topic": "Real-Time Co-Creation: AI Directing and Iterating on Live Virtual Production Sets",
+    "file": "html/article-1185-real-time-co-creation-ai-directing-and-iterating-on-live-virtual-product-20261020-041136.html",
+    "timestamp": "20261020-041136",
+    "full_timestamp": "2026-10-20T04:11:36-07:00",
+    "summary": "AI is moving beyond post-production, enabling real-time co-creation by allowing directors to iterate and direct directly within live virtual production sets.",
+    "original_topic": "AI-Generated Video for Filmmaking & Content Creation",
+    "search_query": "AI director virtual production live feedback loop 2026 latest",
+    "source_count": 12,
+    "tags": "Virtual Production, Generative AI, Live Filmmaking, Director AI",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
