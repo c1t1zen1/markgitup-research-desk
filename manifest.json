@@ -15664,5 +15664,18 @@
     "source_count": 12,
     "tags": "Cross-Border Payments, Synthetic Fraud, Network Analysis, AML",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1196,
+    "topic": "Deepfakes in Localized Elections: AI Voice Cloning and Voter Trust Erosion",
+    "file": "html/article-1196-deepfakes-in-localized-elections-ai-voice-cloning-and-voter-trust-erosio-20261020-151132.html",
+    "timestamp": "20261020-151132",
+    "full_timestamp": "2026-10-20T15:11:32-07:00",
+    "summary": "Hyper-localized AI voice cloning threatens municipal integrity, enabling targeted disinformation campaigns ahead of 2026 elections.",
+    "original_topic": "AI Misinformation & Election Integrity",
+    "search_query": "AI voice cloning election disinformation 2026",
+    "source_count": 12,
+    "tags": "deepfake, election integrity, synthetic media, voice cloning",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
