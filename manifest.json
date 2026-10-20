@@ -15612,5 +15612,18 @@
     "source_count": 12,
     "tags": "Apple Silicon, Local LLMs, ML Optimization, Inference",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1192,
+    "topic": "Generative AI in Algorithmic Trading: Detecting Synthetic Market Manipulation Patterns",
+    "file": "html/article-1192-generative-ai-in-algorithmic-trading-detecting-synthetic-market-manipula-20261020-110338.html",
+    "timestamp": "20261020-110338",
+    "full_timestamp": "2026-10-20T11:03:38-07:00",
+    "summary": "Generative AI may help market-surveillance teams flag coordinated or synthetic manipulation, but supplied evidence supports a cautious framework—not proof of trading-specific performance.",
+    "original_topic": "AI Stock Prediction & Market Analysis",
+    "search_query": "Generative AI synthetic market manipulation detection 2026",
+    "source_count": 12,
+    "tags": "Algorithmic Trading, Market Surveillance, Generative AI, Financial Crime",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
