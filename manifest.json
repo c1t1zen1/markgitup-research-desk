@@ -15573,5 +15573,18 @@
     "source_count": 12,
     "tags": "deepfakes, intimate imagery, platform regulation, U.S. law",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1189,
+    "topic": "AI Lobbying's New Frontier: Algorithmic Influence on Infrastructure Bill Negotiations",
+    "file": "html/article-1189-ai-lobbying-s-new-frontier-algorithmic-influence-on-infrastructure-bill-20261020-081317.html",
+    "timestamp": "20261020-081317",
+    "full_timestamp": "2026-10-20T08:13:17-07:00",
+    "summary": "AI is moving beyond mere communication into modeling complex legislative outcomes, fundamentally reshaping how infrastructure policy is negotiated in Washington.",
+    "original_topic": "AI Lobbying & Policy in Washington",
+    "search_query": "AI lobbying infrastructure bill policy influence 2026",
+    "source_count": 12,
+    "tags": "AI Policy, Infrastructure, Lobbying, Washington",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
