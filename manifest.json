@@ -15651,5 +15651,18 @@
     "source_count": 12,
     "tags": "Copyright, Generative AI, Intellectual Property, Media Law",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1195,
+    "topic": "AI Detection of Synthetic Transaction Networks in Global Cross-Border Payments",
+    "file": "html/article-1195-ai-detection-of-synthetic-transaction-networks-in-global-cross-border-pa-20261020-140448.html",
+    "timestamp": "20261020-140448",
+    "full_timestamp": "2026-10-20T14:04:48-07:00",
+    "summary": "Cross-border synthetic fraud is best treated as a coordinated transaction-network problem: evidence points toward behavioral, anomaly, and cross-channel analysis, but offers few rail-specific facts.",
+    "original_topic": "AI Fraud Detection in Banking & Finance",
+    "search_query": "AI monitoring synthetic transaction fraud international banking 2026",
+    "source_count": 12,
+    "tags": "Cross-Border Payments, Synthetic Fraud, Network Analysis, AML",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
