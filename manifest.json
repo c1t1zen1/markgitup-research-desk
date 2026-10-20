@@ -15469,5 +15469,18 @@
     "source_count": 12,
     "tags": "Enterprise AI, Local LLM, Data Privacy, macOS",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1181,
+    "topic": "AI's Role in Pre-Trial Discovery: Automating E-Discovery Compliance in Global Litigation",
+    "file": "html/article-1181-ai-s-role-in-pre-trial-discovery-automating-e-discovery-compliance-in-gl-20261020-000431.html",
+    "timestamp": "20261020-000431",
+    "full_timestamp": "2026-10-20T00:04:31-07:00",
+    "summary": "AI can accelerate e-discovery, but cross-border data handling, privacy restrictions, security, bias, and court scrutiny make defensible compliance dependent on governance—not automation alone.",
+    "original_topic": "AI in Legal Systems & Law Practice",
+    "search_query": "AI e-discovery compliance regulatory changes 2026",
+    "source_count": 12,
+    "tags": "e-discovery, legal tech, AI compliance, litigation",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
