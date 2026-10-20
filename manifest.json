@@ -15638,5 +15638,18 @@
     "source_count": 12,
     "tags": "Apple Silicon, Local LLM, Performance, macOS",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1194,
+    "topic": "Synthetic Media's Impact on Copyright Law: New Models Challenge Attribution",
+    "file": "html/article-1194-synthetic-media-s-impact-on-copyright-law-new-models-challenge-attributi-20261020-130447.html",
+    "timestamp": "20261020-130447",
+    "full_timestamp": "2026-10-20T13:04:47-07:00",
+    "summary": "AI video models are pushing copyright law toward harder questions about training, attribution, ownership, and infringement as courts and policymakers test old rules against synthetic media.",
+    "original_topic": "AI Video Generation Models",
+    "search_query": "AI video generation copyright infringement legal precedents 2026",
+    "source_count": 12,
+    "tags": "Copyright, Generative AI, Intellectual Property, Media Law",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
