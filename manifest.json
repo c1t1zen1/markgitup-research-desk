@@ -15508,5 +15508,18 @@
     "source_count": 12,
     "tags": "XBRL, Financial Compliance, Generative AI, Regulatory Tech",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1184,
+    "topic": "Neuro-Symbolic AI Bridging Emotional Data Gaps in Digital Mental Health Therapy",
+    "file": "html/article-1184-neuro-symbolic-ai-bridging-emotional-data-gaps-in-digital-mental-health-20261020-030322.html",
+    "timestamp": "20261020-030322",
+    "full_timestamp": "2026-10-20T03:03:22-07:00",
+    "summary": "Neuro-symbolic AI could pair emotional pattern detection with explicit reasoning, but supplied evidence supports a research direction—not yet proven therapeutic understanding or safety.",
+    "original_topic": "AI in Mental Health & Therapy",
+    "search_query": "Neuro-symbolic AI mental health emotional processing 2026",
+    "source_count": 12,
+    "tags": "Neuro-Symbolic AI, Mental Health, Emotional AI, Therapy",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
