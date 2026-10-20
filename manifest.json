@@ -15417,5 +15417,18 @@
     "source_count": 12,
     "tags": "Ambient AI, Cognitive Computing, Smart Home, IoT",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1177,
+    "topic": "Deepfakes in Localized Political Campaigns: Detecting Hyper-Realistic Audio Manipulation",
+    "file": "html/article-1177-deepfakes-in-localized-political-campaigns-detecting-hyper-realistic-aud-20261019-200337.html",
+    "timestamp": "20261019-200337",
+    "full_timestamp": "2026-10-19T20:03:37-07:00",
+    "summary": "Synthetic audio can make local political deception harder to verify; the supplied evidence points to targeted distribution, uneven detection claims, and unsettled election rules.",
+    "original_topic": "AI Misinformation & Election Integrity",
+    "search_query": "AI audio deepfakes local political campaign detection 2026",
+    "source_count": 12,
+    "tags": "Deepfakes, Audio Forensics, Election Security, Local Politics",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
