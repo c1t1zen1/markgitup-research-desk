@@ -15430,5 +15430,18 @@
     "source_count": 12,
     "tags": "Deepfakes, Audio Forensics, Election Security, Local Politics",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1178,
+    "topic": "Decentralized AI Agents Navigating Regulatory Sandboxes in Digital Asset Markets",
+    "file": "html/article-1178-decentralized-ai-agents-navigating-regulatory-sandboxes-in-digital-asset-20261019-210333.html",
+    "timestamp": "20261019-210333",
+    "full_timestamp": "2026-10-19T21:03:33-07:00",
+    "summary": "Decentralized AI trading agents may gain controlled testing routes, but fragmented sandboxes, explainability demands, and uncertain on-chain compliance make localized authorization as important as autonomy.",
+    "original_topic": "AI Crypto Trading Bots & Performance",
+    "search_query": "AI agents crypto regulatory compliance sandboxes 2026",
+    "source_count": 12,
+    "tags": "DeFi, AI Governance, Crypto Regulation, Autonomous Agents",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
