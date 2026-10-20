@@ -15495,5 +15495,18 @@
     "source_count": 12,
     "tags": "Emotional AI, Virtual Presence, Biometrics, Affective Computing",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1183,
+    "topic": "Generative AI for XBRL Tagging: Automating Complex Financial Disclosure Compliance",
+    "file": "html/article-1183-generative-ai-for-xbrl-tagging-automating-complex-financial-disclosure-c-20261020-021155.html",
+    "timestamp": "20261020-021155",
+    "full_timestamp": "2026-10-20T02:11:55-07:00",
+    "summary": "Generative AI is transforming XBRL tagging, automating complex financial disclosure compliance, but introduces significant liability challenges.",
+    "original_topic": "Generative AI for Financial Reporting",
+    "search_query": "Generative AI XBRL tagging financial reporting compliance 2026 latest",
+    "source_count": 12,
+    "tags": "XBRL, Financial Compliance, Generative AI, Regulatory Tech",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
