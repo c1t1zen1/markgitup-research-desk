@@ -15378,5 +15378,18 @@
     "source_count": 12,
     "tags": "election integrity, misinformation, AI detection, digital governance",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1174,
+    "topic": "AI's Impact on Jurisdictional Data Sovereignty in Global Legal AI Platforms",
+    "file": "html/article-1174-ai-s-impact-on-jurisdictional-data-sovereignty-in-global-legal-ai-platfo-20261019-170315.html",
+    "timestamp": "20261019-170315",
+    "full_timestamp": "2026-10-19T17:03:15-07:00",
+    "summary": "Global legal AI platforms face a sovereignty problem: cross-border processing can collide with data-localization expectations, while available evidence offers warnings but few jurisdiction-specific rules or outcomes.",
+    "original_topic": "AI in Legal Systems & Law Practice",
+    "search_query": "AI legal data sovereignty cross-border compliance 2026",
+    "source_count": 12,
+    "tags": "Data Sovereignty, LegalTech, Cross-Border AI, Compliance",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
