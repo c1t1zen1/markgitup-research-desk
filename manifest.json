@@ -15833,5 +15833,18 @@
     "source_count": 12,
     "tags": "Systemic Risk, HFT, LLMs, Market Stability",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1209,
+    "topic": "AI Video Models Become Robotics Simulators as Labs Pursue Learnable World Models",
+    "file": "html/article-1209-ai-video-models-become-robotics-simulators-as-labs-pursue-learnable-worl-20261021-041324.html",
+    "timestamp": "20261021-041324",
+    "full_timestamp": "2026-10-21T04:13:24-07:00",
+    "summary": "AI video models are evolving beyond entertainment, becoming vital predictive simulators for training and deploying next-generation robots.",
+    "original_topic": "AI Video Generation Models",
+    "search_query": "2026 generative video world models robotics training lab announcements",
+    "source_count": 12,
+    "tags": "world models, robotics, simulation",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
