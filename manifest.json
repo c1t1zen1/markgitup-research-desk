@@ -15742,5 +15742,18 @@
     "source_count": 12,
     "tags": "Smart Grid, Edge AI, Energy Management, Home Automation",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1202,
+    "topic": "AI Director Models: Automating Complex Cinematography and Narrative Pacing",
+    "file": "html/article-1202-ai-director-models-automating-complex-cinematography-and-narrative-pacin-20261020-210322.html",
+    "timestamp": "20261020-210322",
+    "full_timestamp": "2026-10-20T21:03:22-07:00",
+    "summary": "AI director models promise a shift from automated cuts to narrative control, but supplied evidence supports context-aware suggestions more clearly than autonomous cinematography or dramatic authorship.",
+    "original_topic": "AI-Powered Video Editing & Post-Production",
+    "search_query": "AI video editing narrative structure automation 2026",
+    "source_count": 12,
+    "tags": "Video Editing, AI Directing, Filmmaking, Narrative AI",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
