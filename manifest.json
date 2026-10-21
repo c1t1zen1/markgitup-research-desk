@@ -15911,5 +15911,18 @@
     "source_count": 12,
     "tags": "Synthetic Media, Intellectual Property, Consent, AI Law",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1215,
+    "topic": "Ambient AI: Contextual Awareness in Homes Beyond Simple Automation",
+    "file": "html/article-1215-ambient-ai-contextual-awareness-in-homes-beyond-simple-automation-20261021-100328.html",
+    "timestamp": "20261021-100328",
+    "full_timestamp": "2026-10-21T10:03:28-07:00",
+    "summary": "Ambient AI moves the smart home from reacting to commands toward interpreting surrounding context, combining sensing, local intelligence, and coordinated devices—while making privacy, uncertainty, and control central design questions.",
+    "original_topic": "AI-Powered Smart Homes & Automation",
+    "search_query": "Ambient AI environmental sensing smart homes 2026",
+    "source_count": 12,
+    "tags": "Ambient AI, Contextual Computing, Smart Home, Sensor Fusion",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
