@@ -15859,5 +15859,18 @@
     "source_count": 12,
     "tags": "Interactive Media, Generative Video, Live Production, Audience Engagement",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1211,
+    "topic": "macOS Containerization for Secure Local AI Model Deployment and Sandboxing",
+    "file": "html/article-1211-macos-containerization-for-secure-local-ai-model-deployment-and-sandboxi-20261021-060458.html",
+    "timestamp": "20261021-060458",
+    "full_timestamp": "2026-10-21T06:04:58-07:00",
+    "summary": "Secure local AI on macOS depends less on model speed than on isolation boundaries, controlled host access, reproducible deployment, and continuous monitoring of container risks.",
+    "original_topic": "Local AI Tools & Stacks for macOS",
+    "search_query": "macOS containerized AI model deployment security 2026",
+    "source_count": 12,
+    "tags": "macOS, Containerization, Security, Local AI",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
