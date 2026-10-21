@@ -15703,5 +15703,18 @@
     "source_count": 12,
     "tags": "Cybersecurity, Geopolitics, AI Surveillance, Critical Infrastructure",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1199,
+    "topic": "AI-Generated Short-Form Video and Synthetic Identity in Creator Economy",
+    "file": "html/article-1199-ai-generated-short-form-video-and-synthetic-identity-in-creator-economy-20261020-180326.html",
+    "timestamp": "20261020-180326",
+    "full_timestamp": "2026-10-20T18:03:26-07:00",
+    "summary": "General AI sources establish generative capability, but they do not verify synthetic personas’ prevalence, platform effects, or creator-rights disputes—making evidence limits central to this analysis.",
+    "original_topic": "AI Short Form Video & Social Media",
+    "search_query": "AI synthetic identity creator economy platform policies 2026 latest",
+    "source_count": 10,
+    "tags": "Synthetic Media, Creator Economy, AI Identity, Social Media",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
