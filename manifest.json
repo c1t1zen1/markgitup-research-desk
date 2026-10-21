@@ -15716,5 +15716,18 @@
     "source_count": 10,
     "tags": "Synthetic Media, Creator Economy, AI Identity, Social Media",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1200,
+    "topic": "M-Series LLMs Powering Personalized, Privacy-Preserving Enterprise Knowledge Retrieval",
+    "file": "html/article-1200-m-series-llms-powering-personalized-privacy-preserving-enterprise-knowle-20261020-191236.html",
+    "timestamp": "20261020-191236",
+    "full_timestamp": "2026-10-20T19:12:36-07:00",
+    "summary": "Harnessing M-Series Apple Silicon for local LLMs enables private, on-device knowledge retrieval, revolutionizing enterprise data security.",
+    "original_topic": "M Series Apple Silicon LLM Inference",
+    "search_query": "On-device LLM enterprise knowledge retrieval M-series 2026 latest",
+    "source_count": 12,
+    "tags": "Enterprise AI, Privacy, LLM, Apple Silicon",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
