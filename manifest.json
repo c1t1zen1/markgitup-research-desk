@@ -15794,5 +15794,18 @@
     "source_count": 12,
     "tags": "RegTech, AI Auditing, Financial Compliance, Generative AI",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1206,
+    "topic": "Real-Time Behavioral Biometrics: AI Detecting Account Takeover Via Gait and Keystroke",
+    "file": "html/article-1206-real-time-behavioral-biometrics-ai-detecting-account-takeover-via-gait-a-20261021-011210.html",
+    "timestamp": "20261021-011210",
+    "full_timestamp": "2026-10-21T01:12:10-07:00",
+    "summary": "Beyond passwords, behavioral biometrics uses unique user interaction patterns like typing cadence to stop account takeovers in real-time.",
+    "original_topic": "AI Fraud Detection in Banking & Finance",
+    "search_query": "AI behavioral biometrics banking fraud detection 2026",
+    "source_count": 12,
+    "tags": "Biometrics, Account Takeover, Behavioral AI, FinTech",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
