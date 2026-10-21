@@ -15820,5 +15820,18 @@
     "source_count": 12,
     "tags": "DAO, AI Governance, Decentralization, Autonomous Agents",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1208,
+    "topic": "LLMs as Risk Predictors in High-Frequency Trading: Modeling Systemic Flash Crash Risk",
+    "file": "html/article-1208-llms-as-risk-predictors-in-high-frequency-trading-modeling-systemic-flas-20261021-030328.html",
+    "timestamp": "20261021-030328",
+    "full_timestamp": "2026-10-21T03:03:28-07:00",
+    "summary": "LLMs could help translate market language and model correlated trading behavior, but current evidence supports a risk-monitoring hypothesis—not a demonstrated high-frequency flash-crash predictor.",
+    "original_topic": "LLMs in Hedge Funds & Trading",
+    "search_query": "LLM systemic risk prediction high-frequency trading 2026",
+    "source_count": 12,
+    "tags": "Systemic Risk, HFT, LLMs, Market Stability",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
