@@ -15781,5 +15781,18 @@
     "source_count": 12,
     "tags": "AI, Elections, Micro-targeting, Social Media",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1205,
+    "topic": "Auditing Synthetic Financial Narratives: AI for Regulatory Compliance in Generated Reports",
+    "file": "html/article-1205-auditing-synthetic-financial-narratives-ai-for-regulatory-compliance-in-20261021-000328.html",
+    "timestamp": "20261021-000328",
+    "full_timestamp": "2026-10-21T00:03:28-07:00",
+    "summary": "As AI drafts financial narratives, a second layer must test evidence, controls, consistency, and regulatory fit before generated prose becomes accountable reporting.",
+    "original_topic": "Generative AI for Financial Reporting",
+    "search_query": "AI auditing synthetic financial reports regulatory compliance 2026 latest",
+    "source_count": 12,
+    "tags": "RegTech, AI Auditing, Financial Compliance, Generative AI",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
