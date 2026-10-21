@@ -15898,5 +15898,18 @@
     "source_count": 12,
     "tags": "Quantum AI, Market Microstructure, High-Frequency Trading, Latency",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1214,
+    "topic": "Legal Frameworks for Synthetic Consent: Regulating AI Voice and Likeness in Commercial Use",
+    "file": "html/article-1214-legal-frameworks-for-synthetic-consent-regulating-ai-voice-and-likeness-20261021-090332.html",
+    "timestamp": "20261021-090332",
+    "full_timestamp": "2026-10-21T09:03:32-07:00",
+    "summary": "AI voice and likeness systems are turning consent into a compliance issue involving disclosure, publicity rights, platform rules, enforcement, and possible bans.",
+    "original_topic": "Deepfake Legislation & Synthetic Media Laws",
+    "search_query": "synthetic media consent laws 2026 commercial use",
+    "source_count": 12,
+    "tags": "Synthetic Media, Intellectual Property, Consent, AI Law",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
