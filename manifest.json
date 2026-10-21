@@ -15768,5 +15768,18 @@
     "source_count": 12,
     "tags": "Medical AI, On-Device LLM, Healthcare, Quantization",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1204,
+    "topic": "AI's Role in Micro-Targeting Voter Sentiment via Social Media Platforms",
+    "file": "html/article-1204-ai-s-role-in-micro-targeting-voter-sentiment-via-social-media-platforms-20261020-231249.html",
+    "timestamp": "20261020-231249",
+    "full_timestamp": "2026-10-20T23:12:49-07:00",
+    "summary": "AI enables hyper-granular voter sentiment analysis, allowing campaigns to surgically target narrow demographics via social media.",
+    "original_topic": "AI in US Elections & Campaigns",
+    "search_query": "AI micro-targeting voter sentiment 2026 election",
+    "source_count": 12,
+    "tags": "AI, Elections, Micro-targeting, Social Media",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
