@@ -15950,5 +15950,18 @@
     "source_count": 12,
     "tags": "Apple Silicon, LLM, On-Device AI, Neural Engine",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1218,
+    "topic": "Generative Video Models Adapting to Real-Time Digital Watermarking and Provenance Tracking",
+    "file": "html/article-1218-generative-video-models-adapting-to-real-time-digital-watermarking-and-p-20261021-130442.html",
+    "timestamp": "20261021-130442",
+    "full_timestamp": "2026-10-21T13:04:42-07:00",
+    "summary": "Generative video’s provenance race is shifting from detection alone toward durable, inspectable metadata and watermarks, but supplied evidence does not yet prove real-time model integration.",
+    "original_topic": "AI Short Form Video & Social Media",
+    "search_query": "AI video watermarking provenance standards 2026",
+    "source_count": 12,
+    "tags": "Generative AI, Media Forensics, Watermarking, Deepfakes",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
