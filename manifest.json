@@ -15924,5 +15924,18 @@
     "source_count": 12,
     "tags": "Ambient AI, Contextual Computing, Smart Home, Sensor Fusion",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1216,
+    "topic": "Deepfakes in Local Elections: Authenticating Audio Evidence Against AI Manipulation",
+    "file": "html/article-1216-deepfakes-in-local-elections-authenticating-audio-evidence-against-ai-ma-20261021-110442.html",
+    "timestamp": "20261021-110442",
+    "full_timestamp": "2026-10-21T11:04:42-07:00",
+    "summary": "Local election audio can sound authentic while being synthetic; credible verification therefore depends on provenance, corroboration, and cautious interpretation of warnings about voice-cloning scams.",
+    "original_topic": "AI Misinformation & Election Integrity",
+    "search_query": "AI voice cloning election integrity local races 2026",
+    "source_count": 12,
+    "tags": "Deepfakes, AudioForensics, ElectionSecurity, SyntheticMedia",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
