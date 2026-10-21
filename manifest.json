@@ -15989,5 +15989,18 @@
     "source_count": 12,
     "tags": "AI Therapy, Digital Ethics, Mental Health, Dependency",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1221,
+    "topic": "Zero-Knowledge Proofs in Crypto Trading: AI Bots Validating Transactions Privately",
+    "file": "html/article-1221-zero-knowledge-proofs-in-crypto-trading-ai-bots-validating-transactions-20261021-161112.html",
+    "timestamp": "20261021-161112",
+    "full_timestamp": "2026-10-21T16:11:12-07:00",
+    "summary": "Exploring the intersection of Zero-Knowledge Proofs and AI trading bots to build private, autonomous, and compliant financial systems.",
+    "original_topic": "AI Crypto Trading Bots & Performance",
+    "search_query": "AI trading bots zero-knowledge proof integration 2026 latest",
+    "source_count": 12,
+    "tags": "ZKPs, Crypto, AI Trading, Privacy",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
