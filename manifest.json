@@ -15885,5 +15885,18 @@
     "source_count": 12,
     "tags": "AI ethics, intelligence, surveillance, bias",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1213,
+    "topic": "AI's Impact on Algorithmic Trading Latency: The Rise of Quantum-Enhanced Market Prediction",
+    "file": "html/article-1213-ai-s-impact-on-algorithmic-trading-latency-the-rise-of-quantum-enhanced-20261021-081320.html",
+    "timestamp": "20261021-081320",
+    "full_timestamp": "2026-10-21T08:13:20-07:00",
+    "summary": "Quantum computing is poised to redefine high-frequency trading by drastically lowering latency and enhancing market prediction capabilities.",
+    "original_topic": "AI Stock Prediction & Market Analysis",
+    "search_query": "Quantum computing impact on algorithmic trading speed 2026",
+    "source_count": 12,
+    "tags": "Quantum AI, Market Microstructure, High-Frequency Trading, Latency",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
