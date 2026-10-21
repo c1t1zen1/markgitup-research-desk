@@ -15755,5 +15755,18 @@
     "source_count": 12,
     "tags": "Video Editing, AI Directing, Filmmaking, Narrative AI",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1203,
+    "topic": "Quantized LLMs for Real-Time Medical Imaging Analysis on Personal Devices",
+    "file": "html/article-1203-quantized-llms-for-real-time-medical-imaging-analysis-on-personal-device-20261020-221335.html",
+    "timestamp": "20261020-221335",
+    "full_timestamp": "2026-10-20T22:13:35-07:00",
+    "summary": "Leveraging quantized LLMs on Mac hardware enables private, real-time medical image analysis directly on personal devices.",
+    "original_topic": "Quantized LLMs Running on Mac Hardware",
+    "search_query": "local LLM medical image analysis on Mac 2026 latest",
+    "source_count": 12,
+    "tags": "Medical AI, On-Device LLM, Healthcare, Quantization",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
