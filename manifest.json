@@ -15872,5 +15872,18 @@
     "source_count": 12,
     "tags": "macOS, Containerization, Security, Local AI",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1212,
+    "topic": "AI Oversight in US Intelligence: Algorithmic Bias in Predictive Surveillance Systems",
+    "file": "html/article-1212-ai-oversight-in-us-intelligence-algorithmic-bias-in-predictive-surveilla-20261021-071151.html",
+    "timestamp": "20261021-071151",
+    "full_timestamp": "2026-10-21T07:11:51-07:00",
+    "summary": "Examining the legal and ethical gaps in US intelligence AI deployment, this article explores algorithmic bias within predictive surveillance systems.",
+    "original_topic": "AI in US Intelligence & Surveillance",
+    "search_query": "US intelligence AI bias oversight 2026",
+    "source_count": 12,
+    "tags": "AI ethics, intelligence, surveillance, bias",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
