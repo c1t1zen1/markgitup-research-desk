@@ -15976,5 +15976,18 @@
     "source_count": 12,
     "tags": "Mental Health, On-Device AI, Privacy, Apple Silicon",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1220,
+    "topic": "AI Companion Therapy: Ethical Boundaries in Long-Term Emotional Dependency Formation",
+    "file": "html/article-1220-ai-companion-therapy-ethical-boundaries-in-long-term-emotional-dependenc-20261021-151225.html",
+    "timestamp": "20261021-151225",
+    "full_timestamp": "2026-10-21T15:12:25-07:00",
+    "summary": "Examining the psychological risks of deep, long-term emotional bonds with AI companions, this article addresses ethical boundaries.",
+    "original_topic": "AI in Mental Health & Therapy",
+    "search_query": "AI therapy companion emotional dependency ethical guidelines 2026 latest",
+    "source_count": 12,
+    "tags": "AI Therapy, Digital Ethics, Mental Health, Dependency",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
