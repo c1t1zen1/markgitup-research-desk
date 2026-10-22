@@ -16236,5 +16236,18 @@
     "source_count": 12,
     "tags": "Video Editing, Generative AI, Post-Production, Style Transfer",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1240,
+    "topic": "AI-Generated Micro-Narratives: The Ethics of Ephemeral Content in Social Feeds",
+    "file": "html/article-1240-ai-generated-micro-narratives-the-ethics-of-ephemeral-content-in-social-20261022-110505.html",
+    "timestamp": "20261022-110505",
+    "full_timestamp": "2026-10-22T11:05:05-07:00",
+    "summary": "AI-generated micro-narratives could make social feeds more adaptive—and harder to govern, as platform automation, fleeting exposure, and moderation claims outpace the supplied evidence.",
+    "original_topic": "AI Short Form Video & Social Media",
+    "search_query": "AI content moderation short-form video authenticity 2026",
+    "source_count": 12,
+    "tags": "AI ethics, social media, content moderation, ephemeral media",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
