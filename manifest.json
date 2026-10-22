@@ -16158,5 +16158,18 @@
     "source_count": 12,
     "tags": "Multimodal AI, Apple Silicon, Vision, LLMs",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1234,
+    "topic": "Generative AI's Role in Stress-Testing Financial Models Against Climate Risk Scenarios",
+    "file": "html/article-1234-generative-ai-s-role-in-stress-testing-financial-models-against-climate-20261022-051235.html",
+    "timestamp": "20261022-051235",
+    "full_timestamp": "2026-10-22T05:12:35-07:00",
+    "summary": "Generative AI is transforming financial stress testing by fabricating complex, non-historical climate scenarios to rigorously test corporate resilience.",
+    "original_topic": "Generative AI for Financial Reporting",
+    "search_query": "Generative AI climate risk financial modeling stress testing 2026",
+    "source_count": 12,
+    "tags": "Climate Risk, FinTech, Generative AI, ESG",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
