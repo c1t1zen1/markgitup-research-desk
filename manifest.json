@@ -16288,5 +16288,18 @@
     "source_count": 12,
     "tags": "DAO, DeFi, Market Prediction, Governance",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1244,
+    "topic": "LLMs as Algorithmic Market Sentiment Detectors in Micro-Cap Trading",
+    "file": "html/article-1244-llms-as-algorithmic-market-sentiment-detectors-in-micro-cap-trading-20261022-151456.html",
+    "timestamp": "20261022-151456",
+    "full_timestamp": "2026-10-22T15:14:56-07:00",
+    "summary": "LLMs are transforming micro-cap analysis by detecting granular market sentiment from unstructured data, offering new alpha pathways beyond large-cap trends.",
+    "original_topic": "LLMs in Hedge Funds & Trading",
+    "search_query": "LLM sentiment analysis micro-cap stock trading 2026",
+    "source_count": 12,
+    "tags": "LLM, HFT, Sentiment, Micro-Cap",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
