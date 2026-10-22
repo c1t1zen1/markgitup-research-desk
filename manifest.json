@@ -16301,5 +16301,18 @@
     "source_count": 12,
     "tags": "LLM, HFT, Sentiment, Micro-Cap",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1245,
+    "topic": "AI Video Synthesis and the Future of Digital Authenticity in Media",
+    "file": "html/article-1245-ai-video-synthesis-and-the-future-of-digital-authenticity-in-media-20261022-161321.html",
+    "timestamp": "20261022-161321",
+    "full_timestamp": "2026-10-22T16:13:21-07:00",
+    "summary": "Forensic detection tools are evolving to counter AI video synthesis, analyzing artifacts and inconsistencies to maintain digital authenticity in media.",
+    "original_topic": "AI-Generated Video for Filmmaking & Content Creation",
+    "search_query": "synthetic media detection forensic analysis tools 2026",
+    "source_count": 12,
+    "tags": "AI forensics, media authenticity, deepfake detection, digital trust",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
