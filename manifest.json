@@ -16054,5 +16054,18 @@
     "source_count": 12,
     "tags": "model supply chain, Mac security, local inference",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1226,
+    "topic": "Quantized LLMs and Heterogeneous Compute: Bridging Software and Silicon Gaps",
+    "file": "html/article-1226-quantized-llms-and-heterogeneous-compute-bridging-software-and-silicon-g-20261021-210454.html",
+    "timestamp": "20261021-210454",
+    "full_timestamp": "2026-10-21T21:04:54-07:00",
+    "summary": "Quantized inference on Apple Silicon is a coordination problem: software must map model formats, memory traffic, and workloads across heterogeneous compute rather than chase headline throughput.",
+    "original_topic": "Quantized LLMs Running on Mac Hardware",
+    "search_query": "LLM quantization performance heterogeneous compute Apple M-series 2026 latest",
+    "source_count": 12,
+    "tags": "Quantization, Heterogeneous Computing, Apple Silicon, LLM Optimization",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
