@@ -16041,5 +16041,18 @@
     "source_count": 12,
     "tags": "legal ethics, generative AI, court rules",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1225,
+    "topic": "A New Mac AI Privacy Fault Line: Verifying Model Files Before Local Inference",
+    "file": "html/article-1225-a-new-mac-ai-privacy-fault-line-verifying-model-files-before-local-infer-20261021-201357.html",
+    "timestamp": "20261021-201357",
+    "full_timestamp": "2026-10-21T20:13:57-07:00",
+    "summary": "Untrusted AI Model Files Pose Supply Chain Risk: Verifying GGUF Integrity is Now Critical for Local Mac LLM Use.",
+    "original_topic": "Privacy-First Local AI on Mac",
+    "search_query": "GGUF model supply chain malware Mac local inference 2026",
+    "source_count": 12,
+    "tags": "model supply chain, Mac security, local inference",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
