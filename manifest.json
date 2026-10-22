@@ -16262,5 +16262,18 @@
     "source_count": 12,
     "tags": "AI Governance, Regulatory Tech, Policy Influence, Washington D.C.",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1242,
+    "topic": "Secure Local AI Inference: Protecting Proprietary Data on Edge Devices",
+    "file": "html/article-1242-secure-local-ai-inference-protecting-proprietary-data-on-edge-devices-20261022-130459.html",
+    "timestamp": "20261022-130459",
+    "full_timestamp": "2026-10-22T13:04:59-07:00",
+    "summary": "Secure local AI depends on explicit data boundaries, framework choices, and governance controls—but the supplied evidence leaves device-level isolation mechanisms largely unverified.",
+    "original_topic": "Privacy-First Local AI on Mac",
+    "search_query": "on-device LLM data protection frameworks macOS 2026",
+    "source_count": 12,
+    "tags": "Edge AI, Data Sovereignty, Confidential Computing, macOS",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
