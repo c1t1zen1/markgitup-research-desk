@@ -16002,5 +16002,18 @@
     "source_count": 12,
     "tags": "ZKPs, Crypto, AI Trading, Privacy",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1222,
+    "topic": "Hyper-Realistic Avatars in XR: Bridging Digital Presence and Physical Interaction",
+    "file": "html/article-1222-hyper-realistic-avatars-in-xr-bridging-digital-presence-and-physical-int-20261021-170315.html",
+    "timestamp": "20261021-170315",
+    "full_timestamp": "2026-10-21T17:03:15-07:00",
+    "summary": "Hyper-realistic avatars may evolve from screen-bound presenters into context-aware XR participants, but the evidence supports a direction of travel—not proof of seamless physical-world interaction.",
+    "original_topic": "AI Video Avatars & Virtual Presenters",
+    "search_query": "AI video avatars mixed reality physical interaction 2026",
+    "source_count": 12,
+    "tags": "XR, AI Avatars, Digital Twins, Embodiment",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
