@@ -16184,5 +16184,18 @@
     "source_count": 12,
     "tags": "e-discovery, legal tech, metadata, AI",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1236,
+    "topic": "Jurisdictional Challenges: Cross-Border Enforcement of Deepfake Content in 2026",
+    "file": "html/article-1236-jurisdictional-challenges-cross-border-enforcement-of-deepfake-content-i-20261022-071103.html",
+    "timestamp": "20261022-071103",
+    "full_timestamp": "2026-10-22T07:11:03-07:00",
+    "summary": "Navigating 2026's synthetic media landscape demands understanding how national deepfake laws struggle with digital borders.",
+    "original_topic": "Deepfake Legislation & Synthetic Media Laws",
+    "search_query": "international legal frameworks deepfake content regulation 2026",
+    "source_count": 12,
+    "tags": "Deepfakes, International Law, Digital Sovereignty, Media Regulation",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
