@@ -16223,5 +16223,18 @@
     "source_count": 12,
     "tags": "Thunderbolt 5, MLX, distributed inference, Mac hardware",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1239,
+    "topic": "AI Video Editing: Automated Style Transfer Across Cinematic Genres in Post-Production",
+    "file": "html/article-1239-ai-video-editing-automated-style-transfer-across-cinematic-genres-in-pos-20261022-101051.html",
+    "timestamp": "20261022-101051",
+    "full_timestamp": "2026-10-22T10:10:51-07:00",
+    "summary": "Generative AI is revolutionizing post-production by enabling instant, sophisticated style transfer, allowing creators to impose cinematic genres onto disparate footage.",
+    "original_topic": "AI-Powered Video Editing & Post-Production",
+    "search_query": "AI automated style transfer video editing cinematic 2026 latest",
+    "source_count": 12,
+    "tags": "Video Editing, Generative AI, Post-Production, Style Transfer",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
