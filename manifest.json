@@ -16145,5 +16145,18 @@
     "source_count": 12,
     "tags": "Graph AI, AML, Financial Crime, Network Security",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1233,
+    "topic": "Bridging Vision and Language: Multimodal AI Pipelines on Apple Silicon",
+    "file": "html/article-1233-bridging-vision-and-language-multimodal-ai-pipelines-on-apple-silicon-20261022-040316.html",
+    "timestamp": "20261022-040316",
+    "full_timestamp": "2026-10-22T04:03:16-07:00",
+    "summary": "Apple Silicon multimodal pipelines are converging around on-device models, compressed inference, native acceleration, and app actions that connect visual context with language.",
+    "original_topic": "AI Development Tools for Apple Silicon",
+    "search_query": "Apple Silicon multimodal AI vision language pipelines 2026 latest",
+    "source_count": 12,
+    "tags": "Multimodal AI, Apple Silicon, Vision, LLMs",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
