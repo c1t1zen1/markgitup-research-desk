@@ -16132,5 +16132,18 @@
     "source_count": 12,
     "tags": "Smart Grid, Energy AI, Decentralization, Home Energy",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1232,
+    "topic": "Real-Time Transaction Graph Analysis: Detecting Collusion in Cross-Border Financial Fraud",
+    "file": "html/article-1232-real-time-transaction-graph-analysis-detecting-collusion-in-cross-border-20261022-030520.html",
+    "timestamp": "20261022-030520",
+    "full_timestamp": "2026-10-22T03:05:20-07:00",
+    "summary": "Graph Neural Networks can expose coordinated fraud patterns across transaction networks, but real-time deployment must balance relational insight, latency, explainability, false positives, and auditability.",
+    "original_topic": "AI Fraud Detection in Banking & Finance",
+    "search_query": "Graph neural networks financial money laundering detection 2026",
+    "source_count": 12,
+    "tags": "Graph AI, AML, Financial Crime, Network Security",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
