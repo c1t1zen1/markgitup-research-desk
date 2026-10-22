@@ -16028,5 +16028,18 @@
     "source_count": 10,
     "tags": "AI Policy, Lobbying, Legislative Tech, Washington",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1224,
+    "topic": "Courts Test Mandatory AI Disclosure as Lawyers Navigate Hallucinated Citations",
+    "file": "html/article-1224-courts-test-mandatory-ai-disclosure-as-lawyers-navigate-hallucinated-cit-20261021-190521.html",
+    "timestamp": "20261021-190521",
+    "full_timestamp": "2026-10-21T19:05:21-07:00",
+    "summary": "Courts are moving toward visible AI-use disclosures as hallucinated citations expose lawyers to sanctions, verification duties, and professional-liability risks that may outlast individual filings.",
+    "original_topic": "AI in Legal Systems & Law Practice",
+    "search_query": "court mandatory generative AI disclosure lawyer filings hallucinated citations 2026",
+    "source_count": 12,
+    "tags": "legal ethics, generative AI, court rules",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
