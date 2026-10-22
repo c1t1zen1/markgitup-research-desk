@@ -16119,5 +16119,18 @@
     "source_count": 12,
     "tags": "Geopolitics, Information Warfare, Counter-Intelligence, AI Security",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1231,
+    "topic": "Energy Grid Optimization via Decentralized AI: Smart Homes as Microgrid Controllers",
+    "file": "html/article-1231-energy-grid-optimization-via-decentralized-ai-smart-homes-as-microgrid-c-20261022-020924.html",
+    "timestamp": "20261022-020924",
+    "full_timestamp": "2026-10-22T02:09:24-07:00",
+    "summary": "Smart homes are evolving from passive users to active microgrid controllers, using decentralized AI to optimize energy flow and enhance grid resilience.",
+    "original_topic": "AI-Powered Smart Homes & Automation",
+    "search_query": "AI microgrid management residential energy optimization 2026",
+    "source_count": 12,
+    "tags": "Smart Grid, Energy AI, Decentralization, Home Energy",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
