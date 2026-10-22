@@ -16067,5 +16067,18 @@
     "source_count": 12,
     "tags": "Quantization, Heterogeneous Computing, Apple Silicon, LLM Optimization",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1227,
+    "topic": "Synthetic Embodiment: Real-Time Physiological Feedback Driving AI Avatar Behavior",
+    "file": "html/article-1227-synthetic-embodiment-real-time-physiological-feedback-driving-ai-avatar-20261021-221332.html",
+    "timestamp": "20261021-221332",
+    "full_timestamp": "2026-10-21T22:13:32-07:00",
+    "summary": "Moving beyond scripted responses, synthetic embodiment integrates biometric data to drive dynamic, physiologically responsive AI avatar behavior.",
+    "original_topic": "AI Video Avatars & Virtual Presenters",
+    "search_query": "AI avatar biofeedback integration real-time emotion 2026 latest",
+    "source_count": 12,
+    "tags": "Biofeedback, Avatar, Affective Computing, HCI",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
