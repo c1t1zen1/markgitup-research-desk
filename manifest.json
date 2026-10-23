@@ -16314,5 +16314,18 @@
     "source_count": 12,
     "tags": "AI forensics, media authenticity, deepfake detection, digital trust",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1246,
+    "topic": "Simulating Physical Interactions: AI Video Generation for Robotics and Haptics",
+    "file": "html/article-1246-simulating-physical-interactions-ai-video-generation-for-robotics-and-ha-20261022-170430.html",
+    "timestamp": "20261022-170430",
+    "full_timestamp": "2026-10-22T17:04:30-07:00",
+    "summary": "Video generation models may become expressive robotic simulators, but physics violations, weak instruction following, data costs, and unproven haptic fidelity constrain deployment beyond visual demonstrations.",
+    "original_topic": "AI Video Generation Models",
+    "search_query": "AI video generation physics simulation robotics 2026",
+    "source_count": 12,
+    "tags": "Robotics, Simulation, AI Video, Haptics",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
