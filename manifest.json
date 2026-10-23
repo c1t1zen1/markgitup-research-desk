@@ -16340,5 +16340,18 @@
     "source_count": 12,
     "tags": "AI Agents, Software Engineering, DevOps, Autonomous Systems",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1248,
+    "topic": "Zero-Knowledge Proofs in Crypto Trading: Enhancing Privacy and Performance",
+    "file": "html/article-1248-zero-knowledge-proofs-in-crypto-trading-enhancing-privacy-and-performanc-20261022-191115.html",
+    "timestamp": "20261022-191115",
+    "full_timestamp": "2026-10-22T19:11:15-07:00",
+    "summary": "Zero-Knowledge Proofs enable AI trading bots to prove compliance and strategy validity privately, ushering in a new era of secure finance.",
+    "original_topic": "AI Crypto Trading Bots & Performance",
+    "search_query": "ZK-proofs in decentralized trading bots 2026",
+    "source_count": 12,
+    "tags": "ZK-proofs, Crypto, AI Trading, Privacy",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
