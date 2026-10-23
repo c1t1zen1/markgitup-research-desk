@@ -16353,5 +16353,18 @@
     "source_count": 12,
     "tags": "ZK-proofs, Crypto, AI Trading, Privacy",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1249,
+    "topic": "Personalized Digital Therapeutics: AI Adapting to Neurodivergent Communication Patterns",
+    "file": "html/article-1249-personalized-digital-therapeutics-ai-adapting-to-neurodivergent-communic-20261022-201109.html",
+    "timestamp": "20261022-201109",
+    "full_timestamp": "2026-10-22T20:11:09-07:00",
+    "summary": "AI is evolving digital therapeutics to adapt to complex needs, with a focus on tailoring interventions for neurodivergent communication patterns.",
+    "original_topic": "AI in Mental Health & Therapy",
+    "search_query": "AI digital therapeutics neurodivergent personalized intervention 2026 latest",
+    "source_count": 12,
+    "tags": "Digital Therapeutics, Neurodiversity, AI Therapy, Personalized Medicine",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
