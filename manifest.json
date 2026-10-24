@@ -16457,5 +16457,18 @@
     "source_count": 12,
     "tags": "Matter 1.5, AI energy management, smart home, interoperability",
     "model_names": "GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1257,
+    "topic": "Google Home’s Gemini Push Reopens the Privacy Fight Over AI Household Data",
+    "file": "html/article-1257-google-homes-gemini-push-reopens-the-privacy-fight-over-ai-household-dat-20261024-100155.html",
+    "timestamp": "20261024-100155",
+    "full_timestamp": "2026-10-24T10:01:55-07:00",
+    "summary": "Google’s Gemini for Home could make household context more useful—and turn cameras, commands, and routines into a more persistent privacy question.",
+    "original_topic": "AI-Powered Smart Homes & Automation",
+    "search_query": "Google Gemini for Home privacy household data October 2026 news",
+    "source_count": 12,
+    "tags": "Google Home, Gemini, privacy, smart homes",
+    "model_names": "GPT 5.6 Luna"
   }
 ]
