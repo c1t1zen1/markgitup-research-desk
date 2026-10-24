@@ -16470,5 +16470,18 @@
     "source_count": 12,
     "tags": "Google Home, Gemini, privacy, smart homes",
     "model_names": "GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1258,
+    "topic": "Apple’s Local AI Stack Faces a New Mac App Distribution Scrutiny",
+    "file": "html/article-1258-apples-local-ai-stack-faces-a-new-mac-app-distribution-scrutiny-20261024-110209.html",
+    "timestamp": "20261024-110209",
+    "full_timestamp": "2026-10-24T11:02:09-07:00",
+    "summary": "Apple’s 2026 macOS direction pairs powerful on-device AI frameworks with tighter scrutiny of app permissions, distribution, and user trust.",
+    "original_topic": "Local AI Tools & Stacks for macOS",
+    "search_query": "Apple macOS local AI app distribution policy changes 2026",
+    "source_count": 12,
+    "tags": "macOS,local AI,Apple policy,app distribution",
+    "model_names": "GPT 5.6 Luna"
   }
 ]
