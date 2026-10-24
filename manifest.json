@@ -16444,5 +16444,18 @@
     "source_count": 12,
     "tags": "AI video, world models, character consistency",
     "model_names": "GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1256,
+    "topic": "Matter 1.5 Brings AI Energy Orchestration to Cross-Brand Smart Homes",
+    "file": "html/article-1256-matter-1-5-brings-ai-energy-orchestration-to-cross-brand-smart-homes-20261024-090150.html",
+    "timestamp": "20261024-090150",
+    "full_timestamp": "2026-10-24T09:01:50-07:00",
+    "summary": "Matter 1.5 expands interoperable energy controls, creating a foundation for cross-brand coordination of appliances, generation, storage, and household electricity use.",
+    "original_topic": "AI-Powered Smart Homes & Automation",
+    "search_query": "Matter 1.5 AI energy management smart home 2026",
+    "source_count": 12,
+    "tags": "Matter 1.5, AI energy management, smart home, interoperability",
+    "model_names": "GPT 5.6 Luna"
   }
 ]
