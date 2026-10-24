@@ -16483,5 +16483,18 @@
     "source_count": 12,
     "tags": "macOS,local AI,Apple policy,app distribution",
     "model_names": "GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1259,
+    "topic": "Apple’s New Mac AI Runtime Puts Quantized Open Models Under Developer Scrutiny",
+    "file": "html/article-1259-apples-new-mac-ai-runtime-puts-quantized-open-models-under-developer-scr-20261024-150257.html",
+    "timestamp": "20261024-150257",
+    "full_timestamp": "2026-10-24T15:02:57-07:00",
+    "summary": "Apple’s MLX-centered Mac tooling is sharpening debate over quantized open models, but supplied evidence favors measurement discipline over confident runtime or hardware claims.",
+    "original_topic": "Quantized LLMs Running on Mac Hardware",
+    "search_query": "2026 Apple Mac quantized open LLM runtime developer benchmark news",
+    "source_count": 12,
+    "tags": "Apple Silicon, quantization, local AI",
+    "model_names": "GPT 5.6 Luna"
   }
 ]
