@@ -16535,5 +16535,18 @@
     "source_count": 10,
     "tags": "Apple AI,Private Cloud Compute,Mac privacy,cloud security",
     "model_names": "GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1263,
+    "topic": "Apple Silicon’s Unified Memory Becomes the Battleground for Local LLM Context Windows",
+    "file": "html/article-1263-apple-silicons-unified-memory-becomes-the-battleground-for-local-llm-con-20261024-230338.html",
+    "timestamp": "20261024-230338",
+    "full_timestamp": "2026-10-24T23:03:38-07:00",
+    "summary": "Apple Silicon’s shared memory is becoming the practical limit on local LLM context, forcing Mac users to balance model size, prompt length, and headroom.",
+    "original_topic": "M Series Apple Silicon LLM Inference",
+    "search_query": "2026 Apple Silicon unified memory local LLM context window benchmark",
+    "source_count": 12,
+    "tags": "Apple Silicon, local LLMs, unified memory, benchmarks",
+    "model_names": "GPT 5.6 Luna"
   }
 ]
