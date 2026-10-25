@@ -16639,5 +16639,18 @@
     "source_count": 12,
     "tags": "deepfakes, election integrity, content provenance",
     "model_names": "GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1271,
+    "topic": "AI Legal Research Audits Face Disclosure Pressure as Courts Scrutinize Machine-Generated Authorities",
+    "file": "html/article-1271-ai-legal-research-audits-face-disclosure-pressure-as-courts-scrutinize-m-20261025-150157.html",
+    "timestamp": "20261025-150157",
+    "full_timestamp": "2026-10-25T15:01:57-07:00",
+    "summary": "Courts are intensifying scrutiny of AI-assisted legal research, raising disclosure, verification, and accountability pressures for lawyers using machine-generated authorities.",
+    "original_topic": "AI in Legal Systems & Law Practice",
+    "search_query": "2026 courts AI-generated legal research disclosure sanctions fabricated citations attorneys",
+    "source_count": 12,
+    "tags": "legal AI, court sanctions, legal research, professional ethics",
+    "model_names": "GPT 5.6 Luna"
   }
 ]
