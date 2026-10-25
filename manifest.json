@@ -16548,5 +16548,18 @@
     "source_count": 12,
     "tags": "Apple Silicon, local LLMs, unified memory, benchmarks",
     "model_names": "GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1264,
+    "topic": "AI Lobbying Surge Puts Frontier-Model Safety Rules on Washington’s 2026 Agenda",
+    "file": "html/article-1264-ai-lobbying-surge-puts-frontier-model-safety-rules-on-washingtons-2026-a-20261025-000144.html",
+    "timestamp": "20261025-000144",
+    "full_timestamp": "2026-10-25T00:01:44-07:00",
+    "summary": "AI lobbying is intensifying Washington’s debate over frontier-model safeguards, but supplied evidence supports cautious analysis rather than firm conclusions about 2026 policy outcomes.",
+    "original_topic": "AI Lobbying & Policy in Washington",
+    "search_query": "2026 Washington AI lobbying frontier model safety regulation campaign",
+    "source_count": 12,
+    "tags": "AI policy, lobbying, frontier models",
+    "model_names": "GPT 5.6 Luna"
   }
 ]
