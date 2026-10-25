@@ -16613,5 +16613,18 @@
     "source_count": 12,
     "tags": "AI video, filmmaking, digital likeness, labor",
     "model_names": "GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1269,
+    "topic": "U.S. States Turn Deepfake Election Laws Into a Constitutional Test",
+    "file": "html/article-1269-u-s-states-turn-deepfake-election-laws-into-a-constitutional-test-20261025-110234.html",
+    "timestamp": "20261025-110234",
+    "full_timestamp": "2026-10-25T11:02:34-07:00",
+    "summary": "State election-deepfake restrictions are moving from policy experiments into First Amendment litigation, creating a fragmented constitutional test before the 2026 midterms.",
+    "original_topic": "Deepfake Legislation & Synthetic Media Laws",
+    "search_query": "2026 state deepfake election laws First Amendment court challenge",
+    "source_count": 12,
+    "tags": "deepfakes, election law, First Amendment",
+    "model_names": "GPT 5.6 Luna"
   }
 ]
