@@ -16652,5 +16652,18 @@
     "source_count": 12,
     "tags": "legal AI, court sanctions, legal research, professional ethics",
     "model_names": "GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1272,
+    "topic": "States Target AI Replica Abuse as Deepfake Laws Move Beyond Elections",
+    "file": "html/article-1272-states-target-ai-replica-abuse-as-deepfake-laws-move-beyond-elections-20261025-160236.html",
+    "timestamp": "20261025-160236",
+    "full_timestamp": "2026-10-25T16:02:36-07:00",
+    "summary": "State deepfake policy is broadening beyond elections, with emerging attention to unauthorized synthetic voices, likenesses, intimate imagery, and uneven multistate compliance.",
+    "original_topic": "Deepfake Legislation & Synthetic Media Laws",
+    "search_query": "2026 states AI replica abuse deepfake legislation voice likeness law",
+    "source_count": 12,
+    "tags": "deepfakes, synthetic media, state legislation",
+    "model_names": "GPT 5.6 Luna"
   }
 ]
