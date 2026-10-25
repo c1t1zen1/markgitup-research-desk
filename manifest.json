@@ -16561,5 +16561,18 @@
     "source_count": 12,
     "tags": "AI policy, lobbying, frontier models",
     "model_names": "GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1265,
+    "topic": "Banks Deploy AI Against Authorized-Push-Payment Fraud as Liability Rules Tighten",
+    "file": "html/article-1265-banks-deploy-ai-against-authorized-push-payment-fraud-as-liability-rules-20261025-010130.html",
+    "timestamp": "20261025-010130",
+    "full_timestamp": "2026-10-25T01:01:30-07:00",
+    "summary": "Banks are adapting fraud controls for scams customers authorize themselves, as reimbursement expectations rise and social engineering outpaces traditional transaction monitoring.",
+    "original_topic": "AI Fraud Detection in Banking & Finance",
+    "search_query": "2026 banks AI authorized push payment fraud liability rules",
+    "source_count": 12,
+    "tags": "authorized payments,banking fraud,AI regulation",
+    "model_names": "GPT 5.6 Luna"
   }
 ]
