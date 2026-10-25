@@ -16522,5 +16522,18 @@
     "source_count": 12,
     "tags": "Apple Silicon,LLM inference,unified memory,benchmarks",
     "model_names": "GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1262,
+    "topic": "Apple’s Private Cloud Compute Audit Raises New Questions for Mac AI Data Boundaries",
+    "file": "html/article-1262-apples-private-cloud-compute-audit-raises-new-questions-for-mac-ai-data-20261024-220157.html",
+    "timestamp": "20261024-220157",
+    "full_timestamp": "2026-10-24T22:01:57-07:00",
+    "summary": "Sparse supplied evidence cannot substantiate new Private Cloud Compute scrutiny, but it clarifies why Mac AI privacy claims require verifiable boundaries.",
+    "original_topic": "Privacy-First Local AI on Mac",
+    "search_query": "Apple Private Cloud Compute independent security audit Mac AI privacy October 2026",
+    "source_count": 10,
+    "tags": "Apple AI,Private Cloud Compute,Mac privacy,cloud security",
+    "model_names": "GPT 5.6 Luna"
   }
 ]
