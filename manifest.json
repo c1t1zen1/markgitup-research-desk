@@ -16574,5 +16574,18 @@
     "source_count": 12,
     "tags": "authorized payments,banking fraud,AI regulation",
     "model_names": "GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1266,
+    "topic": "SEC Accounting AI Disclosure Rules Put Automated Earnings Narratives Under Review",
+    "file": "html/article-1266-sec-accounting-ai-disclosure-rules-put-automated-earnings-narratives-und-20261025-020131.html",
+    "timestamp": "20261025-020131",
+    "full_timestamp": "2026-10-25T02:01:31-07:00",
+    "summary": "2026 scrutiny is shifting attention from whether companies use generative AI to whether AI-assisted reporting is material, controlled, and transparently described.",
+    "original_topic": "Generative AI for Financial Reporting",
+    "search_query": "SEC 2026 generative AI financial reporting disclosure accounting firms",
+    "source_count": 12,
+    "tags": "generative AI,financial reporting,SEC,disclosure",
+    "model_names": "GPT 5.6 Luna"
   }
 ]
