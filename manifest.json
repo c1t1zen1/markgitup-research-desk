@@ -16626,5 +16626,18 @@
     "source_count": 12,
     "tags": "deepfakes, election law, First Amendment",
     "model_names": "GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1270,
+    "topic": "Election Deepfakes Meet Watermarks as Platforms Test Provenance Enforcement",
+    "file": "html/article-1270-election-deepfakes-meet-watermarks-as-platforms-test-provenance-enforcem-20261025-120333.html",
+    "timestamp": "20261025-120333",
+    "full_timestamp": "2026-10-25T12:03:33-07:00",
+    "summary": "Platforms are moving from promises to provenance enforcement, but supplied evidence supports a cautious test: watermarks may improve verification without stopping determined election deepfakes.",
+    "original_topic": "AI Misinformation & Election Integrity",
+    "search_query": "2026 election deepfake watermark provenance platform enforcement C2PA",
+    "source_count": 12,
+    "tags": "deepfakes, election integrity, content provenance",
+    "model_names": "GPT 5.6 Luna"
   }
 ]
