@@ -16496,5 +16496,18 @@
     "source_count": 12,
     "tags": "Apple Silicon, quantization, local AI",
     "model_names": "GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1260,
+    "topic": "Adobe’s Generative Extend Dispute Tests AI’s Place in Professional Post-Production",
+    "file": "html/article-1260-adobes-generative-extend-dispute-tests-ais-place-in-professional-post-pr-20261024-200140.html",
+    "timestamp": "20261024-200140",
+    "full_timestamp": "2026-10-24T20:01:40-07:00",
+    "summary": "Adobe’s Generative Extend moves from novelty toward workflow infrastructure, but documented limitations and unresolved provenance questions still constrain professional acceptance.",
+    "original_topic": "AI-Powered Video Editing & Post-Production",
+    "search_query": "Adobe Generative Extend AI video editing dispute October 2026 post-production",
+    "source_count": 12,
+    "tags": "Adobe, generative AI, video editing",
+    "model_names": "GPT 5.6 Luna"
   }
 ]
