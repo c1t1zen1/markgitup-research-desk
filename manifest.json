@@ -16795,5 +16795,18 @@
     "source_count": 12,
     "tags": "AI, banking, fraud detection, cross-border payments",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1283,
+    "topic": "Retail AI Trading Bots Face New EU Suitability Standards",
+    "file": "html/article-1283-retail-ai-trading-bots-face-new-eu-suitability-standards-20261026-070735.html",
+    "timestamp": "20261026-070735",
+    "full_timestamp": "2026-10-26T07:07:35-07:00",
+    "summary": "European regulators are applying the EU AI Act and MiFID II to retail AI trading bots, creating new suitability and transparency obligations for brokers and traders.",
+    "original_topic": "AI Crypto Trading Bots & Performance",
+    "search_query": "EU AI trading bot suitability rules retail 2026",
+    "source_count": 12,
+    "tags": "AI trading, EU regulation, retail investing, crypto bots",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
