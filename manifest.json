@@ -16860,5 +16860,18 @@
     "source_count": 12,
     "tags": "legal-tech, AI, law-firms, litigation",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1288,
+    "topic": "AI Video Tools Add Real-Time Lip Sync for Live Remote Talent",
+    "file": "html/article-1288-ai-video-tools-add-real-time-lip-sync-for-live-remote-talent-20261026-150202.html",
+    "timestamp": "20261026-150202",
+    "full_timestamp": "2026-10-26T15:02:02-07:00",
+    "summary": "AI lip-sync tools are shifting from post-production editing to real-time applications for live remote talent, enabling natural-looking video presentations without requiring talent to be in the same location.",
+    "original_topic": "AI-Generated Video for Filmmaking & Content Creation",
+    "search_query": "AI video lip sync live remote talent 2026",
+    "source_count": 12,
+    "tags": "AI video, lip sync, remote work, live streaming",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
