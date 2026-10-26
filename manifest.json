@@ -16665,5 +16665,18 @@
     "source_count": 12,
     "tags": "deepfakes, synthetic media, state legislation",
     "model_names": "GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1273,
+    "topic": "AI Audit Trails Move From Pilot Projects Into Mandatory Financial-Control Testing",
+    "file": "html/article-1273-ai-audit-trails-move-from-pilot-projects-into-mandatory-financial-contro-20261025-170307.html",
+    "timestamp": "20261025-170307",
+    "full_timestamp": "2026-10-25T17:03:07-07:00",
+    "summary": "Organizations are moving generative AI in financial reporting from experimental use toward control evidence that can be traced, tested, reviewed, and challenged.",
+    "original_topic": "Generative AI for Financial Reporting",
+    "search_query": "2026 companies AI audit trails financial reporting internal controls regulatory enforcement",
+    "source_count": 12,
+    "tags": "financial reporting,AI auditing,internal controls,compliance",
+    "model_names": "GPT 5.6 Luna"
   }
 ]
