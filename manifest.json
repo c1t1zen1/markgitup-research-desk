@@ -16821,5 +16821,18 @@
     "source_count": 12,
     "tags": "AI therapy, FDA approval, mental health, anxiety treatment",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1285,
+    "topic": "Banks Test AI Fraud Models on Synthetic Customer Data",
+    "file": "html/article-1285-banks-test-ai-fraud-models-on-synthetic-customer-data-20261026-120134.html",
+    "timestamp": "20261026-120134",
+    "full_timestamp": "2026-10-26T12:01:34-07:00",
+    "summary": "Banks are increasingly using AI-generated synthetic customer data to test and train fraud detection models, addressing privacy constraints and data scarcity while improving system accuracy.",
+    "original_topic": "AI Fraud Detection in Banking & Finance",
+    "search_query": "banks test AI fraud models synthetic customer data 2026 latest",
+    "source_count": 12,
+    "tags": "AI fraud detection, synthetic data, banking technology, model validation",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
