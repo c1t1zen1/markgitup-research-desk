@@ -16808,5 +16808,18 @@
     "source_count": 12,
     "tags": "AI trading, EU regulation, retail investing, crypto bots",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1284,
+    "topic": "FDA Fast-Tracks First AI-Powered Psychotherapy Assistant for Anxiety Treatment",
+    "file": "html/article-1284-fda-fast-tracks-first-ai-powered-psychotherapy-assistant-for-anxiety-tre-20261026-080807.html",
+    "timestamp": "20261026-080807",
+    "full_timestamp": "2026-10-26T08:08:07-07:00",
+    "summary": "FDA fast-tracks first AI-powered psychotherapy assistant for anxiety, marking a regulatory milestone that distinguishes clinical AI tools from wellness chatbots.",
+    "original_topic": "AI in Mental Health & Therapy",
+    "search_query": "FDA approval AI psychotherapy assistant anxiety 2026",
+    "source_count": 12,
+    "tags": "AI therapy, FDA approval, mental health, anxiety treatment",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
