@@ -16730,5 +16730,18 @@
     "source_count": 12,
     "tags": "AI, broadcasting, live TV, avatars",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1278,
+    "topic": "AI Trading Firms Face New SEC Scrutiny Over Model Risk Disclosure",
+    "file": "html/article-1278-ai-trading-firms-face-new-sec-scrutiny-over-model-risk-disclosure-20261026-020207.html",
+    "timestamp": "20261026-020207",
+    "full_timestamp": "2026-10-26T02:02:07-07:00",
+    "summary": "SEC scrutiny of AI trading firms is shifting from performance metrics to model transparency, with new proposed rules requiring disclosure of how algorithms handle market stress and potential conflicts of interest.",
+    "original_topic": "AI Stock Prediction & Market Analysis",
+    "search_query": "SEC AI trading model risk disclosure rules 2026",
+    "source_count": 12,
+    "tags": "AI trading, SEC regulation, model risk, disclosure",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
