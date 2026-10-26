@@ -16834,5 +16834,18 @@
     "source_count": 12,
     "tags": "AI fraud detection, synthetic data, banking technology, model validation",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1286,
+    "topic": "AI Now Predicts Earnings Surprises Before Analysts See Filings",
+    "file": "html/article-1286-ai-now-predicts-earnings-surprises-before-analysts-see-filings-20261026-130139.html",
+    "timestamp": "20261026-130139",
+    "full_timestamp": "2026-10-26T13:01:39-07:00",
+    "summary": "New AI models are reportedly flagging potential earnings surprises weeks before official SEC filings, shifting the advantage from traditional analysts to algorithmic traders.",
+    "original_topic": "AI Stock Prediction & Market Analysis",
+    "search_query": "AI predicts earnings surprises before SEC filings 2026",
+    "source_count": 12,
+    "tags": "AI, earnings, SEC, trading",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
