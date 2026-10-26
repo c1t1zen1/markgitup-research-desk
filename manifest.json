@@ -16717,5 +16717,18 @@
     "source_count": 12,
     "tags": "campaign AI, voter data, political advertising",
     "model_names": "GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1277,
+    "topic": "Real-Time AI Avatars Enter Live TV Broadcasts",
+    "file": "html/article-1277-real-time-ai-avatars-enter-live-tv-broadcasts-20261026-010159.html",
+    "timestamp": "20261026-010159",
+    "full_timestamp": "2026-10-26T01:01:59-07:00",
+    "summary": "AI avatars are moving from pre-recorded clips to live, real-time broadcasting, with platforms enabling avatars to host shows and interact with viewers instantly.",
+    "original_topic": "AI Video Avatars & Virtual Presenters",
+    "search_query": "AI avatar live TV broadcast 2026",
+    "source_count": 12,
+    "tags": "AI, broadcasting, live TV, avatars",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
