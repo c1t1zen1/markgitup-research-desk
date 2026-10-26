@@ -16678,5 +16678,18 @@
     "source_count": 12,
     "tags": "financial reporting,AI auditing,internal controls,compliance",
     "model_names": "GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1274,
+    "topic": "Crypto Trading Bots Face a New Reality Check as Live Losses Challenge AI Performance Claims",
+    "file": "html/article-1274-crypto-trading-bots-face-a-new-reality-check-as-live-losses-challenge-ai-20261025-180201.html",
+    "timestamp": "20261025-180201",
+    "full_timestamp": "2026-10-25T18:02:01-07:00",
+    "summary": "Marketing claims for AI crypto bots remain difficult to compare with verified live performance because the supplied evidence emphasizes rankings and testing without exposing complete methodology.",
+    "original_topic": "AI Crypto Trading Bots & Performance",
+    "search_query": "AI crypto trading bots live performance losses 2026",
+    "source_count": 12,
+    "tags": "AI trading, cryptocurrency, performance, risk",
+    "model_names": "GPT 5.6 Luna"
   }
 ]
