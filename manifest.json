@@ -16756,5 +16756,18 @@
     "source_count": 12,
     "tags": "hedge funds, LLMs, proprietary models, cost optimization",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1280,
+    "topic": "macOS 26 Neural Engine Benchmarks Spark Local AI Tooling Arms Race",
+    "file": "html/article-1280-macos-26-neural-engine-benchmarks-spark-local-ai-tooling-arms-race-20261026-040232.html",
+    "timestamp": "20261026-040232",
+    "full_timestamp": "2026-10-26T04:02:32-07:00",
+    "summary": "New Neural Engine benchmarks for Apple Silicon chips are reshaping local AI tooling, as developers race to optimize for macOS's unique hardware stack.",
+    "original_topic": "Local AI Tools & Stacks for macOS",
+    "search_query": "macOS 26 Neural Engine benchmarks local AI 2026",
+    "source_count": 12,
+    "tags": "macOS, local AI, benchmarks, developers",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
