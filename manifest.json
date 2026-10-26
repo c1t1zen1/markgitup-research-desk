@@ -16847,5 +16847,18 @@
     "source_count": 12,
     "tags": "AI, earnings, SEC, trading",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1287,
+    "topic": "Law Firms Mandate AI Citation Checks for All Court Filings",
+    "file": "html/article-1287-law-firms-mandate-ai-citation-checks-for-all-court-filings-20261026-140201.html",
+    "timestamp": "20261026-140201",
+    "full_timestamp": "2026-10-26T14:02:01-07:00",
+    "summary": "Law firms are shifting from experimental AI use to mandatory citation verification workflows, driven by court sanctions exceeding $145,000 in Q1 2026 alone.",
+    "original_topic": "AI in Legal Systems & Law Practice",
+    "search_query": "law firms mandate AI citation verification court filings 2026",
+    "source_count": 12,
+    "tags": "legal-tech, AI, law-firms, litigation",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
