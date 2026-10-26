@@ -16769,5 +16769,18 @@
     "source_count": 12,
     "tags": "macOS, local AI, benchmarks, developers",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1281,
+    "topic": "TikTok's AI Video Compression Pipeline Faces Patent Infringement Lawsuit",
+    "file": "html/article-1281-tiktok-s-ai-video-compression-pipeline-faces-patent-infringement-lawsuit-20261026-050320.html",
+    "timestamp": "20261026-050320",
+    "full_timestamp": "2026-10-26T05:03:20-07:00",
+    "summary": "A startup claims TikTok's compression tech infringes its patents, shifting the AI-video debate to the underlying infrastructure that makes short-form streaming viable at scale.",
+    "original_topic": "AI Short Form Video & Social Media",
+    "search_query": "TikTok AI video compression patent lawsuit 2026",
+    "source_count": 12,
+    "tags": "AI video, patents, TikTok, compression",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
