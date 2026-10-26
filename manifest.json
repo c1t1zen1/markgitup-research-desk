@@ -16873,5 +16873,18 @@
     "source_count": 12,
     "tags": "AI video, lip sync, remote work, live streaming",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1289,
+    "topic": "AI-Generated Financial Statements Face Forensic Detection Testing",
+    "file": "html/article-1289-ai-generated-financial-statements-face-forensic-detection-testing-20261026-160216.html",
+    "timestamp": "20261026-160216",
+    "full_timestamp": "2026-10-26T16:02:16-07:00",
+    "summary": "As AI-generated financial documents proliferate, forensic detection tools and audits are emerging as the critical countermeasure, creating an escalating arms race between synthetic fraud and verification technology.",
+    "original_topic": "Generative AI for Financial Reporting",
+    "search_query": "forensic detection AI generated financial statements 2026",
+    "source_count": 12,
+    "tags": "generative-ai,financial-reporting,forensics,auditing",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
