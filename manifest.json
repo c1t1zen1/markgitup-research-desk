@@ -16691,5 +16691,18 @@
     "source_count": 12,
     "tags": "AI trading, cryptocurrency, performance, risk",
     "model_names": "GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1275,
+    "topic": "Hedge Funds Turn to AI Agents for Autonomous Trade Execution Audits",
+    "file": "html/article-1275-hedge-funds-turn-to-ai-agents-for-autonomous-trade-execution-audits-20261025-200202.html",
+    "timestamp": "20261025-200202",
+    "full_timestamp": "2026-10-25T20:02:02-07:00",
+    "summary": "The supplied evidence does not substantiate claims about hedge funds, AI agents, autonomous trade execution, or trading audits; it points to Japanese medical-record software releases.",
+    "original_topic": "LLMs in Hedge Funds & Trading",
+    "search_query": "2026 hedge funds AI agents autonomous trading execution risk audit",
+    "source_count": 5,
+    "tags": "hedge funds, AI agents, trade execution, risk",
+    "model_names": "GPT 5.6 Luna"
   }
 ]
