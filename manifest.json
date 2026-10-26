@@ -16743,5 +16743,18 @@
     "source_count": 12,
     "tags": "AI trading, SEC regulation, model risk, disclosure",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1279,
+    "topic": "Hedge Funds Race to Build In-House LLMs as Cloud Costs Soar",
+    "file": "html/article-1279-hedge-funds-race-to-build-in-house-llms-as-cloud-costs-soar-20261026-030222.html",
+    "timestamp": "20261026-030222",
+    "full_timestamp": "2026-10-26T03:02:22-07:00",
+    "summary": "Hedge funds are shifting from cloud API dependence to in-house LLM development, driven by cost pressures, latency needs, and the strategic value of proprietary models.",
+    "original_topic": "LLMs in Hedge Funds & Trading",
+    "search_query": "hedge funds building in-house LLMs 2026",
+    "source_count": 12,
+    "tags": "hedge funds, LLMs, proprietary models, cost optimization",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
