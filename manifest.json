@@ -16704,5 +16704,18 @@
     "source_count": 5,
     "tags": "hedge funds, AI agents, trade execution, risk",
     "model_names": "GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1276,
+    "topic": "Campaign AI Vendors Face New Disclosure Pressure Over Voter-Targeting Data",
+    "file": "html/article-1276-campaign-ai-vendors-face-new-disclosure-pressure-over-voter-targeting-da-20261025-220346.html",
+    "timestamp": "20261025-220346",
+    "full_timestamp": "2026-10-25T22:03:46-07:00",
+    "summary": "Campaign AI vendors are entering a disclosure debate over voter-targeting practices, but supplied evidence remains too thin to establish specific mandates or enforcement.",
+    "original_topic": "AI in US Elections & Campaigns",
+    "search_query": "2026 campaign AI voter targeting data disclosure rules vendors",
+    "source_count": 12,
+    "tags": "campaign AI, voter data, political advertising",
+    "model_names": "GPT 5.6 Luna"
   }
 ]
