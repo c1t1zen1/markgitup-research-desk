@@ -16782,5 +16782,18 @@
     "source_count": 12,
     "tags": "AI video, patents, TikTok, compression",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1282,
+    "topic": "Banks Turn to AI for Real-Time Cross-Border Fraud Detection",
+    "file": "html/article-1282-banks-turn-to-ai-for-real-time-cross-border-fraud-detection-20261026-061217.html",
+    "timestamp": "20261026-061217",
+    "full_timestamp": "2026-10-26T06:12:17-07:00",
+    "summary": "AI systems now score cross-border transactions in under 100 milliseconds, cutting false positives by up to 60% and enabling real-time fraud detection across international payment networks.",
+    "original_topic": "AI Fraud Detection in Banking & Finance",
+    "search_query": "AI real-time cross-border payment fraud detection banks 2026",
+    "source_count": 12,
+    "tags": "AI, banking, fraud detection, cross-border payments",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
