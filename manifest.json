@@ -17081,5 +17081,18 @@
     "source_count": 12,
     "tags": "AI video, advertising, performance metrics, short-form content",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1305,
+    "topic": "Apple's M5 NPU Now Supports Sparse Attention for Larger Context Windows",
+    "file": "html/article-1305-apple-s-m5-npu-now-supports-sparse-attention-for-larger-context-windows-20261027-080154.html",
+    "timestamp": "20261027-080154",
+    "full_timestamp": "2026-10-27T08:01:54-07:00",
+    "summary": "Apple's M5 chip introduces hardware support for sparse attention, enabling developers to run larger language models with extended context windows on Apple Silicon devices.",
+    "original_topic": "AI Development Tools for Apple Silicon",
+    "search_query": "Apple M5 NPU sparse attention context window 2026 latest",
+    "source_count": 12,
+    "tags": "Apple Silicon, AI hardware, sparse attention, context window",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
