@@ -16938,5 +16938,18 @@
     "source_count": 12,
     "tags": "AI tools, Apple, developer software, Xcode",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1294,
+    "topic": "Apple's Metal 4 Compiler Optimizes Quantized LLM Kernels for M-Series Chips",
+    "file": "html/article-1294-apple-s-metal-4-compiler-optimizes-quantized-llm-kernels-for-m-series-ch-20261026-210148.html",
+    "timestamp": "20261026-210148",
+    "full_timestamp": "2026-10-26T21:01:48-07:00",
+    "summary": "Apple's Metal 4 compiler introduces quantized tensor formats and Neural Accelerator support, optimizing LLM inference for M-series chips.",
+    "original_topic": "Quantized LLMs Running on Mac Hardware",
+    "search_query": "Apple Metal 4 compiler quantized LLM optimization M-series chips 2026 latest",
+    "source_count": 12,
+    "tags": "Apple, Metal 4, quantized LLMs, M-series chips",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
