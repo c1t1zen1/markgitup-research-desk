@@ -17094,5 +17094,18 @@
     "source_count": 12,
     "tags": "Apple Silicon, AI hardware, sparse attention, context window",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1306,
+    "topic": "Open-Source AI Trading Bots Surpass Proprietary Hedge Fund Strategies",
+    "file": "html/article-1306-open-source-ai-trading-bots-surpass-proprietary-hedge-fund-strategies-20261027-090200.html",
+    "timestamp": "20261027-090200",
+    "full_timestamp": "2026-10-27T09:02:00-07:00",
+    "summary": "Open-source AI trading bots are closing the performance gap with proprietary hedge fund strategies, democratizing access to institutional-grade tools and shifting competitive dynamics in algorithmic trading.",
+    "original_topic": "AI Crypto Trading Bots & Performance",
+    "search_query": "open source AI trading bots outperform hedge funds 2026",
+    "source_count": 12,
+    "tags": "AI trading, open source, hedge funds, performance",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
