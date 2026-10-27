@@ -17003,5 +17003,18 @@
     "source_count": 12,
     "tags": "hedge funds, antitrust, LLMs, regulation",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1299,
+    "topic": "Apple's On-Device AI Now Runs Open-Source Llama 4 Models",
+    "file": "html/article-1299-apple-s-on-device-ai-now-runs-open-source-llama-4-models-20261027-020209.html",
+    "timestamp": "20261027-020209",
+    "full_timestamp": "2026-10-27T02:02:09-07:00",
+    "summary": "Apple Silicon now runs open-source Llama 4 models locally via MLX and Ollama, giving Mac users privacy-focused inference that rivals cloud-hosted alternatives for everyday tasks.",
+    "original_topic": "Local AI Tools & Stacks for macOS",
+    "search_query": "Apple macOS on-device Llama 4 local AI 2026",
+    "source_count": 12,
+    "tags": "Apple,macOS,local-AI,Llama-4",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
