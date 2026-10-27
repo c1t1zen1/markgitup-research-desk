@@ -16964,5 +16964,18 @@
     "source_count": 12,
     "tags": "generative AI, financial reporting, earnings calls, forensic detection",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1296,
+    "topic": "Apple M5 Ultra Benchmarks Show 3x Speedup for Local 70B LLMs",
+    "file": "html/article-1296-apple-m5-ultra-benchmarks-show-3x-speedup-for-local-70b-llms-20261026-230156.html",
+    "timestamp": "20261026-230156",
+    "full_timestamp": "2026-10-26T23:01:56-07:00",
+    "summary": "Apple's M5 Ultra chip, arriving in the 2026 Mac Studio, targets the local AI market with up to 512GB of unified memory, enabling the inference of large quantized LLMs that previously required server-class hardware.",
+    "original_topic": "Quantized LLMs Running on Mac Hardware",
+    "search_query": "Apple M5 Ultra local LLM inference benchmarks 2026 latest",
+    "source_count": 12,
+    "tags": "Apple Silicon, local AI, LLM benchmarks, M5 Ultra",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
