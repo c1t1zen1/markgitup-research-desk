@@ -16990,5 +16990,18 @@
     "source_count": 12,
     "tags": "Apple, local AI, battery life, Mac",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1298,
+    "topic": "AI Trading Firms Face First Antitrust Probe Over Shared Models",
+    "file": "html/article-1298-ai-trading-firms-face-first-antitrust-probe-over-shared-models-20261027-010202.html",
+    "timestamp": "20261027-010202",
+    "full_timestamp": "2026-10-27T01:02:02-07:00",
+    "summary": "FTC opens industry-wide probe into AI labs over consumer risks and potential unfair practices, raising antitrust questions for firms using shared foundational models.",
+    "original_topic": "LLMs in Hedge Funds & Trading",
+    "search_query": "AI trading firms antitrust probe shared models 2026",
+    "source_count": 12,
+    "tags": "hedge funds, antitrust, LLMs, regulation",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
