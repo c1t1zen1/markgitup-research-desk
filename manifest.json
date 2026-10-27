@@ -17042,5 +17042,18 @@
     "source_count": 12,
     "tags": "AI video, physics simulation, generative models, 2026",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1302,
+    "topic": "AI Therapy Chatbots Now Required to Disclose Model Version to Patients",
+    "file": "html/article-1302-ai-therapy-chatbots-now-required-to-disclose-model-version-to-patients-20261027-050202.html",
+    "timestamp": "20261027-050202",
+    "full_timestamp": "2026-10-27T05:02:02-07:00",
+    "summary": "New state laws require AI therapy chatbots to disclose their model version and training data to patients, marking a shift from efficacy debates to consumer transparency.",
+    "original_topic": "AI in Mental Health & Therapy",
+    "search_query": "AI therapy chatbot model version disclosure regulation 2026",
+    "source_count": 12,
+    "tags": "AI therapy, regulation, transparency, mental health",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
