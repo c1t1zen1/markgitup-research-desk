@@ -17133,5 +17133,18 @@
     "source_count": 12,
     "tags": "AI, elections, fact-checking, media",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1309,
+    "topic": "AI Now Predicts Bankruptcies Two Years Before Financial Statements",
+    "file": "html/article-1309-ai-now-predicts-bankruptcies-two-years-before-financial-statements-20261027-120201.html",
+    "timestamp": "20261027-120201",
+    "full_timestamp": "2026-10-27T12:02:01-07:00",
+    "summary": "AI models now flag corporate insolvency up to two years before financial statements, using alternative data like supply chain delays and executive turnover to predict bankruptcy risk.",
+    "original_topic": "AI Stock Prediction & Market Analysis",
+    "search_query": "AI bankruptcy prediction early warning 2026",
+    "source_count": 12,
+    "tags": "AI, bankruptcy, prediction, finance",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
