@@ -16977,5 +16977,18 @@
     "source_count": 12,
     "tags": "Apple Silicon, local AI, LLM benchmarks, M5 Ultra",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1297,
+    "topic": "Apple's Local AI Faces New Battery Drain Scrutiny",
+    "file": "html/article-1297-apple-s-local-ai-faces-new-battery-drain-scrutiny-20261027-000227.html",
+    "timestamp": "20261027-000227",
+    "full_timestamp": "2026-10-27T00:02:27-07:00",
+    "summary": "On-device AI promises privacy, but early reports suggest Apple's local AI workloads may be accelerating battery drain on MacBooks running the latest macOS versions.",
+    "original_topic": "Privacy-First Local AI on Mac",
+    "search_query": "Apple Mac local AI battery drain complaints 2026",
+    "source_count": 12,
+    "tags": "Apple, local AI, battery life, Mac",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
