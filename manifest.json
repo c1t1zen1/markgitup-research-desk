@@ -16951,5 +16951,18 @@
     "source_count": 12,
     "tags": "Apple, Metal 4, quantized LLMs, M-series chips",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1295,
+    "topic": "AI-Generated Earnings Call Transcripts Face Forensic Scrutiny",
+    "file": "html/article-1295-ai-generated-earnings-call-transcripts-face-forensic-scrutiny-20261026-220149.html",
+    "timestamp": "20261026-220149",
+    "full_timestamp": "2026-10-26T22:01:49-07:00",
+    "summary": "As AI tools increasingly draft and summarize earnings call transcripts, forensic analysts are developing new techniques to detect synthetic or manipulated financial communications.",
+    "original_topic": "Generative AI for Financial Reporting",
+    "search_query": "forensic detection AI generated earnings call transcripts 2026 latest",
+    "source_count": 12,
+    "tags": "generative AI, financial reporting, earnings calls, forensic detection",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
