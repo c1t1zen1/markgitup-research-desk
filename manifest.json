@@ -16886,5 +16886,18 @@
     "source_count": 12,
     "tags": "generative-ai,financial-reporting,forensics,auditing",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1290,
+    "topic": "Hedge Funds Deploy LLMs to Decode Earnings Call Tone in Real Time",
+    "file": "html/article-1290-hedge-funds-deploy-llms-to-decode-earnings-call-tone-in-real-time-20261026-170229.html",
+    "timestamp": "20261026-170229",
+    "full_timestamp": "2026-10-26T17:02:29-07:00",
+    "summary": "Hedge funds are moving beyond post-call transcripts to parse live earnings-call audio, using LLMs to detect executive tone, hesitation, and stress signals in real time.",
+    "original_topic": "LLMs in Hedge Funds & Trading",
+    "search_query": "hedge funds LLM earnings call sentiment analysis 2026",
+    "source_count": 12,
+    "tags": "LLMs, hedge funds, earnings calls, sentiment analysis",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
