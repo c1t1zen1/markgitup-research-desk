@@ -17055,5 +17055,18 @@
     "source_count": 12,
     "tags": "AI therapy, regulation, transparency, mental health",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1303,
+    "topic": "Pentagon Awards AI Satellite Constellation Contract to Private Firm",
+    "file": "html/article-1303-pentagon-awards-ai-satellite-constellation-contract-to-private-firm-20261027-060145.html",
+    "timestamp": "20261027-060145",
+    "full_timestamp": "2026-10-27T06:01:45-07:00",
+    "summary": "The U.S. Space Force awarded SpaceX a $4.16 billion contract to build an orbiting satellite network for airborne target tracking, marking a major step in AI-driven surveillance from space.",
+    "original_topic": "AI in US Intelligence & Surveillance",
+    "search_query": "Pentagon AI satellite constellation contract award 2026",
+    "source_count": 12,
+    "tags": "defense, AI, satellites, procurement",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
