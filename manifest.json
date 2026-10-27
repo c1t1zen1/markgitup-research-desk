@@ -17068,5 +17068,18 @@
     "source_count": 12,
     "tags": "defense, AI, satellites, procurement",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1304,
+    "topic": "AI Short-Form Video Ads Outperform Human-Created in Conversion Tests",
+    "file": "html/article-1304-ai-short-form-video-ads-outperform-human-created-in-conversion-tests-20261027-070200.html",
+    "timestamp": "20261027-070200",
+    "full_timestamp": "2026-10-27T07:02:00-07:00",
+    "summary": "New benchmark studies reveal AI-generated short-form video ads are achieving higher conversion rates and lower cost-per-acquisition than traditional human-produced creative across major ad platforms.",
+    "original_topic": "AI Short Form Video & Social Media",
+    "search_query": "AI generated short form video ads conversion rate tests 2026",
+    "source_count": 12,
+    "tags": "AI video, advertising, performance metrics, short-form content",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
