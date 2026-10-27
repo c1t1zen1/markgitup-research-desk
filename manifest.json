@@ -16899,5 +16899,18 @@
     "source_count": 12,
     "tags": "LLMs, hedge funds, earnings calls, sentiment analysis",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1291,
+    "topic": "AI Video Avatars Face New EU Deepfake Disclosure Law",
+    "file": "html/article-1291-ai-video-avatars-face-new-eu-deepfake-disclosure-law-20261026-180221.html",
+    "timestamp": "20261026-180221",
+    "full_timestamp": "2026-10-26T18:02:21-07:00",
+    "summary": "The EU AI Act's Article 50 deepfake disclosure rules became enforceable on August 2, 2026, requiring clear labeling of AI-generated and manipulated video content, with fines up to €15M or 3% of turnover for non-compliance.",
+    "original_topic": "AI Video Avatars & Virtual Presenters",
+    "search_query": "EU AI video avatar deepfake disclosure law 2026",
+    "source_count": 12,
+    "tags": "AI video, deepfakes, EU regulation, virtual presenters",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
