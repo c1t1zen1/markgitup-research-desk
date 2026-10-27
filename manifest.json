@@ -16925,5 +16925,18 @@
     "source_count": 12,
     "tags": "AI, polling, elections, auditing",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1293,
+    "topic": "Apple's New AI Coding Assistant Ships With Xcode 26",
+    "file": "html/article-1293-apple-s-new-ai-coding-assistant-ships-with-xcode-26-20261026-200153.html",
+    "timestamp": "20261026-200153",
+    "full_timestamp": "2026-10-26T20:01:53-07:00",
+    "summary": "Apple's Xcode 26 ships a native AI coding assistant for Swift, marking the company's first built-in developer AI tool that operates on-device rather than through third-party integrations.",
+    "original_topic": "AI Development Tools for Apple Silicon",
+    "search_query": "Apple Xcode 26 AI coding assistant release 2026 latest",
+    "source_count": 12,
+    "tags": "AI tools, Apple, developer software, Xcode",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
