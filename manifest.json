@@ -17029,5 +17029,18 @@
     "source_count": 12,
     "tags": "AI, legal systems, courts, automation",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1301,
+    "topic": "AI Video Models Add Physics Simulation for Realistic Motion",
+    "file": "html/article-1301-ai-video-models-add-physics-simulation-for-realistic-motion-20261027-040207.html",
+    "timestamp": "20261027-040207",
+    "full_timestamp": "2026-10-27T04:02:07-07:00",
+    "summary": "AI video models are moving beyond pattern matching to embed physics-based simulation, promising more realistic object interactions and motion in generated content.",
+    "original_topic": "AI Video Generation Models",
+    "search_query": "AI video generation physics engine realistic motion 2026",
+    "source_count": 12,
+    "tags": "AI video, physics simulation, generative models, 2026",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
