@@ -16912,5 +16912,18 @@
     "source_count": 12,
     "tags": "AI video, deepfakes, EU regulation, virtual presenters",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1292,
+    "topic": "AI Polling Bots Face New Accuracy Audits Ahead of 2026 Midterms",
+    "file": "html/article-1292-ai-polling-bots-face-new-accuracy-audits-ahead-of-2026-midterms-20261026-190228.html",
+    "timestamp": "20261026-190228",
+    "full_timestamp": "2026-10-26T19:02:28-07:00",
+    "summary": "As AI chatbots become a common election research tool, new audits reveal significant accuracy gaps, prompting calls for formal verification standards before the 2026 midterms.",
+    "original_topic": "AI in US Elections & Campaigns",
+    "search_query": "AI polling bots accuracy audits 2026 midterms",
+    "source_count": 12,
+    "tags": "AI, polling, elections, auditing",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
