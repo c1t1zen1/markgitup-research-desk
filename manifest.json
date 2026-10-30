@@ -17224,5 +17224,18 @@
     "source_count": 12,
     "tags": "AI Policy, Data Sovereignty, Lobbying, Regulation",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1316,
+    "topic": "Regulated AI Trading Bots Face New Compliance Hurdles in Decentralized Finance",
+    "file": "html/article-1316-regulated-ai-trading-bots-face-new-compliance-hurdles-in-decentralized-f-20261030-070335.html",
+    "timestamp": "20261030-070335",
+    "full_timestamp": "2026-10-30T07:03:35-07:00",
+    "summary": "As DeFi trading agents attract regulatory attention, thin but converging evidence points toward tougher licensing, supervision, and accountability expectations for automated systems.",
+    "original_topic": "AI Crypto Trading Bots & Performance",
+    "search_query": "AI trading bot regulatory compliance DeFi 2026",
+    "source_count": 12,
+    "tags": "AI Trading, DeFi, Regulation, Compliance",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
