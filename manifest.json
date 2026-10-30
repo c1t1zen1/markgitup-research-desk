@@ -17146,5 +17146,18 @@
     "source_count": 12,
     "tags": "AI, bankruptcy, prediction, finance",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1310,
+    "topic": "Autonomous Agents Debugging Legacy Codebases with Formal Verification",
+    "file": "html/article-1310-autonomous-agents-debugging-legacy-codebases-with-formal-verification-20261030-010345.html",
+    "timestamp": "20261030-010345",
+    "full_timestamp": "2026-10-30T01:03:45-07:00",
+    "summary": "Legacy-code agents promise faster modernization, but their enterprise value depends on verification, characterization tests, and disciplined handling of silent semantic regressions.",
+    "original_topic": "Autonomous AI Code Agents",
+    "search_query": "AI agents formal verification legacy codebases 2026",
+    "source_count": 12,
+    "tags": "AI Agents, Software Engineering, Formal Methods, Legacy Code",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
