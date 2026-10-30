@@ -17289,5 +17289,18 @@
     "source_count": 12,
     "tags": "Generative AI, Creator Economy, Deepfakes, Intellectual Property",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1321,
+    "topic": "AI Video Models Integrating Real-Time Biometric Feedback for Hyper-Personalized Content",
+    "file": "html/article-1321-ai-video-models-integrating-real-time-biometric-feedback-for-hyper-perso-20261030-120333.html",
+    "timestamp": "20261030-120333",
+    "full_timestamp": "2026-10-30T12:03:33-07:00",
+    "summary": "Generative video could move from prompt-driven clips toward adaptive narratives shaped by physiological feedback, but supplied evidence supports the concept more strongly than current deployment claims.",
+    "original_topic": "AI Video Generation Models",
+    "search_query": "AI video generation biometric feedback loop 2026",
+    "source_count": 12,
+    "tags": "Generative AI, Biometrics, Video Synthesis, Real-Time",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
