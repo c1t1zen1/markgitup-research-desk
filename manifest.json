@@ -17328,5 +17328,18 @@
     "source_count": 12,
     "tags": "Voter Targeting, Election Law, AI Ethics, Campaign Finance",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1324,
+    "topic": "MCP Security Becomes Mac Local AI’s Next Privacy Test as Agents Gain File Access",
+    "file": "html/article-1324-mcp-security-becomes-mac-local-ais-next-privacy-test-as-agents-gain-file-20261030-150419.html",
+    "timestamp": "20261030-150419",
+    "full_timestamp": "2026-10-30T15:04:19-07:00",
+    "summary": "Keeping model data on a Mac may limit cloud exposure, but it does not by itself prevent manipulated agents from reading sensitive files through privileged tools.",
+    "original_topic": "Privacy-First Local AI on Mac",
+    "search_query": "macOS MCP agent file access prompt injection privacy 2026",
+    "source_count": 12,
+    "tags": "macOS security, MCP, local AI",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
