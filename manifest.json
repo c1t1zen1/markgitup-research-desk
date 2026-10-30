@@ -17198,5 +17198,18 @@
     "source_count": 12,
     "tags": "Apple Silicon, Local AI, Medical AI, Inference",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1314,
+    "topic": "Real-Time AI De-aging and Style Transfer in Live Video Feeds",
+    "file": "html/article-1314-real-time-ai-de-aging-and-style-transfer-in-live-video-feeds-20261030-050341.html",
+    "timestamp": "20261030-050341",
+    "full_timestamp": "2026-10-30T05:03:41-07:00",
+    "summary": "Live video transformation is moving from post-production toward interactive stream processing, but supplied evidence supports a platform category more clearly than proven real-time de-aging or style transfer.",
+    "original_topic": "AI-Powered Video Editing & Post-Production",
+    "search_query": "real-time AI video de-aging live stream processing 2026 latest",
+    "source_count": 12,
+    "tags": "Generative Video, Real-Time AI, Live Streaming, Computer Vision",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
