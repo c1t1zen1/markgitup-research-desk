@@ -17237,5 +17237,18 @@
     "source_count": 12,
     "tags": "AI Trading, DeFi, Regulation, Compliance",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1317,
+    "topic": "Quantifying Latency: M-Series LLM Inference Benchmarks Under Real-World Load",
+    "file": "html/article-1317-quantifying-latency-m-series-llm-inference-benchmarks-under-real-world-l-20261030-081415.html",
+    "timestamp": "20261030-081415",
+    "full_timestamp": "2026-10-30T08:14:15-07:00",
+    "summary": "Benchmarking M-Series LLM Inference: Analyzing practical latency and throughput metrics for local AI performance.",
+    "original_topic": "M Series Apple Silicon LLM Inference",
+    "search_query": "M-series LLM inference benchmarks real-world latency 2026",
+    "source_count": 12,
+    "tags": "Apple Silicon, LLM Inference, Edge AI, Performance",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
