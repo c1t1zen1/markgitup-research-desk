@@ -17315,5 +17315,18 @@
     "source_count": 12,
     "tags": "Media Provenance, Digital Watermarking, Synthetic Media, Regulation",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1323,
+    "topic": "AI Micro-Targeting and Voter Suppression: New Regulatory Scrutiny in 2026",
+    "file": "html/article-1323-ai-micro-targeting-and-voter-suppression-new-regulatory-scrutiny-in-2026-20261030-141259.html",
+    "timestamp": "20261030-141259",
+    "full_timestamp": "2026-10-30T14:12:59-07:00",
+    "summary": "As AI advances, scrutiny mounts over its use in hyper-granular voter targeting and potential voter suppression tactics in 2026.",
+    "original_topic": "AI in US Elections & Campaigns",
+    "search_query": "AI micro-targeting election law 2026",
+    "source_count": 12,
+    "tags": "Voter Targeting, Election Law, AI Ethics, Campaign Finance",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
