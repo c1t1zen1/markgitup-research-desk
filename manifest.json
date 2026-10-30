@@ -17159,5 +17159,18 @@
     "source_count": 12,
     "tags": "AI Agents, Software Engineering, Formal Methods, Legacy Code",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1311,
+    "topic": "AI-Driven Digital Twin Simulations Reshape US Intelligence Threat Modeling",
+    "file": "html/article-1311-ai-driven-digital-twin-simulations-reshape-us-intelligence-threat-modeli-20261030-020358.html",
+    "timestamp": "20261030-020358",
+    "full_timestamp": "2026-10-30T02:03:58-07:00",
+    "summary": "AI, digital twins, and simulation are converging around US national-security decision support, but the evidence shows an emerging model—not confirmed deployment in intelligence threat modeling.",
+    "original_topic": "AI in US Intelligence & Surveillance",
+    "search_query": "AI digital twin national security modeling 2026",
+    "source_count": 12,
+    "tags": "AI, Intelligence, Simulation, Geopolitics",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
