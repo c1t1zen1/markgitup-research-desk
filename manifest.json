@@ -17185,5 +17185,18 @@
     "source_count": 12,
     "tags": "LegalTech, AI Ethics, eDiscovery, Litigation",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1313,
+    "topic": "Optimizing LLM Inference on Apple Silicon for Edge Medical Diagnostics",
+    "file": "html/article-1313-optimizing-llm-inference-on-apple-silicon-for-edge-medical-diagnostics-20261030-041601.html",
+    "timestamp": "20261030-041601",
+    "full_timestamp": "2026-10-30T04:16:01-07:00",
+    "summary": "Harnessing Apple Silicon for Edge Medical AI: Optimizing Local LLMs for Critical, Resource-Constrained Diagnostics.",
+    "original_topic": "AI Development Tools for Apple Silicon",
+    "search_query": "Apple Silicon LLM medical imaging inference optimization 2026 latest",
+    "source_count": 12,
+    "tags": "Apple Silicon, Local AI, Medical AI, Inference",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
