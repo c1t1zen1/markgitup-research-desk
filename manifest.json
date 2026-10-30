@@ -17250,5 +17250,18 @@
     "source_count": 12,
     "tags": "Apple Silicon, LLM Inference, Edge AI, Performance",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1318,
+    "topic": "Optimizing Local LLM Fine-Tuning on Apple Silicon for Privacy-Preserving Enterprise Use",
+    "file": "html/article-1318-optimizing-local-llm-fine-tuning-on-apple-silicon-for-privacy-preserving-20261030-090341.html",
+    "timestamp": "20261030-090341",
+    "full_timestamp": "2026-10-30T09:03:41-07:00",
+    "summary": "Apple Silicon makes private LLM customization more feasible, but enterprise value depends on memory capacity, software maturity, evaluation discipline, and controlled deployment rather than hardware alone.",
+    "original_topic": "AI Development Tools for Apple Silicon",
+    "search_query": "local LLM fine-tuning Apple Silicon enterprise privacy 2026 latest",
+    "source_count": 12,
+    "tags": "LLM, Apple Silicon, Edge AI, Privacy",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
