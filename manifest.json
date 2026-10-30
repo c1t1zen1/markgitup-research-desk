@@ -17341,5 +17341,18 @@
     "source_count": 12,
     "tags": "macOS security, MCP, local AI",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1325,
+    "topic": "AI Monitoring Micro-Transaction Anomalies in Cross-Border Digital Wallets",
+    "file": "html/article-1325-ai-monitoring-micro-transaction-anomalies-in-cross-border-digital-wallet-20261030-161452.html",
+    "timestamp": "20261030-161452",
+    "full_timestamp": "2026-10-30T16:14:52-07:00",
+    "summary": "AI is revolutionizing cross-border digital wallet security by monitoring micro-transaction anomalies to combat sophisticated international fraud.",
+    "original_topic": "AI Fraud Detection in Banking & Finance",
+    "search_query": "AI fraud detection cross-border digital wallet transactions 2026",
+    "source_count": 12,
+    "tags": "FinTech, AI, Cross-Border Payments, Fraud Detection",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
