@@ -17172,5 +17172,18 @@
     "source_count": 12,
     "tags": "AI, Intelligence, Simulation, Geopolitics",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1312,
+    "topic": "AI's Role in Legal Discovery: New Protocols for Synthetic Evidence Handling",
+    "file": "html/article-1312-ai-s-role-in-legal-discovery-new-protocols-for-synthetic-evidence-handli-20261030-030353.html",
+    "timestamp": "20261030-030353",
+    "full_timestamp": "2026-10-30T03:03:53-07:00",
+    "summary": "Synthetic evidence is forcing discovery teams to document provenance, preserve prompts and outputs, test confidentiality boundaries, and distinguish review assistance from evidence offered as fact.",
+    "original_topic": "AI in Legal Systems & Law Practice",
+    "search_query": "AI synthetic evidence legal discovery protocol 2026",
+    "source_count": 12,
+    "tags": "LegalTech, AI Ethics, eDiscovery, Litigation",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
