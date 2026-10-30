@@ -17263,5 +17263,18 @@
     "source_count": 12,
     "tags": "LLM, Apple Silicon, Edge AI, Privacy",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1319,
+    "topic": "AI Agents Challenging Jurisdictional Boundaries in Cross-Border Legal Compliance",
+    "file": "html/article-1319-ai-agents-challenging-jurisdictional-boundaries-in-cross-border-legal-co-20261030-101422.html",
+    "timestamp": "20261030-101422",
+    "full_timestamp": "2026-10-30T10:14:22-07:00",
+    "summary": "Autonomous AI agents crossing borders ignite complex legal quandaries, demanding new frameworks for cross-jurisdictional compliance.",
+    "original_topic": "AI in Legal Systems & Law Practice",
+    "search_query": "AI agents international legal compliance challenges 2026",
+    "source_count": 12,
+    "tags": "AI Law, Jurisdictional Issues, Autonomous Agents, Regulatory Tech",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
