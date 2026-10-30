@@ -17276,5 +17276,18 @@
     "source_count": 12,
     "tags": "AI Law, Jurisdictional Issues, Autonomous Agents, Regulatory Tech",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1320,
+    "topic": "Generative AI's Impact on Creator Economy: Synthetic Voice and Deepfake Monetization Risks",
+    "file": "html/article-1320-generative-ai-s-impact-on-creator-economy-synthetic-voice-and-deepfake-m-20261030-110340.html",
+    "timestamp": "20261030-110340",
+    "full_timestamp": "2026-10-30T11:03:40-07:00",
+    "summary": "Synthetic voices and AI avatars are moving from production aids to monetized assets, expanding creator reach while exposing licensing, authenticity, and revenue claims to deeper scrutiny.",
+    "original_topic": "AI Short Form Video & Social Media",
+    "search_query": "AI synthetic voice monetization creator economy 2026",
+    "source_count": 12,
+    "tags": "Generative AI, Creator Economy, Deepfakes, Intellectual Property",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
