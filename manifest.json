@@ -17211,5 +17211,18 @@
     "source_count": 12,
     "tags": "Generative Video, Real-Time AI, Live Streaming, Computer Vision",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1315,
+    "topic": "AI Lobbying Reveals New Regulatory Bottlenecks in Data Sovereignty Debates",
+    "file": "html/article-1315-ai-lobbying-reveals-new-regulatory-bottlenecks-in-data-sovereignty-debat-20261030-060335.html",
+    "timestamp": "20261030-060335",
+    "full_timestamp": "2026-10-30T06:03:35-07:00",
+    "summary": "AI lobbying is expanding as sovereignty debates widen, but the supplied evidence exposes a central bottleneck: claims about lobbying tools outpace proof of their regulatory impact.",
+    "original_topic": "AI Lobbying & Policy in Washington",
+    "search_query": "AI lobbying data sovereignty US policy 2026",
+    "source_count": 12,
+    "tags": "AI Policy, Data Sovereignty, Lobbying, Regulation",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
