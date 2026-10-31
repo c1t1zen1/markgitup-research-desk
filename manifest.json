@@ -17575,5 +17575,18 @@
     "source_count": 12,
     "tags": "AI lobbying, deepfakes, congressional hearings, synthetic media",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1343,
+    "topic": "AI Development Tools for Apple Silicon",
+    "file": "html/article-1343-ai-development-tools-for-apple-silicon-20261031-100139.html",
+    "timestamp": "20261031-100139",
+    "full_timestamp": "2026-10-31T10:01:39-07:00",
+    "summary": "Apple's M-series chips are becoming a first-class AI development platform, with new frameworks and tools enabling on-device model training, optimization, and deployment without cloud dependencies.",
+    "original_topic": "AI Development Tools for Apple Silicon",
+    "search_query": "AI development tools Apple Silicon 2026",
+    "source_count": 12,
+    "tags": "AI, Apple Silicon, development tools, optimization",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
