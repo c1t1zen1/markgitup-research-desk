@@ -17393,5 +17393,18 @@
     "source_count": 12,
     "tags": "LocalAI, macOS, ScientificComputing, Privacy",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1329,
+    "topic": "Energy Grid Optimization via Predictive AI in Smart Home Microgrids",
+    "file": "html/article-1329-energy-grid-optimization-via-predictive-ai-in-smart-home-microgrids-20261030-200339.html",
+    "timestamp": "20261030-200339",
+    "full_timestamp": "2026-10-30T20:03:39-07:00",
+    "summary": "Predictive AI could turn solar-and-battery homes into coordinated microgrid assets, balancing demand, renewable variability, storage, reliability, and potential grid value while exposing cybersecurity challenges.",
+    "original_topic": "AI-Powered Smart Homes & Automation",
+    "search_query": "AI predictive energy management smart home microgrids 2026",
+    "source_count": 12,
+    "tags": "Smart Grid, Energy AI, Microgrids, Sustainability",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
