@@ -17380,5 +17380,18 @@
     "source_count": 12,
     "tags": "AI Policy, Legislative Tech, Washington D.C., Automation",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1328,
+    "topic": "Local LLMs and macOS: Bridging the Gap Between Privacy and Complex Scientific Modeling",
+    "file": "html/article-1328-local-llms-and-macos-bridging-the-gap-between-privacy-and-complex-scient-20261030-190341.html",
+    "timestamp": "20261030-190341",
+    "full_timestamp": "2026-10-30T19:03:41-07:00",
+    "summary": "Apple Silicon’s local-AI stack is gaining privacy and model-capacity options, but supplied evidence supports inference and fine-tuning—not yet a demonstrated leap into scientific simulation.",
+    "original_topic": "Local AI Tools & Stacks for macOS",
+    "search_query": "macOS local LLM scientific simulation frameworks 2026",
+    "source_count": 12,
+    "tags": "LocalAI, macOS, ScientificComputing, Privacy",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
