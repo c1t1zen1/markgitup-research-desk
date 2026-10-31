@@ -17367,5 +17367,18 @@
     "source_count": 12,
     "tags": "DAO, AI, DeFi, Governance",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1327,
+    "topic": "AI Lobbying's Shift: From Policy Input to Legislative Drafting Automation",
+    "file": "html/article-1327-ai-lobbying-s-shift-from-policy-input-to-legislative-drafting-automation-20261030-181434.html",
+    "timestamp": "20261030-181434",
+    "full_timestamp": "2026-10-30T18:14:34-07:00",
+    "summary": "AI is moving beyond policy consultation to actively drafting legislation, marking a major operational shift in legislative influence and governance.",
+    "original_topic": "AI Lobbying & Policy in Washington",
+    "search_query": "AI legislative drafting tools Washington D.C. 2026",
+    "source_count": 12,
+    "tags": "AI Policy, Legislative Tech, Washington D.C., Automation",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
