@@ -17510,5 +17510,18 @@
     "source_count": 12,
     "tags": "AI therapy, digital health, ethics, virtual presence",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1338,
+    "topic": "AI-Generated Financial Statements Face First Major Fraud Detection Test",
+    "file": "html/article-1338-ai-generated-financial-statements-face-first-major-fraud-detection-test-20261031-050129.html",
+    "timestamp": "20261031-050129",
+    "full_timestamp": "2026-10-31T05:01:29-07:00",
+    "summary": "Forensic AI tools are being tested to detect synthetic financial reports as generative AI makes document forgery easier, marking a new challenge for lenders and insurers.",
+    "original_topic": "Generative AI for Financial Reporting",
+    "search_query": "AI generated financial statements fraud detection 2026",
+    "source_count": 12,
+    "tags": "AI, financial reporting, fraud detection, generative AI",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
