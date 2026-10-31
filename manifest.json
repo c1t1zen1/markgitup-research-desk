@@ -17562,5 +17562,18 @@
     "source_count": 12,
     "tags": "AI, satellites, surveillance, technology",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1342,
+    "topic": "AI Lobbying Groups Deploy Deepfake Testimony in Congressional Hearings",
+    "file": "html/article-1342-ai-lobbying-groups-deploy-deepfake-testimony-in-congressional-hearings-20261031-090134.html",
+    "timestamp": "20261031-090134",
+    "full_timestamp": "2026-10-31T09:01:34-07:00",
+    "summary": "AI lobbying firms are reportedly deploying synthetic media and deepfake-generated testimony to influence congressional hearings, marking a new era of digital manipulation in U.S. policy-making.",
+    "original_topic": "AI Lobbying & Policy in Washington",
+    "search_query": "deepfake testimony congressional hearings AI lobbying 2026",
+    "source_count": 12,
+    "tags": "AI lobbying, deepfakes, congressional hearings, synthetic media",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
