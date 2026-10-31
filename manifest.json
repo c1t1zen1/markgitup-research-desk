@@ -17471,5 +17471,18 @@
     "source_count": 12,
     "tags": "Supply Chain, Geopolitics, Risk Analysis, Predictive AI",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1335,
+    "topic": "LLMs as Synthetic Market Makers: Algorithmic Risk in High-Frequency Trading",
+    "file": "html/article-1335-llms-as-synthetic-market-makers-algorithmic-risk-in-high-frequency-tradi-20261031-021443.html",
+    "timestamp": "20261031-021443",
+    "full_timestamp": "2026-10-31T02:14:43-07:00",
+    "summary": "LLMs risk transforming into synthetic market makers, creating novel algorithmic risks in high-frequency trading environments.",
+    "original_topic": "LLMs in Hedge Funds & Trading",
+    "search_query": "LLM synthetic market making risk hedge funds 2026",
+    "source_count": 12,
+    "tags": "Algorithmic Trading, LLMs, Market Risk, FinTech",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
