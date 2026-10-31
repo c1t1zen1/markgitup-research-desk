@@ -17614,5 +17614,18 @@
     "source_count": 12,
     "tags": "AI, SEC filings, financial reporting, automation",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1346,
+    "topic": "AI Chatbots Now Targeting Voters at Local Polling Places",
+    "file": "html/article-1346-ai-chatbots-now-targeting-voters-at-local-polling-places-20261031-130127.html",
+    "timestamp": "20261031-130127",
+    "full_timestamp": "2026-10-31T13:01:27-07:00",
+    "summary": "AI-powered chatbots are moving beyond digital outreach to provide 24/7 voter guidance on registration, polling locations, and ballot deadlines at the point of civic engagement.",
+    "original_topic": "AI in US Elections & Campaigns",
+    "search_query": "AI chatbots voter outreach polling places 2026",
+    "source_count": 12,
+    "tags": "AI, elections, voter outreach, polling places",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
