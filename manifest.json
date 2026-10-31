@@ -17523,5 +17523,18 @@
     "source_count": 12,
     "tags": "AI, financial reporting, fraud detection, generative AI",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1339,
+    "topic": "Apple's M-Series Chips Now Run LLMs Without External VRAM",
+    "file": "html/article-1339-apple-s-m-series-chips-now-run-llms-without-external-vram-20261031-060149.html",
+    "timestamp": "20261031-060149",
+    "full_timestamp": "2026-10-31T06:01:49-07:00",
+    "summary": "Apple's M-series chips eliminate the external VRAM bottleneck for local LLM inference by using unified memory, enabling larger models to run on Macs without discrete graphics cards.",
+    "original_topic": "M Series Apple Silicon LLM Inference",
+    "search_query": "Apple M-series LLM inference without external VRAM 2026",
+    "source_count": 12,
+    "tags": "Apple Silicon, LLM inference, hardware innovation, AI computing",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
