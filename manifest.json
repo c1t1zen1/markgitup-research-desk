@@ -17406,5 +17406,18 @@
     "source_count": 12,
     "tags": "Smart Grid, Energy AI, Microgrids, Sustainability",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1330,
+    "topic": "AI-Driven Semantic Editing: Automated Narrative Structuring in Feature Films",
+    "file": "html/article-1330-ai-driven-semantic-editing-automated-narrative-structuring-in-feature-fi-20261030-210402.html",
+    "timestamp": "20261030-210402",
+    "full_timestamp": "2026-10-30T21:04:02-07:00",
+    "summary": "AI video tools are moving from localized semantic edits toward proposed narrative structures, but supplied evidence shows research and developer-stage capability—not proven autonomous feature-film recutting.",
+    "original_topic": "AI-Powered Video Editing & Post-Production",
+    "search_query": "AI semantic video editing narrative structure 2026",
+    "source_count": 12,
+    "tags": "Video Editing, Generative AI, Post-Production, Narrative AI",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
