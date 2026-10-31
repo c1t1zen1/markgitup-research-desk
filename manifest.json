@@ -17497,5 +17497,18 @@
     "source_count": 12,
     "tags": "AI Agents, Legacy Code, Quantum Computing, Software Engineering",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1337,
+    "topic": "AI Avatars in Digital Therapy: Ethical Boundaries of Synthetic Empathy",
+    "file": "html/article-1337-ai-avatars-in-digital-therapy-ethical-boundaries-of-synthetic-empathy-20261031-040350.html",
+    "timestamp": "20261031-040350",
+    "full_timestamp": "2026-10-31T04:03:50-07:00",
+    "summary": "As AI avatars enter mental-health conversations, the central test is not realism but whether disclosure, consent, privacy, crisis safeguards, and human accountability prevent synthetic empathy from becoming deceptive dependence.",
+    "original_topic": "AI Video Avatars & Virtual Presenters",
+    "search_query": "AI therapeutic avatars ethical guidelines 2026",
+    "source_count": 12,
+    "tags": "AI therapy, digital health, ethics, virtual presence",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
