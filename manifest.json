@@ -17640,5 +17640,18 @@
     "source_count": 12,
     "tags": "LLMs, Apple Silicon, benchmarks, performance",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1348,
+    "topic": "Apple M5 Ultra Benchmarks: LLM Inference Performance Analysis",
+    "file": "html/article-1348-apple-m5-ultra-benchmarks-llm-inference-performance-analysis-20261031-150136.html",
+    "timestamp": "20261031-150136",
+    "full_timestamp": "2026-10-31T15:01:36-07:00",
+    "summary": "The M5 Ultra sets a new ceiling for local LLM inference on Apple Silicon, delivering significant throughput gains for large models in a single quiet box.",
+    "original_topic": "M Series Apple Silicon LLM Inference",
+    "search_query": "Apple M5 Ultra LLM inference benchmarks 2026",
+    "source_count": 12,
+    "tags": "Apple Silicon, LLM Inference, M5 Ultra, Benchmarks",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
