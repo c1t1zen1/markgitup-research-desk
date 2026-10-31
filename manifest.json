@@ -17458,5 +17458,18 @@
     "source_count": 12,
     "tags": "Live Broadcast, Generative Video, Real-Time AI, Latency",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1334,
+    "topic": "AI's Role in Predicting Supply Chain Disruptions Using Geospatial & Sentiment Data",
+    "file": "html/article-1334-ai-s-role-in-predicting-supply-chain-disruptions-using-geospatial-sentim-20261031-010426.html",
+    "timestamp": "20261031-010426",
+    "full_timestamp": "2026-10-31T01:04:26-07:00",
+    "summary": "AI may forecast supply-chain instability by combining geopolitical, logistical, supplier, and potentially sentiment signals, but supplied evidence supports risk visibility more than proven market prediction.",
+    "original_topic": "AI Stock Prediction & Market Analysis",
+    "search_query": "AI predictive modeling supply chain geopolitical risk 2026",
+    "source_count": 12,
+    "tags": "Supply Chain, Geopolitics, Risk Analysis, Predictive AI",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
