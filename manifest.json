@@ -17653,5 +17653,18 @@
     "source_count": 12,
     "tags": "Apple Silicon, LLM Inference, M5 Ultra, Benchmarks",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1349,
+    "topic": "AI Fact-Checkers Deployed Nationwide Ahead of 2026 Midterm Elections",
+    "file": "html/article-1349-ai-fact-checkers-deployed-nationwide-ahead-of-2026-midterm-elections-20261031-160150.html",
+    "timestamp": "20261031-160150",
+    "full_timestamp": "2026-10-31T16:01:50-07:00",
+    "summary": "As AI-generated misinformation scales ahead of the 2026 U.S. midterms, analysts and fact-checkers are testing automated safeguards to determine whether technology can keep pace with synthetic content.",
+    "original_topic": "AI Misinformation & Election Integrity",
+    "search_query": "AI fact-checking tools deployed 2026 midterm elections",
+    "source_count": 12,
+    "tags": "AI fact-checking, 2026 elections, media technology, misinformation",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
