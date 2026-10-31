@@ -17549,5 +17549,18 @@
     "source_count": 12,
     "tags": "AI, mental health, clinical trials, Europe",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1341,
+    "topic": "AI-Powered Satellite Constellations Enable Real-Time Global Surveillance",
+    "file": "html/article-1341-ai-powered-satellite-constellations-enable-real-time-global-surveillance-20261031-080140.html",
+    "timestamp": "20261031-080140",
+    "full_timestamp": "2026-10-31T08:01:40-07:00",
+    "summary": "AI-driven satellite constellations are shifting global surveillance from periodic snapshots to continuous, automated monitoring, raising new questions about coverage, autonomy, and oversight.",
+    "original_topic": "AI in US Intelligence & Surveillance",
+    "search_query": "AI satellite constellations global surveillance 2026",
+    "source_count": 12,
+    "tags": "AI, satellites, surveillance, technology",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
