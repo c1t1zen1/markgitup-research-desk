@@ -17484,5 +17484,18 @@
     "source_count": 12,
     "tags": "Algorithmic Trading, LLMs, Market Risk, FinTech",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1336,
+    "topic": "Autonomous Code Agents Debugging Legacy Systems with Quantum-Inspired Heuristics",
+    "file": "html/article-1336-autonomous-code-agents-debugging-legacy-systems-with-quantum-inspired-he-20261031-031412.html",
+    "timestamp": "20261031-031412",
+    "full_timestamp": "2026-10-31T03:14:12-07:00",
+    "summary": "Quantum-inspired heuristics are enabling autonomous AI agents to tackle the daunting complexity of debugging entrenched legacy software.",
+    "original_topic": "Autonomous AI Code Agents",
+    "search_query": "AI code agents debugging legacy systems quantum heuristics 2026 latest",
+    "source_count": 12,
+    "tags": "AI Agents, Legacy Code, Quantum Computing, Software Engineering",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
