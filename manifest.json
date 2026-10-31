@@ -17627,5 +17627,18 @@
     "source_count": 12,
     "tags": "AI, elections, voter outreach, polling places",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1347,
+    "topic": "Apple Silicon LLMs Hit New Speed Records in Independent Benchmarks",
+    "file": "html/article-1347-apple-silicon-llms-hit-new-speed-records-in-independent-benchmarks-20261031-140153.html",
+    "timestamp": "20261031-140153",
+    "full_timestamp": "2026-10-31T14:01:53-07:00",
+    "summary": "Independent 2026 benchmarks show quantized LLMs on Apple silicon hitting record decode speeds, with memory bandwidth — not core count — emerging as the key performance driver.",
+    "original_topic": "Quantized LLMs Running on Mac Hardware",
+    "search_query": "Apple M-series LLM benchmark speed records 2026",
+    "source_count": 12,
+    "tags": "LLMs, Apple Silicon, benchmarks, performance",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
