@@ -17601,5 +17601,18 @@
     "source_count": 12,
     "tags": "AI trading, market manipulation, latency arbitrage, financial regulation",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1345,
+    "topic": "AI Drafts SEC Filings: New Standard for Corporate Disclosure",
+    "file": "html/article-1345-ai-drafts-sec-filings-new-standard-for-corporate-disclosure-20261031-120145.html",
+    "timestamp": "20261031-120145",
+    "full_timestamp": "2026-10-31T12:01:45-07:00",
+    "summary": "AI drafting tools are moving from analyzing SEC filings to generating them, promising faster 10-K and footnote production but introducing new risks of hallucination in audited disclosures.",
+    "original_topic": "Generative AI for Financial Reporting",
+    "search_query": "AI drafting SEC 10-K filings 2026",
+    "source_count": 12,
+    "tags": "AI, SEC filings, financial reporting, automation",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
