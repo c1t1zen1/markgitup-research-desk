@@ -17588,5 +17588,18 @@
     "source_count": 12,
     "tags": "AI, Apple Silicon, development tools, optimization",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1344,
+    "topic": "AI Trading Bots Exploit Microsecond Latency in New Market Manipulation Scheme",
+    "file": "html/article-1344-ai-trading-bots-exploit-microsecond-latency-in-new-market-manipulation-s-20261031-110127.html",
+    "timestamp": "20261031-110127",
+    "full_timestamp": "2026-10-31T11:01:27-07:00",
+    "summary": "AI-driven latency arbitrage bots are extracting tens of millions from prediction markets, exploiting speed advantages that outpace human traders and raising new questions about market fairness.",
+    "original_topic": "AI Stock Prediction & Market Analysis",
+    "search_query": "AI trading bots latency arbitrage market manipulation 2026",
+    "source_count": 12,
+    "tags": "AI trading, market manipulation, latency arbitrage, financial regulation",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
