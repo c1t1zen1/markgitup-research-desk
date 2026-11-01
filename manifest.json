@@ -17796,5 +17796,18 @@
     "source_count": 12,
     "tags": "AI, film-production, color-grading, post-production",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1360,
+    "topic": "FDA Clears First AI Therapist as Digital Mental Health Treatment",
+    "file": "html/article-1360-fda-clears-first-ai-therapist-as-digital-mental-health-treatment-20261101-030130.html",
+    "timestamp": "20261101-030130",
+    "full_timestamp": "2026-11-01T03:01:30-08:00",
+    "summary": "The FDA's first clearance of an AI therapy platform marks a regulatory milestone, establishing a pathway for digital mental health tools to transition from wellness apps to recognized medical treatments.",
+    "original_topic": "AI in Mental Health & Therapy",
+    "search_query": "FDA approval AI therapist digital mental health 2026",
+    "source_count": 12,
+    "tags": "AI, mental health, FDA, digital therapeutics",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
