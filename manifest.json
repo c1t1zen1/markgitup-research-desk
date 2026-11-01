@@ -17926,5 +17926,18 @@
     "source_count": 12,
     "tags": "macOS,AI,in-memory,privacy",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1370,
+    "topic": "AI Video Models Now Generate 3D-Printable Objects From Text Prompts",
+    "file": "html/article-1370-ai-video-models-now-generate-3d-printable-objects-from-text-prompts-20261101-130126.html",
+    "timestamp": "20261101-130126",
+    "full_timestamp": "2026-11-01T13:01:26-08:00",
+    "summary": "A new class of AI models is moving beyond generating video frames to producing navigable 3D environments and printable objects directly from text prompts.",
+    "original_topic": "AI Video Generation Models",
+    "search_query": "AI video model 3D printable object generation 2026",
+    "source_count": 12,
+    "tags": "AI video, 3D printing, generative AI, manufacturing",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
