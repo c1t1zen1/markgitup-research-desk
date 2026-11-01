@@ -17783,5 +17783,18 @@
     "source_count": 12,
     "tags": "AI, legislation, Europe, political ads",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1359,
+    "topic": "AI Color Grading Now Matches Director Vision From Script Alone",
+    "file": "html/article-1359-ai-color-grading-now-matches-director-vision-from-script-alone-20261101-020138.html",
+    "timestamp": "20261101-020138",
+    "full_timestamp": "2026-11-01T02:01:38-08:00",
+    "summary": "In 2026, AI color grading tools like Colourlab AI and DaVinci Resolve's Neural Engine automate look development, matching reference images and film aesthetics while keeping creative control with editors.",
+    "original_topic": "AI-Powered Video Editing & Post-Production",
+    "search_query": "AI color grading from script film production 2026",
+    "source_count": 12,
+    "tags": "AI, film-production, color-grading, post-production",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
