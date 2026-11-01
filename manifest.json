@@ -17874,5 +17874,18 @@
     "source_count": 12,
     "tags": "AI avatars, broadcast news, virtual presenters, live TV",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1366,
+    "topic": "AI-Generated Video Now Used in Courtroom Testimony",
+    "file": "html/article-1366-ai-generated-video-now-used-in-courtroom-testimony-20261101-090128.html",
+    "timestamp": "20261101-090128",
+    "full_timestamp": "2026-11-01T09:01:28-08:00",
+    "summary": "AI-generated video is moving from entertainment to the courtroom, raising urgent questions about authenticity, admissibility, and the reliability of synthetic evidence in legal proceedings.",
+    "original_topic": "AI-Generated Video for Filmmaking & Content Creation",
+    "search_query": "AI-generated video courtroom testimony 2026",
+    "source_count": 12,
+    "tags": "AI video, legal tech, courtroom, evidence",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
