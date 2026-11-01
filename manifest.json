@@ -17718,5 +17718,18 @@
     "source_count": 12,
     "tags": "smart home, utilities, data sharing, grid management",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1354,
+    "topic": "AI Predicts Terrorist Attacks Before They Happen, CIA Says",
+    "file": "html/article-1354-ai-predicts-terrorist-attacks-before-they-happen-cia-says-20261031-210132.html",
+    "timestamp": "20261031-210132",
+    "full_timestamp": "2026-10-31T21:01:32-07:00",
+    "summary": "The CIA is embedding AI into its analytic platforms to process spy reports and detect patterns, a shift from reactive to potentially predictive threat analysis.",
+    "original_topic": "AI in US Intelligence & Surveillance",
+    "search_query": "CIA AI predictive analytics terrorism 2026",
+    "source_count": 12,
+    "tags": "AI, intelligence, predictive analytics, terrorism",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
