@@ -17705,5 +17705,18 @@
     "source_count": 12,
     "tags": "AI, banking, fraud, deepfakes",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1353,
+    "topic": "Smart Home Devices Now Share Data With Municipal Utilities",
+    "file": "html/article-1353-smart-home-devices-now-share-data-with-municipal-utilities-20261031-200156.html",
+    "timestamp": "20261031-200156",
+    "full_timestamp": "2026-10-31T20:01:56-07:00",
+    "summary": "Consumer smart home devices are increasingly sharing operational data with municipal utilities, enabling grid management improvements while raising new privacy and governance questions.",
+    "original_topic": "AI-Powered Smart Homes & Automation",
+    "search_query": "smart home utility data sharing agreements 2026",
+    "source_count": 12,
+    "tags": "smart home, utilities, data sharing, grid management",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
