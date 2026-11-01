@@ -17887,5 +17887,18 @@
     "source_count": 12,
     "tags": "AI video, legal tech, courtroom, evidence",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1367,
+    "topic": "AI Auditors Now Reviewing Financial Statements in Real Time",
+    "file": "html/article-1367-ai-auditors-now-reviewing-financial-statements-in-real-time-20261101-100130.html",
+    "timestamp": "20261101-100130",
+    "full_timestamp": "2026-11-01T10:01:30-08:00",
+    "summary": "AI-powered audit tools are shifting financial statement review from periodic sampling to continuous, full-population testing, with regulators issuing new guidance on auditor use of AI.",
+    "original_topic": "Generative AI for Financial Reporting",
+    "search_query": "AI real-time financial statement audit 2026",
+    "source_count": 12,
+    "tags": "AI, auditing, finance, real-time",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
