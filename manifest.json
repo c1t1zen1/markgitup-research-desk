@@ -17679,5 +17679,18 @@
     "source_count": 12,
     "tags": "hedge funds, AI trading, model drift, 2026",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1351,
+    "topic": "macOS AI Apps Now Use Neural Engine for On-Device Inference",
+    "file": "html/article-1351-macos-ai-apps-now-use-neural-engine-for-on-device-inference-20261031-180207.html",
+    "timestamp": "20261031-180207",
+    "full_timestamp": "2026-10-31T18:02:07-07:00",
+    "summary": "Apple's Neural Engine is shifting local AI inference from general-purpose CPU and GPU cores to a dedicated, power-efficient accelerator built into every M-series chip.",
+    "original_topic": "Local AI Tools & Stacks for macOS",
+    "search_query": "macOS apps Neural Engine local AI inference 2026",
+    "source_count": 12,
+    "tags": "macOS, Neural Engine, local AI, Apple Silicon",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
