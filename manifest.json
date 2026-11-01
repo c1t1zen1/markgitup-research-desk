@@ -17861,5 +17861,18 @@
     "source_count": 12,
     "tags": "AI video, temporal consistency, generative models, 2026 tech",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1365,
+    "topic": "Virtual Presenters Now Appear Live on TV News Broadcasts",
+    "file": "html/article-1365-virtual-presenters-now-appear-live-on-tv-news-broadcasts-20261101-080139.html",
+    "timestamp": "20261101-080139",
+    "full_timestamp": "2026-11-01T08:01:39-08:00",
+    "summary": "AI-generated virtual anchors are moving from pre-recorded segments to live TV news broadcasts, with major networks like Fox 26 and CCTV already using the technology for real-time newscasts.",
+    "original_topic": "AI Video Avatars & Virtual Presenters",
+    "search_query": "AI virtual presenter live television news broadcast 2026",
+    "source_count": 12,
+    "tags": "AI avatars, broadcast news, virtual presenters, live TV",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
