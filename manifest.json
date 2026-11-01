@@ -17744,5 +17744,18 @@
     "source_count": 12,
     "tags": "Apple, hardware, privacy, AI",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1356,
+    "topic": "AI Code Agents Now Ship Production Fixes Without Human Approval",
+    "file": "html/article-1356-ai-code-agents-now-ship-production-fixes-without-human-approval-20261031-230125.html",
+    "timestamp": "20261031-230125",
+    "full_timestamp": "2026-10-31T23:01:25-07:00",
+    "summary": "AI coding agents are shifting from assisted tools to autonomous systems that plan, write, test, and deploy production code with minimal human oversight.",
+    "original_topic": "Autonomous AI Code Agents",
+    "search_query": "AI code agents deploy production fixes autonomously 2026",
+    "source_count": 12,
+    "tags": "AI, software engineering, autonomous systems, DevOps",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
