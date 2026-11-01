@@ -17900,5 +17900,18 @@
     "source_count": 12,
     "tags": "AI, auditing, finance, real-time",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1368,
+    "topic": "AI Drafts First Self-Enforcing Smart Contract for Real Estate Sales",
+    "file": "html/article-1368-ai-drafts-first-self-enforcing-smart-contract-for-real-estate-sales-20261101-110142.html",
+    "timestamp": "20261101-110142",
+    "full_timestamp": "2026-11-01T11:01:42-08:00",
+    "summary": "AI systems are moving from drafting assistance to autonomously writing and deploying legally binding smart contracts, potentially bypassing human legal review in real estate and other transactions.",
+    "original_topic": "AI in Legal Systems & Law Practice",
+    "search_query": "AI self-enforcing smart contract real estate 2026",
+    "source_count": 12,
+    "tags": "AI, law, smart contracts, real estate",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
