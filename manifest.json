@@ -17939,5 +17939,18 @@
     "source_count": 12,
     "tags": "AI video, 3D printing, generative AI, manufacturing",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1371,
+    "topic": "Apple Ships Local AI Voice Assistant That Never Phones Home",
+    "file": "html/article-1371-apple-ships-local-ai-voice-assistant-that-never-phones-home-20261101-140139.html",
+    "timestamp": "20261101-140139",
+    "full_timestamp": "2026-11-01T14:01:39-08:00",
+    "summary": "Apple's rebuilt Siri AI runs on-device with personal context and onscreen awareness, promising a voice assistant that understands your Mac without phoning home.",
+    "original_topic": "Local AI Tools & Stacks for macOS",
+    "search_query": "Apple local AI voice assistant no cloud 2026",
+    "source_count": 12,
+    "tags": "Apple, local AI, voice assistant, privacy",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
