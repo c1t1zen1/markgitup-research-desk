@@ -17666,5 +17666,18 @@
     "source_count": 12,
     "tags": "AI fact-checking, 2026 elections, media technology, misinformation",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1350,
+    "topic": "Hedge Funds Face AI Model Drift Crisis as Market Regimes Shift",
+    "file": "html/article-1350-hedge-funds-face-ai-model-drift-crisis-as-market-regimes-shift-20261031-170151.html",
+    "timestamp": "20261031-170151",
+    "full_timestamp": "2026-10-31T17:01:51-07:00",
+    "summary": "As market regimes shift, hedge funds' AI trading models face growing drift, prompting new audits, benchmarks, and performance metrics to maintain edge and manage non-linear risk.",
+    "original_topic": "LLMs in Hedge Funds & Trading",
+    "search_query": "hedge fund AI model drift 2026",
+    "source_count": 12,
+    "tags": "hedge funds, AI trading, model drift, 2026",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
