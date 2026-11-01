@@ -17731,5 +17731,18 @@
     "source_count": 12,
     "tags": "AI, intelligence, predictive analytics, terrorism",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1355,
+    "topic": "Apple's New Privacy Chip Shields AI Inference From OS",
+    "file": "html/article-1355-apple-s-new-privacy-chip-shields-ai-inference-from-os-20261031-220137.html",
+    "timestamp": "20261031-220137",
+    "full_timestamp": "2026-10-31T22:01:37-07:00",
+    "summary": "Apple's M7 chip reportedly adds a dedicated secure enclave for AI inference, shielding local LLMs from the OS and apps—a hardware privacy leap beyond software sandboxing.",
+    "original_topic": "Privacy-First Local AI on Mac",
+    "search_query": "Apple M7 privacy chip AI inference isolation 2026 latest",
+    "source_count": 12,
+    "tags": "Apple, hardware, privacy, AI",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
