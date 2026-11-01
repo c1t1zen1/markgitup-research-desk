@@ -17835,5 +17835,18 @@
     "source_count": 12,
     "tags": "AI, crypto, trading bots, market infrastructure",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1363,
+    "topic": "AI Judges Now Overturning Human Rulings in Routine Civil Cases",
+    "file": "html/article-1363-ai-judges-now-overturning-human-rulings-in-routine-civil-cases-20261101-060151.html",
+    "timestamp": "20261101-060151",
+    "full_timestamp": "2026-11-01T06:01:51-08:00",
+    "summary": "Federal appeals courts are now actively overturning district judge rulings that relied on AI-generated errors, marking a shift from AI as a drafting tool to a source of judicial accountability.",
+    "original_topic": "AI in Legal Systems & Law Practice",
+    "search_query": "AI judges overturning human rulings civil cases 2026",
+    "source_count": 12,
+    "tags": "AI, legal systems, judicial automation, civil law",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
