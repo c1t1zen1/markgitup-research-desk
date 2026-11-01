@@ -17913,5 +17913,18 @@
     "source_count": 12,
     "tags": "AI, law, smart contracts, real estate",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1369,
+    "topic": "Macs Now Run AI Models Entirely in Memory Without SSD",
+    "file": "html/article-1369-macs-now-run-ai-models-entirely-in-memory-without-ssd-20261101-120150.html",
+    "timestamp": "20261101-120150",
+    "full_timestamp": "2026-11-01T12:01:50-08:00",
+    "summary": "Apple Silicon's unified memory is enabling AI models to run entirely in RAM, eliminating SSD bottlenecks for faster, more private local inference.",
+    "original_topic": "Privacy-First Local AI on Mac",
+    "search_query": "macOS AI models fully in-memory execution 2026",
+    "source_count": 12,
+    "tags": "macOS,AI,in-memory,privacy",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
