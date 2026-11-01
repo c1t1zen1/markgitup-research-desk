@@ -17692,5 +17692,18 @@
     "source_count": 12,
     "tags": "macOS, Neural Engine, local AI, Apple Silicon",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1352,
+    "topic": "AI Fraud Detection Now Targets Deepfake Voice Scams in Real Time",
+    "file": "html/article-1352-ai-fraud-detection-now-targets-deepfake-voice-scams-in-real-time-20261031-190151.html",
+    "timestamp": "20261031-190151",
+    "full_timestamp": "2026-10-31T19:01:51-07:00",
+    "summary": "Banks are deploying real-time AI voice detection to counter deepfake audio fraud, a fast-growing threat that has already defrauded businesses and is projected to expand in 2026.",
+    "original_topic": "AI Fraud Detection in Banking & Finance",
+    "search_query": "AI fraud detection deepfake voice banking 2026",
+    "source_count": 12,
+    "tags": "AI, banking, fraud, deepfakes",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
