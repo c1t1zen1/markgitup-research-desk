@@ -17770,5 +17770,18 @@
     "source_count": 12,
     "tags": "AI video, filmmaking, indie film, production workflow",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1358,
+    "topic": "EU Mandates AI Disclosure Labels on All Political Ads Starting 2027",
+    "file": "html/article-1358-eu-mandates-ai-disclosure-labels-on-all-political-ads-starting-2027-20261101-010127.html",
+    "timestamp": "20261101-010127",
+    "full_timestamp": "2026-11-01T01:01:27-07:00",
+    "summary": "Starting August 2, 2026, EU law will require clear labels on AI-generated or altered content, including political ads, to improve transparency and trust.",
+    "original_topic": "Deepfake Legislation & Synthetic Media Laws",
+    "search_query": "EU AI disclosure labels political ads 2027 mandate 2026 latest",
+    "source_count": 12,
+    "tags": "AI, legislation, Europe, political ads",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
