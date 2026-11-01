@@ -17848,5 +17848,18 @@
     "source_count": 12,
     "tags": "AI, legal systems, judicial automation, civil law",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1364,
+    "topic": "AI Video Models Now Generate Realistic 10-Minute Scenes Without Drift",
+    "file": "html/article-1364-ai-video-models-now-generate-realistic-10-minute-scenes-without-drift-20261101-070128.html",
+    "timestamp": "20261101-070128",
+    "full_timestamp": "2026-11-01T07:01:28-08:00",
+    "summary": "AI video generation is advancing toward coherent long-form content, but most '10-minute' outputs still rely on stitching shorter clips together rather than true continuous generation.",
+    "original_topic": "AI Video Generation Models",
+    "search_query": "AI video generation 10 minute coherent scenes 2026",
+    "source_count": 12,
+    "tags": "AI video, temporal consistency, generative models, 2026 tech",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
