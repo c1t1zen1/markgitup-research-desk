@@ -17757,5 +17757,18 @@
     "source_count": 12,
     "tags": "AI, software engineering, autonomous systems, DevOps",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1357,
+    "topic": "AI Video Tools Replace Location Scouting for Indie Filmmakers",
+    "file": "html/article-1357-ai-video-tools-replace-location-scouting-for-indie-filmmakers-20261101-000145.html",
+    "timestamp": "20261101-000145",
+    "full_timestamp": "2026-11-01T00:01:45-07:00",
+    "summary": "Generative video tools are letting indie filmmakers bypass costly location scouting, permits, and travel by creating virtual environments that match any script requirement.",
+    "original_topic": "AI-Generated Video for Filmmaking & Content Creation",
+    "search_query": "AI video generation replacing location scouting indie films 2026",
+    "source_count": 12,
+    "tags": "AI video, filmmaking, indie film, production workflow",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
