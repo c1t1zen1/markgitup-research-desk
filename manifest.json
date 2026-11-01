@@ -17809,5 +17809,18 @@
     "source_count": 12,
     "tags": "AI, mental health, FDA, digital therapeutics",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1361,
+    "topic": "AI-Generated Short Videos Now Pass Human Detection Tests",
+    "file": "html/article-1361-ai-generated-short-videos-now-pass-human-detection-tests-20261101-040135.html",
+    "timestamp": "20261101-040135",
+    "full_timestamp": "2026-11-01T04:01:35-08:00",
+    "summary": "Generative video models are approaching indistinguishability from human-made content, prompting a shift from visual inspection to behavioral and forensic detection methods.",
+    "original_topic": "AI Short Form Video & Social Media",
+    "search_query": "AI generated short videos pass human detection tests 2026",
+    "source_count": 12,
+    "tags": "AI video, generative models, benchmarks, social media",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
