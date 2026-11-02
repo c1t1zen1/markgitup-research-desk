@@ -17965,5 +17965,18 @@
     "source_count": 12,
     "tags": "AI, finance, earnings, prediction",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1373,
+    "topic": "AI Sound Designers Now Create Entire Film Scores From Storyboards",
+    "file": "html/article-1373-ai-sound-designers-now-create-entire-film-scores-from-storyboards-20261101-160126.html",
+    "timestamp": "20261101-160126",
+    "full_timestamp": "2026-11-01T16:01:26-08:00",
+    "summary": "AI tools now generate original film scores and sound design directly from storyboards, shifting music composition from a separate post-production step to an integrated, automated workflow.",
+    "original_topic": "AI-Powered Video Editing & Post-Production",
+    "search_query": "AI film score generation from storyboards 2026",
+    "source_count": 12,
+    "tags": "AI, film production, sound design, music",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
