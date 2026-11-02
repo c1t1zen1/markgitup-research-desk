@@ -18186,5 +18186,18 @@
     "source_count": 12,
     "tags": "AI, military, defense, real-time analytics",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1390,
+    "topic": "AI-Generated Video Ads Now Outperform Human-Created Ones",
+    "file": "html/article-1390-ai-generated-video-ads-now-outperform-human-created-ones-20261102-090128.html",
+    "timestamp": "20261102-090128",
+    "full_timestamp": "2026-11-02T09:01:28-08:00",
+    "summary": "AI-generated video ads are now outperforming human-created ones in key metrics, marking a measurable shift in advertising effectiveness for brands and agencies.",
+    "original_topic": "AI Short Form Video & Social Media",
+    "search_query": "AI generated video ads outperform human 2026",
+    "source_count": 12,
+    "tags": "AI, advertising, video, performance",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
