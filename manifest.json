@@ -18147,5 +18147,18 @@
     "source_count": 12,
     "tags": "AI, mental health, biometrics, therapy",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1387,
+    "topic": "AI-Powered Robocalls Now Target Swing Voters in Real-Time",
+    "file": "html/article-1387-ai-powered-robocalls-now-target-swing-voters-in-real-time-20261102-060135.html",
+    "timestamp": "20261102-060135",
+    "full_timestamp": "2026-11-02T06:01:35-08:00",
+    "summary": "AI robocalls that converse in real time are emerging in the 2026 midterms, with campaigns deploying virtual staffers to target swing voters and adapt messaging on the fly.",
+    "original_topic": "AI in US Elections & Campaigns",
+    "search_query": "AI robocall campaigns swing voters 2026 elections",
+    "source_count": 12,
+    "tags": "AI, elections, robocalls, campaigning",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
