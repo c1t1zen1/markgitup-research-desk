@@ -18121,5 +18121,18 @@
     "source_count": 11,
     "tags": "AI coding, software testing, autonomous agents, developer tools",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1385,
+    "topic": "Apple's Neural Engine Now Runs 1.5B Parameter Models at 120 FPS",
+    "file": "html/article-1385-apple-s-neural-engine-now-runs-1-5b-parameter-models-at-120-fps-20261102-040140.html",
+    "timestamp": "20261102-040140",
+    "full_timestamp": "2026-11-02T04:01:40-08:00",
+    "summary": "Apple's Neural Engine now runs 1.5B parameter quantized models at 120 FPS on consumer Macs, marking a significant leap in local AI inference performance.",
+    "original_topic": "Quantized LLMs Running on Mac Hardware",
+    "search_query": "Apple Neural Engine 1.5B parameter model performance benchmark 2026",
+    "source_count": 12,
+    "tags": "Apple Silicon, quantized LLMs, Neural Engine, performance benchmarks",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
