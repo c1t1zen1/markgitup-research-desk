@@ -18069,5 +18069,18 @@
     "source_count": 12,
     "tags": "LLMs, trading, earnings calls, algorithmic trading",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1381,
+    "topic": "AI Home Hubs Now Predict Appliance Failures Days Before Breakdown",
+    "file": "html/article-1381-ai-home-hubs-now-predict-appliance-failures-days-before-breakdown-20261102-000117.html",
+    "timestamp": "20261102-000117",
+    "full_timestamp": "2026-11-02T00:01:17-08:00",
+    "summary": "AI-driven predictive maintenance is shifting home appliance care from reactive repairs to proactive alerts, with early adopters like Samsung already rolling out failure-prediction features.",
+    "original_topic": "AI-Powered Smart Homes & Automation",
+    "search_query": "AI home hub predict appliance failure 2026",
+    "source_count": 12,
+    "tags": "smart homes,AI,predictive maintenance,appliances",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
