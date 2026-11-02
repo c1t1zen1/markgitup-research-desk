@@ -17991,5 +17991,18 @@
     "source_count": 12,
     "tags": "Apple Silicon, AI hardware, M5 chip, benchmarks",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1375,
+    "topic": "Deepfake Laws Now Require Real-Time Disclosure in Live Video Calls",
+    "file": "html/article-1375-deepfake-laws-now-require-real-time-disclosure-in-live-video-calls-20261101-180130.html",
+    "timestamp": "20261101-180130",
+    "full_timestamp": "2026-11-01T18:01:30-08:00",
+    "summary": "New U.S. and EU deepfake laws now mandate real-time disclosure when synthetic media is used in live video calls, marking a shift from static content to dynamic communication.",
+    "original_topic": "Deepfake Legislation & Synthetic Media Laws",
+    "search_query": "deepfake legislation real-time disclosure live video calls 2026",
+    "source_count": 12,
+    "tags": "deepfake,legislation,real-time disclosure,video calls",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
