@@ -18173,5 +18173,18 @@
     "source_count": 12,
     "tags": "AI trading, DeFi, slippage, DEX",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1389,
+    "topic": "Pentagon Tests AI That Predicts Adversary Moves in Real-Time",
+    "file": "html/article-1389-pentagon-tests-ai-that-predicts-adversary-moves-in-real-time-20261102-080144.html",
+    "timestamp": "20261102-080144",
+    "full_timestamp": "2026-11-02T08:01:44-08:00",
+    "summary": "The U.S. Department of War is accelerating AI integration for battlefield decision-making, with new systems designed to deliver real-time tactical options to commanders amid ongoing oversight challenges.",
+    "original_topic": "AI in US Intelligence & Surveillance",
+    "search_query": "Pentagon AI predictive battlefield decision support system 2026",
+    "source_count": 12,
+    "tags": "AI, military, defense, real-time analytics",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
