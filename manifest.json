@@ -18251,5 +18251,18 @@
     "source_count": 12,
     "tags": "AI Policy, Congress, Budgeting, Governance",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1395,
+    "topic": "Deepfake Voice Cloning Challenges Authenticity in Live Political Debates",
+    "file": "html/article-1395-deepfake-voice-cloning-challenges-authenticity-in-live-political-debates-20261102-141157.html",
+    "timestamp": "20261102-141157",
+    "full_timestamp": "2026-11-02T14:11:57-08:00",
+    "summary": "Synthetic voice cloning presents an immediate, high-stakes threat to live political debates, challenging the very notion of authentic political discourse.",
+    "original_topic": "AI Misinformation & Election Integrity",
+    "search_query": "real-time deepfake voice cloning political campaign 2026",
+    "source_count": 12,
+    "tags": "Deepfakes, Voice Cloning, Elections, Authenticity",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
