@@ -18225,5 +18225,18 @@
     "source_count": 12,
     "tags": "Multimodal AI, Geospatial Data, Market Prediction, Finance",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1393,
+    "topic": "Decentralized AI Agents Compete in Real-Time DeFi Arbitrage Strategies",
+    "file": "html/article-1393-decentralized-ai-agents-compete-in-real-time-defi-arbitrage-strategies-20261102-120400.html",
+    "timestamp": "20261102-120400",
+    "full_timestamp": "2026-11-02T12:04:00-08:00",
+    "summary": "Autonomous DeFi agents can scan on-chain markets and execute arbitrage, yet the supplied evidence shows an emerging capability—not verified head-to-head performance, profitability, or decentralization.",
+    "original_topic": "AI Crypto Trading Bots & Performance",
+    "search_query": "AI agents decentralized finance arbitrage 2026",
+    "source_count": 12,
+    "tags": "DeFi, AI Agents, Arbitrage, Crypto",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
