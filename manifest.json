@@ -18108,5 +18108,18 @@
     "source_count": 12,
     "tags": "AI, fraud detection, insider trading, finance",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1384,
+    "topic": "AI Code Agents Now Write and Run Their Own Unit Tests",
+    "file": "html/article-1384-ai-code-agents-now-write-and-run-their-own-unit-tests-20261102-030128.html",
+    "timestamp": "20261102-030128",
+    "full_timestamp": "2026-11-02T03:01:28-08:00",
+    "summary": "AI agents are shifting from writing code to autonomously designing, running, and iterating on unit tests, potentially closing the quality loop before human review.",
+    "original_topic": "Autonomous AI Code Agents",
+    "search_query": "AI code agents generate run unit tests autonomously 2026",
+    "source_count": 11,
+    "tags": "AI coding, software testing, autonomous agents, developer tools",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
