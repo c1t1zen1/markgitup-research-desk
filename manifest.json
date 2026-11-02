@@ -18082,5 +18082,18 @@
     "source_count": 12,
     "tags": "smart homes,AI,predictive maintenance,appliances",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1382,
+    "topic": "Regulating Autonomous AI Lobbying: New Disclosure Rules for Automated Policy Influence",
+    "file": "html/article-1382-regulating-autonomous-ai-lobbying-new-disclosure-rules-for-automated-pol-20261102-010351.html",
+    "timestamp": "20261102-010351",
+    "full_timestamp": "2026-11-02T01:03:51-08:00",
+    "summary": "Federal lobbying disclosure rules already require quarterly reporting, but the supplied evidence does not establish whether automated policy advocacy has its own transparency regime.",
+    "original_topic": "AI Lobbying & Policy in Washington",
+    "search_query": "AI automated lobbying disclosure regulations 2026",
+    "source_count": 12,
+    "tags": "AI Governance, Lobbying, Regulation, Policy",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
