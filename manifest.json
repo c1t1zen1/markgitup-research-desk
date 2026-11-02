@@ -18160,5 +18160,18 @@
     "source_count": 12,
     "tags": "AI, elections, robocalls, campaigning",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1388,
+    "topic": "AI Bots Exploit On-Chain Slippage in Real-Time DEX Swaps",
+    "file": "html/article-1388-ai-bots-exploit-on-chain-slippage-in-real-time-dex-swaps-20261102-070138.html",
+    "timestamp": "20261102-070138",
+    "full_timestamp": "2026-11-02T07:01:38-08:00",
+    "summary": "AI-driven MEV bots are exploiting slippage tolerance in DEX swaps, with retail traders losing billions annually to poor routing and bot activity.",
+    "original_topic": "AI Crypto Trading Bots & Performance",
+    "search_query": "AI trading bots slippage exploitation DEX swaps 2026",
+    "source_count": 12,
+    "tags": "AI trading, DeFi, slippage, DEX",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
