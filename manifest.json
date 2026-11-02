@@ -18004,5 +18004,18 @@
     "source_count": 12,
     "tags": "deepfake,legislation,real-time disclosure,video calls",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1376,
+    "topic": "AI Turns Text Prompts Into Viral TikTok Dances",
+    "file": "html/article-1376-ai-turns-text-prompts-into-viral-tiktok-dances-20261101-190136.html",
+    "timestamp": "20261101-190136",
+    "full_timestamp": "2026-11-01T19:01:36-08:00",
+    "summary": "AI tools now turn a single photo into a viral TikTok dance video. The trend is spreading fast, but the motion quality and originality remain uneven across platforms.",
+    "original_topic": "AI Short Form Video & Social Media",
+    "search_query": "AI generated TikTok dance videos viral 2026",
+    "source_count": 12,
+    "tags": "AI, TikTok, dance, viral",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
