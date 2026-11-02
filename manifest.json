@@ -18134,5 +18134,18 @@
     "source_count": 12,
     "tags": "Apple Silicon, quantized LLMs, Neural Engine, performance benchmarks",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1386,
+    "topic": "Therapists Now Use AI to Decode Patient Micro-Expressions",
+    "file": "html/article-1386-therapists-now-use-ai-to-decode-patient-micro-expressions-20261102-050131.html",
+    "timestamp": "20261102-050131",
+    "full_timestamp": "2026-11-02T05:01:31-08:00",
+    "summary": "AI tools now analyze facial micro-expressions in real time to help therapists detect subtle emotional shifts, moving beyond text-based mental health apps.",
+    "original_topic": "AI in Mental Health & Therapy",
+    "search_query": "AI micro-expression analysis therapy sessions 2026",
+    "source_count": 12,
+    "tags": "AI, mental health, biometrics, therapy",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
