@@ -17978,5 +17978,18 @@
     "source_count": 12,
     "tags": "AI, film production, sound design, music",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1374,
+    "topic": "Apple M5 AI Chips Now Outperform Dedicated GPUs",
+    "file": "html/article-1374-apple-m5-ai-chips-now-outperform-dedicated-gpus-20261101-170133.html",
+    "timestamp": "20261101-170133",
+    "full_timestamp": "2026-11-01T17:01:33-08:00",
+    "summary": "New benchmarks suggest Apple's M5 chips are closing the gap with dedicated GPUs for AI workloads, potentially reshaping development hardware choices for local LLM inference.",
+    "original_topic": "AI Development Tools for Apple Silicon",
+    "search_query": "Apple M5 AI inference vs NVIDIA GPU benchmarks 2026",
+    "source_count": 12,
+    "tags": "Apple Silicon, AI hardware, M5 chip, benchmarks",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
