@@ -18199,5 +18199,18 @@
     "source_count": 12,
     "tags": "AI, advertising, video, performance",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1391,
+    "topic": "FDA Approves First AI-Driven Digital Therapeutic for Chronic Insomnia",
+    "file": "html/article-1391-fda-approves-first-ai-driven-digital-therapeutic-for-chronic-insomnia-20261102-100148.html",
+    "timestamp": "20261102-100148",
+    "full_timestamp": "2026-11-02T10:01:48-08:00",
+    "summary": "The FDA's approval of the first AI-driven digital therapeutic for chronic insomnia marks a regulatory turning point, validating software as a standalone treatment rather than a supplementary tool.",
+    "original_topic": "AI in Mental Health & Therapy",
+    "search_query": "FDA approves AI digital therapeutic chronic insomnia 2026",
+    "source_count": 12,
+    "tags": "AI health, FDA, digital therapeutics, sleep medicine",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
