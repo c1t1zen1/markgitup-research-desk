@@ -18056,5 +18056,18 @@
     "source_count": 12,
     "tags": "AI avatars, telemedicine, healthcare, video",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1380,
+    "topic": "LLMs Now Execute Trades Directly From Earnings Call Transcripts",
+    "file": "html/article-1380-llms-now-execute-trades-directly-from-earnings-call-transcripts-20261101-230129.html",
+    "timestamp": "20261101-230129",
+    "full_timestamp": "2026-11-01T23:01:29-08:00",
+    "summary": "LLMs are moving from analyzing earnings call transcripts to directly executing trades, marking a shift from passive sentiment analysis to autonomous, real-time decision-making in algorithmic trading.",
+    "original_topic": "LLMs in Hedge Funds & Trading",
+    "search_query": "LLM autonomous trading earnings call transcripts 2026",
+    "source_count": 12,
+    "tags": "LLMs, trading, earnings calls, algorithmic trading",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
