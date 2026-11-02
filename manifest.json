@@ -18212,5 +18212,18 @@
     "source_count": 12,
     "tags": "AI health, FDA, digital therapeutics, sleep medicine",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1392,
+    "topic": "Generative AI Models Forecast Sector-Specific Volatility Using Satellite Imagery Data",
+    "file": "html/article-1392-generative-ai-models-forecast-sector-specific-volatility-using-satellite-20261102-111345.html",
+    "timestamp": "20261102-111345",
+    "full_timestamp": "2026-11-02T11:13:45-08:00",
+    "summary": "Multimodal AI leverages satellite imagery to forecast sector volatility, transforming geospatial data into critical market intelligence.",
+    "original_topic": "AI Stock Prediction & Market Analysis",
+    "search_query": "AI stock prediction satellite imagery market analysis 2026 latest",
+    "source_count": 12,
+    "tags": "Multimodal AI, Geospatial Data, Market Prediction, Finance",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
