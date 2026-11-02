@@ -18030,5 +18030,18 @@
     "source_count": 12,
     "tags": "Apple Silicon, LLM Inference, Local AI, M Series",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1378,
+    "topic": "AI-Generated Voter Guides Flood Mailboxes Ahead of Midterms",
+    "file": "html/article-1378-ai-generated-voter-guides-flood-mailboxes-ahead-of-midterms-20261101-210152.html",
+    "timestamp": "20261101-210152",
+    "full_timestamp": "2026-11-01T21:01:52-08:00",
+    "summary": "AI chatbots are increasingly used as voter guides, but tests reveal frequent errors including invented races and misidentified candidates, raising concerns about election integrity.",
+    "original_topic": "AI Misinformation & Election Integrity",
+    "search_query": "AI generated voter guides mail midterms 2026",
+    "source_count": 12,
+    "tags": "AI, elections, misinformation, direct mail",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
