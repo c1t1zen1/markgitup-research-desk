@@ -18043,5 +18043,18 @@
     "source_count": 12,
     "tags": "AI, elections, misinformation, direct mail",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1379,
+    "topic": "AI Video Avatars Now Used for Real-Time Medical Consultations",
+    "file": "html/article-1379-ai-video-avatars-now-used-for-real-time-medical-consultations-20261101-220147.html",
+    "timestamp": "20261101-220147",
+    "full_timestamp": "2026-11-01T22:01:47-08:00",
+    "summary": "AI video avatars are moving from marketing into live telehealth consultations, with platforms emphasizing HIPAA compliance and multilingual symptom assessment.",
+    "original_topic": "AI Video Avatars & Virtual Presenters",
+    "search_query": "AI video avatars telemedicine consultations 2026",
+    "source_count": 12,
+    "tags": "AI avatars, telemedicine, healthcare, video",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
