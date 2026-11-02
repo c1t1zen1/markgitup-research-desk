@@ -18017,5 +18017,18 @@
     "source_count": 12,
     "tags": "AI, TikTok, dance, viral",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1377,
+    "topic": "Apple M Series Now Runs 70B LLMs at Interactive Speeds",
+    "file": "html/article-1377-apple-m-series-now-runs-70b-llms-at-interactive-speeds-20261101-200136.html",
+    "timestamp": "20261101-200136",
+    "full_timestamp": "2026-11-01T20:01:36-08:00",
+    "summary": "Apple's M5 chip with MLX framework enables local 70B LLM inference at interactive speeds, marking a major milestone for on-device AI performance.",
+    "original_topic": "M Series Apple Silicon LLM Inference",
+    "search_query": "Apple M4 M5 70 billion parameter LLM inference speed 2026",
+    "source_count": 12,
+    "tags": "Apple Silicon, LLM Inference, Local AI, M Series",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
