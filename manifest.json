@@ -18264,5 +18264,18 @@
     "source_count": 12,
     "tags": "Deepfakes, Voice Cloning, Elections, Authenticity",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1396,
+    "topic": "AI Models Combat Synthetic Identity Fraud in Digital Lending Ecosystems",
+    "file": "html/article-1396-ai-models-combat-synthetic-identity-fraud-in-digital-lending-ecosystems-20261102-150552.html",
+    "timestamp": "20261102-150552",
+    "full_timestamp": "2026-11-02T15:05:52-08:00",
+    "summary": "Digital lenders are turning AI toward synthetic identities assembled from real and fabricated data, combining onboarding signals with adaptive risk models while balancing fraud controls, speed, and responsible decisions.",
+    "original_topic": "AI Fraud Detection in Banking & Finance",
+    "search_query": "AI synthetic identity fraud detection digital lending KYC 2026 latest",
+    "source_count": 12,
+    "tags": "Synthetic Identity, Digital Lending, KYC, AI Fraud",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
