@@ -18238,5 +18238,18 @@
     "source_count": 12,
     "tags": "DeFi, AI Agents, Arbitrage, Crypto",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1394,
+    "topic": "AI Policy Bots Navigate Congressional Budget Negotiations with Hyper-Specific Data",
+    "file": "html/article-1394-ai-policy-bots-navigate-congressional-budget-negotiations-with-hyper-spe-20261102-130350.html",
+    "timestamp": "20261102-130350",
+    "full_timestamp": "2026-11-02T13:03:50-08:00",
+    "summary": "Available evidence shows a growing AI-policy workload, but offers little proof that AI bots already shape congressional budget negotiations; the crucial story is measurement, provenance, and accountability.",
+    "original_topic": "AI Lobbying & Policy in Washington",
+    "search_query": "AI legislative analysis Congressional budget 2026",
+    "source_count": 12,
+    "tags": "AI Policy, Congress, Budgeting, Governance",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
