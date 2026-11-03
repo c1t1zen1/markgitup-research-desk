@@ -18368,5 +18368,18 @@
     "source_count": 12,
     "tags": "Medical AI, Edge Computing, Apple Silicon, Diagnostics",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1404,
+    "topic": "LLMs Interfacing with Proprietary Trading APIs: New Risks in Algorithmic Drift",
+    "file": "html/article-1404-llms-interfacing-with-proprietary-trading-apis-new-risks-in-algorithmic-20261102-230405.html",
+    "timestamp": "20261102-230405",
+    "full_timestamp": "2026-11-02T23:04:05-08:00",
+    "summary": "Connecting LLMs to proprietary trading APIs may add a new operational risk: behavior can shift through prompts, tools, data, and agent orchestration even when the underlying strategy is unchanged.",
+    "original_topic": "LLMs in Hedge Funds & Trading",
+    "search_query": "LLM integration proprietary trading APIs risk 2026 latest",
+    "source_count": 12,
+    "tags": "LLM, Algorithmic Trading, Risk Management, FinTech",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
