@@ -18472,5 +18472,18 @@
     "source_count": 12,
     "tags": "Voter Targeting, Sentiment Analysis, Micro-targeting, Political AI",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1412,
+    "topic": "Autonomous Agents Debugging Legacy Codebases in Enterprise Microservices Architectures",
+    "file": "html/article-1412-autonomous-agents-debugging-legacy-codebases-in-enterprise-microservices-20261103-071423.html",
+    "timestamp": "20261103-071423",
+    "full_timestamp": "2026-11-03T07:14:23-08:00",
+    "summary": "Autonomous AI agents are tackling enterprise legacy codebases, yet their integration into complex microservices presents significant, often systemic, challenges.",
+    "original_topic": "Autonomous AI Code Agents",
+    "search_query": "AI agents debugging legacy enterprise codebases 2026",
+    "source_count": 12,
+    "tags": "Software Engineering, AI Agents, Legacy Code, DevOps",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
