@@ -18277,5 +18277,18 @@
     "source_count": 12,
     "tags": "Synthetic Identity, Digital Lending, KYC, AI Fraud",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1397,
+    "topic": "Quantized LLMs Optimize Edge Inference on M-Series Silicon for Mobile Deployment",
+    "file": "html/article-1397-quantized-llms-optimize-edge-inference-on-m-series-silicon-for-mobile-de-20261102-160409.html",
+    "timestamp": "20261102-160409",
+    "full_timestamp": "2026-11-02T16:04:09-08:00",
+    "summary": "Quantization is presented as a route to more efficient on-device inference, but the evidence does not establish universal speed, battery, or quality gains on M-Series hardware.",
+    "original_topic": "Quantized LLMs Running on Mac Hardware",
+    "search_query": "quantized LLM deployment Apple Silicon mobile edge 2026 latest",
+    "source_count": 12,
+    "tags": "Quantization, Edge AI, Apple Silicon, LLMs",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
