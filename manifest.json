@@ -18355,5 +18355,18 @@
     "source_count": 12,
     "tags": "AI Avatars, Corporate Training, Multilingual AI, Enterprise AI",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1403,
+    "topic": "M-Series LLMs Powering Real-Time Medical Image Segmentation on Personal Devices",
+    "file": "html/article-1403-m-series-llms-powering-real-time-medical-image-segmentation-on-personal-20261102-220346.html",
+    "timestamp": "20261102-220346",
+    "full_timestamp": "2026-11-02T22:03:46-08:00",
+    "summary": "Apple Silicon’s unified memory and multimodal inference work point toward private, low-latency medical-image assistance, but supplied evidence does not establish clinical accuracy, segmentation performance, or safety.",
+    "original_topic": "M Series Apple Silicon LLM Inference",
+    "search_query": "Apple Silicon local LLM medical image analysis 2026 latest",
+    "source_count": 12,
+    "tags": "Medical AI, Edge Computing, Apple Silicon, Diagnostics",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
