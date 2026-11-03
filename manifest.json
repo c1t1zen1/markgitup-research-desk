@@ -18329,5 +18329,18 @@
     "source_count": 12,
     "tags": "macOS, Local AI, System Integration, Privacy",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1401,
+    "topic": "Real-Time On-Device Vision Models Enhance AR Experiences on Apple Silicon",
+    "file": "html/article-1401-real-time-on-device-vision-models-enhance-ar-experiences-on-apple-silico-20261102-200524.html",
+    "timestamp": "20261102-200524",
+    "full_timestamp": "2026-11-02T20:05:24-08:00",
+    "summary": "Apple’s materials connect on-device computer vision research with newer AI-capable silicon, but the supplied evidence does not yet verify specific real-time AR deployments or performance.",
+    "original_topic": "AI Development Tools for Apple Silicon",
+    "search_query": "On-device computer vision Apple Silicon AR 2026",
+    "source_count": 12,
+    "tags": "AR, Vision AI, Apple Silicon, Edge Computing",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
