@@ -18537,5 +18537,18 @@
     "source_count": 12,
     "tags": "AI Governance, Policy Testing, Regulation, Washington",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1417,
+    "topic": "Generative AI for Financial Reporting: Synthetic Data for Stress Testing Regulatory Compliance",
+    "file": "html/article-1417-generative-ai-for-financial-reporting-synthetic-data-for-stress-testing-20261103-120452.html",
+    "timestamp": "20261103-120452",
+    "full_timestamp": "2026-11-03T12:04:52-08:00",
+    "summary": "Synthetic financial datasets could widen compliance stress tests beyond historical records, but 2026 evidence supports heightened oversight more clearly than confirmed authorization or statistical validity.",
+    "original_topic": "Generative AI for Financial Reporting",
+    "search_query": "Generative AI synthetic data financial regulatory stress testing 2026 latest",
+    "source_count": 12,
+    "tags": "Generative AI, Financial Compliance, Synthetic Data, Regulatory Tech",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
