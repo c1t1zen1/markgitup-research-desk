@@ -18316,5 +18316,18 @@
     "source_count": 12,
     "tags": "Smart Grid, Energy AI, Home Automation, Sustainability",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1400,
+    "topic": "Local LLMs Integrating with macOS System Services for Privacy-Preserving Automation",
+    "file": "html/article-1400-local-llms-integrating-with-macos-system-services-for-privacy-preserving-20261102-191523.html",
+    "timestamp": "20261102-191523",
+    "full_timestamp": "2026-11-02T19:15:23-08:00",
+    "summary": "Exploring the frontier of privacy-preserving AI by integrating local LLMs directly into core macOS system functions.",
+    "original_topic": "Local AI Tools & Stacks for macOS",
+    "search_query": "macOS local LLM integration system services 2026",
+    "source_count": 12,
+    "tags": "macOS, Local AI, System Integration, Privacy",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
