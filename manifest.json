@@ -18498,5 +18498,18 @@
     "source_count": 12,
     "tags": "Interactive Media, Generative Video, Narrative AI, Gaming",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1414,
+    "topic": "Federated Learning for Privacy-Preserving Smart Home Data Aggregation",
+    "file": "html/article-1414-federated-learning-for-privacy-preserving-smart-home-data-aggregation-20261103-091256.html",
+    "timestamp": "20261103-091256",
+    "full_timestamp": "2026-11-03T09:12:56-08:00",
+    "summary": "Federated Learning enables smart homes to train AI models collaboratively while keeping sensitive personal data localized on individual devices.",
+    "original_topic": "AI-Powered Smart Homes & Automation",
+    "search_query": "Federated learning smart home data privacy 2026",
+    "source_count": 12,
+    "tags": "Federated Learning, Privacy, Smart Home, Edge AI",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
