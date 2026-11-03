@@ -18381,5 +18381,18 @@
     "source_count": 12,
     "tags": "LLM, Algorithmic Trading, Risk Management, FinTech",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1405,
+    "topic": "Local LLMs Fine-Tuning on Personal Data for Hyper-Secure Workflow Automation",
+    "file": "html/article-1405-local-llms-fine-tuning-on-personal-data-for-hyper-secure-workflow-automa-20261103-001252.html",
+    "timestamp": "20261103-001252",
+    "full_timestamp": "2026-11-03T00:12:52-08:00",
+    "summary": "Customizing local LLMs on Mac with MLX and LoRA allows for hyper-secure workflow automation using private data.",
+    "original_topic": "Privacy-First Local AI on Mac",
+    "search_query": "local LLM fine-tuning personal data macOS privacy 2026 latest",
+    "source_count": 12,
+    "tags": "LocalAI, Privacy, Fine-Tuning, macOS",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
