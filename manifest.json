@@ -18303,5 +18303,18 @@
     "source_count": 12,
     "tags": "ESG, Financial Reporting, Generative AI, Sustainability",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1399,
+    "topic": "Ambient AI Learns Home Energy Signatures, Optimizing Grid Load Balancing",
+    "file": "html/article-1399-ambient-ai-learns-home-energy-signatures-optimizing-grid-load-balancing-20261102-181336.html",
+    "timestamp": "20261102-181336",
+    "full_timestamp": "2026-11-02T18:13:36-08:00",
+    "summary": "Ambient AI moves beyond simple control, learning home energy signatures to optimize micro-grid load balancing and drive systemic energy efficiency.",
+    "original_topic": "AI-Powered Smart Homes & Automation",
+    "search_query": "Ambient AI home energy consumption load balancing 2026 latest",
+    "source_count": 12,
+    "tags": "Smart Grid, Energy AI, Home Automation, Sustainability",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
