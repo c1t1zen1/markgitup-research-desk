@@ -18446,5 +18446,18 @@
     "source_count": 12,
     "tags": "Deepfakes, International Law, Content Moderation, AI Governance",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1410,
+    "topic": "AI-Assisted Due Diligence: Navigating Global Regulatory Patchwork with LLMs",
+    "file": "html/article-1410-ai-assisted-due-diligence-navigating-global-regulatory-patchwork-with-ll-20261103-051517.html",
+    "timestamp": "20261103-051517",
+    "full_timestamp": "2026-11-03T05:15:17-08:00",
+    "summary": "LLMs are transforming cross-jurisdictional due diligence, but navigating global regulatory patchwork requires specialized AI-assisted frameworks.",
+    "original_topic": "AI in Legal Systems & Law Practice",
+    "search_query": "LLMs regulatory compliance cross-border M&A 2026 latest",
+    "source_count": 12,
+    "tags": "LegalTech, RegulatoryAI, M&A, Compliance",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
