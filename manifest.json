@@ -18550,5 +18550,18 @@
     "source_count": 12,
     "tags": "Generative AI, Financial Compliance, Synthetic Data, Regulatory Tech",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1418,
+    "topic": "AI Video Generation Shifts Toward Physics Tests as Models Compete to Simulate Reality",
+    "file": "html/article-1418-ai-video-generation-shifts-toward-physics-tests-as-models-compete-to-sim-20261103-131435.html",
+    "timestamp": "20261103-131435",
+    "full_timestamp": "2026-11-03T13:14:35-08:00",
+    "summary": "AI video generation is moving beyond visual polish; new benchmarks test if models can simulate real-world physics and predict how environments should evolve.",
+    "original_topic": "AI Video Generation Models",
+    "search_query": "AI video generators physical reasoning world simulation benchmark 2026 research",
+    "source_count": 12,
+    "tags": "physics simulation,world models,video generation",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
