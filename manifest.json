@@ -18420,5 +18420,18 @@
     "source_count": 12,
     "tags": "Video Synthesis, Temporal AI, Post-Production, Generative Video",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1408,
+    "topic": "AI's Role in Detecting Foreign Influence Operations in US Cyber Infrastructure",
+    "file": "html/article-1408-ai-s-role-in-detecting-foreign-influence-operations-in-us-cyber-infrastr-20261103-031316.html",
+    "timestamp": "20261103-031316",
+    "full_timestamp": "2026-11-03T03:13:16-08:00",
+    "summary": "AI fundamentally reshapes foreign influence operations, allowing state actors to deploy sophisticated, automated campaigns against US cyber infrastructure.",
+    "original_topic": "AI in US Intelligence & Surveillance",
+    "search_query": "AI detection foreign influence cyber operations 2026",
+    "source_count": 12,
+    "tags": "Cybersecurity, Intelligence, Disinformation, AI Surveillance",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
