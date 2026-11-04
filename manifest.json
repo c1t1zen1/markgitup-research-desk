@@ -18602,5 +18602,18 @@
     "source_count": 12,
     "tags": "Agentic AI, Quantitative Finance, Backtesting, LLMs",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1422,
+    "topic": "Optimizing Local macOS AI Inference with Metal Performance Shaders",
+    "file": "html/article-1422-optimizing-local-macos-ai-inference-with-metal-performance-shaders-20261103-171544.html",
+    "timestamp": "20261103-171544",
+    "full_timestamp": "2026-11-03T17:15:44-08:00",
+    "summary": "Mastering local AI on macOS requires deep dives into Metal Performance Shaders to unlock peak Apple Silicon inference performance.",
+    "original_topic": "Local AI Tools & Stacks for macOS",
+    "search_query": "macOS Metal Performance Shaders local LLM inference 2026",
+    "source_count": 12,
+    "tags": "macOS, LocalAI, Metal, Performance",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
