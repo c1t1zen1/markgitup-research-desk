@@ -18589,5 +18589,18 @@
     "source_count": 12,
     "tags": "Quantum AI, FinTech, High-Frequency Trading, Market Microstructure",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1421,
+    "topic": "LLMs and Agentic Workflows in Quant Strategy Backtesting and Simulation",
+    "file": "html/article-1421-llms-and-agentic-workflows-in-quant-strategy-backtesting-and-simulation-20261103-160601.html",
+    "timestamp": "20261103-160601",
+    "full_timestamp": "2026-11-03T16:06:01-08:00",
+    "summary": "LLM agents are moving from strategy commentary toward code-generating, tool-using backtest workflows—but execution-grounded benchmarks and governance determine whether that promise survives simulation.",
+    "original_topic": "LLMs in Hedge Funds & Trading",
+    "search_query": "LLM agentic workflows quantitative strategy backtesting 2026",
+    "source_count": 12,
+    "tags": "Agentic AI, Quantitative Finance, Backtesting, LLMs",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
