@@ -18784,5 +18784,18 @@
     "source_count": 12,
     "tags": "deepfake, synthetic media, EU regulation, AI law",
     "model_names": "/home/pi/models/AesCode-8B.Q3_K_L.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1436,
+    "topic": "Local macOS AI stacks now integrate real-time privacy-preserving neural editing",
+    "file": "html/article-1436-local-macos-ai-stacks-now-integrate-real-time-privacy-preserving-neural-20261105-142919.html",
+    "timestamp": "20261105-142919",
+    "full_timestamp": "2026-11-05T14:29:19-08:00",
+    "summary": "Privacy-sensitive neural editing tools are running natively on macOS without cloud leakage, using on-device differential privacy and encrypted model segments.",
+    "original_topic": "Local AI Tools & Stacks for macOS",
+    "search_query": "local macOS AI privacy-preserving neural video editing 2026",
+    "source_count": 12,
+    "tags": "macOS, local AI, privacy, neural editing",
+    "model_names": "/home/pi/models/AesCode-8B.Q3_K_L.gguf"
   }
 ]
