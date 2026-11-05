@@ -18680,5 +18680,18 @@
     "source_count": 12,
     "tags": "mental_health, AI_regulation, therapy, clinical_supervision",
     "model_names": "/home/pi/models/AesCode-8B.Q3_K_L.gguf"
+  },
+  {
+    "article_number": 1428,
+    "topic": "Apple Silicon AI Tools Now Use On-Chip Memory Graphs for Faster Model Loading",
+    "file": "html/article-1428-apple-silicon-ai-tools-now-use-on-chip-memory-graphs-for-faster-model-lo-20261105-060527.html",
+    "timestamp": "20261105-060527",
+    "full_timestamp": "2026-11-05T06:05:27-08:00",
+    "summary": "Available evidence points to Apple Silicon memory bandwidth and accelerator changes, but does not yet verify that on-chip memory graphs are speeding model loading.",
+    "original_topic": "AI Development Tools for Apple Silicon",
+    "search_query": "Apple Silicon AI tool on-chip memory graph November 2026",
+    "source_count": 12,
+    "tags": "Apple Silicon, AI tools, memory graph, model loading",
+    "model_names": "/home/pi/models/AesCode-8B.Q3_K_L.gguf + GPT 5.6 Luna"
   }
 ]
