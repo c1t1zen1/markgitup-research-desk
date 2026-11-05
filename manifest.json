@@ -18797,5 +18797,18 @@
     "source_count": 12,
     "tags": "macOS, local AI, privacy, neural editing",
     "model_names": "/home/pi/models/AesCode-8B.Q3_K_L.gguf"
+  },
+  {
+    "article_number": 1437,
+    "topic": "AI Home Assistants Now Negotiate Utility Bills Using Real-Time Energy Prices",
+    "file": "html/article-1437-ai-home-assistants-now-negotiate-utility-bills-using-real-time-energy-pr-20261105-150556.html",
+    "timestamp": "20261105-150556",
+    "full_timestamp": "2026-11-05T15:05:56-08:00",
+    "summary": "Home AI already schedules loads around prices, but supplied evidence does not show agents renegotiating utility contracts; the negotiation leap remains a forecast, not a demonstrated capability.",
+    "original_topic": "AI-Powered Smart Homes & Automation",
+    "search_query": "AI home automation negotiates utility bills using real-time energy prices 2026 latest",
+    "source_count": 12,
+    "tags": "AI automation, smart home, energy negotiation, real-time pricing",
+    "model_names": "/home/pi/models/AesCode-8B.Q3_K_L.gguf + GPT 5.6 Luna"
   }
 ]
