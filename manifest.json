@@ -18758,5 +18758,18 @@
     "source_count": 12,
     "tags": "AI, banking, crypto, fraud",
     "model_names": "/home/pi/models/AesCode-8B.Q3_K_L.gguf"
+  },
+  {
+    "article_number": 1434,
+    "topic": "US intelligence agencies deploy AI video forensics to verify surveillance intercepts",
+    "file": "html/article-1434-us-intelligence-agencies-deploy-ai-video-forensics-to-verify-surveillanc-20261105-120540.html",
+    "timestamp": "20261105-120540",
+    "full_timestamp": "2026-11-05T12:05:40-08:00",
+    "summary": "Available evidence points to a developing authentication toolkit—not confirmed U.S. intelligence deployment—linking provenance standards, digital forensics, and AI video analysis to fewer false positives.",
+    "original_topic": "AI in US Intelligence & Surveillance",
+    "search_query": "US intelligence AI video forensics verify surveillance intercepts 2026 latest",
+    "source_count": 12,
+    "tags": "AI forensics, surveillance, deepfakes, national security",
+    "model_names": "/home/pi/models/AesCode-8B.Q3_K_L.gguf + GPT 5.6 Luna"
   }
 ]
