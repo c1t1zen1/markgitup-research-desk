@@ -18745,5 +18745,18 @@
     "source_count": 12,
     "tags": "AI_video, motion_capture, VR, real_time",
     "model_names": "/home/pi/models/AesCode-8B.Q3_K_L.gguf"
+  },
+  {
+    "article_number": 1433,
+    "topic": "AI Fraud Detection in Banking Now Uses Live Crypto Audit Trails",
+    "file": "html/article-1433-ai-fraud-detection-in-banking-now-uses-live-crypto-audit-trails-20261105-112741.html",
+    "timestamp": "20261105-112741",
+    "full_timestamp": "2026-11-05T11:27:41-08:00",
+    "summary": "AI fraud detection in banking is shifting toward live blockchain audit trails as a core input layer, enabling real-time crypto transaction monitoring and anomaly detection beyond traditional transaction monitoring and synthetic data stress-testing.",
+    "original_topic": "AI Fraud Detection in Banking & Finance",
+    "search_query": "live crypto audit trails AI banking fraud detection 2026",
+    "source_count": 12,
+    "tags": "AI, banking, crypto, fraud",
+    "model_names": "/home/pi/models/AesCode-8B.Q3_K_L.gguf"
   }
 ]
