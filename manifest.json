@@ -18693,5 +18693,18 @@
     "source_count": 12,
     "tags": "Apple Silicon, AI tools, memory graph, model loading",
     "model_names": "/home/pi/models/AesCode-8B.Q3_K_L.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1429,
+    "topic": "AI Video Bots Now Mimic Human Emotion in Real-Time Social Reactions",
+    "file": "html/article-1429-ai-video-bots-now-mimic-human-emotion-in-real-time-social-reactions-20261105-073202.html",
+    "timestamp": "20261105-073202",
+    "full_timestamp": "2026-11-05T07:32:02-08:00",
+    "summary": "AI-generated short videos are entering a new phase where real-time affective feedback loops between bots and human social responses are becoming visible, reshaping how creators, platforms, and audiences interact.",
+    "original_topic": "AI Short Form Video & Social Media",
+    "search_query": "AI short-form video emotion mimic real-time social reaction 2026 latest",
+    "source_count": 12,
+    "tags": "AI video, social media, real-time, affective computing",
+    "model_names": "/home/pi/models/AesCode-8B.Q3_K_L.gguf"
   }
 ]
