@@ -18732,5 +18732,18 @@
     "source_count": 12,
     "tags": "financial reporting, generative AI, regulatory tech, private funds",
     "model_names": "/home/pi/models/AesCode-8B.Q3_K_L.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1432,
+    "topic": "AI Video Models Now Use VR Motion Capture for Real-Time Expressions",
+    "file": "html/article-1432-ai-video-models-now-use-vr-motion-capture-for-real-time-expressions-20261105-103443.html",
+    "timestamp": "20261105-103443",
+    "full_timestamp": "2026-11-05T10:34:43-08:00",
+    "summary": "AI video generation systems are integrating live VR motion capture to render expressive human gestures, shifting from static game assets toward real-time performance data.",
+    "original_topic": "AI Video Generation Models",
+    "search_query": "AI video generation VR motion capture real-time expressions 2026",
+    "source_count": 12,
+    "tags": "AI_video, motion_capture, VR, real_time",
+    "model_names": "/home/pi/models/AesCode-8B.Q3_K_L.gguf"
   }
 ]
