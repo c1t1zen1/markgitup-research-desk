@@ -18654,5 +18654,18 @@
     "source_count": 12,
     "tags": "AI video, game engines, physics simulation, real-time rendering",
     "model_names": "/home/pi/models/AesCode-8B.Q3_K_L.gguf"
+  },
+  {
+    "article_number": 1426,
+    "topic": "AI Election Ads Now Face Real-Time Moderation by State-Level Platforms",
+    "file": "html/article-1426-ai-election-ads-now-face-real-time-moderation-by-state-level-platforms-20261105-042955.html",
+    "timestamp": "20261105-042955",
+    "full_timestamp": "2026-11-05T04:29:55-08:00",
+    "summary": "State-level platforms are deploying AI-powered moderation tools to flag election ads before broad distribution, creating a confusing patchwork of enforcement across jurisdictions.",
+    "original_topic": "AI in US Elections & Campaigns",
+    "search_query": "AI-generated political ads real-time moderation state platforms 2026",
+    "source_count": 12,
+    "tags": "elections, AI moderation, campaign tech, political ads",
+    "model_names": "/home/pi/models/AesCode-8B.Q3_K_L.gguf"
   }
 ]
