@@ -18706,5 +18706,18 @@
     "source_count": 12,
     "tags": "AI video, social media, real-time, affective computing",
     "model_names": "/home/pi/models/AesCode-8B.Q3_K_L.gguf"
+  },
+  {
+    "article_number": 1430,
+    "topic": "AI Crypto Trading Bots Deployed with Real-Time Chainlink Oracle Feedback",
+    "file": "html/article-1430-ai-crypto-trading-bots-deployed-with-real-time-chainlink-oracle-feedback-20261105-080550.html",
+    "timestamp": "20261105-080550",
+    "full_timestamp": "2026-11-05T08:05:50-08:00",
+    "summary": "The supplied evidence supports automated Chainlink trading research, but does not verify live oracle-triggered execution, blockchain-event reactions, or settlement-aware performance.",
+    "original_topic": "AI Crypto Trading Bots & Performance",
+    "search_query": "AI crypto trading bots using Chainlink oracle updates 2026 latest",
+    "source_count": 12,
+    "tags": "AI trading, crypto bots, Chainlink, real-time oracles",
+    "model_names": "/home/pi/models/AesCode-8B.Q3_K_L.gguf + GPT 5.6 Luna"
   }
 ]
