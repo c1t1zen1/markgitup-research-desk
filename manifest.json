@@ -18641,5 +18641,18 @@
     "source_count": 12,
     "tags": "AI agents, GitHub automation, open source, developer productivity",
     "model_names": "/home/pi/models/AesCode-8B.Q3_K_L.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1425,
+    "topic": "AI Video Generation Now Uses Real-Time Physics Feedback from Game Engines",
+    "file": "html/article-1425-ai-video-generation-now-uses-real-time-physics-feedback-from-game-engine-20261105-032846.html",
+    "timestamp": "20261105-032846",
+    "full_timestamp": "2026-11-05T03:28:46-08:00",
+    "summary": "AI video generation is converging with real-time game-engine physics feedback to improve motion, materials, and cinematic realism before rendering.",
+    "original_topic": "AI-Generated Video for Filmmaking & Content Creation",
+    "search_query": "AI video generation physics feedback game engines 2026",
+    "source_count": 12,
+    "tags": "AI video, game engines, physics simulation, real-time rendering",
+    "model_names": "/home/pi/models/AesCode-8B.Q3_K_L.gguf"
   }
 ]
