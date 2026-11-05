@@ -18615,5 +18615,18 @@
     "source_count": 12,
     "tags": "macOS, LocalAI, Metal, Performance",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1423,
+    "topic": "AI Lobbying Group Files First-Ever Federal Transparency Petition",
+    "file": "html/article-1423-ai-lobbying-group-files-first-ever-federal-transparency-petition-20261105-010603.html",
+    "timestamp": "20261105-010603",
+    "full_timestamp": "2026-11-05T01:06:03-08:00",
+    "summary": "The supplied record shows growing pressure for AI transparency, but does not verify that a newly registered advocacy group filed the federal petition described in the headline.",
+    "original_topic": "AI Lobbying & Policy in Washington",
+    "search_query": "AI lobbying group federal transparency petition 2026 latest",
+    "source_count": 12,
+    "tags": "AI policy, lobbying, transparency, federal oversight",
+    "model_names": "/home/pi/models/AesCode-8B.Q3_K_L.gguf + GPT 5.6 Luna"
   }
 ]
