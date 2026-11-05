@@ -18667,5 +18667,18 @@
     "source_count": 12,
     "tags": "elections, AI moderation, campaign tech, political ads",
     "model_names": "/home/pi/models/AesCode-8B.Q3_K_L.gguf"
+  },
+  {
+    "article_number": 1427,
+    "topic": "AI Therapist Platforms Now Require Clinical Supervision in California",
+    "file": "html/article-1427-ai-therapist-platforms-now-require-clinical-supervision-in-california-20261105-052447.html",
+    "timestamp": "20261105-052447",
+    "full_timestamp": "2026-11-05T05:24:47-08:00",
+    "summary": "California now requires human clinician oversight for AI therapy platforms, shifting responsibility from automated chatbots to licensed professionals and raising new compliance and ethical questions.",
+    "original_topic": "AI in Mental Health & Therapy",
+    "search_query": "California mandates clinical supervision for AI therapy platforms 2026 latest",
+    "source_count": 12,
+    "tags": "mental_health, AI_regulation, therapy, clinical_supervision",
+    "model_names": "/home/pi/models/AesCode-8B.Q3_K_L.gguf"
   }
 ]
