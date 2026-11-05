@@ -18771,5 +18771,18 @@
     "source_count": 12,
     "tags": "AI forensics, surveillance, deepfakes, national security",
     "model_names": "/home/pi/models/AesCode-8B.Q3_K_L.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1435,
+    "topic": "EU Enacts First Deepfake Liability Law for Synthetic Media Creators",
+    "file": "html/article-1435-eu-enacts-first-deepfake-liability-law-for-synthetic-media-creators-20261105-130548.html",
+    "timestamp": "20261105-130548",
+    "full_timestamp": "2026-11-05T13:05:48-08:00",
+    "summary": "The supplied evidence points to EU AI Act disclosure and machine-marking duties for synthetic media, but does not prove a first liability law or universal provenance-verification mandate.",
+    "original_topic": "Deepfake Legislation & Synthetic Media Laws",
+    "search_query": "EU deepfake liability law synthetic media creators 2026 latest",
+    "source_count": 12,
+    "tags": "deepfake, synthetic media, EU regulation, AI law",
+    "model_names": "/home/pi/models/AesCode-8B.Q3_K_L.gguf + GPT 5.6 Luna"
   }
 ]
