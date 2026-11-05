@@ -18719,5 +18719,18 @@
     "source_count": 12,
     "tags": "AI trading, crypto bots, Chainlink, real-time oracles",
     "model_names": "/home/pi/models/AesCode-8B.Q3_K_L.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1431,
+    "topic": "Generative AI Now Drafting SEC-Style Financial Filings for Private Funds",
+    "file": "html/article-1431-generative-ai-now-drafting-sec-style-financial-filings-for-private-funds-20261105-090551.html",
+    "timestamp": "20261105-090551",
+    "full_timestamp": "2026-11-05T09:05:51-08:00",
+    "summary": "AI tools can now draft SEC-style language from precedent data, but supplied evidence leaves unresolved whether private-fund outputs are auditable, accurate, and legally reviewable before filing.",
+    "original_topic": "Generative AI for Financial Reporting",
+    "search_query": "generative AI drafting SEC filings private funds 2026",
+    "source_count": 12,
+    "tags": "financial reporting, generative AI, regulatory tech, private funds",
+    "model_names": "/home/pi/models/AesCode-8B.Q3_K_L.gguf + GPT 5.6 Luna"
   }
 ]
