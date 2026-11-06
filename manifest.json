@@ -18914,5 +18914,18 @@
     "source_count": 12,
     "tags": "macOS, Apple Silicon, Metal API, quantized LLMs",
     "model_names": "/home/pi/models/AesCode-8B.Q3_K_L.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1446,
+    "topic": "Local LLMs on macOS Optimize for Heterogeneous Compute Across Metal and CoreML",
+    "file": "html/article-1446-local-llms-on-macos-optimize-for-heterogeneous-compute-across-metal-and-20261106-000449.html",
+    "timestamp": "20261106-000449",
+    "full_timestamp": "2026-11-06T00:04:49-08:00",
+    "summary": "Apple’s local-LLM stack is becoming hardware-aware: Metal access, unified-memory limits, and competing runtimes shape performance, while the supplied evidence leaves CoreML’s scheduling role unverified.",
+    "original_topic": "Local AI Tools & Stacks for macOS",
+    "search_query": "macOS local LLM heterogeneous compute Metal CoreML 2026 latest",
+    "source_count": 12,
+    "tags": "macOS, LLM, Metal, Compute",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
