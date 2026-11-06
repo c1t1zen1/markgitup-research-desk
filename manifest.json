@@ -18810,5 +18810,18 @@
     "source_count": 12,
     "tags": "AI automation, smart home, energy negotiation, real-time pricing",
     "model_names": "/home/pi/models/AesCode-8B.Q3_K_L.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1438,
+    "topic": "US intelligence uses AI to cross-reference satellite imagery with encrypted chat logs",
+    "file": "html/article-1438-us-intelligence-uses-ai-to-cross-reference-satellite-imagery-with-encryp-20261105-160537.html",
+    "timestamp": "20261105-160537",
+    "full_timestamp": "2026-11-05T16:05:37-08:00",
+    "summary": "The supplied evidence documents a US-China AI dialogue, not an intelligence program linking satellite imagery with encrypted-chat metadata; the headline remains unverified.",
+    "original_topic": "AI in US Intelligence & Surveillance",
+    "search_query": "US intelligence AI satellite chat log correlation November 2026",
+    "source_count": 12,
+    "tags": "AI, surveillance, intelligence, satellite",
+    "model_names": "/home/pi/models/AesCode-8B.Q3_K_L.gguf + GPT 5.6 Luna"
   }
 ]
