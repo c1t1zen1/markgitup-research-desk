@@ -19005,5 +19005,18 @@
     "source_count": 12,
     "tags": "Mental Health, AI, Wearables, Digital Therapeutics",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1453,
+    "topic": "AI-Driven Micro-Targeting of Voter Sentiment Through Localized Digital Echo Chambers",
+    "file": "html/article-1453-ai-driven-micro-targeting-of-voter-sentiment-through-localized-digital-e-20261106-071145.html",
+    "timestamp": "20261106-071145",
+    "full_timestamp": "2026-11-06T07:11:45-08:00",
+    "summary": "AI is enabling hyper-localized political messaging, creating segmented digital echo chambers that profile voters for unprecedented campaign precision.",
+    "original_topic": "AI in US Elections & Campaigns",
+    "search_query": "AI micro-targeting voter sentiment local campaigns 2026",
+    "source_count": 12,
+    "tags": "AI, Elections, Microtargeting, Digital Propaganda",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
