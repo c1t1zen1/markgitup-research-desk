@@ -19109,5 +19109,18 @@
     "source_count": 12,
     "tags": "Edge AI, Scientific Computing, M-Series, LLM",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1461,
+    "topic": "Hyper-Personalized Home Environments Driven by Predictive Energy Load AI",
+    "file": "html/article-1461-hyper-personalized-home-environments-driven-by-predictive-energy-load-ai-20261106-150458.html",
+    "timestamp": "20261106-150458",
+    "full_timestamp": "2026-11-06T15:04:58-08:00",
+    "summary": "Predictive energy AI turns smart homes into adaptive load managers, combining household behavior, weather, prices, occupancy, solar, and storage signals to optimize comfort, cost, and grid participation.",
+    "original_topic": "AI-Powered Smart Homes & Automation",
+    "search_query": "AI energy optimization smart home predictive load 2026",
+    "source_count": 12,
+    "tags": "Smart Home, Energy AI, IoT, Automation",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
