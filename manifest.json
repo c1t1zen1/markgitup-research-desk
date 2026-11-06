@@ -18888,5 +18888,18 @@
     "source_count": 12,
     "tags": "election integrity, AI impersonation, livestreams, political misinformation",
     "model_names": "/home/pi/models/AesCode-8B.Q3_K_L.gguf"
+  },
+  {
+    "article_number": 1444,
+    "topic": "Apple Releases macOS Privacy Shield for On-Device AI Model Editing",
+    "file": "html/article-1444-apple-releases-macos-privacy-shield-for-on-device-ai-model-editing-20261105-223212.html",
+    "timestamp": "20261105-223212",
+    "full_timestamp": "2026-11-05T22:32:12-08:00",
+    "summary": "Apple introduces a new macOS-level privacy shield for local AI model editing, shielding on-device AI edits from cross-device tracking and cloud sync by default through hardware-backed model signing.",
+    "original_topic": "Privacy-First Local AI on Mac",
+    "search_query": "Apple macOS privacy shield local AI model editing release 2026 latest",
+    "source_count": 12,
+    "tags": "Apple, privacy, local AI, macOS",
+    "model_names": "/home/pi/models/AesCode-8B.Q3_K_L.gguf"
   }
 ]
