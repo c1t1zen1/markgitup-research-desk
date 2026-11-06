@@ -18862,5 +18862,18 @@
     "source_count": 10,
     "tags": "AI compliance, open source, legal automation, code agents",
     "model_names": "/home/pi/models/AesCode-8B.Q3_K_L.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1442,
+    "topic": "AI Crypto Trading Bots Now Use Real-Time Stablecoin Reserves for Risk Checks",
+    "file": "html/article-1442-ai-crypto-trading-bots-now-use-real-time-stablecoin-reserves-for-risk-ch-20261105-202504.html",
+    "timestamp": "20261105-202504",
+    "full_timestamp": "2026-11-05T20:25:04-08:00",
+    "summary": "AI crypto trading bots increasingly validate stablecoin reserves using on-chain audits and live audit trail feeds before executing trades, adding real-time risk checks to automated strategies.",
+    "original_topic": "AI Crypto Trading Bots & Performance",
+    "search_query": "AI crypto trading bots real-time stablecoin reserve verification 2026 latest",
+    "source_count": 12,
+    "tags": "crypto, ai, trading, stablecoins",
+    "model_names": "/home/pi/models/AesCode-8B.Q3_K_L.gguf"
   }
 ]
