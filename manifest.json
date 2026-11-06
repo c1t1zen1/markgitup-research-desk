@@ -19044,5 +19044,18 @@
     "source_count": 12,
     "tags": "GreenTech, Market Prediction, AI, Energy Futures",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1456,
+    "topic": "AI Lobbying Platforms Now Integrate Real-Time Congressional Sentiment Analysis",
+    "file": "html/article-1456-ai-lobbying-platforms-now-integrate-real-time-congressional-sentiment-an-20261106-101309.html",
+    "timestamp": "20261106-101309",
+    "full_timestamp": "2026-11-06T10:13:09-08:00",
+    "summary": "AI lobbying is evolving beyond mere data presentation; new platforms are now modeling real-time congressional sentiment to influence policy outcomes.",
+    "original_topic": "AI Lobbying & Policy in Washington",
+    "search_query": "AI lobbying sentiment analysis congressional activity 2026",
+    "source_count": 12,
+    "tags": "AI, Lobbying, Policy, Congress",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
