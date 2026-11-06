@@ -19096,5 +19096,18 @@
     "source_count": 12,
     "tags": "HFT, LLM, Market Microstructure, Latency",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1460,
+    "topic": "M-Series LLMs Powering Edge-Optimized Scientific Simulation on Personal Devices",
+    "file": "html/article-1460-m-series-llms-powering-edge-optimized-scientific-simulation-on-personal-20261106-141406.html",
+    "timestamp": "20261106-141406",
+    "full_timestamp": "2026-11-06T14:14:06-08:00",
+    "summary": "Apple Silicon enables local, private AI, moving LLM inference from the cloud to personal devices for specialized tasks.",
+    "original_topic": "M Series Apple Silicon LLM Inference",
+    "search_query": "Apple Silicon LLM scientific simulation edge computing 2026 latest",
+    "source_count": 12,
+    "tags": "Edge AI, Scientific Computing, M-Series, LLM",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
