@@ -18940,5 +18940,18 @@
     "source_count": 12,
     "tags": "Generative AI, Localization, Multilingual, Filmmaking",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1448,
+    "topic": "Optimizing On-Device AI Inference for Next-Gen Apple Silicon Neural Engines",
+    "file": "html/article-1448-optimizing-on-device-ai-inference-for-next-gen-apple-silicon-neural-engi-20261106-020355.html",
+    "timestamp": "20261106-020355",
+    "full_timestamp": "2026-11-06T02:03:55-08:00",
+    "summary": "Apple’s next inference gains may depend less on headline TOPS than on memory movement, compiler paths, workload fit, and disciplined enterprise measurement.",
+    "original_topic": "AI Development Tools for Apple Silicon",
+    "search_query": "Apple Silicon neural engine performance benchmarks 2026",
+    "source_count": 12,
+    "tags": "Apple Silicon, On-Device AI, Neural Engine, LLMs",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
