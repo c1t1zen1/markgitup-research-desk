@@ -19083,5 +19083,18 @@
     "source_count": 12,
     "tags": "Fraud Detection, Behavioral Biometrics, KYC, AI Security",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1459,
+    "topic": "LLMs Fine-Tuned on High-Frequency Market Microstructure Data for Latency Arbitrage",
+    "file": "html/article-1459-llms-fine-tuned-on-high-frequency-market-microstructure-data-for-latency-20261106-131419.html",
+    "timestamp": "20261106-131419",
+    "full_timestamp": "2026-11-06T13:14:19-08:00",
+    "summary": "LLMs are moving beyond text analysis to process granular market microstructure data for ultra-low latency arbitrage strategies in HFT.",
+    "original_topic": "LLMs in Hedge Funds & Trading",
+    "search_query": "LLM microstructure data high-frequency trading latency 2026 latest",
+    "source_count": 12,
+    "tags": "HFT, LLM, Market Microstructure, Latency",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
