@@ -18849,5 +18849,18 @@
     "source_count": 12,
     "tags": "AI video, social media, deepfake, accountability",
     "model_names": "/home/pi/models/AesCode-8B.Q3_K_L.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1441,
+    "topic": "AI code agents now auto-generate legal compliance patches for open-source releases",
+    "file": "html/article-1441-ai-code-agents-now-auto-generate-legal-compliance-patches-for-open-sourc-20261105-190544.html",
+    "timestamp": "20261105-190544",
+    "full_timestamp": "2026-11-05T19:05:44-08:00",
+    "summary": "The supplied evidence supports AI’s broad drafting and reasoning potential, but offers no proof that autonomous code agents currently generate or apply legal compliance patches in open-source releases.",
+    "original_topic": "Autonomous AI Code Agents",
+    "search_query": "AI autonomous coding agents generate open source compliance patches 2026 latest",
+    "source_count": 10,
+    "tags": "AI compliance, open source, legal automation, code agents",
+    "model_names": "/home/pi/models/AesCode-8B.Q3_K_L.gguf + GPT 5.6 Luna"
   }
 ]
