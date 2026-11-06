@@ -18901,5 +18901,18 @@
     "source_count": 12,
     "tags": "Apple, privacy, local AI, macOS",
     "model_names": "/home/pi/models/AesCode-8B.Q3_K_L.gguf"
+  },
+  {
+    "article_number": 1445,
+    "topic": "Quantized LLMs Now Run macOS Apps via On-Chip Metal Shaders",
+    "file": "html/article-1445-quantized-llms-now-run-macos-apps-via-on-chip-metal-shaders-20261105-230541.html",
+    "timestamp": "20261105-230541",
+    "full_timestamp": "2026-11-05T23:05:41-08:00",
+    "summary": "A single relevant source supports native Metal inference on Apple Silicon, but does not verify macOS app integration, shader-level quantization, or reduced CPU offloading.",
+    "original_topic": "Quantized LLMs Running on Mac Hardware",
+    "search_query": "quantized LLMs macOS Apple Silicon Metal shaders recent 2026 latest",
+    "source_count": 12,
+    "tags": "macOS, Apple Silicon, Metal API, quantized LLMs",
+    "model_names": "/home/pi/models/AesCode-8B.Q3_K_L.gguf + GPT 5.6 Luna"
   }
 ]
