@@ -18953,5 +18953,18 @@
     "source_count": 12,
     "tags": "Apple Silicon, On-Device AI, Neural Engine, LLMs",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1449,
+    "topic": "AI Editing Adapts to Real-Time Biofeedback for Emotional Resonance in Film",
+    "file": "html/article-1449-ai-editing-adapts-to-real-time-biofeedback-for-emotional-resonance-in-fi-20261106-030350.html",
+    "timestamp": "20261106-030350",
+    "full_timestamp": "2026-11-06T03:03:50-08:00",
+    "summary": "AI video editing could use actors’ physiological signals to tune cuts and emotional emphasis, but the supplied evidence describes possibility, not demonstrated practice.",
+    "original_topic": "AI-Powered Video Editing & Post-Production",
+    "search_query": "AI video editing biofeedback emotional response 2026 latest",
+    "source_count": 12,
+    "tags": "Emotional AI, Biofeedback, Post-Production, Real-Time",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
