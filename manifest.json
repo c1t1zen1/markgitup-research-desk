@@ -19057,5 +19057,18 @@
     "source_count": 12,
     "tags": "AI, Lobbying, Policy, Congress",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1457,
+    "topic": "Jurisdictional Challenges: Cross-Border Enforcement of Synthetic Media Liability in 2026",
+    "file": "html/article-1457-jurisdictional-challenges-cross-border-enforcement-of-synthetic-media-li-20261106-111315.html",
+    "timestamp": "20261106-111315",
+    "full_timestamp": "2026-11-06T11:13:15-08:00",
+    "summary": "Cross-border enforcement of synthetic media liability faces profound jurisdictional hurdles as technology outpaces global legal frameworks.",
+    "original_topic": "Deepfake Legislation & Synthetic Media Laws",
+    "search_query": "international legal frameworks synthetic media liability 2026",
+    "source_count": 12,
+    "tags": "Deepfake, International Law, Liability, AI Regulation",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
