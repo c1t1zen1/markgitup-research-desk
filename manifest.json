@@ -18836,5 +18836,18 @@
     "source_count": 12,
     "tags": "legal tech,ai video,real-time,trial prep",
     "model_names": "/home/pi/models/AesCode-8B.Q3_K_L.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1440,
+    "topic": "AI Short-Form Video Platforms Now Use Real-Time Legal Watermarks for Deepfake Accountability",
+    "file": "html/article-1440-ai-short-form-video-platforms-now-use-real-time-legal-watermarks-for-dee-20261105-180542.html",
+    "timestamp": "20261105-180542",
+    "full_timestamp": "2026-11-05T18:05:42-08:00",
+    "summary": "Available evidence points to expanding AI-labeling and provenance pressure, but does not verify that short-form platforms already embed reversible, account-linked legal watermarks at creation.",
+    "original_topic": "AI Short Form Video & Social Media",
+    "search_query": "AI short-form video deepfake legal watermark accountability 2026",
+    "source_count": 12,
+    "tags": "AI video, social media, deepfake, accountability",
+    "model_names": "/home/pi/models/AesCode-8B.Q3_K_L.gguf + GPT 5.6 Luna"
   }
 ]
