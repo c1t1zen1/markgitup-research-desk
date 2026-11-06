@@ -18979,5 +18979,18 @@
     "source_count": 12,
     "tags": "Quantum AI, Scientific Visualization, Generative Video, Physics",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1451,
+    "topic": "Generative AI for Regulatory Compliance: Automating ESG Disclosure Narratives",
+    "file": "html/article-1451-generative-ai-for-regulatory-compliance-automating-esg-disclosure-narrat-20261106-050352.html",
+    "timestamp": "20261106-050352",
+    "full_timestamp": "2026-11-06T05:03:52-08:00",
+    "summary": "Generative AI is emerging as a drafting layer for ESG compliance, translating expanding sustainability data and standards into reviewable regulatory narratives.",
+    "original_topic": "Generative AI for Financial Reporting",
+    "search_query": "Generative AI ESG reporting automated compliance 2026 latest",
+    "source_count": 12,
+    "tags": "ESG, RegulatoryTech, GenerativeAI, FinancialReporting",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
