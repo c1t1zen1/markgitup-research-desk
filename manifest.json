@@ -18823,5 +18823,18 @@
     "source_count": 12,
     "tags": "AI, surveillance, intelligence, satellite",
     "model_names": "/home/pi/models/AesCode-8B.Q3_K_L.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1439,
+    "topic": "AI video avatars now simulate courtroom testimony using live legal briefs",
+    "file": "html/article-1439-ai-video-avatars-now-simulate-courtroom-testimony-using-live-legal-brief-20261105-170519.html",
+    "timestamp": "20261105-170519",
+    "full_timestamp": "2026-11-05T17:05:19-08:00",
+    "summary": "AI courtroom avatars can already be described as lifelike, case-informed participants, but supplied evidence does not verify live brief parsing or production-ready simulated testimony.",
+    "original_topic": "AI Video Avatars & Virtual Presenters",
+    "search_query": "AI avatars simulate courtroom testimony live legal briefs 2026 latest",
+    "source_count": 12,
+    "tags": "legal tech,ai video,real-time,trial prep",
+    "model_names": "/home/pi/models/AesCode-8B.Q3_K_L.gguf + GPT 5.6 Luna"
   }
 ]
