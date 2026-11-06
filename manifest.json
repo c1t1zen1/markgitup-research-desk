@@ -18875,5 +18875,18 @@
     "source_count": 12,
     "tags": "crypto, ai, trading, stablecoins",
     "model_names": "/home/pi/models/AesCode-8B.Q3_K_L.gguf"
+  },
+  {
+    "article_number": 1443,
+    "topic": "AI misinformation bots now mimic election workers in real-time livestreams",
+    "file": "html/article-1443-ai-misinformation-bots-now-mimic-election-workers-in-real-time-livestrea-20261105-212936.html",
+    "timestamp": "20261105-212936",
+    "full_timestamp": "2026-11-05T21:29:36-08:00",
+    "summary": "AI systems are generating real-time video and voice fakes of election workers during livestreams, blurring civic broadcasts with deceptive impersonations.",
+    "original_topic": "AI Misinformation & Election Integrity",
+    "search_query": "election misinformation AI livestream workers 2026",
+    "source_count": 12,
+    "tags": "election integrity, AI impersonation, livestreams, political misinformation",
+    "model_names": "/home/pi/models/AesCode-8B.Q3_K_L.gguf"
   }
 ]
