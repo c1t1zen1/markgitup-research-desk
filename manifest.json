@@ -19018,5 +19018,18 @@
     "source_count": 12,
     "tags": "AI, Elections, Microtargeting, Digital Propaganda",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1454,
+    "topic": "AI Agents Automating Contractual Risk Assessment in Cross-Border Digital Mergers",
+    "file": "html/article-1454-ai-agents-automating-contractual-risk-assessment-in-cross-border-digital-20261106-080354.html",
+    "timestamp": "20261106-080354",
+    "full_timestamp": "2026-11-06T08:03:54-08:00",
+    "summary": "AI agents could compress cross-border merger review, but supplied evidence supports guarded acceleration—not autonomous legal judgment—because accuracy, governance, and geopolitical risks remain material.",
+    "original_topic": "AI in Legal Systems & Law Practice",
+    "search_query": "AI contract risk assessment international M&A 2026",
+    "source_count": 12,
+    "tags": "LegalTech, M&A, AI Governance, ContractLaw",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
