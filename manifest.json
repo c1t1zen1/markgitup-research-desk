@@ -19278,5 +19278,18 @@
     "source_count": 12,
     "tags": "Autonomous Vehicles, Video Generation, Sensor Fusion, Real-Time AI",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1474,
+    "topic": "Optimizing Neural Network Quantization for Apple Silicon's Next-Gen AI Workloads",
+    "file": "html/article-1474-optimizing-neural-network-quantization-for-apple-silicon-s-next-gen-ai-w-20261107-041245.html",
+    "timestamp": "20261107-041245",
+    "full_timestamp": "2026-11-07T04:12:45-08:00",
+    "summary": "Deep dive into low-level optimization for next-gen AI on Apple Silicon, focusing on quantization and leveraging unified memory.",
+    "original_topic": "AI Development Tools for Apple Silicon",
+    "search_query": "Apple Silicon neural network quantization optimization 2026",
+    "source_count": 12,
+    "tags": "AI Optimization, Apple Silicon, Quantization, Edge AI",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
