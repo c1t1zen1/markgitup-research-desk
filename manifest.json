@@ -19382,5 +19382,18 @@
     "source_count": 12,
     "tags": "instant payments, APP fraud, scam prevention",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1482,
+    "topic": "AI's Role in Predicting Volatility from Quantum Computing Market Shifts",
+    "file": "html/article-1482-ai-s-role-in-predicting-volatility-from-quantum-computing-market-shifts-20261107-120453.html",
+    "timestamp": "20261107-120453",
+    "full_timestamp": "2026-11-07T12:04:53-08:00",
+    "summary": "Quantum market forecasts may become alternative signals for AI-driven volatility analysis, but divergent projections, structural risks, and absent backtests make predictive claims provisional.",
+    "original_topic": "AI Stock Prediction & Market Analysis",
+    "search_query": "AI stock prediction quantum computing market trends 2026",
+    "source_count": 12,
+    "tags": "AI, Quantum Computing, Finance, Market Prediction",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
