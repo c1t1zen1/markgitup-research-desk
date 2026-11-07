@@ -19226,5 +19226,18 @@
     "source_count": 12,
     "tags": "Video Restoration, Generative AI, Archival Media, Preservation",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1470,
+    "topic": "Decentralized Autonomous Organizations Governing AI Trading Bot Risk and Governance",
+    "file": "html/article-1470-decentralized-autonomous-organizations-governing-ai-trading-bot-risk-and-20261107-000415.html",
+    "timestamp": "20261107-000415",
+    "full_timestamp": "2026-11-07T00:04:15-08:00",
+    "summary": "DAOs could become the governance layer for autonomous trading agents, combining token-based decisions, AI-assisted oversight, treasury controls, and safeguards against governance attacks.",
+    "original_topic": "AI Crypto Trading Bots & Performance",
+    "search_query": "DAO governance AI crypto trading risk management 2026 latest",
+    "source_count": 12,
+    "tags": "DAO, AI Governance, Crypto Risk, Autonomous Agents",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
