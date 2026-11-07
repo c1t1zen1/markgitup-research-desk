@@ -19200,5 +19200,18 @@
     "source_count": 12,
     "tags": "Geopolitics, Risk Management, LLMs, Hedge Funds",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1468,
+    "topic": "M-Series LLMs Powering Real-Time Edge Inference for Industrial IoT Anomaly Detection",
+    "file": "html/article-1468-m-series-llms-powering-real-time-edge-inference-for-industrial-iot-anoma-20261106-220437.html",
+    "timestamp": "20261106-220437",
+    "full_timestamp": "2026-11-06T22:04:37-08:00",
+    "summary": "Apple’s M-series industrial-IoT promise is compelling as a forecast, but supplied evidence verifies only Apple’s broad ecosystem—not chip efficiency, LLM inference, or anomaly-detection deployments.",
+    "original_topic": "M Series Apple Silicon LLM Inference",
+    "search_query": "Apple Silicon LLM edge inference industrial IoT 2026 latest",
+    "source_count": 12,
+    "tags": "Edge AI, Industrial IoT, LLM Inference, Apple Silicon",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
