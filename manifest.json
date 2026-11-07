@@ -19252,5 +19252,18 @@
     "source_count": 12,
     "tags": "AI Avatars, Emotional AI, Cross-Cultural, Virtual Presence",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1472,
+    "topic": "Generative AI for Regulatory Compliance: Drafting Dynamic Disclosure Narratives",
+    "file": "html/article-1472-generative-ai-for-regulatory-compliance-drafting-dynamic-disclosure-narr-20261107-020422.html",
+    "timestamp": "20261107-020422",
+    "full_timestamp": "2026-11-07T02:04:22-08:00",
+    "summary": "Regulatory complexity is pushing disclosure work beyond extraction, but supplied evidence supports governance pressure more strongly than proven use of generative models to draft filings.",
+    "original_topic": "Generative AI for Financial Reporting",
+    "search_query": "Generative AI dynamic financial disclosure regulation 2026",
+    "source_count": 12,
+    "tags": "Generative AI, Financial Reporting, Regulatory Compliance, LLMs",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
