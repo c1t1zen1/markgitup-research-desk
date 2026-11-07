@@ -19330,5 +19330,18 @@
     "source_count": 12,
     "tags": "elections, AI ethics, social media, campaign strategy",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1478,
+    "topic": "Autonomous AI Agents Managing Complex Supply Chain Resilience in Volatile Global Markets",
+    "file": "html/article-1478-autonomous-ai-agents-managing-complex-supply-chain-resilience-in-volatil-20261107-080505.html",
+    "timestamp": "20261107-080505",
+    "full_timestamp": "2026-11-07T08:05:05-08:00",
+    "summary": "Agentic AI may help supply chains reroute around disruption, but supplied evidence supports a cautious operating thesis—not proof that autonomous systems already manage geopolitical or port shocks.",
+    "original_topic": "Autonomous AI Code Agents",
+    "search_query": "AI agents supply chain risk management 2026",
+    "source_count": 12,
+    "tags": "Supply Chain, Autonomous Agents, Logistics, Resilience",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
