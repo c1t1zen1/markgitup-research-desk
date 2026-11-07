@@ -19304,5 +19304,18 @@
     "source_count": 12,
     "tags": "Cognitive Load, Human-AI Teaming, Intelligence, Operator Safety",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1476,
+    "topic": "On-Device RAG Architectures for Private Knowledge Bases on macOS",
+    "file": "html/article-1476-on-device-rag-architectures-for-private-knowledge-bases-on-macos-20261107-061516.html",
+    "timestamp": "20261107-061516",
+    "full_timestamp": "2026-11-07T06:15:16-08:00",
+    "summary": "Implementing on-device RAG on macOS enables private knowledge bases by running all components locally for enhanced data security.",
+    "original_topic": "Local AI Tools & Stacks for macOS",
+    "search_query": "local RAG macOS vector database privacy 2026 latest",
+    "source_count": 12,
+    "tags": "RAG, macOS, Local AI, Knowledge Graph",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
