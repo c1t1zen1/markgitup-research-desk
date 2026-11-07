@@ -19174,5 +19174,18 @@
     "source_count": 12,
     "tags": "Deepfakes, Provenance, Blockchain, Media Integrity",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1466,
+    "topic": "AI-Driven Home Climate Control Adapts to Urban Microclimate Shifts",
+    "file": "html/article-1466-ai-driven-home-climate-control-adapts-to-urban-microclimate-shifts-20261106-200434.html",
+    "timestamp": "20261106-200434",
+    "full_timestamp": "2026-11-06T20:04:34-08:00",
+    "summary": "AI-driven home climate control is moving beyond fixed schedules, using occupancy, weather, and local context to respond to uneven urban conditions.",
+    "original_topic": "AI-Powered Smart Homes & Automation",
+    "search_query": "AI smart home climate control urban microclimate adaptation 2026",
+    "source_count": 12,
+    "tags": "SmartHome, ClimateAI, UrbanTech, PredictiveControl",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
