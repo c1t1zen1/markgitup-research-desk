@@ -19187,5 +19187,18 @@
     "source_count": 12,
     "tags": "SmartHome, ClimateAI, UrbanTech, PredictiveControl",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1467,
+    "topic": "LLMs Analyzing Real-Time Geopolitical Risk for Portfolio De-risking Strategies",
+    "file": "html/article-1467-llms-analyzing-real-time-geopolitical-risk-for-portfolio-de-risking-stra-20261106-211312.html",
+    "timestamp": "20261106-211312",
+    "full_timestamp": "2026-11-06T21:13:12-08:00",
+    "summary": "LLMs are evolving beyond market mechanics to synthesize unstructured geopolitical news, offering hedge funds proactive de-risking strategies.",
+    "original_topic": "LLMs in Hedge Funds & Trading",
+    "search_query": "LLMs geopolitical risk assessment hedge funds 2026",
+    "source_count": 12,
+    "tags": "Geopolitics, Risk Management, LLMs, Hedge Funds",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
