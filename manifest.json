@@ -19213,5 +19213,18 @@
     "source_count": 12,
     "tags": "Edge AI, Industrial IoT, LLM Inference, Apple Silicon",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1469,
+    "topic": "AI Agents Automate Complex Video Restoration from Degraded Archival Footage",
+    "file": "html/article-1469-ai-agents-automate-complex-video-restoration-from-degraded-archival-foot-20261106-230434.html",
+    "timestamp": "20261106-230434",
+    "full_timestamp": "2026-11-06T23:04:34-08:00",
+    "summary": "AI restoration is evolving from single-effect enhancement into coordinated pipelines that recover detail, stabilize motion, and expose the ethical limits of reconstructed archival imagery.",
+    "original_topic": "AI-Powered Video Editing & Post-Production",
+    "search_query": "AI video restoration archival footage degradation 2026",
+    "source_count": 12,
+    "tags": "Video Restoration, Generative AI, Archival Media, Preservation",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
