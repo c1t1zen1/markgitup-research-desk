@@ -19408,5 +19408,18 @@
     "source_count": 12,
     "tags": "Interactive Video, Live Streaming, AI Directing, Narrative Design",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1484,
+    "topic": "Deepfake Audio Forensics: Detecting AI Voice Cloning in Political Campaign Speeches",
+    "file": "html/article-1484-deepfake-audio-forensics-detecting-ai-voice-cloning-in-political-campaig-20261107-141337.html",
+    "timestamp": "20261107-141337",
+    "full_timestamp": "2026-11-07T14:13:37-08:00",
+    "summary": "Forensic detection is the critical defense against synthetic audio, as AI voice cloning makes political disinformation highly accessible.",
+    "original_topic": "AI Misinformation & Election Integrity",
+    "search_query": "AI voice cloning detection political speech November 2026",
+    "source_count": 12,
+    "tags": "Deepfake, Audio Forensics, Election Integrity, Synthetic Media",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
