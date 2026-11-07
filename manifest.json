@@ -19369,5 +19369,18 @@
     "source_count": 12,
     "tags": "AI Avatars, Social Media, Authenticity, Synthetic Media",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1481,
+    "topic": "Banks Use AI Intervention Windows to Stop Authorized Push-Payment Scams Before Settlement",
+    "file": "html/article-1481-banks-use-ai-intervention-windows-to-stop-authorized-push-payment-scams-20261107-111347.html",
+    "timestamp": "20261107-111347",
+    "full_timestamp": "2026-11-07T11:13:47-08:00",
+    "summary": "AI intervenes in real-time to interrupt authorized push-payment scams before funds settle, addressing the speed of modern finance.",
+    "original_topic": "AI Fraud Detection in Banking & Finance",
+    "search_query": "2026 AI authorized push payment scam intervention instant payments banks",
+    "source_count": 12,
+    "tags": "instant payments, APP fraud, scam prevention",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
