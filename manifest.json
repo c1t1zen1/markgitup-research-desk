@@ -19265,5 +19265,18 @@
     "source_count": 12,
     "tags": "Generative AI, Financial Reporting, Regulatory Compliance, LLMs",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1473,
+    "topic": "Real-Time Video Inpainting for Synthetic Scene Completion in Autonomous Driving",
+    "file": "html/article-1473-real-time-video-inpainting-for-synthetic-scene-completion-in-autonomous-20261107-031358.html",
+    "timestamp": "20261107-031358",
+    "full_timestamp": "2026-11-07T03:13:58-08:00",
+    "summary": "Video inpainting models are advancing autonomous driving by synthesizing missing sensor data, enabling robust scene completion for safety.",
+    "original_topic": "AI Video Generation Models",
+    "search_query": "AI video inpainting autonomous vehicle sensor fusion 2026",
+    "source_count": 12,
+    "tags": "Autonomous Vehicles, Video Generation, Sensor Fusion, Real-Time AI",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
