@@ -19291,5 +19291,18 @@
     "source_count": 12,
     "tags": "AI Optimization, Apple Silicon, Quantization, Edge AI",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1475,
+    "topic": "AI-Driven Cognitive Load Monitoring in Intelligence Operations for Operator Resilience",
+    "file": "html/article-1475-ai-driven-cognitive-load-monitoring-in-intelligence-operations-for-opera-20261107-051319.html",
+    "timestamp": "20261107-051319",
+    "full_timestamp": "2026-11-07T05:13:19-08:00",
+    "summary": "AI monitoring of operator mental states promises enhanced resilience in intelligence, mitigating burnout and error in high-stakes operations.",
+    "original_topic": "AI in US Intelligence & Surveillance",
+    "search_query": "AI cognitive load monitoring intelligence operations 2026",
+    "source_count": 12,
+    "tags": "Cognitive Load, Human-AI Teaming, Intelligence, Operator Safety",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
