@@ -19122,5 +19122,18 @@
     "source_count": 12,
     "tags": "Smart Home, Energy AI, IoT, Automation",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1462,
+    "topic": "AI's Role in Pre-Trial Discovery: Automated Evidence Triage and Bias Detection",
+    "file": "html/article-1462-ai-s-role-in-pre-trial-discovery-automated-evidence-triage-and-bias-dete-20261106-160452.html",
+    "timestamp": "20261106-160452",
+    "full_timestamp": "2026-11-06T16:04:52-08:00",
+    "summary": "In pre-trial discovery, AI is moving toward document prioritization, classifier-driven review, privilege-log automation, and closer scrutiny of confidentiality, court rulings, and bias.",
+    "original_topic": "AI in Legal Systems & Law Practice",
+    "search_query": "AI automated e-discovery bias detection legal 2026 latest",
+    "source_count": 12,
+    "tags": "e-discovery, legal AI, evidence, litigation",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
