@@ -19161,5 +19161,18 @@
     "source_count": 12,
     "tags": "HealthAI, Privacy, LocalLLM, macOS",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1465,
+    "topic": "Deepfake Provenance Tracking: Blockchain Solutions for Media Authenticity in 2026",
+    "file": "html/article-1465-deepfake-provenance-tracking-blockchain-solutions-for-media-authenticity-20261106-190417.html",
+    "timestamp": "20261106-190417",
+    "full_timestamp": "2026-11-06T19:04:17-08:00",
+    "summary": "Content provenance standards are moving toward practical media-authenticity infrastructure, but the supplied evidence supports C2PA credentials—not blockchain deployment—as the documented 2026 solution.",
+    "original_topic": "Deepfake Legislation & Synthetic Media Laws",
+    "search_query": "C2PA blockchain media provenance tracking 2026",
+    "source_count": 12,
+    "tags": "Deepfakes, Provenance, Blockchain, Media Integrity",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
