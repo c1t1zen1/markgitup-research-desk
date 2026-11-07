@@ -19135,5 +19135,18 @@
     "source_count": 12,
     "tags": "e-discovery, legal AI, evidence, litigation",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1463,
+    "topic": "AI Regulatory Sandboxes: Testing Autonomous Policy Agents in Federal Agencies",
+    "file": "html/article-1463-ai-regulatory-sandboxes-testing-autonomous-policy-agents-in-federal-agen-20261106-170422.html",
+    "timestamp": "20261106-170422",
+    "full_timestamp": "2026-11-06T17:04:22-08:00",
+    "summary": "Federal agencies may use controlled AI sandboxes to test policy analysis and execution tools, but the evidence supports a governance framework—not proof of deployed autonomous agents.",
+    "original_topic": "AI Lobbying & Policy in Washington",
+    "search_query": "AI regulatory sandbox federal agency deployment 2026",
+    "source_count": 12,
+    "tags": "AI Governance, Federal Policy, Regulatory Tech, Washington",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
