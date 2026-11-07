@@ -19148,5 +19148,18 @@
     "source_count": 12,
     "tags": "AI Governance, Federal Policy, Regulatory Tech, Washington",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1464,
+    "topic": "Local LLMs on Mac: Securing Sensitive Health Data with On-Device Privacy Models",
+    "file": "html/article-1464-local-llms-on-mac-securing-sensitive-health-data-with-on-device-privacy-20261106-181413.html",
+    "timestamp": "20261106-181413",
+    "full_timestamp": "2026-11-06T18:14:13-08:00",
+    "summary": "Local LLMs on Mac offer a path to HIPAA/GDPR compliance by keeping sensitive health data analysis entirely on-device.",
+    "original_topic": "Privacy-First Local AI on Mac",
+    "search_query": "local LLM health data privacy macOS 2026",
+    "source_count": 12,
+    "tags": "HealthAI, Privacy, LocalLLM, macOS",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
