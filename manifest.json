@@ -19317,5 +19317,18 @@
     "source_count": 12,
     "tags": "RAG, macOS, Local AI, Knowledge Graph",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1477,
+    "topic": "AI's Influence on Voter Micro-Targeting via Social Media Platform Policy Shifts",
+    "file": "html/article-1477-ai-s-influence-on-voter-micro-targeting-via-social-media-platform-policy-20261107-070437.html",
+    "timestamp": "20261107-070437",
+    "full_timestamp": "2026-11-07T07:04:37-08:00",
+    "summary": "As platform rules tighten or change, campaigns may have to redesign AI micro-targeting in real time—but the supplied evidence shows more uncertainty than a settled policy playbook.",
+    "original_topic": "AI in US Elections & Campaigns",
+    "search_query": "AI political microtargeting social media platform policy 2026",
+    "source_count": 12,
+    "tags": "elections, AI ethics, social media, campaign strategy",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
