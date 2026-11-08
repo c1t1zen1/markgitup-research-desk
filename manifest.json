@@ -19655,5 +19655,18 @@
     "source_count": 12,
     "tags": "Edge AI, Smart Home, Privacy, Security",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1503,
+    "topic": "AI Watermarking Efficacy Against Deepfake Narratives in High-Volume Political Discourse",
+    "file": "html/article-1503-ai-watermarking-efficacy-against-deepfake-narratives-in-high-volume-poli-20261108-091509.html",
+    "timestamp": "20261108-091509",
+    "full_timestamp": "2026-11-08T09:15:09-08:00",
+    "summary": "Assessing the real-world resilience of AI watermarking against sophisticated, high-volume deepfake narratives in political discourse.",
+    "original_topic": "AI Misinformation & Election Integrity",
+    "search_query": "AI watermarking detection deepfake political campaigns 2026",
+    "source_count": 12,
+    "tags": "Deepfakes, Election Integrity, Watermarking, Generative AI",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
