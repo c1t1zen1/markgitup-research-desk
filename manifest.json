@@ -19512,5 +19512,18 @@
     "source_count": 12,
     "tags": "Macroeconomics, LLMs, Sentiment Analysis, Alpha",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1492,
+    "topic": "Regulating Synthetic Personas: New Frameworks for Digital Identity in AI Media",
+    "file": "html/article-1492-regulating-synthetic-personas-new-frameworks-for-digital-identity-in-ai-20261107-220451.html",
+    "timestamp": "20261107-220451",
+    "full_timestamp": "2026-11-07T22:04:51-08:00",
+    "summary": "Synthetic personas require law to govern identity rights, disclosure duties, liability, and enforcement—not merely detect manipulated content—as regulators confront gaps in existing digital-identity frameworks.",
+    "original_topic": "Deepfake Legislation & Synthetic Media Laws",
+    "search_query": "legal frameworks synthetic digital identity regulation 2026",
+    "source_count": 12,
+    "tags": "Deepfakes, Digital Identity, AI Law, Synthetic Media",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
