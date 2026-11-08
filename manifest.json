@@ -19629,5 +19629,18 @@
     "source_count": 12,
     "tags": "ZK-proofs, Crypto, AI Trading, Privacy",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1501,
+    "topic": "AI Agents Navigating Regulatory Sandboxes in Decentralized Finance Markets",
+    "file": "html/article-1501-ai-agents-navigating-regulatory-sandboxes-in-decentralized-finance-marke-20261108-070635.html",
+    "timestamp": "20261108-070635",
+    "full_timestamp": "2026-11-08T07:06:35-08:00",
+    "summary": "Available evidence defines AI broadly but does not document DeFi, regulatory sandboxes, trading agents, or jurisdiction-specific rules needed to support the assignment.",
+    "original_topic": "AI Stock Prediction & Market Analysis",
+    "search_query": "AI agent compliance decentralized finance regulatory sandboxes 2026 latest",
+    "source_count": 10,
+    "tags": "DeFi, AI Agents, Regulation, FinTech",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
