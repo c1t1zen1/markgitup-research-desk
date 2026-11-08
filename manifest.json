@@ -19460,5 +19460,18 @@
     "source_count": 12,
     "tags": "Video Generation, Provenance, Watermarking, Media Integrity",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1488,
+    "topic": "MCP Security Becomes the New Battleground for Local AI Agents on macOS",
+    "file": "html/article-1488-mcp-security-becomes-the-new-battleground-for-local-ai-agents-on-macos-20261107-181516.html",
+    "timestamp": "20261107-181516",
+    "full_timestamp": "2026-11-07T18:15:16-08:00",
+    "summary": "MCP Security: The New Frontier for Local AI Agents on macOS, Shifting Focus from Models to Permissions.",
+    "original_topic": "Local AI Tools & Stacks for macOS",
+    "search_query": "macOS local AI agents MCP security permissions 2026",
+    "source_count": 12,
+    "tags": "MCP security, local agents, macOS permissions",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
