@@ -19668,5 +19668,18 @@
     "source_count": 12,
     "tags": "Deepfakes, Election Integrity, Watermarking, Generative AI",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1504,
+    "topic": "Autonomous Agents Debugging Legacy Codebases on Apple Silicon",
+    "file": "html/article-1504-autonomous-agents-debugging-legacy-codebases-on-apple-silicon-20261108-101449.html",
+    "timestamp": "20261108-101449",
+    "full_timestamp": "2026-11-08T10:14:49-08:00",
+    "summary": "AI agents are transforming legacy code maintenance, leveraging Apple Silicon for powerful, on-device debugging and development workflows.",
+    "original_topic": "Autonomous AI Code Agents",
+    "search_query": "AI agents debugging legacy Swift code Apple Silicon 2026 latest",
+    "source_count": 12,
+    "tags": "CodeAgents, LegacyCode, AppleSilicon, SoftwareEngineering",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
