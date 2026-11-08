@@ -19720,5 +19720,18 @@
     "source_count": 12,
     "tags": "FinTech, AI Fraud, Cross-Border Payments, AML",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1508,
+    "topic": "AI-Assisted Color Grading: Automated Cinematic Look Development in Post-Production",
+    "file": "html/article-1508-ai-assisted-color-grading-automated-cinematic-look-development-in-post-p-20261108-140436.html",
+    "timestamp": "20261108-140436",
+    "full_timestamp": "2026-11-08T14:04:36-08:00",
+    "summary": "AI-assisted color grading is moving from broad automation toward frame-aware correction, shot matching, skin-tone protection, and cinematic look development while preserving human creative control.",
+    "original_topic": "AI-Powered Video Editing & Post-Production",
+    "search_query": "AI automated color grading video post-production 2026",
+    "source_count": 12,
+    "tags": "Color Grading, Video Production, AI Workflow, Post-Production",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
