@@ -19642,5 +19642,18 @@
     "source_count": 10,
     "tags": "DeFi, AI Agents, Regulation, FinTech",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1502,
+    "topic": "Edge AI for Home Security: Decentralized Threat Detection Beyond Cloud Reliance",
+    "file": "html/article-1502-edge-ai-for-home-security-decentralized-threat-detection-beyond-cloud-re-20261108-081303.html",
+    "timestamp": "20261108-081303",
+    "full_timestamp": "2026-11-08T08:13:03-08:00",
+    "summary": "Edge AI shifts home security from cloud dependence to on-device processing, promising enhanced privacy and low-latency threat detection.",
+    "original_topic": "AI-Powered Smart Homes & Automation",
+    "search_query": "Edge AI home security local processing privacy 2026 latest",
+    "source_count": 12,
+    "tags": "Edge AI, Smart Home, Privacy, Security",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
