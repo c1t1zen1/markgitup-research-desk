@@ -19564,5 +19564,18 @@
     "source_count": 12,
     "tags": "AI Auditing, Financial Fraud, XBRL, Synthetic Data",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1496,
+    "topic": "AI-Driven Scene Synthesis: Real-Time Environmental Generation for Virtual Production",
+    "file": "html/article-1496-ai-driven-scene-synthesis-real-time-environmental-generation-for-virtual-20261108-020448.html",
+    "timestamp": "20261108-020448",
+    "full_timestamp": "2026-11-08T02:04:48-08:00",
+    "summary": "AI-generated environments are moving from prebuilt assets toward prompt-led virtual production—but the supplied evidence supports the direction more strongly than the claimed live, dynamic capability.",
+    "original_topic": "AI-Generated Video for Filmmaking & Content Creation",
+    "search_query": "real-time AI environmental generation virtual production 2026 latest",
+    "source_count": 12,
+    "tags": "Virtual Production, Generative AI, Filmmaking, Real-Time Rendering",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
