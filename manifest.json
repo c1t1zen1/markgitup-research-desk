@@ -19525,5 +19525,18 @@
     "source_count": 12,
     "tags": "Deepfakes, Digital Identity, AI Law, Synthetic Media",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1493,
+    "topic": "Real-Time Emotional Resonance: AI Avatars Adapting to Viewer Biometric Feedback",
+    "file": "html/article-1493-real-time-emotional-resonance-ai-avatars-adapting-to-viewer-biometric-fe-20261107-230447.html",
+    "timestamp": "20261107-230447",
+    "full_timestamp": "2026-11-07T23:04:47-08:00",
+    "summary": "AI avatars are moving toward live emotional adaptation, but supplied evidence supports interactive expression—not yet the stronger claim that viewer biometric signals reliably control demeanor.",
+    "original_topic": "AI Video Avatars & Virtual Presenters",
+    "search_query": "AI avatar emotional response biometric feedback real-time 2026 latest",
+    "source_count": 12,
+    "tags": "AI Avatars, Biometrics, Emotional AI, Virtual Presence",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
