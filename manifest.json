@@ -19590,5 +19590,18 @@
     "source_count": 12,
     "tags": "Xcode, agentic coding, Apple Silicon",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1498,
+    "topic": "AI-Driven Geospatial Intelligence: Monitoring Infrastructure Vulnerabilities in Real-Time",
+    "file": "html/article-1498-ai-driven-geospatial-intelligence-monitoring-infrastructure-vulnerabilit-20261108-040451.html",
+    "timestamp": "20261108-040451",
+    "full_timestamp": "2026-11-08T04:04:51-08:00",
+    "summary": "AI is positioning geospatial data as infrastructure-grade decision support, but the supplied evidence offers more on readiness and integration than verified real-time vulnerability detection.",
+    "original_topic": "AI in US Intelligence & Surveillance",
+    "search_query": "AI geospatial intelligence critical infrastructure monitoring 2026",
+    "source_count": 12,
+    "tags": "Geospatial AI, Surveillance, Infrastructure, Defense",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
