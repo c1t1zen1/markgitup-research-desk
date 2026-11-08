@@ -19499,5 +19499,18 @@
     "source_count": 12,
     "tags": "AI Ethics, Digital Therapy, Emotional AI, Mental Health",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1491,
+    "topic": "LLMs Decoding Macroeconomic Sentiment from Global News Feeds for Alpha Generation",
+    "file": "html/article-1491-llms-decoding-macroeconomic-sentiment-from-global-news-feeds-for-alpha-g-20261107-210644.html",
+    "timestamp": "20261107-210644",
+    "full_timestamp": "2026-11-07T21:06:44-08:00",
+    "summary": "LLMs can turn dispersed economic reporting into structured thematic signals, but the supplied evidence supports disciplined validation—not a proven shortcut from sentiment to durable trading alpha.",
+    "original_topic": "LLMs in Hedge Funds & Trading",
+    "search_query": "LLM macroeconomic sentiment analysis financial news 2026",
+    "source_count": 12,
+    "tags": "Macroeconomics, LLMs, Sentiment Analysis, Alpha",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
