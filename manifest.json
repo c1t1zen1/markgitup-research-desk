@@ -19486,5 +19486,18 @@
     "source_count": 11,
     "tags": "Smart Contracts, LegalTech, AI Auditing, Blockchain",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1490,
+    "topic": "AI Companionship: Ethical Boundaries of Emotional Dependency in Digital Mental Health",
+    "file": "html/article-1490-ai-companionship-ethical-boundaries-of-emotional-dependency-in-digital-m-20261107-201414.html",
+    "timestamp": "20261107-201414",
+    "full_timestamp": "2026-11-07T20:14:14-08:00",
+    "summary": "Examining the psychological risks and ethical guardrails surrounding deep emotional attachment to therapeutic AI companions.",
+    "original_topic": "AI in Mental Health & Therapy",
+    "search_query": "AI companion therapy emotional dependency ethical concerns 2026",
+    "source_count": 12,
+    "tags": "AI Ethics, Digital Therapy, Emotional AI, Mental Health",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
