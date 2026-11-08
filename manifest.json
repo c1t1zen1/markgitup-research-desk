@@ -19551,5 +19551,18 @@
     "source_count": 12,
     "tags": "distributed inference, MLX, Mac mini, edge AI",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1495,
+    "topic": "Generative AI for Auditing Financial Statements: Detecting Synthetic Data Manipulation",
+    "file": "html/article-1495-generative-ai-for-auditing-financial-statements-detecting-synthetic-data-20261108-010628.html",
+    "timestamp": "20261108-010628",
+    "full_timestamp": "2026-11-08T01:06:28-08:00",
+    "summary": "Generative AI could manufacture convincing financial narratives; auditors need governance, traceable evidence, human judgment, and hands-on evaluation to detect synthetic manipulation.",
+    "original_topic": "Generative AI for Financial Reporting",
+    "search_query": "AI auditing synthetic financial data integrity 2026",
+    "source_count": 12,
+    "tags": "AI Auditing, Financial Fraud, XBRL, Synthetic Data",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
