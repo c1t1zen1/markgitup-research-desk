@@ -19434,5 +19434,18 @@
     "source_count": 12,
     "tags": "Digital Therapeutics, Neurodiversity, AI in Health, Personalized Medicine",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1486,
+    "topic": "Federated Learning on Mac: Privacy-Preserving Model Training with Local LLMs",
+    "file": "html/article-1486-federated-learning-on-mac-privacy-preserving-model-training-with-local-l-20261107-160508.html",
+    "timestamp": "20261107-160508",
+    "full_timestamp": "2026-11-07T16:05:08-08:00",
+    "summary": "Federated learning could let Mac-based local LLMs improve collaboratively without centralizing training data, but supplied evidence supports the mechanism more strongly than Mac-specific deployment.",
+    "original_topic": "Privacy-First Local AI on Mac",
+    "search_query": "federated learning on local devices macOS 2026",
+    "source_count": 12,
+    "tags": "Federated Learning, Privacy, Apple Silicon, Edge AI",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
