@@ -19473,5 +19473,18 @@
     "source_count": 12,
     "tags": "MCP security, local agents, macOS permissions",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1489,
+    "topic": "AI-Powered Contractual Risk Assessment: Detecting Hidden Liability in Smart Contracts",
+    "file": "html/article-1489-ai-powered-contractual-risk-assessment-detecting-hidden-liability-in-sma-20261107-191339.html",
+    "timestamp": "20261107-191339",
+    "full_timestamp": "2026-11-07T19:13:39-08:00",
+    "summary": "AI is emerging as a critical tool for auditing smart contracts, enabling the detection of hidden liabilities and ambiguities within self-executing code.",
+    "original_topic": "AI in Legal Systems & Law Practice",
+    "search_query": "AI contract risk assessment smart contracts legal 2026 latest",
+    "source_count": 11,
+    "tags": "Smart Contracts, LegalTech, AI Auditing, Blockchain",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
