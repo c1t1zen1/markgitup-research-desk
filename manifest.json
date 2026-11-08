@@ -19694,5 +19694,18 @@
     "source_count": 12,
     "tags": "MLX, mixture-of-experts, memory bandwidth, Apple Silicon",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1506,
+    "topic": "AI Short-Form Video: Synthetic Influencers Navigating Creator Economy IP Rights",
+    "file": "html/article-1506-ai-short-form-video-synthetic-influencers-navigating-creator-economy-ip-20261108-120421.html",
+    "timestamp": "20261108-120421",
+    "full_timestamp": "2026-11-08T12:04:21-08:00",
+    "summary": "AI-generated personalities may monetize creator-economy content, but disclosure duties, advertising liability, copyright uncertainty, platform licenses, and brand-protection questions remain unsettled.",
+    "original_topic": "AI Short Form Video & Social Media",
+    "search_query": "synthetic influencer intellectual property rights 2026",
+    "source_count": 12,
+    "tags": "AI, Creator Economy, IP Law, Synthetic Media",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
