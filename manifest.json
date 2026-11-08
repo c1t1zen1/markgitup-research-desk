@@ -19707,5 +19707,18 @@
     "source_count": 12,
     "tags": "AI, Creator Economy, IP Law, Synthetic Media",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1507,
+    "topic": "AI Detection of Synthetic Transaction Anomalies in Cross-Border Payments",
+    "file": "html/article-1507-ai-detection-of-synthetic-transaction-anomalies-in-cross-border-payments-20261108-130451.html",
+    "timestamp": "20261108-130451",
+    "full_timestamp": "2026-11-08T13:04:51-08:00",
+    "summary": "Cross-border payment fraud is becoming harder to separate from legitimate activity as AI scales realism, synthetic identities, and contextual anomalies, demanding lifecycle-aware detection without assuming every alert is genuine risk.",
+    "original_topic": "AI Fraud Detection in Banking & Finance",
+    "search_query": "AI fraud detection synthetic transaction cross-border payments 2026",
+    "source_count": 12,
+    "tags": "FinTech, AI Fraud, Cross-Border Payments, AML",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
