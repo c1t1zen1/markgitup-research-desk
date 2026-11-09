@@ -19902,5 +19902,18 @@
     "source_count": 10,
     "tags": "Election Integrity, AI Simulation, Political Modeling, Synthetic Reality",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1522,
+    "topic": "Graph AI Targets Mule Networks as Instant Payments Reshape Bank Fraud Defense",
+    "file": "html/article-1522-graph-ai-targets-mule-networks-as-instant-payments-reshape-bank-fraud-de-20261109-041545.html",
+    "timestamp": "20261109-041545",
+    "full_timestamp": "2026-11-09T04:15:45-08:00",
+    "summary": "Graph AI is revolutionizing banking fraud defense by mapping complex mule networks instead of just flagging isolated suspicious transactions.",
+    "original_topic": "AI Fraud Detection in Banking & Finance",
+    "search_query": "2026 banks graph AI mule accounts instant payment fraud detection",
+    "source_count": 12,
+    "tags": "graph AI, mule accounts, instant payments, banking fraud",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
