@@ -19759,5 +19759,18 @@
     "source_count": 11,
     "tags": "AI, Elections, Ethics, Microtargeting",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1511,
+    "topic": "LLMs for Market Microstructure: Predicting Order Book Dynamics with High-Frequency Data",
+    "file": "html/article-1511-llms-for-market-microstructure-predicting-order-book-dynamics-with-high-20261108-171427.html",
+    "timestamp": "20261108-171427",
+    "full_timestamp": "2026-11-08T17:14:27-08:00",
+    "summary": "Harnessing LLMs for Market Microstructure: Predicting Order Book Dynamics with High-Frequency Data",
+    "original_topic": "LLMs in Hedge Funds & Trading",
+    "search_query": "LLMs predicting order book dynamics high-frequency trading 2026 latest",
+    "source_count": 12,
+    "tags": "High-Frequency Trading, Market Microstructure, LLMs, Quantitative Finance",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
