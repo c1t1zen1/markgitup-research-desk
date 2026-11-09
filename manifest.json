@@ -19850,5 +19850,18 @@
     "source_count": 12,
     "tags": "Geopolitics, Risk Management, Portfolio Optimization, AI Finance",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1518,
+    "topic": "Real-Time Latency Reduction in Live AI Avatar Rendering for Global Broadcasts",
+    "file": "html/article-1518-real-time-latency-reduction-in-live-ai-avatar-rendering-for-global-broad-20261109-000446.html",
+    "timestamp": "20261109-000446",
+    "full_timestamp": "2026-11-09T00:04:46-08:00",
+    "summary": "Live AI avatars need latency control across rendering, encoding, transport, and interaction measurement; supplied evidence points to trade-offs, not a single universal optimization.",
+    "original_topic": "AI Video Avatars & Virtual Presenters",
+    "search_query": "low latency AI video avatar streaming 2026",
+    "source_count": 12,
+    "tags": "AI Avatars, Real-Time Rendering, Broadcast Tech, Low Latency",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
