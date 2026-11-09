@@ -19941,5 +19941,18 @@
     "source_count": 12,
     "tags": "Generative AI, Video Synthesis, Computer Vision, Post-Production",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1525,
+    "topic": "Watermark Evasion Tests AI Video Provenance as C2PA Adoption Accelerates",
+    "file": "html/article-1525-watermark-evasion-tests-ai-video-provenance-as-c2pa-adoption-accelerates-20261109-071510.html",
+    "timestamp": "20261109-071510",
+    "full_timestamp": "2026-11-09T07:15:10-08:00",
+    "summary": "As C2PA adoption accelerates, the critical test for AI video provenance is whether embedded watermarks survive real-world editing and recompression.",
+    "original_topic": "AI Video Generation Models",
+    "search_query": "2026 AI video watermark evasion C2PA provenance platform rollout",
+    "source_count": 12,
+    "tags": "AI video, provenance, C2PA, watermarking",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
