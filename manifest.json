@@ -19746,5 +19746,18 @@
     "source_count": 12,
     "tags": "AI Policy, Legislative Tech, Governance, Automation",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1510,
+    "topic": "AI Campaign Micro-Targeting: Ethical Boundaries of Hyper-Personalized Voter Persuasion",
+    "file": "html/article-1510-ai-campaign-micro-targeting-ethical-boundaries-of-hyper-personalized-vot-20261108-161413.html",
+    "timestamp": "20261108-161413",
+    "full_timestamp": "2026-11-08T16:14:13-08:00",
+    "summary": "Examining how advanced AI tailors political messaging to individual psychological profiles, this article explores the ethical tightrope of hyper-personalized voter persuasion.",
+    "original_topic": "AI in US Elections & Campaigns",
+    "search_query": "AI political micro-targeting ethical concerns 2026",
+    "source_count": 11,
+    "tags": "AI, Elections, Ethics, Microtargeting",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
