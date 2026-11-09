@@ -19954,5 +19954,18 @@
     "source_count": 12,
     "tags": "AI video, provenance, C2PA, watermarking",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1526,
+    "topic": "Synthetic Media Authenticity: Deepfakes in Live Broadcasts and Real-Time Verification",
+    "file": "html/article-1526-synthetic-media-authenticity-deepfakes-in-live-broadcasts-and-real-time-20261109-080440.html",
+    "timestamp": "20261109-080440",
+    "full_timestamp": "2026-11-09T08:04:40-08:00",
+    "summary": "Live broadcast deepfakes turn authenticity into a latency problem: detection must assess streaming audio and video quickly, while visual clues and vendor claims remain incomplete.",
+    "original_topic": "AI-Generated Video for Filmmaking & Content Creation",
+    "search_query": "real-time deepfake detection live broadcast 2026",
+    "source_count": 12,
+    "tags": "Deepfakes, Live Video, Media Forensics, AI Security",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
