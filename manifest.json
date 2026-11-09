@@ -20032,5 +20032,18 @@
     "source_count": 12,
     "tags": "AI Agents, Software Engineering, DevOps, Autonomous Systems",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1532,
+    "topic": "AI's New Frontier: Autonomous Cyber Defense in Nation-State Intelligence Operations",
+    "file": "html/article-1532-ai-s-new-frontier-autonomous-cyber-defense-in-nation-state-intelligence-20261109-141855.html",
+    "timestamp": "20261109-141855",
+    "full_timestamp": "2026-11-09T14:18:55-08:00",
+    "summary": "AI is shifting cyber defense from advisory to active execution, deploying autonomous agents to meet machine-speed threats in national security.",
+    "original_topic": "AI in US Intelligence & Surveillance",
+    "search_query": "AI autonomous cyber defense intelligence operations 2026",
+    "source_count": 12,
+    "tags": "AI, Cybersecurity, Intelligence, Autonomy",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
