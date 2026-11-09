@@ -19837,5 +19837,18 @@
     "source_count": 12,
     "tags": "AI Therapy, Digital Companions, Mental Health, Personalized Medicine",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1517,
+    "topic": "AI-Driven Portfolio Stress Testing Against Geopolitical Instability Scenarios",
+    "file": "html/article-1517-ai-driven-portfolio-stress-testing-against-geopolitical-instability-scen-20261108-231621.html",
+    "timestamp": "20261108-231621",
+    "full_timestamp": "2026-11-08T23:16:21-08:00",
+    "summary": "Simulating geopolitical shocks is the next frontier in portfolio management, leveraging AI to stress-test investments against global instability.",
+    "original_topic": "AI Stock Prediction & Market Analysis",
+    "search_query": "AI models geopolitical risk portfolio stress testing 2026",
+    "source_count": 12,
+    "tags": "Geopolitics, Risk Management, Portfolio Optimization, AI Finance",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
