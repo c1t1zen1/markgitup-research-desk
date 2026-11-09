@@ -19863,5 +19863,18 @@
     "source_count": 12,
     "tags": "AI Avatars, Real-Time Rendering, Broadcast Tech, Low Latency",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1519,
+    "topic": "Secure Local Model Fine-Tuning: Confidential Computing on Apple Silicon",
+    "file": "html/article-1519-secure-local-model-fine-tuning-confidential-computing-on-apple-silicon-20261109-011703.html",
+    "timestamp": "20261109-011703",
+    "full_timestamp": "2026-11-09T01:17:03-08:00",
+    "summary": "Harnessing Apple Silicon for Private LLMs: Exploring Confidential Model Fine-Tuning on Local Machines.",
+    "original_topic": "Privacy-First Local AI on Mac",
+    "search_query": "Confidential computing local LLM fine-tuning macOS 2026 latest",
+    "source_count": 12,
+    "tags": "Confidential Computing, Local AI, Fine-Tuning, Apple Silicon",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
