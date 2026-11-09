@@ -19993,5 +19993,18 @@
     "source_count": 12,
     "tags": "Synthetic Media, Live Video, AI Forensics, Broadcast Security",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1529,
+    "topic": "State AI Political-Ad Rules Set a First Major Test for 2026 Midterms",
+    "file": "html/article-1529-state-ai-political-ad-rules-set-a-first-major-test-for-2026-midterms-20261109-111630.html",
+    "timestamp": "20261109-111630",
+    "full_timestamp": "2026-11-09T11:16:30-08:00",
+    "summary": "State-level AI disclosure mandates are setting the compliance standard for 2026 political advertising, creating a complex patchwork.",
+    "original_topic": "Deepfake Legislation & Synthetic Media Laws",
+    "search_query": "state AI political ad disclosure laws 2026 midterm campaigns",
+    "source_count": 12,
+    "tags": "political ads,deepfakes,disclosure laws,2026 elections",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
