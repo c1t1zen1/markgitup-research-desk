@@ -19915,5 +19915,18 @@
     "source_count": 12,
     "tags": "graph AI, mule accounts, instant payments, banking fraud",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1523,
+    "topic": "Generative AI for Regulatory Compliance: Automating ESG Disclosure Narratives",
+    "file": "html/article-1523-generative-ai-for-regulatory-compliance-automating-esg-disclosure-narrat-20261109-050428.html",
+    "timestamp": "20261109-050428",
+    "full_timestamp": "2026-11-09T05:04:28-08:00",
+    "summary": "As ESG mandates expand, generative AI’s value shifts from collecting metrics to producing traceable, reviewable disclosure narratives grounded in evidence, controls, and evolving reporting frameworks.",
+    "original_topic": "Generative AI for Financial Reporting",
+    "search_query": "Generative AI ESG reporting compliance 2026",
+    "source_count": 12,
+    "tags": "ESG, RegulatoryTech, GenerativeAI, FinancialReporting",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
