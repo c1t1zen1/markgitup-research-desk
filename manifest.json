@@ -20045,5 +20045,18 @@
     "source_count": 12,
     "tags": "AI, Cybersecurity, Intelligence, Autonomy",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1533,
+    "topic": "Quantized LLMs Powering Edge Robotics: Real-Time Perception on Mac Hardware",
+    "file": "html/article-1533-quantized-llms-powering-edge-robotics-real-time-perception-on-mac-hardwa-20261109-150817.html",
+    "timestamp": "20261109-150817",
+    "full_timestamp": "2026-11-09T15:08:17-08:00",
+    "summary": "Quantization may make local language-model inference more practical on Apple Silicon, but the supplied evidence leaves real-time robotic perception, latency, and safety largely unverified.",
+    "original_topic": "Quantized LLMs Running on Mac Hardware",
+    "search_query": "LLM quantization robotics Apple Silicon perception 2026 latest",
+    "source_count": 12,
+    "tags": "Edge AI, Robotics, Quantization, Apple Silicon",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
