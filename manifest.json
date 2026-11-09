@@ -19967,5 +19967,18 @@
     "source_count": 12,
     "tags": "Deepfakes, Live Video, Media Forensics, AI Security",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1527,
+    "topic": "Prompt-Injection Attacks Could Turn Household AI Agents Against Their Own Smart Devices",
+    "file": "html/article-1527-prompt-injection-attacks-could-turn-household-ai-agents-against-their-ow-20261109-091411.html",
+    "timestamp": "20261109-091411",
+    "full_timestamp": "2026-11-09T09:14:11-08:00",
+    "summary": "Malicious data inputs could weaponize household AI agents, turning smart home automation against its users through prompt injection.",
+    "original_topic": "AI-Powered Smart Homes & Automation",
+    "search_query": "smart home AI agent prompt injection Matter security vulnerability 2026",
+    "source_count": 12,
+    "tags": "smart homes,AI agents,cybersecurity,Matter",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
