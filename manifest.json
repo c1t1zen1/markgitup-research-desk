@@ -20331,5 +20331,18 @@
     "source_count": 12,
     "tags": "Apple Silicon, LLM Inference, Neural Engine, Sparse Models",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1555,
+    "topic": "Washington’s 2026 AI Preemption Battle Could Rewrite State Safety Rules",
+    "file": "html/article-1555-washingtons-2026-ai-preemption-battle-could-rewrite-state-safety-rules-20261110-131517.html",
+    "timestamp": "20261110-131517",
+    "full_timestamp": "2026-11-10T13:15:17-08:00",
+    "summary": "Industry pushes for federal AI preemption, potentially sidelining state safety rules as Washington debates a national framework.",
+    "original_topic": "AI Lobbying & Policy in Washington",
+    "search_query": "Congress AI preemption state safety laws industry coalition lobbying November 2026",
+    "source_count": 12,
+    "tags": "federal preemption, state AI laws, congressional lobbying",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
