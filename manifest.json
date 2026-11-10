@@ -20149,5 +20149,18 @@
     "source_count": 12,
     "tags": "Wearables, Mental Health, AI Diagnostics, Biofeedback",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1541,
+    "topic": "Optimizing M-Series Silicon for Ultra-Low Latency LLM Inference in Mobile Edge",
+    "file": "html/article-1541-optimizing-m-series-silicon-for-ultra-low-latency-llm-inference-in-mobil-20261109-231453.html",
+    "timestamp": "20261109-231453",
+    "full_timestamp": "2026-11-09T23:14:53-08:00",
+    "summary": "Achieving ultra-low latency LLM inference on Apple M-series chips is critical for next-gen mobile edge AI experiences.",
+    "original_topic": "M Series Apple Silicon LLM Inference",
+    "search_query": "M-series LLM inference latency mobile 2026",
+    "source_count": 12,
+    "tags": "LLM, Apple Silicon, Edge AI, Low Latency",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
