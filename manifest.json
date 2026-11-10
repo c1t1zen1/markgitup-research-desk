@@ -20344,5 +20344,18 @@
     "source_count": 12,
     "tags": "federal preemption, state AI laws, congressional lobbying",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1556,
+    "topic": "Quantization Strategies for LLMs on Apple Silicon: Memory Footprint vs. Throughput",
+    "file": "html/article-1556-quantization-strategies-for-llms-on-apple-silicon-memory-footprint-vs-th-20261110-140635.html",
+    "timestamp": "20261110-140635",
+    "full_timestamp": "2026-11-10T14:06:35-08:00",
+    "summary": "Quantization can make larger LLMs fit on Apple Silicon, but smaller memory footprints do not automatically guarantee faster decoding.",
+    "original_topic": "M Series Apple Silicon LLM Inference",
+    "search_query": "LLM quantization performance Apple M-series 2026",
+    "source_count": 12,
+    "tags": "quantization, LLM, Apple Silicon, optimization",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
