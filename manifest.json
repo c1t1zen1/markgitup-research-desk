@@ -20292,5 +20292,18 @@
     "source_count": 12,
     "tags": "Local AI, Enterprise, macOS, Data Privacy",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1552,
+    "topic": "AI's Impact on Procedural Justice: Automated Evidence Review in High-Volume Litigation",
+    "file": "html/article-1552-ai-s-impact-on-procedural-justice-automated-evidence-review-in-high-volu-20261110-101324.html",
+    "timestamp": "20261110-101324",
+    "full_timestamp": "2026-11-10T10:13:24-08:00",
+    "summary": "Automated evidence review is reshaping discovery, forcing courts and practitioners to confront new challenges regarding procedural fairness and the burden of proof.",
+    "original_topic": "AI in Legal Systems & Law Practice",
+    "search_query": "AI evidence review legal discovery procedural justice 2026",
+    "source_count": 12,
+    "tags": "LegalTech, AI, Litigation, Procedural Justice",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
