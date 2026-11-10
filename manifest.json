@@ -20240,5 +20240,18 @@
     "source_count": 12,
     "tags": "DeFi, AI Trading, Risk Management, Smart Contracts",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1548,
+    "topic": "Real-Time De-Synthesizing AI Video: Detecting Deepfakes at the Source",
+    "file": "html/article-1548-real-time-de-synthesizing-ai-video-detecting-deepfakes-at-the-source-20261110-061346.html",
+    "timestamp": "20261110-061346",
+    "full_timestamp": "2026-11-10T06:13:46-08:00",
+    "summary": "As AI video generation nears photorealism, forensic countermeasures must evolve to detect deepfakes at their source.",
+    "original_topic": "AI-Generated Video for Filmmaking & Content Creation",
+    "search_query": "AI video forensic tools deepfake detection 2026",
+    "source_count": 12,
+    "tags": "Deepfake Detection, Media Forensics, Generative AI, Video Integrity",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
