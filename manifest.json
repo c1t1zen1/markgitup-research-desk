@@ -20175,5 +20175,18 @@
     "source_count": 12,
     "tags": "Ambient AI, IoT, Context Awareness, Proactive Systems",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1543,
+    "topic": "AI-Generated Short-Form Video's Impact on Creator Economy Monetization Models",
+    "file": "html/article-1543-ai-generated-short-form-video-s-impact-on-creator-economy-monetization-m-20261110-010503.html",
+    "timestamp": "20261110-010503",
+    "full_timestamp": "2026-11-10T01:05:03-08:00",
+    "summary": "AI video tools may widen the supply of polished short-form content, pressuring legacy payouts while accelerating shifts toward rights-aware, diversified, and service-led creator revenue.",
+    "original_topic": "AI Short Form Video & Social Media",
+    "search_query": "AI video generation creator economy monetization 2026",
+    "source_count": 12,
+    "tags": "Creator Economy, Generative AI, Monetization, Social Media",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
