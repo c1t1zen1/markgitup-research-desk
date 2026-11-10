@@ -20097,5 +20097,18 @@
     "source_count": 12,
     "tags": "Haptics, AI Avatars, Virtual Presence, XR",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1537,
+    "topic": "AI Agents Navigating Real-World IoT Ecosystems: Bridging Digital and Physical Control",
+    "file": "html/article-1537-ai-agents-navigating-real-world-iot-ecosystems-bridging-digital-and-phys-20261109-191713.html",
+    "timestamp": "20261109-191713",
+    "full_timestamp": "2026-11-09T19:17:13-08:00",
+    "summary": "AI agents are moving beyond code into physical control, orchestrating smart homes and industrial IoT systems.",
+    "original_topic": "Autonomous AI Code Agents",
+    "search_query": "AI agents controlling smart home IoT networks 2026",
+    "source_count": 12,
+    "tags": "IoT, Embodied AI, Agent Systems, Automation",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
