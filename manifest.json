@@ -20279,5 +20279,18 @@
     "source_count": 12,
     "tags": "AI Governance, Campaign Finance, Election Tech, Regulatory AI",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1551,
+    "topic": "Local LLMs on macOS: Bridging Privacy Gaps in Enterprise Knowledge Retrieval",
+    "file": "html/article-1551-local-llms-on-macos-bridging-privacy-gaps-in-enterprise-knowledge-retrie-20261110-090449.html",
+    "timestamp": "20261110-090449",
+    "full_timestamp": "2026-11-10T09:04:49-08:00",
+    "summary": "On-device LLMs could narrow enterprise privacy gaps on macOS, but supplied evidence supports a cautious pilot framework rather than proof of secure, production-ready knowledge retrieval.",
+    "original_topic": "Local AI Tools & Stacks for macOS",
+    "search_query": "macOS local LLM enterprise knowledge graph integration 2026 latest",
+    "source_count": 12,
+    "tags": "Local AI, Enterprise, macOS, Data Privacy",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
