@@ -20305,5 +20305,18 @@
     "source_count": 12,
     "tags": "LegalTech, AI, Litigation, Procedural Justice",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1553,
+    "topic": "On-Device LLMs and Secure Enclaves: Rethinking Privacy in macOS Ecosystems",
+    "file": "html/article-1553-on-device-llms-and-secure-enclaves-rethinking-privacy-in-macos-ecosystem-20261110-110843.html",
+    "timestamp": "20261110-110843",
+    "full_timestamp": "2026-11-10T11:08:43-08:00",
+    "summary": "On-device LLMs limit the execution path to a Mac, but Secure Enclave evidence supports a security boundary—not a blanket guarantee for prompts, weights, or outputs.",
+    "original_topic": "Privacy-First Local AI on Mac",
+    "search_query": "macOS secure enclave local model inference security 2026 latest",
+    "source_count": 12,
+    "tags": "macOS, LLM, Security, Privacy",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
