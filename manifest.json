@@ -20110,5 +20110,18 @@
     "source_count": 12,
     "tags": "IoT, Embodied AI, Agent Systems, Automation",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1538,
+    "topic": "AI-Driven Micro-Targeting of Election Narratives via Hyper-Personalized Synthetic Content",
+    "file": "html/article-1538-ai-driven-micro-targeting-of-election-narratives-via-hyper-personalized-20261109-200443.html",
+    "timestamp": "20261109-200443",
+    "full_timestamp": "2026-11-09T20:04:43-08:00",
+    "summary": "Election persuasion may be entering a more individualized phase, where AI-assisted targeting meets synthetic narratives, raising disclosure and verification challenges before evidence fully catches up.",
+    "original_topic": "AI Misinformation & Election Integrity",
+    "search_query": "micro-targeting synthetic media political campaigns 2026",
+    "source_count": 12,
+    "tags": "AI, Misinformation, Elections, Microtargeting",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
