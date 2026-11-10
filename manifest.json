@@ -20084,5 +20084,18 @@
     "source_count": 12,
     "tags": "Physics Simulation, Generative AI, 3D Consistency, Neural Rendering",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1536,
+    "topic": "Haptic Feedback in AI Avatars: Beyond Sight to Tactile Interaction",
+    "file": "html/article-1536-haptic-feedback-in-ai-avatars-beyond-sight-to-tactile-interaction-20261109-181441.html",
+    "timestamp": "20261109-181441",
+    "full_timestamp": "2026-11-09T18:14:41-08:00",
+    "summary": "Moving AI avatars beyond sight and sound, haptic feedback promises a new dimension of presence through tactile interaction.",
+    "original_topic": "AI Video Avatars & Virtual Presenters",
+    "search_query": "AI avatar haptic interface tactile feedback research 2026",
+    "source_count": 12,
+    "tags": "Haptics, AI Avatars, Virtual Presence, XR",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
