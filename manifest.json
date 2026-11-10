@@ -20227,5 +20227,18 @@
     "source_count": 12,
     "tags": "Behavioral Biometrics, AI Fraud, Banking Security, AML",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1547,
+    "topic": "AI Bot Risk Management in Decentralized Exchanges: Post-Mortems on Flash Loan Exploits",
+    "file": "html/article-1547-ai-bot-risk-management-in-decentralized-exchanges-post-mortems-on-flash-20261110-050735.html",
+    "timestamp": "20261110-050735",
+    "full_timestamp": "2026-11-10T05:07:35-08:00",
+    "summary": "DeFi trading bots fail where autonomous decisions meet manipulable oracles, poisoned inputs, and fast-moving flash-loan paths; post-mortems must examine controls, not just code.",
+    "original_topic": "AI Crypto Trading Bots & Performance",
+    "search_query": "AI trading bot risk management flash loan exploits DeFi 2026",
+    "source_count": 12,
+    "tags": "DeFi, AI Trading, Risk Management, Smart Contracts",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
