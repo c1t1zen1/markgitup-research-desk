@@ -20123,5 +20123,18 @@
     "source_count": 12,
     "tags": "AI, Misinformation, Elections, Microtargeting",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1539,
+    "topic": "Jurisdictional Conflicts in Cross-Border Synthetic Media Liability Enforcement",
+    "file": "html/article-1539-jurisdictional-conflicts-in-cross-border-synthetic-media-liability-enfor-20261109-210624.html",
+    "timestamp": "20261109-210624",
+    "full_timestamp": "2026-11-09T21:06:24-08:00",
+    "summary": "Synthetic media that crosses borders exposes a jurisdictional mismatch: national rules, private-law doctrines, and enforcement tools may not align when harm and publication span countries.",
+    "original_topic": "Deepfake Legislation & Synthetic Media Laws",
+    "search_query": "international law synthetic media liability cross-border 2026 latest",
+    "source_count": 12,
+    "tags": "Deepfake, International Law, AI Governance, Jurisdiction",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
