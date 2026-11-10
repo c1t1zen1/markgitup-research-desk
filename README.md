@@ -51,22 +51,22 @@ Twenty-four durable AI and technology topic families feed a local-first research
 Markgitup is an unattended research desk. A scheduled publisher on a Raspberry Pi completes the loop once per hour:
 
 1. Choose an unused family from a persistent 24-topic cycle.
-2. Ask a local model for a current angle and a primary plus adjacent search plan.
+2. Ask a local model for a current angle, headline, tags, and one focused search query.
 3. Reject recent or semantically overlapping queries before retrieval.
 4. Search self-hosted SearXNG; use Bing News RSS direct-publisher links if SearXNG returns no results.
 5. Require at least two unique sources before any article synthesis begins.
 6. Generate validated JSON only, then deterministically escape and render the article HTML.
 7. Update `manifest.json`, regenerate the static portal, commit, and push `main` for GitHub Pages.
 
-The LLM does not author executable markup. If local and fallback inference both fail, or evidence remains insufficient across the topic cycle, the run exits without mutating the public portal.
+The LLM does not author executable markup. If every inference tier fails, or evidence remains insufficient across the topic cycle, the run exits without mutating the public portal.
 
 ## How a dispatch gets made
 
 ```mermaid
 flowchart TD
-    A["Cron fires — 0 * * * *"] --> B["Draw unused family from 24-topic cycle"]
-    B --> C["Discover local model — GET /v1/models"]
-    C --> D["Propose angle, headline, primary + adjacent queries"]
+    A["Cron fires — 0 * * * *"] --> C["Discover local model — GET /v1/models"]
+    C --> B["Draw unused family from 24-topic cycle"]
+    B --> D["Propose angle, headline, tags, search query"]
     D --> E{"Recent / near-duplicate query?"}
     E -- "yes" --> D
     E -- "no" --> F["SearXNG deep search; Bing News RSS fallback"]
@@ -77,7 +77,7 @@ flowchart TD
     I --> J["Update manifest + regenerate index"]
     J --> K["Commit + push main → GitHub Pages"]
     G -. "24 families exhausted" .-> X["Abort — public portal unchanged"]
-    H -. "local + fallback failure" .-> X
+    H -. "all inference tiers fail" .-> X
 ```
 
 ### Freshness and coverage controls
@@ -87,7 +87,7 @@ flowchart TD
 | Topic cycle | `data/topic-cycle.json` prevents repeats until every one of 24 families has been attempted. |
 | Query ledger | `data/search-history.json` records every attempted query, including failed retrievals. |
 | Novelty cooldown | Exact and semantic near-duplicates are rejected for the configured 3-day window. |
-| Search breadth | A primary query plus 3–5 adjacent lenses are attempted; retained evidence is URL-deduplicated and capped at 12 sources. |
+| Search breadth | The angle query plus two derived variants (`<query> latest news`, `<headline> analysis developments`) are searched, skipping any that repeat a recent search; retained evidence is URL-deduplicated and capped at 12 sources. |
 | Source gate | Fewer than two unique sources discards the angle and advances to another family. Default retry budget: the complete 24-family cycle. |
 | Failure behavior | No source-only fallback articles. Failed runs leave the previous live portal intact. |
 
@@ -118,19 +118,25 @@ Additional cross-cutting families: AI mental health and therapy, AI legal practi
 
 ## Inference chain
 
-Markgitup is local-first.
+Markgitup is local-first. Inference is tiered by latency, fastest first.
 
 ```text
-Local OpenAI-compatible server
-  ├─ discover model dynamically through /v1/models
-  ├─ two bounded local attempts
+Tier 1: fast LAN OpenAI-compatible server (192.168.1.34:8080, then 192.168.0.219:8080)
+  ├─ discover model dynamically through /v1/models (two passes over candidates)
+  ├─ up to two bounded attempts, 20 min each, 60 min run budget
   ├─ DeepSeek V4: thinking-disabled streaming controls
   └─ legacy llama.cpp-compatible models: non-stream controls
           │
           └─ unavailable, timeout, or invalid JSON
                     │
                     ▼
-Fallback: GPT 5.6 Luna through Hermes openai-codex
+Tier 2: GPT 5.6 Luna through Hermes openai-codex
+                    │
+                    └─ failure
+                          │
+                          ▼
+Tier 3: slow on-box model at 127.0.0.1:8034
+  └─ up to two attempts, 45 min each, 3 h run budget
                     │
                     └─ failure → abort before public writes
 ```
@@ -186,7 +192,7 @@ Attribution and licenses appear in the visible disclosure and the versioned `cro
 ├── manifest.json                      # Published-dispatch ledger
 ├── html/                              # Standalone source-linked articles
 ├── BAD/                               # Quarantined zero-source reports
-├── data/
+├── data/                              # Local runtime state; gitignored, not tracked
 │   ├── topic-cycle.json               # Persistent 24-family cycle
 │   └── search-history.json            # Query novelty ledger
 ├── docs/                              # README visual assets
@@ -200,7 +206,7 @@ Attribution and licenses appear in the visible disclosure and the versioned `cro
     └── README.md                      # Sync, checks, and restore procedure
 ```
 
-> `cronjob/` is a versioned archive. Canonical source is `/home/pi/Documents/Hermes-Jetson/scripts/markgitup-html-cron.py`; edit and test it there, then synchronize this archive byte-for-byte. The scheduler launcher at `/home/pi/.hermes/scripts/markgitup-html-cron.py` executes the canonical source.
+> `cronjob/` is a versioned archive. Canonical source is `/home/pi/Documents/Hermes-Jetson/scripts/markgitup-html-cron.py`; edit and test it there, then synchronize this archive byte-for-byte. The scheduler launcher at `/home/pi/.hermes/scripts/markgitup-html-cron.py` executes the canonical source. As of 2026-11-09 the archived `markgitup-html-cron.py` and `test_markgitup_html_cron.py` predate the canonical tiered-inference changes of 2026-10-03; see [`cronjob/README.md`](cronjob/README.md).
 
 ## Configuration
 
@@ -208,14 +214,16 @@ Attribution and licenses appear in the visible disclosure and the versioned `cro
 |---|---|---|
 | `MARKGITUP_PORTAL_DIR` | `/home/pi/Documents/HTML-Portal` | Portal checkout to update and push |
 | `MARKGITUP_SEARXNG_URL` | `http://127.0.0.1:8888/search?q={}&format=json` | Primary metasearch endpoint |
-| `MARKGITUP_AI_API_URL` | `http://192.168.0.219:8080/v1/chat/completions` | Local OpenAI-compatible inference endpoint |
-| `MARKGITUP_MODEL` | `local-llm` | Degraded fallback selector if model discovery is unavailable |
+| `MARKGITUP_BING_NEWS_RSS_URL` | `https://www.bing.com/news/search?q={}&format=rss` | Fallback retriever when SearXNG returns no results or fails |
+| `MARKGITUP_AI_API_URL` | Built-in tiered list (see [Inference chain](#inference-chain)) | Comma-separated failover list of local chat endpoints; `127.0.0.1`/`localhost` entries form the slow on-box tier |
+| `MARKGITUP_MODEL` | `local-llm` (no preference) | Preferred model ID when `/v1/models` advertises several; otherwise the only or alphabetically first ID is used |
 | `MARKGITUP_CODEX_MODEL` | `gpt-5.6-luna` | Hermes fallback model |
 | `MARKGITUP_CODEX_PROVIDER` | `openai-codex` | Hermes fallback provider |
 | `MARKGITUP_STATUS_PATH` | `~/.hermes/cron/markgitup-local-inference-status.json` | Credential-free local inference heartbeat |
 | `MARKGITUP_MINIMUM_SOURCES` | `2` | Source gate floor; cannot be reduced below 2 |
 | `MARKGITUP_SOURCE_RETRIES` | `24` | Topic families attempted before a no-write abort |
 | `MARKGITUP_ANGLE_RETRIES` | `3` | Fresh angle attempts for one family |
+| `MARKGITUP_ARTICLE_SCHEMA_RETRIES` | `3` | Corrective attempts when article JSON omits required fields |
 | `MARKGITUP_COOLDOWN_DAYS` | `3` | Near-duplicate query cooldown |
 
 ## Running it
@@ -228,7 +236,7 @@ cd /home/pi/Documents/Hermes-Jetson
 python3 scripts/markgitup-html-cron.py --no-push
 
 # Override portal and services without editing source.
-MARKGITUP_PORTAL_DIR="$PWD" \
+MARKGITUP_PORTAL_DIR="/path/to/portal-checkout" \
 MARKGITUP_SEARXNG_URL="http://localhost:8888/search?q={}&format=json" \
 MARKGITUP_AI_API_URL="http://localhost:8080/v1/chat/completions" \
 python3 scripts/markgitup-html-cron.py --no-push
@@ -237,11 +245,7 @@ python3 scripts/markgitup-html-cron.py --no-push
 python3 -m http.server 8787
 ```
 
-Production schedule:
-
-```cron
-0 * * * * /usr/bin/python3 /home/pi/.hermes/scripts/markgitup-html-cron.py
-```
+Production schedule: the Hermes cron job "Markgitup HTML Research Synthesis" runs script-only at `0 * * * *`, executing the launcher `/home/pi/.hermes/scripts/markgitup-html-cron.py`. There is no system crontab entry.
 
 Never edit the root README from the hourly publisher. It is hand-maintained documentation.
 
@@ -270,13 +274,13 @@ python3 -m py_compile \
 git diff --check
 ```
 
-Current validated coverage:
+Test inventory as of 2026-11-09 (canonical files; the Node suite was run and passed that day, the Python suites were counted, not run):
 
-- **16 Node tests:** astronomy rise/set boundaries, phase/illumination, lunar terminator shading, WMO classification, private browser fetch behavior, malformed/stale data, timeout/abort handling, and fresh-visit behavior.
-- **53 Python tests:** publisher contracts, inference fallback behavior, progressive loading/search/exhaustion, desktop/mobile browser layout, weather states, Moon movement, provider failure, no GPS/storage, BFCache refresh, reduced motion, and offscreen particle pause.
-- The exact archive mirror is also tested from `HTML-Portal/cronjob/` before deployment.
+- **17 Node tests:** astronomy rise/set boundaries, phase/illumination, lunar terminator shading, WMO classification, private browser fetch behavior, malformed/stale data, timeout/abort handling, and fresh-visit behavior.
+- **65 Python tests** (46 publisher, 9 progressive-index browser, 10 weather browser): publisher contracts, tiered inference failover, progressive loading/search/exhaustion, desktop/mobile browser layout, weather states, Moon movement, provider failure, no GPS/storage, BFCache refresh, reduced motion, and offscreen particle pause.
+- Synchronize the archive mirror and test it from `HTML-Portal/cronjob/` before deployment.
 
-For deployment, wait for an active publisher to finish; fetch and compare `HEAD...origin/main`; stage only intended files; push without force; then verify `HEAD == origin/main`, remote file bytes, the Pages source, and a cache-busted live URL. Preserve unrelated runtime changes such as `data/topic-cycle.json`.
+For deployment, wait for an active publisher to finish; fetch and compare `HEAD...origin/main`; stage only intended files; push without force; then verify `HEAD == origin/main`, remote file bytes, the Pages source, and a cache-busted live URL. Runtime state under `data/` is gitignored and untracked; do not force-add it.
 
 ## Credits
 

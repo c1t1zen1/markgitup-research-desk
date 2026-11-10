@@ -7,13 +7,15 @@ Versioned archive of the Markgitup publisher and its regression tests. This dire
 - Canonical development script: `/home/pi/Documents/Hermes-Jetson/scripts/markgitup-html-cron.py`
 - Scheduler launcher: `/home/pi/.hermes/scripts/markgitup-html-cron.py`
 - Schedule: hourly, `0 * * * *`
-- Portal state: `../data/search-history.json` and `../data/topic-cycle.json`
+- Portal state: `../data/search-history.json` and `../data/topic-cycle.json` (gitignored local runtime state; not tracked)
 - Target branch: `main`
 - Portal `README.md`: hand-maintained. The publisher no longer generates it, so documentation edits survive hourly runs.
 - Source retrieval: SearXNG is primary; Bing News RSS supplies direct publisher links when local metasearch engines return no results.
-- Source policy: a zero-source or recent-query angle selects another topic; the default run considers all 24 topic families before aborting.
+- Source policy: an angle with fewer than two sources, or one that keeps repeating a recent query after its angle retries, selects another topic; the default run considers all 24 topic families before aborting.
 
 `markgitup-html-cron.py` in this archive must be byte-identical to the canonical development script. Edit the canonical file first, run tests, synchronize this archive, then publish the portal repository. Do not edit or execute the archived copy as the scheduler path.
+
+Sync status as of 2026-11-09: the archived `markgitup-html-cron.py` and `test_markgitup_html_cron.py` differ from the canonical copies. They were last synchronized on 2026-09-17 and lack the canonical tiered-inference changes committed on 2026-10-03 (LAN endpoint failover, with Codex tried before the slow on-box model). The launcher, both browser tests, and the `markgitup-weather/` assets match; the canonical bundle's `README.md` is not mirrored.
 
 ## Checks
 
@@ -53,7 +55,8 @@ Run archive tests from this directory using the existing Hermes Python environme
 
 ```bash
 /home/pi/.hermes/hermes-agent/venv/bin/python -m unittest \
-    test_markgitup_html_cron test_markgitup_index_browser -v
+    test_markgitup_html_cron test_markgitup_index_browser \
+    test_markgitup_weather_browser -v
 ```
 
 To regenerate only the index, import the canonical publisher and call `render_index()` with the existing manifest. Do not run the publisher's `main()` to refresh the index: that performs research and creates a new article. Wait for an in-flight cron run to finish, re-check remote ancestry and manifest stability, and stage only the intended portal files. Do not include unrelated runtime ledger changes.

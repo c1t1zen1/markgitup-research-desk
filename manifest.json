@@ -20058,5 +20058,18 @@
     "source_count": 12,
     "tags": "Edge AI, Robotics, Quantization, Apple Silicon",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1534,
+    "topic": "AI Lobbying Transparency: Auditing Algorithmic Influence in Congressional Policy Drafting",
+    "file": "html/article-1534-ai-lobbying-transparency-auditing-algorithmic-influence-in-congressional-20261109-160434.html",
+    "timestamp": "20261109-160434",
+    "full_timestamp": "2026-11-09T16:04:34-08:00",
+    "summary": "AI lobbying transparency must move beyond declaring tool use toward auditing the inputs, intermediaries, spending patterns, and influence pathways shaping congressional policy drafts.",
+    "original_topic": "AI Lobbying & Policy in Washington",
+    "search_query": "AI influence lobbying disclosure requirements 2026",
+    "source_count": 12,
+    "tags": "AI Policy, Lobbying, Transparency, Governance",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
