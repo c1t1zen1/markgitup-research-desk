@@ -20214,5 +20214,18 @@
     "source_count": 12,
     "tags": "Quantum Security, Signals Intelligence, AI, Cryptography",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1546,
+    "topic": "Real-Time Behavioral Biometrics for Detecting AI-Driven Account Takeovers in Digital Banking",
+    "file": "html/article-1546-real-time-behavioral-biometrics-for-detecting-ai-driven-account-takeover-20261110-040450.html",
+    "timestamp": "20261110-040450",
+    "full_timestamp": "2026-11-10T04:04:50-08:00",
+    "summary": "The proposed detection angle is timely, but supplied evidence defines “behavioral” and discusses advertising privacy—not biometrics, banking fraud, account takeovers, or synthetic identities.",
+    "original_topic": "AI Fraud Detection in Banking & Finance",
+    "search_query": "Behavioral biometrics AI fraud detection banking 2026",
+    "source_count": 12,
+    "tags": "Behavioral Biometrics, AI Fraud, Banking Security, AML",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
