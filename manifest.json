@@ -20188,5 +20188,18 @@
     "source_count": 12,
     "tags": "Creator Economy, Generative AI, Monetization, Social Media",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1544,
+    "topic": "AI Video Editors Mastering Temporal Consistency in Long-Form Narrative Generation",
+    "file": "html/article-1544-ai-video-editors-mastering-temporal-consistency-in-long-form-narrative-g-20261110-021152.html",
+    "timestamp": "20261110-021152",
+    "full_timestamp": "2026-11-10T02:11:52-08:00",
+    "summary": "AI video generation is pushing past short clips, forcing researchers to tackle the complex challenge of maintaining visual and narrative consistency in long-form content.",
+    "original_topic": "AI-Powered Video Editing & Post-Production",
+    "search_query": "AI video editing temporal consistency long-form 2026 latest",
+    "source_count": 2,
+    "tags": "Generative Video, Temporal Coherence, Post-Production, AI Editing",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
