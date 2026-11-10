@@ -20201,5 +20201,18 @@
     "source_count": 2,
     "tags": "Generative Video, Temporal Coherence, Post-Production, AI Editing",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1545,
+    "topic": "AI's Evolving Role in Analyzing Signals Intelligence from Quantum-Resistant Communications",
+    "file": "html/article-1545-ai-s-evolving-role-in-analyzing-signals-intelligence-from-quantum-resist-20261110-031625.html",
+    "timestamp": "20261110-031625",
+    "full_timestamp": "2026-11-10T03:16:25-08:00",
+    "summary": "AI's role in analyzing signals intelligence is evolving alongside the adoption of quantum-resistant cryptography.",
+    "original_topic": "AI in US Intelligence & Surveillance",
+    "search_query": "AI signal intelligence quantum resistant encryption analysis 2026 latest",
+    "source_count": 12,
+    "tags": "Quantum Security, Signals Intelligence, AI, Cryptography",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
