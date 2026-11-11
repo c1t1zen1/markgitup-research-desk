@@ -20474,5 +20474,18 @@
     "source_count": 12,
     "tags": "AI Ethics, Virtual Presence, Emotional AI, Digital Identity",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1566,
+    "topic": "Autonomous Trading Agents Face a New Market-Manipulation Test in 2026",
+    "file": "html/article-1566-autonomous-trading-agents-face-a-new-market-manipulation-test-in-2026-20261111-000445.html",
+    "timestamp": "20261111-000445",
+    "full_timestamp": "2026-11-11T00:04:45-08:00",
+    "summary": "Sparse 2026 search evidence offers no verified regulatory record, leaving autonomous trading manipulation rules an open question rather than an established market development.",
+    "original_topic": "AI Stock Prediction & Market Analysis",
+    "search_query": "2026 SEC AI trading enforcement autonomous agents market manipulation",
+    "source_count": 10,
+    "tags": "autonomous trading,SEC,market manipulation,AI regulation",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
