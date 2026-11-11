@@ -20565,5 +20565,18 @@
     "source_count": 12,
     "tags": "macOS, Security, LocalAI, Sandboxing",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1573,
+    "topic": "AI's Role in Detecting Synthetic Identity Fraud Using Network Graph Analysis",
+    "file": "html/article-1573-ai-s-role-in-detecting-synthetic-identity-fraud-using-network-graph-anal-20261111-070515.html",
+    "timestamp": "20261111-070515",
+    "full_timestamp": "2026-11-11T07:05:15-08:00",
+    "summary": "Network graphs let AI connect real and fabricated identity elements, exposing hidden relationships and coordinated anomalies that transaction-by-transaction rules may miss.",
+    "original_topic": "AI Fraud Detection in Banking & Finance",
+    "search_query": "synthetic identity fraud detection graph neural networks 2026",
+    "source_count": 12,
+    "tags": "Synthetic Identity, Graph AI, Fraud Detection, KYC",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
