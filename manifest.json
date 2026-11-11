@@ -20552,5 +20552,18 @@
     "source_count": 12,
     "tags": "Edge AI, Quantization, IoT, LLMs",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1572,
+    "topic": "macOS Sandbox Security and Local AI Model Execution: A Deep Dive",
+    "file": "html/article-1572-macos-sandbox-security-and-local-ai-model-execution-a-deep-dive-20261111-060536.html",
+    "timestamp": "20261111-060536",
+    "full_timestamp": "2026-11-11T06:05:36-08:00",
+    "summary": "macOS local AI deployment sits between strong host isolation and demanding model workloads, making permission boundaries, sandbox design, and escape evidence operationally decisive.",
+    "original_topic": "Local AI Tools & Stacks for macOS",
+    "search_query": "macOS security sandbox LLM local execution 2026",
+    "source_count": 12,
+    "tags": "macOS, Security, LocalAI, Sandboxing",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
