@@ -20487,5 +20487,18 @@
     "source_count": 10,
     "tags": "autonomous trading,SEC,market manipulation,AI regulation",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1567,
+    "topic": "AI-Generated Content Provenance: New Standards for Election Media Authenticity",
+    "file": "html/article-1567-ai-generated-content-provenance-new-standards-for-election-media-authent-20261111-010354.html",
+    "timestamp": "20261111-010354",
+    "full_timestamp": "2026-11-11T01:03:54-08:00",
+    "summary": "Election media provenance standards such as C2PA could make synthetic manipulation easier to assess, but available evidence also warns that implementation remains incomplete and vulnerable to misuse.",
+    "original_topic": "AI Misinformation & Election Integrity",
+    "search_query": "C2PA standards election misinformation 2026",
+    "source_count": 12,
+    "tags": "C2PA, Media Provenance, Election Integrity, Deepfakes",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
