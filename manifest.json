@@ -20656,5 +20656,18 @@
     "source_count": 12,
     "tags": "FinTech, AI Fraud, HFT, Real-Time Security",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1580,
+    "topic": "Decentralized Autonomous Organizations and AI: Governance in Crypto DAOs",
+    "file": "html/article-1580-decentralized-autonomous-organizations-and-ai-governance-in-crypto-daos-20261111-141347.html",
+    "timestamp": "20261111-141347",
+    "full_timestamp": "2026-11-11T14:13:47-08:00",
+    "summary": "Exploring the complex governance landscape where AI agents intersect with Decentralized Autonomous Organizations in the evolving crypto ecosystem.",
+    "original_topic": "AI Crypto Trading Bots & Performance",
+    "search_query": "AI governance decentralized autonomous organizations crypto 2026 latest",
+    "source_count": 12,
+    "tags": "DAO, AI Governance, Crypto, Decentralization",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
