@@ -20513,5 +20513,18 @@
     "source_count": 12,
     "tags": "AI therapy, emotional dependency, digital wellness, ethics",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1569,
+    "topic": "Campaign AI Disclosure Rules Turn Political Ads Into Compliance Minefields",
+    "file": "html/article-1569-campaign-ai-disclosure-rules-turn-political-ads-into-compliance-minefiel-20261111-030440.html",
+    "timestamp": "20261111-030440",
+    "full_timestamp": "2026-11-11T03:04:40-08:00",
+    "summary": "The supplied evidence does not document disclosure rules, leaving campaign compliance claims unverified while election calendars and results establish only the broader 2026 context.",
+    "original_topic": "AI in US Elections & Campaigns",
+    "search_query": "2026 election campaign AI disclosure rules political advertising enforcement",
+    "source_count": 12,
+    "tags": "campaign finance,political advertising,AI disclosure,election law",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
