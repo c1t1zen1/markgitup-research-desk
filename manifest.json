@@ -20630,5 +20630,18 @@
     "source_count": 12,
     "tags": "Cybersecurity, Intelligence, Behavioral Analytics, AI Operations",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1578,
+    "topic": "Neural Rendering Pipelines: Integrating Diffusion Models with Real-Time Game Engines",
+    "file": "html/article-1578-neural-rendering-pipelines-integrating-diffusion-models-with-real-time-g-20261111-120359.html",
+    "timestamp": "20261111-120359",
+    "full_timestamp": "2026-11-11T12:03:59-08:00",
+    "summary": "GameNGen suggests diffusion models can move from generating frames to simulating interactive worlds, but production pipelines still face substantial engineering uncertainty.",
+    "original_topic": "AI-Generated Video for Filmmaking & Content Creation",
+    "search_query": "diffusion models real-time rendering game engines 2026",
+    "source_count": 12,
+    "tags": "Neural Rendering, Real-Time Graphics, Diffusion Models, Game Engine",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
