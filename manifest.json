@@ -20617,5 +20617,18 @@
     "source_count": 12,
     "tags": "Ambient Intelligence, Cognitive Computing, IoT, Human-AI Interaction",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1577,
+    "topic": "AI-Driven Behavioral Profiling in Cyber Operations: New Frontiers in Intelligence Gathering",
+    "file": "html/article-1577-ai-driven-behavioral-profiling-in-cyber-operations-new-frontiers-in-inte-20261111-110353.html",
+    "timestamp": "20261111-110353",
+    "full_timestamp": "2026-11-11T11:03:53-08:00",
+    "summary": "AI could move cyber intelligence from detecting threats toward predicting behavior, but supplied evidence supports the possibility—not proof—of operational deployment or effectiveness.",
+    "original_topic": "AI in US Intelligence & Surveillance",
+    "search_query": "AI behavioral profiling US intelligence cybersecurity 2026",
+    "source_count": 12,
+    "tags": "Cybersecurity, Intelligence, Behavioral Analytics, AI Operations",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
