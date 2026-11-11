@@ -20604,5 +20604,18 @@
     "source_count": 10,
     "tags": "Industrial AI, Simulation, Sensor Data, Video Generation",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1576,
+    "topic": "Ambient Intelligence: AI Systems Adapting to Human Cognitive Load in Smart Homes",
+    "file": "html/article-1576-ambient-intelligence-ai-systems-adapting-to-human-cognitive-load-in-smar-20261111-100351.html",
+    "timestamp": "20261111-100351",
+    "full_timestamp": "2026-11-11T10:03:51-08:00",
+    "summary": "Ambient intelligence promises homes that respond to inferred cognitive load, but supplied evidence supports only cautious framing, not demonstrated mental-state adaptation.",
+    "original_topic": "AI-Powered Smart Homes & Automation",
+    "search_query": "AI cognitive load monitoring smart homes 2026",
+    "source_count": 12,
+    "tags": "Ambient Intelligence, Cognitive Computing, IoT, Human-AI Interaction",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
