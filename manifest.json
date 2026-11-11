@@ -20461,5 +20461,18 @@
     "source_count": 12,
     "tags": "Apple Silicon, LLM, Fine-Tuning, Memory Optimization",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1565,
+    "topic": "Hyper-Realistic Avatars: The Ethics of Emotional Mimicry in AI Presenters",
+    "file": "html/article-1565-hyper-realistic-avatars-the-ethics-of-emotional-mimicry-in-ai-presenters-20261110-230522.html",
+    "timestamp": "20261110-230522",
+    "full_timestamp": "2026-11-10T23:05:22-08:00",
+    "summary": "The ethical question is not whether AI can look human, but whether emotionally persuasive presenters could blur agency, trust, and accountability before evidence supports their social claims.",
+    "original_topic": "AI Video Avatars & Virtual Presenters",
+    "search_query": "AI avatar emotional fidelity ethical concerns 2026",
+    "source_count": 12,
+    "tags": "AI Ethics, Virtual Presence, Emotional AI, Digital Identity",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
