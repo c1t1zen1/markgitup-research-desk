@@ -20591,5 +20591,18 @@
     "source_count": 12,
     "tags": "Federated Learning, Privacy, Local AI, Apple Silicon",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1575,
+    "topic": "AI Video Generation and Real-Time Sensor Data Integration for Industrial Simulation",
+    "file": "html/article-1575-ai-video-generation-and-real-time-sensor-data-integration-for-industrial-20261111-090355.html",
+    "timestamp": "20261111-090355",
+    "full_timestamp": "2026-11-11T09:03:55-08:00",
+    "summary": "AI video could evolve from creative generation toward sensor-informed industrial simulation, but supplied evidence supports the concept only as a cautious forecast.",
+    "original_topic": "AI Video Generation Models",
+    "search_query": "AI video generation industrial simulation sensor fusion 2026",
+    "source_count": 10,
+    "tags": "Industrial AI, Simulation, Sensor Data, Video Generation",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
