@@ -20396,5 +20396,18 @@
     "source_count": 12,
     "tags": "XBRL, Financial Reporting, Regulatory Tech, Generative AI",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1560,
+    "topic": "LLMs and Synthetic Data Generation: New Risks in High-Frequency Trading Simulation",
+    "file": "html/article-1560-llms-and-synthetic-data-generation-new-risks-in-high-frequency-trading-s-20261110-181445.html",
+    "timestamp": "20261110-181445",
+    "full_timestamp": "2026-11-10T18:14:45-08:00",
+    "summary": "Examining the subtle dangers of synthetic data: LLMs risk embedding non-stationary biases into high-frequency trading simulations.",
+    "original_topic": "LLMs in Hedge Funds & Trading",
+    "search_query": "LLM synthetic data financial market simulation risk 2026 latest",
+    "source_count": 12,
+    "tags": "LLMs, Quantitative Finance, Synthetic Data, Market Risk",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
