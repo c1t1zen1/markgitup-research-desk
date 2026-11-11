@@ -20539,5 +20539,18 @@
     "source_count": 12,
     "tags": "AI Security, Software Engineering, Supply Chain, Vulnerability",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1571,
+    "topic": "Quantized LLMs and Edge Computing: Real-Time Local Inference for IoT Devices",
+    "file": "html/article-1571-quantized-llms-and-edge-computing-real-time-local-inference-for-iot-devi-20261111-050408.html",
+    "timestamp": "20261111-050408",
+    "full_timestamp": "2026-11-11T05:04:08-08:00",
+    "summary": "Quantization offers a plausible route to local language-model inference on constrained edge hardware, but the supplied evidence does not establish IoT latency, power, accuracy, or deployment results.",
+    "original_topic": "Quantized LLMs Running on Mac Hardware",
+    "search_query": "quantized LLM deployment on edge devices 2026",
+    "source_count": 12,
+    "tags": "Edge AI, Quantization, IoT, LLMs",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
