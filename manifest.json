@@ -20409,5 +20409,18 @@
     "source_count": 12,
     "tags": "LLMs, Quantitative Finance, Synthetic Data, Market Risk",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1561,
+    "topic": "AI Video Synthesis and Copyright: The New Frontier of Digital Ownership",
+    "file": "html/article-1561-ai-video-synthesis-and-copyright-the-new-frontier-of-digital-ownership-20261110-191256.html",
+    "timestamp": "20261110-191256",
+    "full_timestamp": "2026-11-10T19:12:56-08:00",
+    "summary": "Navigating the murky waters of AI-generated content, this article examines the evolving legal landscape of copyright and digital ownership.",
+    "original_topic": "AI Short Form Video & Social Media",
+    "search_query": "AI-generated content copyright law 2026",
+    "source_count": 12,
+    "tags": "Generative AI, Copyright Law, Digital Media, IP",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
