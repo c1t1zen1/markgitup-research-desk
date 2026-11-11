@@ -20448,5 +20448,18 @@
     "source_count": 12,
     "tags": "Jurisdiction, International Law, Deepfakes, Governance",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1564,
+    "topic": "Optimizing Large Language Model Fine-Tuning for Apple Silicon’s Unified Memory Architecture",
+    "file": "html/article-1564-optimizing-large-language-model-fine-tuning-for-apple-silicons-unified-m-20261110-220447.html",
+    "timestamp": "20261110-220447",
+    "full_timestamp": "2026-11-10T22:04:47-08:00",
+    "summary": "Fine-tuning on Apple Silicon turns model size, unified-memory capacity, bandwidth, quantization, and software execution into one coupled design problem.",
+    "original_topic": "AI Development Tools for Apple Silicon",
+    "search_query": "LLM fine-tuning unified memory Apple Silicon performance 2026 latest",
+    "source_count": 12,
+    "tags": "Apple Silicon, LLM, Fine-Tuning, Memory Optimization",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
