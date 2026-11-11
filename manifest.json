@@ -20370,5 +20370,18 @@
     "source_count": 12,
     "tags": "algorithmic sentencing, due process, legal AI",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1558,
+    "topic": "AI Agents Navigating DeFi: Autonomous Strategy Execution in Volatile Crypto Markets",
+    "file": "html/article-1558-ai-agents-navigating-defi-autonomous-strategy-execution-in-volatile-cryp-20261110-161316.html",
+    "timestamp": "20261110-161316",
+    "full_timestamp": "2026-11-10T16:13:16-08:00",
+    "summary": "AI agents are evolving beyond simple bots to become self-directed entities managing complex DeFi strategies autonomously.",
+    "original_topic": "AI Crypto Trading Bots & Performance",
+    "search_query": "autonomous AI agents decentralized finance strategy execution 2026",
+    "source_count": 12,
+    "tags": "AI agents, DeFi, automated trading, crypto",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
