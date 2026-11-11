@@ -20669,5 +20669,18 @@
     "source_count": 12,
     "tags": "DAO, AI Governance, Crypto, Decentralization",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1581,
+    "topic": "Edge AI and Energy Efficiency: Powering Smart Homes with Neuromorphic Computing",
+    "file": "html/article-1581-edge-ai-and-energy-efficiency-powering-smart-homes-with-neuromorphic-com-20261111-150405.html",
+    "timestamp": "20261111-150405",
+    "full_timestamp": "2026-11-11T15:04:05-08:00",
+    "summary": "Neuromorphic hardware could make edge AI more energy-aware, but supplied evidence supports a targeted opportunity—not a proven household revolution.",
+    "original_topic": "AI-Powered Smart Homes & Automation",
+    "search_query": "neuromorphic computing smart home energy consumption 2026",
+    "source_count": 12,
+    "tags": "Neuromorphic, Edge AI, IoT, Energy Efficiency",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
