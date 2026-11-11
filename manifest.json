@@ -20422,5 +20422,18 @@
     "source_count": 12,
     "tags": "Generative AI, Copyright Law, Digital Media, IP",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1562,
+    "topic": "Interactive AI Directors: Real-Time Scene Branching in Generative Filmmaking",
+    "file": "html/article-1562-interactive-ai-directors-real-time-scene-branching-in-generative-filmmak-20261110-200419.html",
+    "timestamp": "20261110-200419",
+    "full_timestamp": "2026-11-10T20:04:19-08:00",
+    "summary": "Generative filmmaking may move from fixed clips toward responsive stories, but supplied evidence supports branching and real-time AI capabilities—not yet a demonstrated interactive AI director.",
+    "original_topic": "AI-Generated Video for Filmmaking & Content Creation",
+    "search_query": "AI interactive narrative video branching 2026",
+    "source_count": 12,
+    "tags": "Generative Video, Interactive Media, Filmmaking, AI Directing",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
