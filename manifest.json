@@ -20383,5 +20383,18 @@
     "source_count": 12,
     "tags": "AI agents, DeFi, automated trading, crypto",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1559,
+    "topic": "Generative AI's Impact on XBRL Tagging and Regulatory Compliance Automation",
+    "file": "html/article-1559-generative-ai-s-impact-on-xbrl-tagging-and-regulatory-compliance-automat-20261110-171037.html",
+    "timestamp": "20261110-171037",
+    "full_timestamp": "2026-11-10T17:10:37-08:00",
+    "summary": "Generative AI is moving XBRL work toward assisted tagging and validation, but current evidence points to human accountability, taxonomy limits, security controls, and cautious compliance automation.",
+    "original_topic": "Generative AI for Financial Reporting",
+    "search_query": "Generative AI XBRL tagging financial reporting compliance 2026",
+    "source_count": 12,
+    "tags": "XBRL, Financial Reporting, Regulatory Tech, Generative AI",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
