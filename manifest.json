@@ -20773,5 +20773,18 @@
     "source_count": 12,
     "tags": "AI Governance, Political Tech, Regulation, Lobbying",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1589,
+    "topic": "M-Series LLM Inference: Bridging On-Device AI and Cloud API Latency",
+    "file": "html/article-1589-m-series-llm-inference-bridging-on-device-ai-and-cloud-api-latency-20261111-230352.html",
+    "timestamp": "20261111-230352",
+    "full_timestamp": "2026-11-11T23:03:52-08:00",
+    "summary": "Supplied evidence cannot support claims about Apple Silicon, local LLM performance, cloud latency, or hybrid architectures; rigorous conclusions therefore remain limited to source-quality assessment.",
+    "original_topic": "M Series Apple Silicon LLM Inference",
+    "search_query": "M-series silicon local LLM latency benchmarks 2026",
+    "source_count": 10,
+    "tags": "Apple Silicon, LLM Inference, Edge AI, Latency",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
