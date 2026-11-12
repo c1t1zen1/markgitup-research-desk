@@ -20955,5 +20955,18 @@
     "source_count": 12,
     "tags": "SmartGrid, ClimateTech, EnergyAI, Resilience",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1603,
+    "topic": "AI's Impact on Jurisprudence: Algorithmic Bias in Predictive Sentencing Post-2026",
+    "file": "html/article-1603-ai-s-impact-on-jurisprudence-algorithmic-bias-in-predictive-sentencing-p-20261112-130400.html",
+    "timestamp": "20261112-130400",
+    "full_timestamp": "2026-11-12T13:04:00-08:00",
+    "summary": "Post-2026 scrutiny is shifting from AI’s promise of consistency to whether opaque risk tools reproduce systemic bias in judicial outcomes.",
+    "original_topic": "AI in Legal Systems & Law Practice",
+    "search_query": "algorithmic bias predictive sentencing legal systems 2026",
+    "source_count": 12,
+    "tags": "LegalTech, Bias, Sentencing, AI Ethics",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
