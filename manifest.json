@@ -20981,5 +20981,18 @@
     "source_count": 12,
     "tags": "macOS, local AI, MCP, privacy",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1605,
+    "topic": "AI Post-Production Workflows: Integrating Real-Time VFX and Interactive Editing",
+    "file": "html/article-1605-ai-post-production-workflows-integrating-real-time-vfx-and-interactive-e-20261112-150534.html",
+    "timestamp": "20261112-150534",
+    "full_timestamp": "2026-11-12T15:05:34-08:00",
+    "summary": "AI is moving VFX toward interactive, real-time workflows, but supplied evidence supports a cautious transition story rather than proof of production-wide replacement.",
+    "original_topic": "AI-Powered Video Editing & Post-Production",
+    "search_query": "real-time VFX integration generative video workflows 2026",
+    "source_count": 12,
+    "tags": "VFX, Real-Time, Post-Production, Interactive Media",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
