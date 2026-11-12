@@ -20682,5 +20682,18 @@
     "source_count": 12,
     "tags": "Neuromorphic, Edge AI, IoT, Energy Efficiency",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1582,
+    "topic": "LLMs as Counterparty Risk Assessors in Decentralized Finance Protocols",
+    "file": "html/article-1582-llms-as-counterparty-risk-assessors-in-decentralized-finance-protocols-20261111-160358.html",
+    "timestamp": "20261111-160358",
+    "full_timestamp": "2026-11-11T16:03:58-08:00",
+    "summary": "LLMs may help DeFi risk teams connect code, controls, wallets, oracles, and governance signals—but supplied evidence supports a monitoring concept, not proof of mature deployment.",
+    "original_topic": "LLMs in Hedge Funds & Trading",
+    "search_query": "LLMs assessing counterparty risk DeFi protocols 2026",
+    "source_count": 12,
+    "tags": "DeFi, LLMs, Risk Management, Blockchain",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
