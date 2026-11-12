@@ -20890,5 +20890,18 @@
     "source_count": 12,
     "tags": "e-discovery, legal tech, AI, litigation",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1598,
+    "topic": "Real-Time Emotional Resonance: AI Avatars Adapting to Live Audience Feedback",
+    "file": "html/article-1598-real-time-emotional-resonance-ai-avatars-adapting-to-live-audience-feedb-20261112-080402.html",
+    "timestamp": "20261112-080402",
+    "full_timestamp": "2026-11-12T08:04:02-08:00",
+    "summary": "Real-time avatars are moving toward two-way interaction, but audience-sentiment adaptation remains an emerging possibility rather than a demonstrated capability in the supplied evidence.",
+    "original_topic": "AI Video Avatars & Virtual Presenters",
+    "search_query": "AI avatar emotional response live audience interaction 2026 latest",
+    "source_count": 12,
+    "tags": "AI Avatars, Real-Time Interaction, Affective Computing, Virtual Presenters",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
