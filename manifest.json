@@ -20929,5 +20929,18 @@
     "source_count": 12,
     "tags": "Healthcare AI, Local LLM, Data Privacy, Edge Computing",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1601,
+    "topic": "AI Short-Form Video: The Rise of Micro-Influencer Automation and Synthetic Persona Networks",
+    "file": "html/article-1601-ai-short-form-video-the-rise-of-micro-influencer-automation-and-syntheti-20261112-110400.html",
+    "timestamp": "20261112-110400",
+    "full_timestamp": "2026-11-12T11:04:00-08:00",
+    "summary": "AI may shift short-form marketing from producing isolated clips to coordinating synthetic micro-influencer portfolios, but supplied evidence supports this as a projection, not an established market fact.",
+    "original_topic": "AI Short Form Video & Social Media",
+    "search_query": "AI automation micro-influencer marketing 2026",
+    "source_count": 12,
+    "tags": "AI Marketing, Synthetic Media, Influencer Economy, Short-Form Video",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
