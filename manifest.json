@@ -20734,5 +20734,18 @@
     "source_count": 12,
     "tags": "MLX, unified memory, long context, MacBook Pro",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1586,
+    "topic": "AI-Generated Narratives and Voter Cognitive Biases in Digital Elections",
+    "file": "html/article-1586-ai-generated-narratives-and-voter-cognitive-biases-in-digital-elections-20261111-200607.html",
+    "timestamp": "20261111-200607",
+    "full_timestamp": "2026-11-11T20:06:07-08:00",
+    "summary": "AI-generated election narratives may influence voters by shaping interpretation, trust, and emotional response, but supplied evidence remains uneven and requires cautious evaluation.",
+    "original_topic": "AI Misinformation & Election Integrity",
+    "search_query": "AI narrative manipulation voter psychology 2026",
+    "source_count": 12,
+    "tags": "AI, Misinformation, Elections, Cognitive Bias",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
