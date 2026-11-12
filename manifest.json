@@ -20812,5 +20812,18 @@
     "source_count": 12,
     "tags": "AI Agents, Software Engineering, Legacy Systems, DevOps",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1592,
+    "topic": "AI Companions in Therapy: Addressing Digital Empathy and Therapeutic Alliance Gaps",
+    "file": "html/article-1592-ai-companions-in-therapy-addressing-digital-empathy-and-therapeutic-alli-20261112-021336.html",
+    "timestamp": "20261112-021336",
+    "full_timestamp": "2026-11-12T02:13:36-08:00",
+    "summary": "Examining the limits of digital empathy, this analysis addresses how AI companions can genuinely build a clinically relevant therapeutic alliance.",
+    "original_topic": "AI in Mental Health & Therapy",
+    "search_query": "AI companions therapy digital empathy validation 2026",
+    "source_count": 12,
+    "tags": "AI Therapy, Digital Mental Health, Therapeutic Alliance, LLM Ethics",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
