@@ -20916,5 +20916,18 @@
     "source_count": 12,
     "tags": "Quantum AI, Finance, Predictive Modeling, High-Frequency Trading",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1600,
+    "topic": "Privacy-Preserving Local LLMs: Edge Computing for Sensitive Healthcare Data on Mac",
+    "file": "html/article-1600-privacy-preserving-local-llms-edge-computing-for-sensitive-healthcare-da-20261112-100406.html",
+    "timestamp": "20261112-100406",
+    "full_timestamp": "2026-11-12T10:04:06-08:00",
+    "summary": "Local LLMs on Mac may reduce data exposure for healthcare workflows, but supplied evidence supports deployment possibilities—not automatic compliance, clinical safety, or secure operations.",
+    "original_topic": "Privacy-First Local AI on Mac",
+    "search_query": "local LLM healthcare data privacy macOS 2026 latest",
+    "source_count": 12,
+    "tags": "Healthcare AI, Local LLM, Data Privacy, Edge Computing",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
