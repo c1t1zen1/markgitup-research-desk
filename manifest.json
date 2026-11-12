@@ -20786,5 +20786,18 @@
     "source_count": 10,
     "tags": "Apple Silicon, LLM Inference, Edge AI, Latency",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1590,
+    "topic": "AI Video Synthesis and Digital Watermarking: Ensuring Provenance in Generative Media",
+    "file": "html/article-1590-ai-video-synthesis-and-digital-watermarking-ensuring-provenance-in-gener-20261112-000402.html",
+    "timestamp": "20261112-000402",
+    "full_timestamp": "2026-11-12T00:04:02-08:00",
+    "summary": "AI video provenance depends on durable watermarking, transparent attribution, and verification systems that remain meaningful after distribution, editing, and re-generation.",
+    "original_topic": "AI Video Generation Models",
+    "search_query": "digital watermarking for AI generated video 2026",
+    "source_count": 12,
+    "tags": "Generative AI, Video Forensics, Watermarking, Provenance",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
