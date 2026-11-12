@@ -20942,5 +20942,18 @@
     "source_count": 12,
     "tags": "AI Marketing, Synthetic Media, Influencer Economy, Short-Form Video",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1602,
+    "topic": "Hyper-Personalized Climate Adaptation: AI in Smart Home Energy Microgrids",
+    "file": "html/article-1602-hyper-personalized-climate-adaptation-ai-in-smart-home-energy-microgrids-20261112-120358.html",
+    "timestamp": "20261112-120358",
+    "full_timestamp": "2026-11-12T12:03:58-08:00",
+    "summary": "AI could turn home microgrids into adaptive energy systems, coordinating renewable generation, storage, and household demand as extreme weather raises resilience demands.",
+    "original_topic": "AI-Powered Smart Homes & Automation",
+    "search_query": "AI microgrid home energy management 2026",
+    "source_count": 12,
+    "tags": "SmartGrid, ClimateTech, EnergyAI, Resilience",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
