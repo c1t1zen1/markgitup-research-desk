@@ -20760,5 +20760,18 @@
     "source_count": 12,
     "tags": "Election Integrity, Deepfakes, AI Regulation, Political Tech",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1588,
+    "topic": "Regulatory Sandboxes for AI Lobbying: Governing Automated Policy Influence in 2026",
+    "file": "html/article-1588-regulatory-sandboxes-for-ai-lobbying-governing-automated-policy-influenc-20261111-220355.html",
+    "timestamp": "20261111-220355",
+    "full_timestamp": "2026-11-11T22:03:55-08:00",
+    "summary": "The supplied evidence shows AI activity and Washington events, but provides no direct documentation of regulatory sandboxes or automated lobbying rules in 2026.",
+    "original_topic": "AI Lobbying & Policy in Washington",
+    "search_query": "AI lobbying regulation sandboxes Washington D.C. 2026",
+    "source_count": 12,
+    "tags": "AI Governance, Political Tech, Regulation, Lobbying",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
