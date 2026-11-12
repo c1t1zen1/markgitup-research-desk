@@ -20968,5 +20968,18 @@
     "source_count": 12,
     "tags": "LegalTech, Bias, Sentencing, AI Ethics",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1604,
+    "topic": "Local AI Agents on macOS Face New Privacy Risks Through MCP Tool Access",
+    "file": "html/article-1604-local-ai-agents-on-macos-face-new-privacy-risks-through-mcp-tool-access-20261112-141419.html",
+    "timestamp": "20261112-141419",
+    "full_timestamp": "2026-11-12T14:14:19-08:00",
+    "summary": "Local AI agents on macOS, while offline, can breach privacy via tool access protocols like MCP, exposing sensitive local files.",
+    "original_topic": "Privacy-First Local AI on Mac",
+    "search_query": "macOS local AI agents MCP prompt injection filesystem permissions 2026",
+    "source_count": 12,
+    "tags": "macOS, local AI, MCP, privacy",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
