@@ -20695,5 +20695,18 @@
     "source_count": 12,
     "tags": "DeFi, LLMs, Risk Management, Blockchain",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1583,
+    "topic": "Audit AI Copilots Face a New Test: Can Generated Evidence Survive PCAOB Review?",
+    "file": "html/article-1583-audit-ai-copilots-face-a-new-test-can-generated-evidence-survive-pcaob-r-20261111-170447.html",
+    "timestamp": "20261111-170447",
+    "full_timestamp": "2026-11-11T17:04:47-08:00",
+    "summary": "As generative AI enters audit testing and documentation, PCAOB outreach raises a central question: can efficiency gains produce evidence auditors can defend under inspection?",
+    "original_topic": "Generative AI for Financial Reporting",
+    "search_query": "PCAOB AI audit copilots generated evidence review 2026 accounting firms",
+    "source_count": 12,
+    "tags": "AI auditing, PCAOB, financial reporting, audit evidence",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
