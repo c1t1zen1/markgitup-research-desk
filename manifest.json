@@ -20708,5 +20708,18 @@
     "source_count": 12,
     "tags": "AI auditing, PCAOB, financial reporting, audit evidence",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1584,
+    "topic": "Optimizing Metal Performance: AI Toolchains for Apple Silicon Heterogeneous Compute",
+    "file": "html/article-1584-optimizing-metal-performance-ai-toolchains-for-apple-silicon-heterogeneo-20261111-180356.html",
+    "timestamp": "20261111-180356",
+    "full_timestamp": "2026-11-11T18:03:56-08:00",
+    "summary": "Apple’s Metal stack offers a path from high-level model deployment to custom kernels and tensor primitives, but supplied evidence leaves performance claims largely unquantified.",
+    "original_topic": "AI Development Tools for Apple Silicon",
+    "search_query": "AI optimization Apple Silicon Metal framework 2026",
+    "source_count": 12,
+    "tags": "Metal, Apple Silicon, AI Optimization, Heterogeneous Compute",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
