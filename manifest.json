@@ -20864,5 +20864,18 @@
     "source_count": 12,
     "tags": "Deepfakes, Liability, Media Law, Synthetic Media",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1596,
+    "topic": "AI Directors: Automated Shot Selection and Emotional Pacing in Cinematic Production",
+    "file": "html/article-1596-ai-directors-automated-shot-selection-and-emotional-pacing-in-cinematic-20261112-061210.html",
+    "timestamp": "20261112-061210",
+    "full_timestamp": "2026-11-12T06:12:10-08:00",
+    "summary": "AI is moving beyond simple content creation to autonomously manage high-level directorial decisions like emotional pacing and shot selection.",
+    "original_topic": "AI-Powered Video Editing & Post-Production",
+    "search_query": "AI automated film editing emotional pacing 2026",
+    "source_count": 12,
+    "tags": "Video Editing, Generative AI, Filmmaking, Post-Production",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
