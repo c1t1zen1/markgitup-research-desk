@@ -20994,5 +20994,18 @@
     "source_count": 12,
     "tags": "VFX, Real-Time, Post-Production, Interactive Media",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1606,
+    "topic": "AI Models Turn Data-Center Power Constraints Into a New Stock-Picking Signal",
+    "file": "html/article-1606-ai-models-turn-data-center-power-constraints-into-a-new-stock-picking-si-20261112-160525.html",
+    "timestamp": "20261112-160525",
+    "full_timestamp": "2026-11-12T16:05:25-08:00",
+    "summary": "Power constraints may become a stock-picking signal as investors link data-center growth, grid capacity, equipment demand, and utility economics to company forecasts.",
+    "original_topic": "AI Stock Prediction & Market Analysis",
+    "search_query": "AI models data center power constraints investor stock forecasts 2026",
+    "source_count": 11,
+    "tags": "AI investing, data centers, energy markets",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
