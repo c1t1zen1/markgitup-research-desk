@@ -21020,5 +21020,18 @@
     "source_count": 10,
     "tags": "macOS 26, SpeechAnalyzer, transcription, developer tools",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1608,
+    "topic": "AI State-Law Preemption Becomes Washington’s Newest Lobbying Battleground in 2026",
+    "file": "html/article-1608-ai-state-law-preemption-becomes-washingtons-newest-lobbying-battleground-20261112-181536.html",
+    "timestamp": "20261112-181536",
+    "full_timestamp": "2026-11-12T18:15:36-08:00",
+    "summary": "The battle over federal preemption of state AI rules is emerging as Washington's defining policy fight of 2026.",
+    "original_topic": "AI Lobbying & Policy in Washington",
+    "search_query": "2026 congressional AI state law preemption lobbying moratorium",
+    "source_count": 12,
+    "tags": "AI policy, congressional lobbying, state regulation, federal preemption",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
