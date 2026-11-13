@@ -21228,5 +21228,18 @@
     "source_count": 12,
     "tags": "Virtual Presenters, Enterprise AI, Digital Twins, Real-Time Synthesis",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1624,
+    "topic": "Regulating Synthetic Voice Cloning: New Legal Hurdles for Voice Actors and IP",
+    "file": "html/article-1624-regulating-synthetic-voice-cloning-new-legal-hurdles-for-voice-actors-an-20261113-100400.html",
+    "timestamp": "20261113-100400",
+    "full_timestamp": "2026-11-13T10:04:00-08:00",
+    "summary": "Voice cloning is moving from technical novelty toward fragmented legal exposure, leaving performers, studios, and platforms to manage consent, disclosure, publicity, and copyright uncertainty.",
+    "original_topic": "Deepfake Legislation & Synthetic Media Laws",
+    "search_query": "synthetic voice cloning copyright law 2026",
+    "source_count": 12,
+    "tags": "voice cloning, synthetic media, IP law, digital rights",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
