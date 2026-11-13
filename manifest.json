@@ -21098,5 +21098,18 @@
     "source_count": 12,
     "tags": "earnings guidance,management commentary,investor relations,AI governance",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1614,
+    "topic": "AI-Driven Signal Intelligence: Analyzing Geopolitical Instability via Open-Source Data Streams",
+    "file": "html/article-1614-ai-driven-signal-intelligence-analyzing-geopolitical-instability-via-ope-20261113-001245.html",
+    "timestamp": "20261113-001245",
+    "full_timestamp": "2026-11-13T00:12:45-08:00",
+    "summary": "AI is reshaping global foresight by leveraging massive open-source data streams to analyze and forecast geopolitical instability.",
+    "original_topic": "AI in US Intelligence & Surveillance",
+    "search_query": "AI analysis open-source intelligence geopolitical shifts 2026",
+    "source_count": 12,
+    "tags": "OSINT, Geopolitics, AI, Intelligence",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
