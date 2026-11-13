@@ -21007,5 +21007,18 @@
     "source_count": 11,
     "tags": "AI investing, data centers, energy markets",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1607,
+    "topic": "macOS 26 Speech APIs Reshape the Local Transcription App Stack",
+    "file": "html/article-1607-macos-26-speech-apis-reshape-the-local-transcription-app-stack-20261112-170549.html",
+    "timestamp": "20261112-170549",
+    "full_timestamp": "2026-11-12T17:05:49-08:00",
+    "summary": "Apple’s supplied evidence points to macOS platform evolution, but does not establish that system-level speech APIs are displacing bundled local transcription models.",
+    "original_topic": "Local AI Tools & Stacks for macOS",
+    "search_query": "macOS 26 SpeechAnalyzer local transcription apps bundled models 2026",
+    "source_count": 10,
+    "tags": "macOS 26, SpeechAnalyzer, transcription, developer tools",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
