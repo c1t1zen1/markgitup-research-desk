@@ -21280,5 +21280,18 @@
     "source_count": 12,
     "tags": "DeFi, AI, Regulation, Crypto",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1628,
+    "topic": "Optimizing Neural Engine Performance for Real-Time Sensor Fusion on Apple Silicon",
+    "file": "html/article-1628-optimizing-neural-engine-performance-for-real-time-sensor-fusion-on-appl-20261113-141340.html",
+    "timestamp": "20261113-141340",
+    "full_timestamp": "2026-11-13T14:13:40-08:00",
+    "summary": "Leveraging Apple Silicon's Neural Engine for Ultra-Low Latency Sensor Fusion in Real-Time On-Device AI.",
+    "original_topic": "AI Development Tools for Apple Silicon",
+    "search_query": "Apple Silicon neural engine sensor fusion performance 2026",
+    "source_count": 12,
+    "tags": "Apple Silicon, Sensor Fusion, Edge AI, Neural Engine",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
