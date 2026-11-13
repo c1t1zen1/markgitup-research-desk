@@ -21137,5 +21137,18 @@
     "source_count": 12,
     "tags": "AI Ethics, Synthetic Media, Intellectual Property, Filmmaking",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1617,
+    "topic": "AI-Driven Voter Mobilization: Micro-Targeting Through Social Sentiment Analysis in 2026",
+    "file": "html/article-1617-ai-driven-voter-mobilization-micro-targeting-through-social-sentiment-an-20261113-031204.html",
+    "timestamp": "20261113-031204",
+    "full_timestamp": "2026-11-13T03:12:04-08:00",
+    "summary": "AI's granular power is reshaping 2026 elections by allowing campaigns to map and influence niche voter sentiment in real-time.",
+    "original_topic": "AI in US Elections & Campaigns",
+    "search_query": "AI social media voter sentiment analysis 2026",
+    "source_count": 12,
+    "tags": "AI, Elections, Micro-targeting, Social Media",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
