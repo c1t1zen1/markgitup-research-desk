@@ -21189,5 +21189,18 @@
     "source_count": 10,
     "tags": "LLM, hedge funds, regulation, trading",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1621,
+    "topic": "AI Trading Bots Exploit Flash Crash Microstructure for Alpha",
+    "file": "html/article-1621-ai-trading-bots-exploit-flash-crash-microstructure-for-alpha-20261113-070152.html",
+    "timestamp": "20261113-070152",
+    "full_timestamp": "2026-11-13T07:01:52-08:00",
+    "summary": "Autonomous AI trading agents triggered a $500M flash crash in 47 seconds, exposing how algorithmic herd behavior and microstructure risks are reshaping market stability and regulation.",
+    "original_topic": "AI Crypto Trading Bots & Performance",
+    "search_query": "AI trading bots flash crash microstructure 2026",
+    "source_count": 12,
+    "tags": "AI trading, flash crashes, market microstructure, algorithmic trading",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
