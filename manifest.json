@@ -21033,5 +21033,18 @@
     "source_count": 12,
     "tags": "AI policy, congressional lobbying, state regulation, federal preemption",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1609,
+    "topic": "Zero-Day Synthetic Identity Fraud: AI Detecting Deepfake KYC in Digital Onboarding",
+    "file": "html/article-1609-zero-day-synthetic-identity-fraud-ai-detecting-deepfake-kyc-in-digital-o-20261112-190439.html",
+    "timestamp": "20261112-190439",
+    "full_timestamp": "2026-11-12T19:04:39-08:00",
+    "summary": "Synthetic identities now pair stolen real-world data with AI-generated faces, forcing digital onboarding systems to correlate identity signals beyond documents, liveness, and biometric matching.",
+    "original_topic": "AI Fraud Detection in Banking & Finance",
+    "search_query": "AI detection synthetic identity deepfake KYC banking 2026 latest",
+    "source_count": 7,
+    "tags": "Synthetic Identity, Deepfake, KYC, AI Fraud",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
