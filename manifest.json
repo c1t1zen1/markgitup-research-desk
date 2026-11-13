@@ -21111,5 +21111,18 @@
     "source_count": 12,
     "tags": "OSINT, Geopolitics, AI, Intelligence",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1615,
+    "topic": "AI Watermarking and Provenance Tracking in Political Deepfakes Post-2026",
+    "file": "html/article-1615-ai-watermarking-and-provenance-tracking-in-political-deepfakes-post-2026-20261113-010402.html",
+    "timestamp": "20261113-010402",
+    "full_timestamp": "2026-11-13T01:04:02-08:00",
+    "summary": "Watermarking and provenance may strengthen political-media authentication, but supplied evidence supports cautious optimism—not proof that deepfakes can be reliably neutralized.",
+    "original_topic": "AI Misinformation & Election Integrity",
+    "search_query": "AI content provenance watermarking political deepfakes 2026",
+    "source_count": 12,
+    "tags": "AI Ethics, Media Integrity, Deepfakes, Provenance",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
