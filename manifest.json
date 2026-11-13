@@ -21124,5 +21124,18 @@
     "source_count": 12,
     "tags": "AI Ethics, Media Integrity, Deepfakes, Provenance",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1616,
+    "topic": "AI Video Synthesis: Ethical Frameworks for Synthetic Actors in Commercial Media",
+    "file": "html/article-1616-ai-video-synthesis-ethical-frameworks-for-synthetic-actors-in-commercial-20261113-020405.html",
+    "timestamp": "20261113-020405",
+    "full_timestamp": "2026-11-13T02:04:05-08:00",
+    "summary": "Synthetic performers are advancing faster than the supplied evidence on consent, attribution, labor, and accountability, making governance a central commercial-media question.",
+    "original_topic": "AI-Generated Video for Filmmaking & Content Creation",
+    "search_query": "AI synthetic actor rights and commercial use 2026",
+    "source_count": 12,
+    "tags": "AI Ethics, Synthetic Media, Intellectual Property, Filmmaking",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
