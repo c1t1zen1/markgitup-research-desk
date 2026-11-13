@@ -21202,5 +21202,18 @@
     "source_count": 12,
     "tags": "AI trading, flash crashes, market microstructure, algorithmic trading",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1622,
+    "topic": "FDA Clears First AI Therapist as Digital Companion for Chronic Anxiety",
+    "file": "html/article-1622-fda-clears-first-ai-therapist-as-digital-companion-for-chronic-anxiety-20261113-080141.html",
+    "timestamp": "20261113-080141",
+    "full_timestamp": "2026-11-13T08:01:41-08:00",
+    "summary": "The FDA has cleared the first AI therapist as a standalone digital companion for chronic anxiety, marking a regulatory milestone for AI in mental health.",
+    "original_topic": "AI in Mental Health & Therapy",
+    "search_query": "FDA approval AI therapist digital companion anxiety 2026",
+    "source_count": 10,
+    "tags": "AI, mental health, FDA, digital therapeutics",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
