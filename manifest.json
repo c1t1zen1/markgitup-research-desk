@@ -21085,5 +21085,18 @@
     "source_count": 12,
     "tags": "LLM, Quantization, Apple Silicon, Edge AI",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1613,
+    "topic": "AI-Generated Management Commentary Puts Earnings Guidance Provenance Under Investor-Relations Scrutiny",
+    "file": "html/article-1613-ai-generated-management-commentary-puts-earnings-guidance-provenance-und-20261112-231440.html",
+    "timestamp": "20261112-231440",
+    "full_timestamp": "2026-11-12T23:14:40-08:00",
+    "summary": "As AI drafts earnings commentary, companies face intense scrutiny over who is accountable for forward-looking guidance.",
+    "original_topic": "Generative AI for Financial Reporting",
+    "search_query": "2026 AI generated management commentary earnings guidance provenance investor relations",
+    "source_count": 12,
+    "tags": "earnings guidance,management commentary,investor relations,AI governance",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
