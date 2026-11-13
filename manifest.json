@@ -21215,5 +21215,18 @@
     "source_count": 10,
     "tags": "AI, mental health, FDA, digital therapeutics",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1623,
+    "topic": "Hyper-Realistic Avatars: The Rise of Personalized, Dynamic Digital Spokespeople",
+    "file": "html/article-1623-hyper-realistic-avatars-the-rise-of-personalized-dynamic-digital-spokesp-20261113-091207.html",
+    "timestamp": "20261113-091207",
+    "full_timestamp": "2026-11-13T09:12:07-08:00",
+    "summary": "Dynamic avatars are moving beyond static content, enabling real-time, personalized, two-way digital interactions in enterprise settings.",
+    "original_topic": "AI Video Avatars & Virtual Presenters",
+    "search_query": "real-time personalized AI video avatar deployment 2026",
+    "source_count": 12,
+    "tags": "Virtual Presenters, Enterprise AI, Digital Twins, Real-Time Synthesis",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
