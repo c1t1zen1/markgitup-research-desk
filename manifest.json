@@ -21267,5 +21267,18 @@
     "source_count": 12,
     "tags": "Smart Home, Privacy, Ambient AI, IoT",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1627,
+    "topic": "Regulatory Scrutiny of Decentralized Autonomous Organizations in AI-Driven DeFi Trading",
+    "file": "html/article-1627-regulatory-scrutiny-of-decentralized-autonomous-organizations-in-ai-driv-20261113-131152.html",
+    "timestamp": "20261113-131152",
+    "full_timestamp": "2026-11-13T13:11:52-08:00",
+    "summary": "Regulatory oversight is intensifying around AI agents managing DeFi, demanding clarity on DAO governance and operational compliance.",
+    "original_topic": "AI Crypto Trading Bots & Performance",
+    "search_query": "DAO regulation AI crypto trading compliance 2026",
+    "source_count": 12,
+    "tags": "DeFi, AI, Regulation, Crypto",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
