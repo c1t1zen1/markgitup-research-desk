@@ -21150,5 +21150,18 @@
     "source_count": 12,
     "tags": "AI, Elections, Micro-targeting, Social Media",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1618,
+    "topic": "Apple's M5 Ultra Targets Real-Time LLM Inference for Enterprise Workstations",
+    "file": "html/article-1618-apple-s-m5-ultra-targets-real-time-llm-inference-for-enterprise-workstat-20261113-040501.html",
+    "timestamp": "20261113-040501",
+    "full_timestamp": "2026-11-13T04:05:01-08:00",
+    "summary": "Apple's M5 Ultra chip, announced August 25, 2026, targets enterprise local LLM inference with up to 512GB unified memory, outperforming prior Apple Silicon and competing with high-end NVIDIA GPUs on specific workloads.",
+    "original_topic": "M Series Apple Silicon LLM Inference",
+    "search_query": "Apple M5 Ultra LLM inference performance benchmarks 2026",
+    "source_count": 12,
+    "tags": "Apple Silicon, LLM Inference, M5 Ultra, Enterprise AI",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
