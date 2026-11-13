@@ -21176,5 +21176,18 @@
     "source_count": 12,
     "tags": "AI video, copyright, legal, training data",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1620,
+    "topic": "LLM-Powered Trading Firms Face First Regulatory Stress Tests in 2026",
+    "file": "html/article-1620-llm-powered-trading-firms-face-first-regulatory-stress-tests-in-2026-20261113-060146.html",
+    "timestamp": "20261113-060146",
+    "full_timestamp": "2026-11-13T06:01:46-08:00",
+    "summary": "Regulators are preparing stress-test frameworks for LLM-driven trading firms, a move that could reshape how hedge funds deploy AI strategies in live markets.",
+    "original_topic": "LLMs in Hedge Funds & Trading",
+    "search_query": "LLM trading firms regulatory stress tests 2026",
+    "source_count": 10,
+    "tags": "LLM, hedge funds, regulation, trading",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
