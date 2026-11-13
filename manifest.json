@@ -21059,5 +21059,18 @@
     "source_count": 12,
     "tags": "Autonomous Agents, Legacy Systems, Software Engineering, Enterprise AI",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1611,
+    "topic": "Optimizing ML Inference on Apple Silicon for On-Device Vision Tasks",
+    "file": "html/article-1611-optimizing-ml-inference-on-apple-silicon-for-on-device-vision-tasks-20261112-211327.html",
+    "timestamp": "20261112-211327",
+    "full_timestamp": "2026-11-12T21:13:27-08:00",
+    "summary": "Optimizing on-device vision tasks requires deep understanding of the Apple Neural Engine for high-throughput, low-latency inference.",
+    "original_topic": "AI Development Tools for Apple Silicon",
+    "search_query": "Apple Neural Engine performance benchmarking ML inference 2026",
+    "source_count": 12,
+    "tags": "Apple Silicon, Edge AI, Computer Vision, Inference",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
