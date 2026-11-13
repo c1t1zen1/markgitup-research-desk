@@ -21163,5 +21163,18 @@
     "source_count": 12,
     "tags": "Apple Silicon, LLM Inference, M5 Ultra, Enterprise AI",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1619,
+    "topic": "AI Video Generation Faces First Major Copyright Lawsuit Over Training Data",
+    "file": "html/article-1619-ai-video-generation-faces-first-major-copyright-lawsuit-over-training-da-20261113-050237.html",
+    "timestamp": "20261113-050237",
+    "full_timestamp": "2026-11-13T05:02:37-08:00",
+    "summary": "A landmark lawsuit against NVIDIA by music rights holder Jamendo marks the first major copyright case targeting AI video generation models' training data usage.",
+    "original_topic": "AI Video Generation Models",
+    "search_query": "AI video generation copyright lawsuit training data 2026",
+    "source_count": 12,
+    "tags": "AI video, copyright, legal, training data",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
