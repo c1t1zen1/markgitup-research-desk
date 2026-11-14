@@ -21306,5 +21306,18 @@
     "source_count": 12,
     "tags": "volumetric video, neural rendering, VFX, AI post-production",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1630,
+    "topic": "Prompt Injection Enters Hedge-Fund Trading Desks Through Agentic Market-Data Workflows",
+    "file": "html/article-1630-prompt-injection-enters-hedge-fund-trading-desks-through-agentic-market-20261113-160444.html",
+    "timestamp": "20261113-160444",
+    "full_timestamp": "2026-11-13T16:04:44-08:00",
+    "summary": "Agentic market-data workflows widen the path from tainted inputs to autonomous decisions, making prompt injection, context poisoning, and behavioral drift a hedge-fund security concern.",
+    "original_topic": "LLMs in Hedge Funds & Trading",
+    "search_query": "agentic AI hedge fund trading surveillance prompt injection market data 2026",
+    "source_count": 12,
+    "tags": "agentic AI, trading security, prompt injection",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
