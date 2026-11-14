@@ -21514,5 +21514,18 @@
     "source_count": 12,
     "tags": "AI avatars, virtual presenters, Turing test, live video",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1646,
+    "topic": "AI Voice Cloning Targets Elderly Voters in Swing States",
+    "file": "html/article-1646-ai-voice-cloning-targets-elderly-voters-in-swing-states-20261114-080153.html",
+    "timestamp": "20261114-080153",
+    "full_timestamp": "2026-11-14T08:01:53-08:00",
+    "summary": "AI voice cloning is emerging as a targeted tool to reach elderly voters in swing states, raising questions about consent, disclosure, and the effectiveness of current robocall regulations.",
+    "original_topic": "AI in US Elections & Campaigns",
+    "search_query": "AI voice cloning robocalls targeting elderly voters 2026",
+    "source_count": 12,
+    "tags": "AI, elections, voice cloning, elderly voters",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
