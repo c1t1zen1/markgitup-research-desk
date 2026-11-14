@@ -21475,5 +21475,18 @@
     "source_count": 12,
     "tags": "AI, financial markets, risk modeling, simulation",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1643,
+    "topic": "AI Video Tools Now Edit Raw Footage Before Cameras Even Roll",
+    "file": "html/article-1643-ai-video-tools-now-edit-raw-footage-before-cameras-even-roll-20261114-050137.html",
+    "timestamp": "20261114-050137",
+    "full_timestamp": "2026-11-14T05:01:37-08:00",
+    "summary": "AI video tools are shifting from post-production editing to pre-production workflows, generating and refining footage before cameras roll, reshaping how filmmakers plan and execute projects.",
+    "original_topic": "AI-Generated Video for Filmmaking & Content Creation",
+    "search_query": "AI pre-production video editing tools 2026",
+    "source_count": 12,
+    "tags": "AI video, pre-production, filmmaking, content creation",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
