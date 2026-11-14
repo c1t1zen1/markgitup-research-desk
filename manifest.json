@@ -21410,5 +21410,18 @@
     "source_count": 12,
     "tags": "generative AI, financial reporting, SEC filings, auditor liability",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1638,
+    "topic": "EU AI Act Mandates Deepfake Disclosure Labels by Year's End",
+    "file": "html/article-1638-eu-ai-act-mandates-deepfake-disclosure-labels-by-year-s-end-20261114-000200.html",
+    "timestamp": "20261114-000200",
+    "full_timestamp": "2026-11-14T00:02:00-08:00",
+    "summary": "The EU AI Act's deepfake labeling rules take effect August 2, 2026, requiring machine-readable and visible marking of synthetic media with fines up to €15 million for non-compliance.",
+    "original_topic": "Deepfake Legislation & Synthetic Media Laws",
+    "search_query": "EU AI Act deepfake disclosure label requirement 2026",
+    "source_count": 12,
+    "tags": "deepfakes,EU AI Act,regulation,synthetic media",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
