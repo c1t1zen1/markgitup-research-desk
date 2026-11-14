@@ -21436,5 +21436,18 @@
     "source_count": 12,
     "tags": "AI, elections, deepfakes, security",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1640,
+    "topic": "Apple M4 Macs Run 70B LLMs Locally at 30 Tokens/Sec",
+    "file": "html/article-1640-apple-m4-macs-run-70b-llms-locally-at-30-tokens-sec-20261114-020728.html",
+    "timestamp": "20261114-020728",
+    "full_timestamp": "2026-11-14T02:07:28-08:00",
+    "summary": "Apple M4 Macs now run 70B parameter LLMs locally at usable speeds, with benchmarks showing up to 30 tokens per second on high-end configurations.",
+    "original_topic": "M Series Apple Silicon LLM Inference",
+    "search_query": "Apple M4 Mac local 70B LLM inference speed benchmark 2026 latest",
+    "source_count": 12,
+    "tags": "Apple Silicon, LLM inference, edge AI, benchmarks",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
