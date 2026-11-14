@@ -21540,5 +21540,18 @@
     "source_count": 12,
     "tags": "local AI, coding tools, latency, macOS",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1648,
+    "topic": "AI Lobbyists Push for Federal Data Trusts to Replace Privacy Laws",
+    "file": "html/article-1648-ai-lobbyists-push-for-federal-data-trusts-to-replace-privacy-laws-20261114-100153.html",
+    "timestamp": "20261114-100153",
+    "full_timestamp": "2026-11-14T10:01:53-08:00",
+    "summary": "AI firms are shifting lobbying strategy from defending privacy rules to pushing federally chartered data trusts that centralize consent and reduce regulatory friction.",
+    "original_topic": "AI Lobbying & Policy in Washington",
+    "search_query": "AI industry lobbying federal data trusts privacy legislation 2026",
+    "source_count": 12,
+    "tags": "AI policy, lobbying, data governance, privacy",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
