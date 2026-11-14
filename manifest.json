@@ -21423,5 +21423,18 @@
     "source_count": 12,
     "tags": "deepfakes,EU AI Act,regulation,synthetic media",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1639,
+    "topic": "AI-Powered Ballot Stuffing: New Deepfake Voter ID Scheme Detected",
+    "file": "html/article-1639-ai-powered-ballot-stuffing-new-deepfake-voter-id-scheme-detected-20261114-010423.html",
+    "timestamp": "20261114-010423",
+    "full_timestamp": "2026-11-14T01:04:23-08:00",
+    "summary": "AI-generated deepfake voter IDs may enable phantom voter registration, a new threat to election integrity that authorities are beginning to detect and address.",
+    "original_topic": "AI Misinformation & Election Integrity",
+    "search_query": "AI deepfake voter ID scheme election 2026",
+    "source_count": 12,
+    "tags": "AI, elections, deepfakes, security",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
