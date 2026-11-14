@@ -21384,5 +21384,18 @@
     "source_count": 12,
     "tags": "AI, fraud detection, deepfakes, banking",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1636,
+    "topic": "AI-Generated Memes Outperform Human Creators on TikTok Engagement",
+    "file": "html/article-1636-ai-generated-memes-outperform-human-creators-on-tiktok-engagement-20261113-220216.html",
+    "timestamp": "20261113-220216",
+    "full_timestamp": "2026-11-13T22:02:16-08:00",
+    "summary": "AI-generated memes are gaining measurable traction on TikTok, with specific viral formats and AI-enhanced content driving significant engagement and reshaping short-form video trends.",
+    "original_topic": "AI Short Form Video & Social Media",
+    "search_query": "AI generated memes TikTok engagement 2026",
+    "source_count": 12,
+    "tags": "AI, social media, TikTok, memes",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
