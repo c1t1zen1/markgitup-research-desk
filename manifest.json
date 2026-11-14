@@ -21449,5 +21449,18 @@
     "source_count": 12,
     "tags": "Apple Silicon, LLM inference, edge AI, benchmarks",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1641,
+    "topic": "Apple's On-Device AI Model Passes Privacy Benchmark for Health Data",
+    "file": "html/article-1641-apple-s-on-device-ai-model-passes-privacy-benchmark-for-health-data-20261114-030319.html",
+    "timestamp": "20261114-030319",
+    "full_timestamp": "2026-11-14T03:03:19-08:00",
+    "summary": "Apple's on-device AI model has passed a privacy benchmark for health data, marking a key validation of local inference for sensitive personal information.",
+    "original_topic": "Privacy-First Local AI on Mac",
+    "search_query": "Apple on-device AI privacy benchmark health data 2026",
+    "source_count": 12,
+    "tags": "Apple,AI,privacy,health",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
