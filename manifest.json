@@ -21553,5 +21553,18 @@
     "source_count": 12,
     "tags": "AI policy, lobbying, data governance, privacy",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1649,
+    "topic": "AI Upscaling Restores Fidelity to Vintage Film Stock in Digital Restoration",
+    "file": "html/article-1649-ai-upscaling-restores-fidelity-to-vintage-film-stock-in-digital-restorat-20261114-110432.html",
+    "timestamp": "20261114-110432",
+    "full_timestamp": "2026-11-14T11:04:32-08:00",
+    "summary": "Generative AI restoration is moving from routine upscaling toward artifact removal and fidelity recovery, but sparse evidence demands careful separation between demonstrated workflows, commercial claims, and forecasts.",
+    "original_topic": "AI-Powered Video Editing & Post-Production",
+    "search_query": "AI film restoration upscaling vintage footage 2026",
+    "source_count": 3,
+    "tags": "Film Restoration, Generative AI, Video Processing, Preservation",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
