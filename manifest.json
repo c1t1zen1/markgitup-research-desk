@@ -21527,5 +21527,18 @@
     "source_count": 12,
     "tags": "AI, elections, voice cloning, elderly voters",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1647,
+    "topic": "Local AI Coding Assistants Now Beat Cloud APIs on Latency",
+    "file": "html/article-1647-local-ai-coding-assistants-now-beat-cloud-apis-on-latency-20261114-090138.html",
+    "timestamp": "20261114-090138",
+    "full_timestamp": "2026-11-14T09:01:38-08:00",
+    "summary": "On-Mac AI coding assistants now rival or beat cloud APIs on latency, enabling faster, private, and offline developer workflows.",
+    "original_topic": "Local AI Tools & Stacks for macOS",
+    "search_query": "local AI coding assistant latency vs cloud API 2026",
+    "source_count": 12,
+    "tags": "local AI, coding tools, latency, macOS",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
