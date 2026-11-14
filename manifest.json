@@ -21579,5 +21579,18 @@
     "source_count": 12,
     "tags": "AI Governance, Data Sovereignty, Policy, Geopolitics",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1651,
+    "topic": "Smart Home AI Agents Face Permission Creep Across Matter-Compatible Devices",
+    "file": "html/article-1651-smart-home-ai-agents-face-permission-creep-across-matter-compatible-devi-20261114-130459.html",
+    "timestamp": "20261114-130459",
+    "full_timestamp": "2026-11-14T13:04:59-08:00",
+    "summary": "The supplied evidence does not substantiate claims about Matter devices, AI home agents, or permission creep, so any security conclusion remains a research gap.",
+    "original_topic": "AI-Powered Smart Homes & Automation",
+    "search_query": "2026 Matter smart home AI agent permissions cross-brand device control",
+    "source_count": 12,
+    "tags": "smart homes,AI agents,Matter,privacy",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
