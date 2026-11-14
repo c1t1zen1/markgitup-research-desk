@@ -21358,5 +21358,18 @@
     "source_count": 12,
     "tags": "Code Generation, Multi-Modal AI, Software Engineering, Agentic Workflow",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1634,
+    "topic": "Apple's M5 Chip Accelerates Quantized LLM Inference for Edge AI",
+    "file": "html/article-1634-apple-s-m5-chip-accelerates-quantized-llm-inference-for-edge-ai-20261113-200150.html",
+    "timestamp": "20261113-200150",
+    "full_timestamp": "2026-11-13T20:01:50-08:00",
+    "summary": "Apple's M5 chip architecture, particularly the M5 Ultra, delivers frontier-level AI inference performance on edge devices, with benchmarks suggesting it could rival or exceed dedicated AI accelerators for certain workloads.",
+    "original_topic": "Quantized LLMs Running on Mac Hardware",
+    "search_query": "Apple M5 chip quantized LLM inference edge AI 2026",
+    "source_count": 5,
+    "tags": "Apple M5, quantized LLMs, edge AI, hardware acceleration",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
