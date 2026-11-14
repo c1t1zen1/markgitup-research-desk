@@ -21488,5 +21488,18 @@
     "source_count": 12,
     "tags": "AI video, pre-production, filmmaking, content creation",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1644,
+    "topic": "AI Video Generation Models Now Produce Real-Time 3D Avatars for Live Streaming",
+    "file": "html/article-1644-ai-video-generation-models-now-produce-real-time-3d-avatars-for-live-str-20261114-060138.html",
+    "timestamp": "20261114-060138",
+    "full_timestamp": "2026-11-14T06:01:38-08:00",
+    "summary": "AI video generation is shifting from post-production editing to real-time 3D avatar creation, enabling live, interactive digital characters for streaming.",
+    "original_topic": "AI Video Generation Models",
+    "search_query": "AI video generation real-time 3D avatars live streaming 2026",
+    "source_count": 12,
+    "tags": "AI video generation, real-time 3D avatars, live streaming, generative AI",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
