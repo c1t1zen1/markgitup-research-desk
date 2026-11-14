@@ -21501,5 +21501,18 @@
     "source_count": 12,
     "tags": "AI video generation, real-time 3D avatars, live streaming, generative AI",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1645,
+    "topic": "AI Video Avatars Now Pass Turing-Style Live Interaction Tests",
+    "file": "html/article-1645-ai-video-avatars-now-pass-turing-style-live-interaction-tests-20261114-070139.html",
+    "timestamp": "20261114-070139",
+    "full_timestamp": "2026-11-14T07:01:39-08:00",
+    "summary": "Tavus Griffin, a video-to-video AI, fooled 48% of participants into thinking they were talking to a human on a live video call, marking a milestone in avatar realism.",
+    "original_topic": "AI Video Avatars & Virtual Presenters",
+    "search_query": "AI video avatar Turing test live interaction 2026",
+    "source_count": 12,
+    "tags": "AI avatars, virtual presenters, Turing test, live video",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
