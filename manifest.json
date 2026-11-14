@@ -21462,5 +21462,18 @@
     "source_count": 12,
     "tags": "Apple,AI,privacy,health",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1642,
+    "topic": "AI Market Simulators Predict Flash Crashes Before They Happen",
+    "file": "html/article-1642-ai-market-simulators-predict-flash-crashes-before-they-happen-20261114-040142.html",
+    "timestamp": "20261114-040142",
+    "full_timestamp": "2026-11-14T04:01:42-08:00",
+    "summary": "AI-driven synthetic market environments are emerging as tools to stress-test and forecast flash crashes, offering a new approach to financial risk management.",
+    "original_topic": "AI Stock Prediction & Market Analysis",
+    "search_query": "AI market simulator predict flash crash 2026",
+    "source_count": 12,
+    "tags": "AI, financial markets, risk modeling, simulation",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
