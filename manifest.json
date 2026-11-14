@@ -21605,5 +21605,18 @@
     "source_count": 12,
     "tags": "ESG, Financial Reporting, AI Auditing, Greenwashing",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1653,
+    "topic": "AI Models Combat Synthetic Identity Fraud Using Behavioral Biometrics in KYC",
+    "file": "html/article-1653-ai-models-combat-synthetic-identity-fraud-using-behavioral-biometrics-in-20261114-150500.html",
+    "timestamp": "20261114-150500",
+    "full_timestamp": "2026-11-14T15:05:00-08:00",
+    "summary": "Banks are pairing behavioral biometrics, device intelligence, and AI-agent detection with KYC defenses as synthetic identities and automated scams pressure conventional verification.",
+    "original_topic": "AI Fraud Detection in Banking & Finance",
+    "search_query": "AI behavioral biometrics synthetic identity fraud banking 2026",
+    "source_count": 12,
+    "tags": "KYC, Synthetic Identity, Behavioral Biometrics, Fraud Detection",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
