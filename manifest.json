@@ -21566,5 +21566,18 @@
     "source_count": 3,
     "tags": "Film Restoration, Generative AI, Video Processing, Preservation",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1650,
+    "topic": "AI Governance Frameworks Grapple with Sovereign Data Sovereignty in Global Policy",
+    "file": "html/article-1650-ai-governance-frameworks-grapple-with-sovereign-data-sovereignty-in-glob-20261114-120351.html",
+    "timestamp": "20261114-120351",
+    "full_timestamp": "2026-11-14T12:03:51-08:00",
+    "summary": "AI policy is moving toward sovereignty-sensitive governance, but the supplied evidence shows an emerging debate more clearly than settled legislative rules or deployment requirements.",
+    "original_topic": "AI Lobbying & Policy in Washington",
+    "search_query": "AI data sovereignty policy Washington D.C. 2026",
+    "source_count": 12,
+    "tags": "AI Governance, Data Sovereignty, Policy, Geopolitics",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
