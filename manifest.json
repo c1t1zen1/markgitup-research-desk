@@ -21397,5 +21397,18 @@
     "source_count": 12,
     "tags": "AI, social media, TikTok, memes",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1637,
+    "topic": "AI Drafts SEC Filings, But Auditors Still Sign Off",
+    "file": "html/article-1637-ai-drafts-sec-filings-but-auditors-still-sign-off-20261113-230131.html",
+    "timestamp": "20261113-230131",
+    "full_timestamp": "2026-11-13T23:01:31-08:00",
+    "summary": "AI drafting tools are accelerating SEC filing preparation, but auditors retain legal responsibility for accuracy, creating a governance gap as hallucination risks grow.",
+    "original_topic": "Generative AI for Financial Reporting",
+    "search_query": "generative AI SEC filing drafting auditor responsibility 2026",
+    "source_count": 12,
+    "tags": "generative AI, financial reporting, SEC filings, auditor liability",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
