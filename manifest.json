@@ -21709,5 +21709,18 @@
     "source_count": 12,
     "tags": "Intelligence, Cybersecurity, AI Defense, Data Security",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1661,
+    "topic": "On-Device AI Agents Managing Local File System Permissions on macOS",
+    "file": "html/article-1661-on-device-ai-agents-managing-local-file-system-permissions-on-macos-20261114-235246.html",
+    "timestamp": "20261114-235246",
+    "full_timestamp": "2026-11-14T23:52:46-08:00",
+    "summary": "macOS is tightening data access controls for AI agents, forcing granular permission management over local file systems.",
+    "original_topic": "Local AI Tools & Stacks for macOS",
+    "search_query": "macOS local AI file system access permissions 2026",
+    "source_count": 12,
+    "tags": "macOS, LocalAI, DataPrivacy, FileSystem",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
