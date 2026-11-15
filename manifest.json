@@ -21657,5 +21657,18 @@
     "source_count": 12,
     "tags": "macOS, local AI, privacy, app permissions",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1657,
+    "topic": "Synthetic Media Provenance: Blockchain Tracking for AI Video Authenticity",
+    "file": "html/article-1657-synthetic-media-provenance-blockchain-tracking-for-ai-video-authenticity-20261114-191135.html",
+    "timestamp": "20261114-191135",
+    "full_timestamp": "2026-11-14T19:11:35-08:00",
+    "summary": "C2PA-style cryptographic provenance offers a practical path for tracing AI video origins and edits, but supplied evidence does not establish blockchain as the governing implementation.",
+    "original_topic": "AI-Generated Video for Filmmaking & Content Creation",
+    "search_query": "C2PA standards adoption AI video provenance 2026 latest",
+    "source_count": 12,
+    "tags": "C2PA, Media Provenance, Deepfake Detection, Digital Trust",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
