@@ -21696,5 +21696,18 @@
     "source_count": 12,
     "tags": "AI Video, Personalization, Social Media, Niche Content",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1660,
+    "topic": "AI's Role in Detecting Covert Data Exfiltration from Classified Networks",
+    "file": "html/article-1660-ai-s-role-in-detecting-covert-data-exfiltration-from-classified-networks-20261114-221140.html",
+    "timestamp": "20261114-221140",
+    "full_timestamp": "2026-11-14T22:11:40-08:00",
+    "summary": "AI could help classified-network defenders detect unusual access and multi-step exfiltration, but supplied evidence supports controls more strongly than proven government deployments.",
+    "original_topic": "AI in US Intelligence & Surveillance",
+    "search_query": "AI anomaly detection classified data exfiltration 2026",
+    "source_count": 12,
+    "tags": "Intelligence, Cybersecurity, AI Defense, Data Security",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
