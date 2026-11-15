@@ -21917,5 +21917,18 @@
     "source_count": 12,
     "tags": "graph AI, mule accounts, instant payments, banking regulation",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1677,
+    "topic": "AI-Driven Synthetic Narratives Exploiting Emotional Biases in Voter Mobilization",
+    "file": "html/article-1677-ai-driven-synthetic-narratives-exploiting-emotional-biases-in-voter-mobi-20261115-150358.html",
+    "timestamp": "20261115-150358",
+    "full_timestamp": "2026-11-15T15:03:58-08:00",
+    "summary": "AI campaign systems may increasingly target voters’ emotions through personalized narratives, but supplied evidence is uneven and does not yet prove the scale or effectiveness of such tactics.",
+    "original_topic": "AI Misinformation & Election Integrity",
+    "search_query": "AI emotional manipulation political campaigning 2026",
+    "source_count": 12,
+    "tags": "AI, Misinformation, Election Integrity, Behavioral Science",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
