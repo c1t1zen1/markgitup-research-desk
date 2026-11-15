@@ -21800,5 +21800,18 @@
     "source_count": 12,
     "tags": "Scientific Computing, Edge AI, Apple Silicon, Simulation",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1668,
+    "topic": "Autonomous Code Agents Debugging Legacy Systems with Real-Time Microservice Mapping",
+    "file": "html/article-1668-autonomous-code-agents-debugging-legacy-systems-with-real-time-microserv-20261115-063801.html",
+    "timestamp": "20261115-063801",
+    "full_timestamp": "2026-11-15T06:38:01-08:00",
+    "summary": "Autonomous AI agents are moving beyond simple code generation to tackle the high-stakes challenge of debugging and mapping complex legacy systems.",
+    "original_topic": "Autonomous AI Code Agents",
+    "search_query": "AI code agents legacy system debugging microservices 2026",
+    "source_count": 12,
+    "tags": "Code Agents, Legacy Systems, DevOps, AI Engineering",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
