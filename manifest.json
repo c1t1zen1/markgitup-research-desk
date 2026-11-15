@@ -21852,5 +21852,18 @@
     "source_count": 12,
     "tags": "Metaverse, AI Avatars, E-commerce, Digital Identity",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1672,
+    "topic": "Generative Video Models Addressing Deepfake Watermarking for Regulatory Compliance",
+    "file": "html/article-1672-generative-video-models-addressing-deepfake-watermarking-for-regulatory-20261115-101103.html",
+    "timestamp": "20261115-101103",
+    "full_timestamp": "2026-11-15T10:11:03-08:00",
+    "summary": "Invisible provenance markers could connect generative video to regulatory compliance, but supplied evidence shows an emerging conversation rather than a fully established industry standard.",
+    "original_topic": "AI Video Generation Models",
+    "search_query": "AI video generation model watermarking standards 2026",
+    "source_count": 12,
+    "tags": "Deepfakes, Watermarking, Regulation, GenerativeAI",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
