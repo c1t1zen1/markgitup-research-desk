@@ -21865,5 +21865,18 @@
     "source_count": 12,
     "tags": "Deepfakes, Watermarking, Regulation, GenerativeAI",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1673,
+    "topic": "Local LLMs on macOS: Bridging the Gap Between Privacy and Complex Data Structuring",
+    "file": "html/article-1673-local-llms-on-macos-bridging-the-gap-between-privacy-and-complex-data-st-20261115-110604.html",
+    "timestamp": "20261115-110604",
+    "full_timestamp": "2026-11-15T11:06:04-08:00",
+    "summary": "Local LLMs on macOS promise private, increasingly capable workflows, but supplied evidence supports cautious evaluation of data structuring rather than broad claims of verified transformation.",
+    "original_topic": "Local AI Tools & Stacks for macOS",
+    "search_query": "macOS local LLM structured data extraction 2026",
+    "source_count": 12,
+    "tags": "Local AI, macOS, Data Structuring, Privacy",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
