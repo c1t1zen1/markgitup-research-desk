@@ -21735,5 +21735,18 @@
     "source_count": 12,
     "tags": "Deepfakes, IP Law, International Trade, Regulation",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1663,
+    "topic": "Real-Time Medical Image Analysis on Apple Silicon: Edge LLMs for Diagnostics",
+    "file": "html/article-1663-real-time-medical-image-analysis-on-apple-silicon-edge-llms-for-diagnost-20261115-013612.html",
+    "timestamp": "20261115-013612",
+    "full_timestamp": "2026-11-15T01:36:12-08:00",
+    "summary": "Harnessing Apple Silicon's power, edge LLMs enable real-time medical image analysis, moving diagnostics closer to the patient.",
+    "original_topic": "M Series Apple Silicon LLM Inference",
+    "search_query": "LLM medical image processing Apple Silicon latency 2026 latest",
+    "source_count": 12,
+    "tags": "Medical AI, Edge Computing, Apple Silicon, Diagnostics",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
