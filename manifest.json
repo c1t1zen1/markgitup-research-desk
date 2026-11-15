@@ -21722,5 +21722,18 @@
     "source_count": 12,
     "tags": "macOS, LocalAI, DataPrivacy, FileSystem",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1662,
+    "topic": "Regulating Synthetic Media in Cross-Border Digital Commerce and IP Law",
+    "file": "html/article-1662-regulating-synthetic-media-in-cross-border-digital-commerce-and-ip-law-20261115-003339.html",
+    "timestamp": "20261115-003339",
+    "full_timestamp": "2026-11-15T00:33:39-08:00",
+    "summary": "Navigating the intersection of synthetic media laws, international trade, and IP rights demands a global compliance strategy for digital commerce.",
+    "original_topic": "Deepfake Legislation & Synthetic Media Laws",
+    "search_query": "synthetic media copyright international trade law 2026",
+    "source_count": 12,
+    "tags": "Deepfakes, IP Law, International Trade, Regulation",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
