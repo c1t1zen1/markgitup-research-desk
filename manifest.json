@@ -21618,5 +21618,18 @@
     "source_count": 12,
     "tags": "KYC, Synthetic Identity, Behavioral Biometrics, Fraud Detection",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1654,
+    "topic": "AI-Driven Narrative Warfare Targets Localized Political Micro-Narratives in 2026",
+    "file": "html/article-1654-ai-driven-narrative-warfare-targets-localized-political-micro-narratives-20261114-160443.html",
+    "timestamp": "20261114-160443",
+    "full_timestamp": "2026-11-14T16:04:43-08:00",
+    "summary": "In 2026, AI campaign messaging expanded beyond national spectacle, raising questions about whether granular community anxieties can be targeted faster than voters and institutions can verify them.",
+    "original_topic": "AI Misinformation & Election Integrity",
+    "search_query": "AI political micro-targeting local elections 2026",
+    "source_count": 8,
+    "tags": "Microtargeting, Local Politics, Narrative Warfare, AI Ethics",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
