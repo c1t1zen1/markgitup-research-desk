@@ -21813,5 +21813,18 @@
     "source_count": 12,
     "tags": "Code Agents, Legacy Systems, DevOps, AI Engineering",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1669,
+    "topic": "AI-Assisted Legal Discovery: Navigating Jurisdictional AI Bias in Cross-Border Litigation",
+    "file": "html/article-1669-ai-assisted-legal-discovery-navigating-jurisdictional-ai-bias-in-cross-b-20261115-071943.html",
+    "timestamp": "20261115-071943",
+    "full_timestamp": "2026-11-15T07:19:43-08:00",
+    "summary": "Cross-border e-discovery faces new AI hurdles: navigating jurisdictional bias in automated legal processes.",
+    "original_topic": "AI in Legal Systems & Law Practice",
+    "search_query": "AI legal discovery jurisdictional bias international law 2026 latest",
+    "source_count": 12,
+    "tags": "LegalTech, AI Ethics, Cross-Border Law, Discovery",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
