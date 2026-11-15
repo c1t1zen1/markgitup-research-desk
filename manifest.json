@@ -21644,5 +21644,18 @@
     "source_count": 12,
     "tags": "AI, MentalHealth, Ethics, Companionship",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1656,
+    "topic": "Mac Local AI Apps Turn Privacy Promises Into a Permissions and Auditability Fight",
+    "file": "html/article-1656-mac-local-ai-apps-turn-privacy-promises-into-a-permissions-and-auditabil-20261114-181944.html",
+    "timestamp": "20261114-181944",
+    "full_timestamp": "2026-11-14T18:19:44-08:00",
+    "summary": "Mac local AI privacy claims now face a harder test: explicit permissions, transparent data flows, and audit trails that let users verify what stays on-device.",
+    "original_topic": "Privacy-First Local AI on Mac",
+    "search_query": "macOS local AI app permissions privacy audit logs 2026",
+    "source_count": 12,
+    "tags": "macOS, local AI, privacy, app permissions",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
