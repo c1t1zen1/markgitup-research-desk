@@ -21683,5 +21683,18 @@
     "source_count": 12,
     "tags": "Edge AI, Industrial IoT, Quantization, Apple Silicon",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1659,
+    "topic": "AI Video Agents Curate Hyper-Personalized News Feeds for Niche Subcultures",
+    "file": "html/article-1659-ai-video-agents-curate-hyper-personalized-news-feeds-for-niche-subcultur-20261114-211144.html",
+    "timestamp": "20261114-211144",
+    "full_timestamp": "2026-11-14T21:11:44-08:00",
+    "summary": "AI video agents may evolve from ranking links to producing niche, personalized briefings, but supplied evidence supports this mainly as a forward-looking possibility.",
+    "original_topic": "AI Short Form Video & Social Media",
+    "search_query": "AI video agents personalized news curation niche 2026 latest",
+    "source_count": 12,
+    "tags": "AI Video, Personalization, Social Media, Niche Content",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
