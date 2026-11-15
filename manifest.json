@@ -21670,5 +21670,18 @@
     "source_count": 12,
     "tags": "C2PA, Media Provenance, Deepfake Detection, Digital Trust",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1658,
+    "topic": "Quantized LLMs on Apple Silicon Powering Real-Time Edge Inference for Industrial IoT",
+    "file": "html/article-1658-quantized-llms-on-apple-silicon-powering-real-time-edge-inference-for-in-20261114-201146.html",
+    "timestamp": "20261114-201146",
+    "full_timestamp": "2026-11-14T20:11:46-08:00",
+    "summary": "Quantized LLMs may bring private, locally executed language inference to industrial gateways, but Apple Silicon evidence still falls short of proving control-system reliability or real-time guarantees.",
+    "original_topic": "Quantized LLMs Running on Mac Hardware",
+    "search_query": "LLM edge inference industrial IoT Apple Silicon 2026 latest",
+    "source_count": 12,
+    "tags": "Edge AI, Industrial IoT, Quantization, Apple Silicon",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
