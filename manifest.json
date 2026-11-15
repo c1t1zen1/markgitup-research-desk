@@ -21839,5 +21839,18 @@
     "source_count": 12,
     "tags": "AI Governance, Campaign Finance, Election Tech, Transparency",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1671,
+    "topic": "Hyper-Realistic AI Avatars in Metaverse Commerce: Authenticity and Consumer Trust",
+    "file": "html/article-1671-hyper-realistic-ai-avatars-in-metaverse-commerce-authenticity-and-consum-20261115-091100.html",
+    "timestamp": "20261115-091100",
+    "full_timestamp": "2026-11-15T09:11:00-08:00",
+    "summary": "Hyper-realistic AI avatars may become brand ambassadors and sales agents in virtual commerce, but supplied evidence points more clearly to opportunity than proven consumer trust.",
+    "original_topic": "AI Video Avatars & Virtual Presenters",
+    "search_query": "AI avatar digital fashion commerce authenticity 2026",
+    "source_count": 12,
+    "tags": "Metaverse, AI Avatars, E-commerce, Digital Identity",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
