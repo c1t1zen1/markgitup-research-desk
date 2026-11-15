@@ -21904,5 +21904,18 @@
     "source_count": 12,
     "tags": "Smart Grid, Energy AI, Microgrids, Home Automation",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1676,
+    "topic": "Graph AI Targets Mule Networks Behind Instant-Payment Fraud as Banks Face New Liability",
+    "file": "html/article-1676-graph-ai-targets-mule-networks-behind-instant-payment-fraud-as-banks-fac-20261115-140442.html",
+    "timestamp": "20261115-140442",
+    "full_timestamp": "2026-11-15T14:04:42-08:00",
+    "summary": "Banks are shifting from isolated account rules toward graph-based views of mule networks, while payment-liability pressure raises the stakes for explainable, real-time intervention.",
+    "original_topic": "AI Fraud Detection in Banking & Finance",
+    "search_query": "2026 banks graph AI mule account detection instant payment fraud liability",
+    "source_count": 12,
+    "tags": "graph AI, mule accounts, instant payments, banking regulation",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
