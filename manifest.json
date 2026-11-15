@@ -21748,5 +21748,18 @@
     "source_count": 12,
     "tags": "Medical AI, Edge Computing, Apple Silicon, Diagnostics",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1664,
+    "topic": "LLMs Fine-Tuned on Proprietary Trading Data Challenge Traditional Alpha Generation",
+    "file": "html/article-1664-llms-fine-tuned-on-proprietary-trading-data-challenge-traditional-alpha-20261115-022322.html",
+    "timestamp": "20261115-022322",
+    "full_timestamp": "2026-11-15T02:23:22-08:00",
+    "summary": "Fine-tuning LLMs on proprietary trading data could reshape alpha research, but supplied evidence supports the model foundation—not the competitive-finance claim.",
+    "original_topic": "LLMs in Hedge Funds & Trading",
+    "search_query": "LLMs proprietary trading data alpha generation 2026 latest",
+    "source_count": 11,
+    "tags": "LLMs, Hedge Funds, Quantitative Finance, Data Strategy",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
