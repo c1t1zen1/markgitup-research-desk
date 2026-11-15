@@ -21761,5 +21761,18 @@
     "source_count": 11,
     "tags": "LLMs, Hedge Funds, Quantitative Finance, Data Strategy",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1665,
+    "topic": "AI Agent Portfolio Management Navigates Post-Quantum Cryptography Risks in DeFi",
+    "file": "html/article-1665-ai-agent-portfolio-management-navigates-post-quantum-cryptography-risks-20261115-032319.html",
+    "timestamp": "20261115-032319",
+    "full_timestamp": "2026-11-15T03:23:19-08:00",
+    "summary": "Quantum advances are pushing DeFi portfolios toward cryptographic risk monitoring, but supplied evidence supports market narratives more strongly than operational claims.",
+    "original_topic": "AI Crypto Trading Bots & Performance",
+    "search_query": "AI crypto trading quantum resistance DeFi 2026 latest",
+    "source_count": 12,
+    "tags": "Quantum Computing, DeFi, AI Trading, Cryptography",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
