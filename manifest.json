@@ -22047,5 +22047,18 @@
     "source_count": 12,
     "tags": "Telemedicine, AI Avatars, Digital Health, Synthetic Media",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1687,
+    "topic": "AI Short-Form Video's Impact on Attention Spans and Cognitive Load in Digital Natives",
+    "file": "html/article-1687-ai-short-form-video-s-impact-on-attention-spans-and-cognitive-load-in-di-20261116-011250.html",
+    "timestamp": "20261116-011250",
+    "full_timestamp": "2026-11-16T01:12:50-08:00",
+    "summary": "Examining how rapid-fire, algorithm-driven short-form video consumption affects the mental processes and sustained attention of digital natives.",
+    "original_topic": "AI Short Form Video & Social Media",
+    "search_query": "cognitive impact of short-form video consumption 2026",
+    "source_count": 12,
+    "tags": "Attention Economy, Cognitive Science, Social Media, AI Media",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
