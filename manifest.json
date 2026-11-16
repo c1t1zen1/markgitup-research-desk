@@ -22216,5 +22216,18 @@
     "source_count": 12,
     "tags": "Cybersecurity, National Security, AI Defense, Infrastructure",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1700,
+    "topic": "Deepfake Audio in Localized Political Campaigns: New Detection Vulnerabilities Emerge",
+    "file": "html/article-1700-deepfake-audio-in-localized-political-campaigns-new-detection-vulnerabil-20261116-143224.html",
+    "timestamp": "20261116-143224",
+    "full_timestamp": "2026-11-16T14:32:24-08:00",
+    "summary": "Localized deepfake audio poses a granular threat to elections, exploiting regional narratives with synthetic voices.",
+    "original_topic": "AI Misinformation & Election Integrity",
+    "search_query": "AI voice cloning political disinformation detection 2026",
+    "source_count": 3,
+    "tags": "Deepfake Audio, Election Integrity, Synthetic Media, Local Politics",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
