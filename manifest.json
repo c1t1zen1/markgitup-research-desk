@@ -22138,5 +22138,18 @@
     "source_count": 12,
     "tags": "Neurotech, Biofeedback, DigitalTherapy, MentalHealthAI",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1694,
+    "topic": "AI-Assisted E-Discovery: Navigating Jurisdictional Data Sovereignty Challenges in Global Litigation",
+    "file": "html/article-1694-ai-assisted-e-discovery-navigating-jurisdictional-data-sovereignty-chall-20261116-081922.html",
+    "timestamp": "20261116-081922",
+    "full_timestamp": "2026-11-16T08:19:22-08:00",
+    "summary": "Navigating global litigation requires AI-assisted e-discovery to reconcile conflicting international data sovereignty and residency laws.",
+    "original_topic": "AI in Legal Systems & Law Practice",
+    "search_query": "AI e-discovery data sovereignty international law 2026 latest",
+    "source_count": 12,
+    "tags": "e-discovery, data sovereignty, international law, legal AI",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
