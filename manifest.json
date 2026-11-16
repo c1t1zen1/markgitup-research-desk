@@ -21930,5 +21930,18 @@
     "source_count": 12,
     "tags": "AI, Misinformation, Election Integrity, Behavioral Science",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1678,
+    "topic": "AI-Powered Threat Hunting in Quantum-Resistant Intelligence Networks",
+    "file": "html/article-1678-ai-powered-threat-hunting-in-quantum-resistant-intelligence-networks-20261115-160357.html",
+    "timestamp": "20261115-160357",
+    "full_timestamp": "2026-11-15T16:03:57-08:00",
+    "summary": "AI threat hunting may strengthen quantum-resistant intelligence defenses, but supplied evidence supports strategic urgency—not claims of deployed US intelligence capabilities.",
+    "original_topic": "AI in US Intelligence & Surveillance",
+    "search_query": "AI threat detection quantum-resistant intelligence systems 2026 latest",
+    "source_count": 12,
+    "tags": "Quantum Security, AI Surveillance, Intelligence, Cyber Defense",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
