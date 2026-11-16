@@ -21956,5 +21956,18 @@
     "source_count": 12,
     "tags": "HFT, LLMs, Market Microstructure, Low Latency",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1680,
+    "topic": "AI Code Agents Integrating Formal Verification for Zero-Day Vulnerability Patching",
+    "file": "html/article-1680-ai-code-agents-integrating-formal-verification-for-zero-day-vulnerabilit-20261115-181333.html",
+    "timestamp": "20261115-181333",
+    "full_timestamp": "2026-11-15T18:13:33-08:00",
+    "summary": "AI Code Agents are evolving beyond generation to actively prove patch correctness using formal verification methods.",
+    "original_topic": "Autonomous AI Code Agents",
+    "search_query": "AI code agents formal verification security patches 2026",
+    "source_count": 12,
+    "tags": "AI Agents, Software Security, Formal Methods, Vulnerability",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
