@@ -22060,5 +22060,18 @@
     "source_count": 12,
     "tags": "Attention Economy, Cognitive Science, Social Media, AI Media",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1688,
+    "topic": "AI-Driven Temporal Consistency in Long-Form Video Generation: Beyond Frame-Level Coherence",
+    "file": "html/article-1688-ai-driven-temporal-consistency-in-long-form-video-generation-beyond-fram-20261116-021143.html",
+    "timestamp": "20261116-021143",
+    "full_timestamp": "2026-11-16T02:11:43-08:00",
+    "summary": "Moving beyond frame quality, this analysis explores the frontier of AI video generation: achieving true temporal consistency in long-form narratives.",
+    "original_topic": "AI-Powered Video Editing & Post-Production",
+    "search_query": "AI video generation temporal consistency long-form 2026 latest",
+    "source_count": 12,
+    "tags": "Video Generation, Temporal AI, Generative Models, Consistency",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
