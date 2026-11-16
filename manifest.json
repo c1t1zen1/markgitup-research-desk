@@ -22203,5 +22203,18 @@
     "source_count": 12,
     "tags": "Affective Computing, Geriatrics, Loneliness, AI Companions",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1699,
+    "topic": "AI Surveillance of Cyber Infrastructure: Detecting State-Sponsored Intrusion Patterns",
+    "file": "html/article-1699-ai-surveillance-of-cyber-infrastructure-detecting-state-sponsored-intrus-20261116-131622.html",
+    "timestamp": "20261116-131622",
+    "full_timestamp": "2026-11-16T13:16:22-08:00",
+    "summary": "AI is reshaping digital defense, enabling proactive monitoring of critical infrastructure against sophisticated state-sponsored cyber threats.",
+    "original_topic": "AI in US Intelligence & Surveillance",
+    "search_query": "AI anomaly detection critical infrastructure cyber defense 2026",
+    "source_count": 12,
+    "tags": "Cybersecurity, National Security, AI Defense, Infrastructure",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
