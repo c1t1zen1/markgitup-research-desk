@@ -21995,5 +21995,18 @@
     "source_count": 12,
     "tags": "Medical AI, Apple Silicon, On-Device ML, Healthcare",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1683,
+    "topic": "AI's Role in Regulatory Capture: Automated Lobbying and Policy Feedback Loops",
+    "file": "html/article-1683-ai-s-role-in-regulatory-capture-automated-lobbying-and-policy-feedback-l-20261115-211420.html",
+    "timestamp": "20261115-211420",
+    "full_timestamp": "2026-11-15T21:14:20-08:00",
+    "summary": "AI's automated influence risks creating feedback loops where corporate interests dictate the very regulations meant to govern them.",
+    "original_topic": "AI Lobbying & Policy in Washington",
+    "search_query": "AI automated lobbying influence on federal regulations 2026",
+    "source_count": 12,
+    "tags": "AI Governance, Regulatory Capture, Lobbying, Policy Automation",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
