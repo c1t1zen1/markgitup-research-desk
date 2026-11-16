@@ -21943,5 +21943,18 @@
     "source_count": 12,
     "tags": "Quantum Security, AI Surveillance, Intelligence, Cyber Defense",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1679,
+    "topic": "LLMs Adapting to High-Frequency Market Microstructure Noise in Latency-Sensitive Trading",
+    "file": "html/article-1679-llms-adapting-to-high-frequency-market-microstructure-noise-in-latency-s-20261115-171559.html",
+    "timestamp": "20261115-171559",
+    "full_timestamp": "2026-11-15T17:15:59-08:00",
+    "summary": "Navigating market microstructure noise demands specialized LLM adaptation, moving beyond text analysis to handle high-velocity, low-latency trading signals.",
+    "original_topic": "LLMs in Hedge Funds & Trading",
+    "search_query": "LLMs high-frequency trading microstructure noise analysis 2026",
+    "source_count": 12,
+    "tags": "HFT, LLMs, Market Microstructure, Low Latency",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
