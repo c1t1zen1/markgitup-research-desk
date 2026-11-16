@@ -22190,5 +22190,18 @@
     "source_count": 12,
     "tags": "AI, Legislation, Policy, Governance",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1698,
+    "topic": "Personalized AI Companions Addressing Loneliness in Geriatric Care Through Affective Computing",
+    "file": "html/article-1698-personalized-ai-companions-addressing-loneliness-in-geriatric-care-throu-20261116-121218.html",
+    "timestamp": "20261116-121218",
+    "full_timestamp": "2026-11-16T12:12:18-08:00",
+    "summary": "Affective AI companions offer personalized support to combat growing loneliness in aging populations, blending technology with empathy.",
+    "original_topic": "AI in Mental Health & Therapy",
+    "search_query": "AI companions loneliness elderly affective computing 2026",
+    "source_count": 12,
+    "tags": "Affective Computing, Geriatrics, Loneliness, AI Companions",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
