@@ -22177,5 +22177,18 @@
     "source_count": 12,
     "tags": "Autonomous Vehicles, Synthetic Data, Video Generation, Simulation",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1697,
+    "topic": "AI-Generated Policy Briefs and Their Influence on Legislative Drafting Processes",
+    "file": "html/article-1697-ai-generated-policy-briefs-and-their-influence-on-legislative-drafting-p-20261116-111526.html",
+    "timestamp": "20261116-111526",
+    "full_timestamp": "2026-11-16T11:15:26-08:00",
+    "summary": "LLMs are moving beyond outreach to actively shape legislative text, raising critical questions about authorship, bias, and the future of policy drafting.",
+    "original_topic": "AI in US Elections & Campaigns",
+    "search_query": "Generative AI legislative drafting influence policy 2026",
+    "source_count": 12,
+    "tags": "AI, Legislation, Policy, Governance",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
