@@ -22021,5 +22021,18 @@
     "source_count": 12,
     "tags": "IoT, Edge AI, Local LLM, Industrial Automation",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1685,
+    "topic": "Quantized LLMs on Apple Silicon: Enabling Real-Time On-Device Genomics Analysis",
+    "file": "html/article-1685-quantized-llms-on-apple-silicon-enabling-real-time-on-device-genomics-an-20261115-231254.html",
+    "timestamp": "20261115-231254",
+    "full_timestamp": "2026-11-15T23:12:54-08:00",
+    "summary": "Leveraging quantized LLMs on Apple Silicon unlocks private, real-time genomic analysis directly on user hardware.",
+    "original_topic": "Quantized LLMs Running on Mac Hardware",
+    "search_query": "on-device LLM genomic sequence processing Apple Silicon 2026 latest",
+    "source_count": 12,
+    "tags": "Genomics, LLMs, On-Device AI, Apple Silicon",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
