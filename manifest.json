@@ -22229,5 +22229,18 @@
     "source_count": 3,
     "tags": "Deepfake Audio, Election Integrity, Synthetic Media, Local Politics",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1701,
+    "topic": "Decentralized Autonomous Organizations and AI Governance: New Risk Vectors",
+    "file": "html/article-1701-decentralized-autonomous-organizations-and-ai-governance-new-risk-vector-20261116-151721.html",
+    "timestamp": "20261116-151721",
+    "full_timestamp": "2026-11-16T15:17:21-08:00",
+    "summary": "Integrating AI into Decentralized Autonomous Organizations introduces novel governance challenges, shifting focus from performance to systemic risk.",
+    "original_topic": "AI Crypto Trading Bots & Performance",
+    "search_query": "AI governance DAO smart contract risk management 2026",
+    "source_count": 12,
+    "tags": "DeFi, AI Governance, DAO, Risk Management",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
