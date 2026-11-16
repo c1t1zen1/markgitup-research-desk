@@ -22086,5 +22086,18 @@
     "source_count": 12,
     "tags": "Climate Risk, Financial Reporting, Generative AI, ESG",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1690,
+    "topic": "AI's Impact on Micro-Targeting Voter Sentiment via Personalized Digital Outreach",
+    "file": "html/article-1690-ai-s-impact-on-micro-targeting-voter-sentiment-via-personalized-digital-20261116-043139.html",
+    "timestamp": "20261116-043139",
+    "full_timestamp": "2026-11-16T04:31:39-08:00",
+    "summary": "AI enables hyper-personalized political outreach by inferring voter psychographics, creating a new frontier for campaign messaging.",
+    "original_topic": "AI in US Elections & Campaigns",
+    "search_query": "AI voter sentiment analysis personalized digital outreach 2026",
+    "source_count": 12,
+    "tags": "AI, Elections, Microtargeting, PoliticalTech",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
