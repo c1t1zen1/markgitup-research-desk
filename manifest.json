@@ -22164,5 +22164,18 @@
     "source_count": 12,
     "tags": "Supply Chain, Digital Twins, Macroeconomics, AI Forecasting",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1696,
+    "topic": "Real-Time Video Synthesis for Synthetic Data Generation in Autonomous Vehicle Training",
+    "file": "html/article-1696-real-time-video-synthesis-for-synthetic-data-generation-in-autonomous-ve-20261116-101955.html",
+    "timestamp": "20261116-101955",
+    "full_timestamp": "2026-11-16T10:19:55-08:00",
+    "summary": "Real-time video synthesis is revolutionizing AV training by creating photorealistic, complex synthetic environments for rigorous testing.",
+    "original_topic": "AI Video Generation Models",
+    "search_query": "Generative AI synthetic data autonomous driving simulation 2026 latest",
+    "source_count": 12,
+    "tags": "Autonomous Vehicles, Synthetic Data, Video Generation, Simulation",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
