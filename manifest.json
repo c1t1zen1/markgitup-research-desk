@@ -22541,5 +22541,18 @@
     "source_count": 11,
     "tags": "AI, Cybersecurity, Sovereign Cloud, Intelligence",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1725,
+    "topic": "Deepfakes in Micro-Targeting: AI's Impact on Localized Political Discourse",
+    "file": "html/article-1725-deepfakes-in-micro-targeting-ai-s-impact-on-localized-political-discours-20261117-151231.html",
+    "timestamp": "20261117-151231",
+    "full_timestamp": "2026-11-17T15:12:31-08:00",
+    "summary": "Hyper-localized AI misinformation exploits niche demographics, fundamentally altering the landscape of local political discourse and election integrity.",
+    "original_topic": "AI Misinformation & Election Integrity",
+    "search_query": "AI synthetic media micro-targeting political advertising 2026",
+    "source_count": 12,
+    "tags": "AI, Misinformation, Elections, Deepfakes",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
