@@ -22437,5 +22437,18 @@
     "source_count": 12,
     "tags": "FinTech, Sentiment Analysis, Micro-Cap, AI Trading",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1717,
+    "topic": "Generative AI in Compliance: Automated Regulatory Change Management for Financial Disclosure",
+    "file": "html/article-1717-generative-ai-in-compliance-automated-regulatory-change-management-for-f-20261117-071247.html",
+    "timestamp": "20261117-071247",
+    "full_timestamp": "2026-11-17T07:12:47-08:00",
+    "summary": "GenAI is shifting financial compliance from reactive reporting to proactive regulatory adaptation, managing complex global mandates automatically.",
+    "original_topic": "Generative AI for Financial Reporting",
+    "search_query": "Generative AI regulatory change financial reporting compliance 2026 latest",
+    "source_count": 12,
+    "tags": "RegTech, Compliance, Generative AI, Financial Reporting",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
