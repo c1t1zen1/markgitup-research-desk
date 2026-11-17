@@ -22255,5 +22255,18 @@
     "source_count": 3,
     "tags": "AI Law, Synthetic Media, Liability, Governance",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1703,
+    "topic": "Interactive Storytelling: AI Directing Branching Narrative Video in Live Performance",
+    "file": "html/article-1703-interactive-storytelling-ai-directing-branching-narrative-video-in-live-20261116-172333.html",
+    "timestamp": "20261116-172333",
+    "full_timestamp": "2026-11-16T17:23:33-08:00",
+    "summary": "AI's Directorial Leap: Real-time narrative control in live, interactive performance.",
+    "original_topic": "AI-Generated Video for Filmmaking & Content Creation",
+    "search_query": "AI directorial control interactive narrative live performance 2026 latest",
+    "source_count": 10,
+    "tags": "Interactive Media, Live Performance, Generative Video, Narrative AI",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
