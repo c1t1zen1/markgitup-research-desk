@@ -22320,5 +22320,18 @@
     "source_count": 12,
     "tags": "Haptics, Virtual Presence, AI Avatars, Remote Work",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1708,
+    "topic": "Controlling Narrative Coherence in Long-Form AI-Generated Cinematic Worlds",
+    "file": "html/article-1708-controlling-narrative-coherence-in-long-form-ai-generated-cinematic-worl-20261116-221316.html",
+    "timestamp": "20261116-221316",
+    "full_timestamp": "2026-11-16T22:13:16-08:00",
+    "summary": "Beyond frames: The critical challenge of maintaining narrative logic and character consistency in sprawling AI video worlds.",
+    "original_topic": "AI Video Generation Models",
+    "search_query": "AI video generation narrative consistency scene continuity 2026",
+    "source_count": 12,
+    "tags": "Narrative AI, Video Consistency, Long-Form Generation, Cinematic AI",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
