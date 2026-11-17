@@ -22450,5 +22450,18 @@
     "source_count": 12,
     "tags": "RegTech, Compliance, Generative AI, Financial Reporting",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1718,
+    "topic": "Privacy-Preserving Local AI: Securing Sensitive Data on macOS with Confidential Computing",
+    "file": "html/article-1718-privacy-preserving-local-ai-securing-sensitive-data-on-macos-with-confid-20261117-081424.html",
+    "timestamp": "20261117-081424",
+    "full_timestamp": "2026-11-17T08:14:24-08:00",
+    "summary": "Beyond basic on-device AI, macOS is implementing hardware-backed security features to guarantee data privacy during local AI inference.",
+    "original_topic": "Privacy-First Local AI on Mac",
+    "search_query": "macOS confidential computing local AI data protection 2026 latest",
+    "source_count": 12,
+    "tags": "Confidential Computing, Local AI, macOS Security, Privacy",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
