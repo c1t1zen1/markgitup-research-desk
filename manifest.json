@@ -22294,5 +22294,18 @@
     "source_count": 2,
     "tags": "Livestreaming, Deepfakes, E-commerce, Synthetic Media",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1706,
+    "topic": "AI-Powered Video Editing for Multilingual Localization and Cultural Adaptation",
+    "file": "html/article-1706-ai-powered-video-editing-for-multilingual-localization-and-cultural-adap-20261116-201258.html",
+    "timestamp": "20261116-201258",
+    "full_timestamp": "2026-11-16T20:12:58-08:00",
+    "summary": "AI is moving beyond simple translation in video, enabling deep cultural adaptation for truly global market penetration.",
+    "original_topic": "AI-Powered Video Editing & Post-Production",
+    "search_query": "AI video localization cultural adaptation 2026",
+    "source_count": 12,
+    "tags": "Localization, Multilingual, Post-Production, Cultural AI",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
