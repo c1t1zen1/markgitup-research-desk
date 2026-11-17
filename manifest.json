@@ -22398,5 +22398,18 @@
     "source_count": 12,
     "tags": "Generative AI, Content Moderation, Social Media, Policy",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1714,
+    "topic": "Leveraging Apple Silicon for On-Device LLM Fine-Tuning on macOS",
+    "file": "html/article-1714-leveraging-apple-silicon-for-on-device-llm-fine-tuning-on-macos-20261117-041421.html",
+    "timestamp": "20261117-041421",
+    "full_timestamp": "2026-11-17T04:14:21-08:00",
+    "summary": "Harnessing Apple Silicon to fine-tune LLMs locally is a growing reality, moving beyond simple inference to on-device model customization.",
+    "original_topic": "Local AI Tools & Stacks for macOS",
+    "search_query": "macOS local LLM fine-tuning performance benchmarks 2026",
+    "source_count": 12,
+    "tags": "Local AI, macOS, LLM, Edge Computing",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
