@@ -22307,5 +22307,18 @@
     "source_count": 12,
     "tags": "Localization, Multilingual, Post-Production, Cultural AI",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1707,
+    "topic": "Haptic Feedback Integration in AI Avatars: Simulating Physical Presence in Remote Collaboration",
+    "file": "html/article-1707-haptic-feedback-integration-in-ai-avatars-simulating-physical-presence-i-20261116-211223.html",
+    "timestamp": "20261116-211223",
+    "full_timestamp": "2026-11-16T21:12:23-08:00",
+    "summary": "Haptic feedback is evolving AI avatars from visual tools to tactile partners, promising deeper, more physically present remote collaboration.",
+    "original_topic": "AI Video Avatars & Virtual Presenters",
+    "search_query": "AI avatar haptic feedback remote collaboration 2026",
+    "source_count": 12,
+    "tags": "Haptics, Virtual Presence, AI Avatars, Remote Work",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
