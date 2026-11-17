@@ -22411,5 +22411,18 @@
     "source_count": 12,
     "tags": "Local AI, macOS, LLM, Edge Computing",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1715,
+    "topic": "Edge AI for Predictive Home Maintenance: Anticipating Appliance Failure Before It Happens",
+    "file": "html/article-1715-edge-ai-for-predictive-home-maintenance-anticipating-appliance-failure-b-20261117-051159.html",
+    "timestamp": "20261117-051159",
+    "full_timestamp": "2026-11-17T05:11:59-08:00",
+    "summary": "Edge AI enables proactive home appliance maintenance by running diagnostics locally, shifting home care from reactive fixes to predictive failure anticipation.",
+    "original_topic": "AI-Powered Smart Homes & Automation",
+    "search_query": "Edge AI predictive maintenance smart home appliances 2026",
+    "source_count": 12,
+    "tags": "Edge AI, Predictive Maintenance, IoT, Smart Homes",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
