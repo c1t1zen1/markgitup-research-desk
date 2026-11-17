@@ -22333,5 +22333,18 @@
     "source_count": 12,
     "tags": "Narrative AI, Video Consistency, Long-Form Generation, Cinematic AI",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1709,
+    "topic": "Adaptive AI Control of Residential Energy Storage for Grid Resilience",
+    "file": "html/article-1709-adaptive-ai-control-of-residential-energy-storage-for-grid-resilience-20261116-231409.html",
+    "timestamp": "20261116-231409",
+    "full_timestamp": "2026-11-16T23:14:09-08:00",
+    "summary": "AI is moving residential energy storage beyond simple management to active, predictive control for enhanced grid resilience.",
+    "original_topic": "AI-Powered Smart Homes & Automation",
+    "search_query": "AI predictive load shifting residential battery storage 2026 latest",
+    "source_count": 12,
+    "tags": "Energy Storage, Grid Resilience, Predictive AI, Microgrids",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
