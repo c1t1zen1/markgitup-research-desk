@@ -22346,5 +22346,18 @@
     "source_count": 12,
     "tags": "Energy Storage, Grid Resilience, Predictive AI, Microgrids",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1710,
+    "topic": "Quantizing LLMs on M-Series: Low-Bit Inference for Mobile Edge Deployment",
+    "file": "html/article-1710-quantizing-llms-on-m-series-low-bit-inference-for-mobile-edge-deployment-20261117-001255.html",
+    "timestamp": "20261117-001255",
+    "full_timestamp": "2026-11-17T00:12:55-08:00",
+    "summary": "Optimizing LLM performance on Apple Silicon requires advanced quantization techniques to enable efficient, low-bit inference for true mobile edge deployment.",
+    "original_topic": "M Series Apple Silicon LLM Inference",
+    "search_query": "Apple M-series LLM quantization low-bit inference 2026 latest",
+    "source_count": 12,
+    "tags": "LLM, Edge AI, Quantization, Apple Silicon",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
