@@ -22489,5 +22489,18 @@
     "source_count": 12,
     "tags": "Digital Phenotyping, Remote Monitoring, Mental Health AI, Biomarkers",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1721,
+    "topic": "AI Video Generation for Synthetic Data in Autonomous Vehicle Training Simulation",
+    "file": "html/article-1721-ai-video-generation-for-synthetic-data-in-autonomous-vehicle-training-si-20261117-111221.html",
+    "timestamp": "20261117-111221",
+    "full_timestamp": "2026-11-17T11:12:21-08:00",
+    "summary": "Generative AI video models are enabling the creation of critical, rare edge-case scenarios for autonomous vehicle training.",
+    "original_topic": "AI Video Generation Models",
+    "search_query": "synthetic video data autonomous vehicle training 2026",
+    "source_count": 6,
+    "tags": "Autonomous Vehicles, Synthetic Data, Generative AI, Simulation",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
