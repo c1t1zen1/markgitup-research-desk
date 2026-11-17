@@ -22528,5 +22528,18 @@
     "source_count": 10,
     "tags": "Apple Silicon, LLM, Spatial Computing, Edge AI",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1724,
+    "topic": "AI-Driven Cyber Threat Hunting in Sovereign Cloud Infrastructures",
+    "file": "html/article-1724-ai-driven-cyber-threat-hunting-in-sovereign-cloud-infrastructures-20261117-141420.html",
+    "timestamp": "20261117-141420",
+    "full_timestamp": "2026-11-17T14:14:20-08:00",
+    "summary": "Sovereign clouds are reshaping cyber defense, leveraging AI-driven threat hunting to localize data control and meet geopolitical demands.",
+    "original_topic": "AI in US Intelligence & Surveillance",
+    "search_query": "AI threat detection sovereign cloud infrastructure 2026",
+    "source_count": 11,
+    "tags": "AI, Cybersecurity, Sovereign Cloud, Intelligence",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
