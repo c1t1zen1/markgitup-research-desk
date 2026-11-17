@@ -22281,5 +22281,18 @@
     "source_count": 12,
     "tags": "Legacy Code, Software Engineering, AI Agents, Refactoring",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1705,
+    "topic": "AI Video Synthesis and Deepfakes in Real-Time Livestream Commerce",
+    "file": "html/article-1705-ai-video-synthesis-and-deepfakes-in-real-time-livestream-commerce-20261116-191838.html",
+    "timestamp": "20261116-191838",
+    "full_timestamp": "2026-11-16T19:18:38-08:00",
+    "summary": "Hyper-realistic AI influencers threaten live e-commerce authenticity, challenging regulatory oversight in rapidly evolving digital marketplaces.",
+    "original_topic": "AI Short Form Video & Social Media",
+    "search_query": "AI synthetic media livestream e-commerce authenticity 2026 latest",
+    "source_count": 2,
+    "tags": "Livestreaming, Deepfakes, E-commerce, Synthetic Media",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
