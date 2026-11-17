@@ -22385,5 +22385,18 @@
     "source_count": 12,
     "tags": "Apple Silicon, Neural Engine, On-Device ML, Performance Optimization",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1713,
+    "topic": "AI Video Agents Adapting to Evolving Platform Content Moderation Policies",
+    "file": "html/article-1713-ai-video-agents-adapting-to-evolving-platform-content-moderation-policie-20261117-031345.html",
+    "timestamp": "20261117-031345",
+    "full_timestamp": "2026-11-17T03:13:45-08:00",
+    "summary": "AI Video Agents face a growing adversarial challenge as advanced generation capabilities clash with tightening 2026 platform content moderation policies.",
+    "original_topic": "AI Short Form Video & Social Media",
+    "search_query": "AI video generation platform policy changes 2026",
+    "source_count": 12,
+    "tags": "Generative AI, Content Moderation, Social Media, Policy",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
