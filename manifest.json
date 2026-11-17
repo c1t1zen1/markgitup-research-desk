@@ -22372,5 +22372,18 @@
     "source_count": 12,
     "tags": "Financial AI, Auditing, Synthetic Data, Regulatory Compliance",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1712,
+    "topic": "Optimizing Neural Engine Performance for High-Throughput Localized AI Inference",
+    "file": "html/article-1712-optimizing-neural-engine-performance-for-high-throughput-localized-ai-in-20261117-021407.html",
+    "timestamp": "20261117-021407",
+    "full_timestamp": "2026-11-17T02:14:07-08:00",
+    "summary": "Deep dive into optimizing high-throughput AI inference by leveraging Apple Silicon's dedicated Neural Engine capabilities.",
+    "original_topic": "AI Development Tools for Apple Silicon",
+    "search_query": "Apple Silicon neural engine custom ML workloads 2026",
+    "source_count": 12,
+    "tags": "Apple Silicon, Neural Engine, On-Device ML, Performance Optimization",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
