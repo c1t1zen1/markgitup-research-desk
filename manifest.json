@@ -22463,5 +22463,18 @@
     "source_count": 12,
     "tags": "Confidential Computing, Local AI, macOS Security, Privacy",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1719,
+    "topic": "AI Agents Orchestrating Complex Multi-Modal Software Development Pipelines",
+    "file": "html/article-1719-ai-agents-orchestrating-complex-multi-modal-software-development-pipelin-20261117-091139.html",
+    "timestamp": "20261117-091139",
+    "full_timestamp": "2026-11-17T09:11:39-08:00",
+    "summary": "AI Agents are evolving to orchestrate entire software development lifecycles, moving beyond simple coding to manage complex, multi-modal projects.",
+    "original_topic": "Autonomous AI Code Agents",
+    "search_query": "AI agents multi-modal software development pipeline orchestration 2026 latest",
+    "source_count": 12,
+    "tags": "AI Agents, Software Engineering, Multi-Modal, DevOps",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
