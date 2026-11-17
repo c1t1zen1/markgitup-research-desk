@@ -22242,5 +22242,18 @@
     "source_count": 12,
     "tags": "DeFi, AI Governance, DAO, Risk Management",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1702,
+    "topic": "Legal Frameworks for Liability When Autonomous AI Creates Malicious Synthetic Content",
+    "file": "html/article-1702-legal-frameworks-for-liability-when-autonomous-ai-creates-malicious-synt-20261116-161050.html",
+    "timestamp": "20261116-161050",
+    "full_timestamp": "2026-11-16T16:10:50-08:00",
+    "summary": "As AI autonomously generates malicious content, existing legal frameworks struggle to assign liability, creating a critical accountability vacuum.",
+    "original_topic": "Deepfake Legislation & Synthetic Media Laws",
+    "search_query": "AI liability synthetic media creation law 2026",
+    "source_count": 3,
+    "tags": "AI Law, Synthetic Media, Liability, Governance",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
