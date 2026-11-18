@@ -22775,5 +22775,18 @@
     "source_count": 12,
     "tags": "AI video,copyright,film production,licensing",
     "model_names": "/home/pi/models/HermesForge-LFM3-1.7B-EmbeddedKnowledge-Q8_0.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1743,
+    "topic": "Synthetic Trading Desk Automation Risks Unregulated Market Disruption",
+    "file": "html/article-1743-synthetic-trading-desk-automation-risks-unregulated-market-disruption-20261118-130656.html",
+    "timestamp": "20261118-130656",
+    "full_timestamp": "2026-11-18T13:06:56-08:00",
+    "summary": "AI-managed execution desks may improve control and auditability, but emerging EU oversight keeps firms responsible for governance, testing, monitoring, outsourcing, and market-abuse exposure.",
+    "original_topic": "LLMs in Hedge Funds & Trading",
+    "search_query": "2026 algorithmic trading desk automation audit EU transparency compliance risk assessment",
+    "source_count": 12,
+    "tags": "['algorithmic trading', 'compliance', 'AI governance', 'market disruption']",
+    "model_names": "/home/pi/models/HermesForge-LFM3-1.7B-EmbeddedKnowledge-Q8_0.gguf + GPT 5.6 Luna"
   }
 ]
