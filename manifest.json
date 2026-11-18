@@ -22580,5 +22580,18 @@
     "source_count": 12,
     "tags": "Apple Silicon, LLM Training, Unified Memory, M5 Ultra",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1728,
+    "topic": "AI Judges in Small Claims: First Courts Deploy Automated Adjudication",
+    "file": "html/article-1728-ai-judges-in-small-claims-first-courts-deploy-automated-adjudication-20261117-180428.html",
+    "timestamp": "20261117-180428",
+    "full_timestamp": "2026-11-17T18:04:28-08:00",
+    "summary": "Low-stakes civil disputes may soon be resolved by algorithms rather than human judges, raising new questions about efficiency, fairness, and the future of small claims courts.",
+    "original_topic": "AI in Legal Systems & Law Practice",
+    "search_query": "AI automated adjudication small claims court 2026",
+    "source_count": 12,
+    "tags": "AI, legal-tech, courts, automation",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
