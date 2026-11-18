@@ -22749,5 +22749,18 @@
     "source_count": 12,
     "tags": "['AI safety', 'audio deepfakes', 'voice impersonation', 'regulation']",
     "model_names": "/Users/c1t1zen/models/HermesForge-LFM3-1.7B-EmbeddedKnowledge-Q8_0.gguf"
+  },
+  {
+    "article_number": 1741,
+    "topic": "AI-Powered Court AI Audits Are Cutting Small Claims Processing Times by Half",
+    "file": "html/article-1741-ai-powered-court-ai-audits-are-cutting-small-claims-processing-times-by-20261118-090050.html",
+    "timestamp": "20261118-090050",
+    "full_timestamp": "2026-11-18T09:00:50-08:00",
+    "summary": "AI pilot tools such as Learned Hand and PettyLawsuit are being tested in small claims and LA Superior Court to speed intake, drafting and resolution; published results show substantial case reduction but no claim of full automation.",
+    "original_topic": "AI in Legal Systems & Law Practice",
+    "search_query": "2026 small claims court AI adjudication audit pilot results legal tech",
+    "source_count": 12,
+    "tags": "['legal technology', 'AI compliance', 'small claims courts', 'automated review']",
+    "model_names": "/Users/c1t1zen/models/HermesForge-LFM3-1.7B-EmbeddedKnowledge-Q8_0.gguf"
   }
 ]
