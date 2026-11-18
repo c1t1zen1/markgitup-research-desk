@@ -22788,5 +22788,18 @@
     "source_count": 12,
     "tags": "['algorithmic trading', 'compliance', 'AI governance', 'market disruption']",
     "model_names": "/home/pi/models/HermesForge-LFM3-1.7B-EmbeddedKnowledge-Q8_0.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1744,
+    "topic": "AI Video Editing Tools Generate Copyright Claims While Studios Pursue New Rights Frameworks",
+    "file": "html/article-1744-ai-video-editing-tools-generate-copyright-claims-while-studios-pursue-ne-20261118-140450.html",
+    "timestamp": "20261118-140450",
+    "full_timestamp": "2026-11-18T14:04:50-08:00",
+    "summary": "Supplied evidence does not verify current video-editing copyright claims, but it points toward a distinct rights frontier requiring clearer rules for digital replicas and copyrightability.",
+    "original_topic": "AI-Powered Video Editing & Post-Production",
+    "search_query": "2026 AI video editing copyright disputes studios new licensing guidance",
+    "source_count": 12,
+    "tags": "['AI', 'video', 'copyright', 'editing']",
+    "model_names": "/home/pi/models/HermesForge-LFM3-1.7B-EmbeddedKnowledge-Q8_0.gguf + GPT 5.6 Luna"
   }
 ]
