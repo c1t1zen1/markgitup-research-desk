@@ -22684,5 +22684,18 @@
     "source_count": 12,
     "tags": "AI, stock prediction, earnings, finance",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1736,
+    "topic": "AI Predicts Terror Attacks Before They Happen",
+    "file": "html/article-1736-ai-predicts-terror-attacks-before-they-happen-20261118-020250.html",
+    "timestamp": "20261118-020250",
+    "full_timestamp": "2026-11-18T02:02:50-08:00",
+    "summary": "AI systems are evolving from reactive surveillance tools into proactive forecasting engines, analyzing disparate data streams to predict terrorist incidents before they occur.",
+    "original_topic": "AI in US Intelligence & Surveillance",
+    "search_query": "AI predictive analytics terror attack prevention 2026",
+    "source_count": 12,
+    "tags": "AI, security, prediction, terrorism",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
