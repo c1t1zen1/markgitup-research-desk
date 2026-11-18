@@ -22619,5 +22619,18 @@
     "source_count": 10,
     "tags": "AI lobbying, autonomous systems, policy, Washington",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1731,
+    "topic": "AI Auto-Grading Student Essays Sparks Accuracy Debate",
+    "file": "html/article-1731-ai-auto-grading-student-essays-sparks-accuracy-debate-20261117-210201.html",
+    "timestamp": "20261117-210201",
+    "full_timestamp": "2026-11-17T21:02:01-08:00",
+    "summary": "AI essay grading is scaling fast, but new research shows it often inflates scores and misses nuance. Here's what the evidence says about accuracy and fairness.",
+    "original_topic": "AI-Powered Video Editing & Post-Production",
+    "search_query": "AI essay grading accuracy controversy 2026",
+    "source_count": 12,
+    "tags": "AI, education, assessment, controversy",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
