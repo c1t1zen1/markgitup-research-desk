@@ -22606,5 +22606,18 @@
     "source_count": 12,
     "tags": "EU, AI disclosure, political ads, regulation",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1730,
+    "topic": "AI Lobbying Spending Surges as Washington Races to Regulate Autonomous Systems",
+    "file": "html/article-1730-ai-lobbying-spending-surges-as-washington-races-to-regulate-autonomous-s-20261117-200429.html",
+    "timestamp": "20261117-200429",
+    "full_timestamp": "2026-11-17T20:04:29-08:00",
+    "summary": "Tech companies are ramping up lobbying efforts as Washington moves to establish regulatory frameworks for autonomous vehicles, drones, and AI-driven decision systems.",
+    "original_topic": "AI Lobbying & Policy in Washington",
+    "search_query": "AI lobbying spending surge 2026 autonomous systems regulation",
+    "source_count": 10,
+    "tags": "AI lobbying, autonomous systems, policy, Washington",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
