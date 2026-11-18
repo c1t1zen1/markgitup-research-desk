@@ -22593,5 +22593,18 @@
     "source_count": 12,
     "tags": "AI, legal-tech, courts, automation",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1729,
+    "topic": "EU Mandates AI Disclosure Labels on All Political Ads",
+    "file": "html/article-1729-eu-mandates-ai-disclosure-labels-on-all-political-ads-20261117-190158.html",
+    "timestamp": "20261117-190158",
+    "full_timestamp": "2026-11-17T19:01:58-08:00",
+    "summary": "The EU is rolling out mandatory AI disclosure labels for political ads, a concrete transparency step that could reshape how synthetic media is used in elections across Europe.",
+    "original_topic": "Deepfake Legislation & Synthetic Media Laws",
+    "search_query": "EU AI disclosure labels political ads 2026",
+    "source_count": 12,
+    "tags": "EU, AI disclosure, political ads, regulation",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
