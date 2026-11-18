@@ -22554,5 +22554,18 @@
     "source_count": 12,
     "tags": "AI, Misinformation, Elections, Deepfakes",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1726,
+    "topic": "AI Detects Synthetic Invoices Before Payments Clear",
+    "file": "html/article-1726-ai-detects-synthetic-invoices-before-payments-clear-20261117-160247.html",
+    "timestamp": "20261117-160247",
+    "full_timestamp": "2026-11-17T16:02:47-08:00",
+    "summary": "AI invoice validation tools now intercept synthetic invoices before payments clear, with 59% of adopters stopping at least 90% of fraud attempts pre-disbursement.",
+    "original_topic": "AI Fraud Detection in Banking & Finance",
+    "search_query": "AI synthetic invoice detection payments 2026",
+    "source_count": 6,
+    "tags": "AI, fraud detection, finance, payments",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
