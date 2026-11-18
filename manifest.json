@@ -22762,5 +22762,18 @@
     "source_count": 12,
     "tags": "['legal technology', 'AI compliance', 'small claims courts', 'automated review']",
     "model_names": "/Users/c1t1zen/models/HermesForge-LFM3-1.7B-EmbeddedKnowledge-Q8_0.gguf"
+  },
+  {
+    "article_number": 1742,
+    "topic": "Studios Rework Synthetic Footage Rights as AI Video Copyright Battles Reach Production Deals",
+    "file": "html/article-1742-studios-rework-synthetic-footage-rights-as-ai-video-copyright-battles-re-20261118-120613.html",
+    "timestamp": "20261118-120613",
+    "full_timestamp": "2026-11-18T12:06:13-08:00",
+    "summary": "A thin evidence base points to AI copyright disputes as a possible catalyst for tighter footage clearance, ownership language, and synthetic-media production contracts.",
+    "original_topic": "AI-Generated Video for Filmmaking & Content Creation",
+    "search_query": "2026 Hollywood AI video copyright licensing synthetic footage production agreements",
+    "source_count": 12,
+    "tags": "AI video,copyright,film production,licensing",
+    "model_names": "/home/pi/models/HermesForge-LFM3-1.7B-EmbeddedKnowledge-Q8_0.gguf + GPT 5.6 Luna"
   }
 ]
