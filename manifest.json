@@ -22567,5 +22567,18 @@
     "source_count": 6,
     "tags": "AI, fraud detection, finance, payments",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1727,
+    "topic": "M5 Ultra's Unified Memory: A New Frontier for Local LLM Training",
+    "file": "html/article-1727-m5-ultra-s-unified-memory-a-new-frontier-for-local-llm-training-20261117-170236.html",
+    "timestamp": "20261117-170236",
+    "full_timestamp": "2026-11-17T17:02:36-08:00",
+    "summary": "Apple's M5 Ultra chip and 512GB unified memory configuration in the Mac Studio shift local AI from inference to practical fine-tuning of frontier models.",
+    "original_topic": "Quantized LLMs Running on Mac Hardware",
+    "search_query": "M5 Ultra unified memory LLM training 2026",
+    "source_count": 12,
+    "tags": "Apple Silicon, LLM Training, Unified Memory, M5 Ultra",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
