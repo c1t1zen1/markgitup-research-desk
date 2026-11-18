@@ -22736,5 +22736,18 @@
     "source_count": 12,
     "tags": "['AI', 'mental health', 'clinical effectiveness', 'therapy']",
     "model_names": "/Users/c1t1zen/models/HermesForge-LFM3-1.7B-EmbeddedKnowledge-Q8_0.gguf"
+  },
+  {
+    "article_number": 1740,
+    "topic": "AI-Generated Audio Drives New Prompt-Driven Voice Impersonation Scrutiny",
+    "file": "html/article-1740-ai-generated-audio-drives-new-prompt-driven-voice-impersonation-scrutiny-20261118-080054.html",
+    "timestamp": "20261118-080054",
+    "full_timestamp": "2026-11-18T08:00:54-08:00",
+    "summary": "Deepfake regulation and synthetic media law are converging into a 2026 mandate that covers voice impersonation, audio cloning, provenance/watermarking, biometric privacy, content labeling, takedown duties, and monetization — not only video.",
+    "original_topic": "Deepfake Legislation & Synthetic Media Laws",
+    "search_query": "2026 AI voice synthesis regulation prompt injection audio deepfake audit",
+    "source_count": 12,
+    "tags": "['AI safety', 'audio deepfakes', 'voice impersonation', 'regulation']",
+    "model_names": "/Users/c1t1zen/models/HermesForge-LFM3-1.7B-EmbeddedKnowledge-Q8_0.gguf"
   }
 ]
