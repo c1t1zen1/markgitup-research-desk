@@ -22658,5 +22658,18 @@
     "source_count": 12,
     "tags": "AI, trading, regulation, EU",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1734,
+    "topic": "Apple's Metal 4.5 Enables Record-Breaking Local AI Inference",
+    "file": "html/article-1734-apple-s-metal-4-5-enables-record-breaking-local-ai-inference-20261118-000135.html",
+    "timestamp": "20261118-000135",
+    "full_timestamp": "2026-11-18T00:01:35-08:00",
+    "summary": "Apple's Metal framework, combined with MLX and llama.cpp, is closing the gap with NVIDIA GPUs for local AI inference on Macs, particularly for large language models.",
+    "original_topic": "Local AI Tools & Stacks for macOS",
+    "search_query": "Apple Metal 4.5 local AI inference performance 2026 latest",
+    "source_count": 12,
+    "tags": "Apple, AI, Metal, macOS",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
