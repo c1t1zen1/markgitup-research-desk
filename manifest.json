@@ -22723,5 +22723,18 @@
     "source_count": 12,
     "tags": "['AI Video', 'Remote Presenter', 'Edge Inference', 'Video Avatars']",
     "model_names": "/Users/c1t1zen/models/HermesForge-LFM3-1.7B-EmbeddedKnowledge-Q8_0.gguf"
+  },
+  {
+    "article_number": 1739,
+    "topic": "AI-Assisted Therapy for Post-Traumatic Stress Persists Despite Promised Scale",
+    "file": "html/article-1739-ai-assisted-therapy-for-post-traumatic-stress-persists-despite-promised-20261118-070050.html",
+    "timestamp": "20261118-070050",
+    "full_timestamp": "2026-11-18T07:00:50-08:00",
+    "summary": "AI chatbots may show symptom-reduction benefits in small trials but have mixed clinical evidence; they are a promising access tool, not yet a replacement for face-to-face therapy.",
+    "original_topic": "AI in Mental Health & Therapy",
+    "search_query": "therapeutic AI chatbot effectiveness clinical trial insurance reimbursement November 2026",
+    "source_count": 12,
+    "tags": "['AI', 'mental health', 'clinical effectiveness', 'therapy']",
+    "model_names": "/Users/c1t1zen/models/HermesForge-LFM3-1.7B-EmbeddedKnowledge-Q8_0.gguf"
   }
 ]
