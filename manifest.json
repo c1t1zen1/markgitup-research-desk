@@ -22645,5 +22645,18 @@
     "source_count": 12,
     "tags": "AI therapy, FDA approval, digital health, insomnia",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1733,
+    "topic": "AI Trading Firms Face New EU Algorithmic Transparency Rules",
+    "file": "html/article-1733-ai-trading-firms-face-new-eu-algorithmic-transparency-rules-20261117-230144.html",
+    "timestamp": "20261117-230144",
+    "full_timestamp": "2026-11-17T23:01:44-08:00",
+    "summary": "EU regulators are moving to require algorithmic transparency from AI-driven trading firms, marking a policy shift toward disclosing model logic rather than just monitoring performance.",
+    "original_topic": "LLMs in Hedge Funds & Trading",
+    "search_query": "EU AI trading algorithm transparency regulation 2026",
+    "source_count": 12,
+    "tags": "AI, trading, regulation, EU",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
