@@ -22710,5 +22710,18 @@
     "source_count": 12,
     "tags": "AI trading, crypto exchanges, latency, technical vulnerabilities",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1738,
+    "topic": "AI Video Avatars for Adaptive Remote Presenters and Low-Power Edge Broadcast",
+    "file": "html/article-1738-ai-video-avatars-for-adaptive-remote-presenters-and-low-power-edge-broad-20261118-060051.html",
+    "timestamp": "20261118-060051",
+    "full_timestamp": "2026-11-18T06:00:51-08:00",
+    "summary": "Edge AI video avatars are a practical 2026 alternative to cloud streaming for interactive remote presenters: on-device inference keeps latency low and bandwidth bounded while preserving identity and lip sync.",
+    "original_topic": "AI Video Avatars & Virtual Presenters",
+    "search_query": "2026 AI video avatar remote presenter edge device low bandwidth streaming",
+    "source_count": 12,
+    "tags": "['AI Video', 'Remote Presenter', 'Edge Inference', 'Video Avatars']",
+    "model_names": "/Users/c1t1zen/models/HermesForge-LFM3-1.7B-EmbeddedKnowledge-Q8_0.gguf"
   }
 ]
