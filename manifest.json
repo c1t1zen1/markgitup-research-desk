@@ -22632,5 +22632,18 @@
     "source_count": 12,
     "tags": "AI, education, assessment, controversy",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1732,
+    "topic": "FDA Clears First AI Therapist for Chronic Insomnia Treatment",
+    "file": "html/article-1732-fda-clears-first-ai-therapist-for-chronic-insomnia-treatment-20261117-220147.html",
+    "timestamp": "20261117-220147",
+    "full_timestamp": "2026-11-17T22:01:47-08:00",
+    "summary": "FDA clearance of Somryst marks a regulatory milestone for AI-guided digital therapeutics in treating chronic insomnia, shifting mental health care toward clinically validated software.",
+    "original_topic": "AI in Mental Health & Therapy",
+    "search_query": "FDA approval AI therapist insomnia 2026",
+    "source_count": 12,
+    "tags": "AI therapy, FDA approval, digital health, insomnia",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
