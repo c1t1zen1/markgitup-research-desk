@@ -22671,5 +22671,18 @@
     "source_count": 12,
     "tags": "Apple, AI, Metal, macOS",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1735,
+    "topic": "AI Now Predicts Earnings Misses Before Analysts Do",
+    "file": "html/article-1735-ai-now-predicts-earnings-misses-before-analysts-do-20261118-010138.html",
+    "timestamp": "20261118-010138",
+    "full_timestamp": "2026-11-18T01:01:38-08:00",
+    "summary": "AI models are increasingly flagging potential earnings misses weeks before analyst consensus shifts, reshaping how funds time trades and manage risk.",
+    "original_topic": "AI Stock Prediction & Market Analysis",
+    "search_query": "AI earnings prediction accuracy 2026",
+    "source_count": 12,
+    "tags": "AI, stock prediction, earnings, finance",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
