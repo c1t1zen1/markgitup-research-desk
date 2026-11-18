@@ -22697,5 +22697,18 @@
     "source_count": 12,
     "tags": "AI, security, prediction, terrorism",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1737,
+    "topic": "AI Trading Bots Exploit Microsecond Crypto Exchange Latency Flaws",
+    "file": "html/article-1737-ai-trading-bots-exploit-microsecond-crypto-exchange-latency-flaws-20261118-030213.html",
+    "timestamp": "20261118-030213",
+    "full_timestamp": "2026-11-18T03:02:13-08:00",
+    "summary": "AI trading bots are exploiting microsecond latency flaws in crypto exchange infrastructure, triggering flash crashes and $15.7B in Q1 2026 liquidations through synchronized sell orders and memory poisoning attacks.",
+    "original_topic": "AI Crypto Trading Bots & Performance",
+    "search_query": "AI trading bots exploit crypto exchange latency flaws 2026",
+    "source_count": 12,
+    "tags": "AI trading, crypto exchanges, latency, technical vulnerabilities",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
