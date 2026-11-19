@@ -22866,5 +22866,18 @@
     "source_count": 12,
     "tags": "AI, elections, synthetic media, campaigns",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1750,
+    "topic": "Apple Unveils M5 Ultra for Local LLM Workloads",
+    "file": "html/article-1750-apple-unveils-m5-ultra-for-local-llm-workloads-20261119-040148.html",
+    "timestamp": "20261119-040148",
+    "full_timestamp": "2026-11-19T04:01:48-08:00",
+    "summary": "Apple's M5 Ultra chip, unveiled in August 2026, targets local LLM workloads with up to 512GB unified memory and 1.2 TB/s bandwidth, redefining single-box inference performance.",
+    "original_topic": "Quantized LLMs Running on Mac Hardware",
+    "search_query": "Apple M5 Ultra chip local LLM inference 2026",
+    "source_count": 12,
+    "tags": "Apple, silicon, LLMs, local inference",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
