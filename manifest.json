@@ -22970,5 +22970,18 @@
     "source_count": 12,
     "tags": "AI video, filmmaking, text-to-film, generative AI",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1758,
+    "topic": "Apple M7 Neural Engine Cuts LLM Inference Latency by 40%",
+    "file": "html/article-1758-apple-m7-neural-engine-cuts-llm-inference-latency-by-40-20261119-120159.html",
+    "timestamp": "20261119-120159",
+    "full_timestamp": "2026-11-19T12:01:59-08:00",
+    "summary": "Apple's M7 chip, shaped by lessons from its canceled car project, promises significant Neural Engine improvements for faster, more efficient local LLM inference.",
+    "original_topic": "M Series Apple Silicon LLM Inference",
+    "search_query": "Apple M7 neural engine LLM inference latency benchmark 2026 latest",
+    "source_count": 2,
+    "tags": "Apple Silicon, LLM Inference, M7 Chip, AI Performance",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
