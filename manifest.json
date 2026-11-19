@@ -22931,5 +22931,18 @@
     "source_count": 12,
     "tags": "deepfakes, EU regulation, AI Act, synthetic media",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1755,
+    "topic": "Open-Source Quantized LLMs Now Match Cloud Inference on Apple Silicon",
+    "file": "html/article-1755-open-source-quantized-llms-now-match-cloud-inference-on-apple-silicon-20261119-090233.html",
+    "timestamp": "20261119-090233",
+    "full_timestamp": "2026-11-19T09:02:33-08:00",
+    "summary": "Community benchmarks show 4-bit quantized open-source models on Apple Silicon now match cloud-hosted larger models on specific tasks, shifting the value proposition of local AI.",
+    "original_topic": "Quantized LLMs Running on Mac Hardware",
+    "search_query": "open source quantized LLM Apple Silicon inference benchmark 2026",
+    "source_count": 12,
+    "tags": "LLMs, Apple Silicon, quantization, local AI",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
