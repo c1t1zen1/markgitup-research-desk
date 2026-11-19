@@ -22983,5 +22983,18 @@
     "source_count": 2,
     "tags": "Apple Silicon, LLM Inference, M7 Chip, AI Performance",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1759,
+    "topic": "AI Crypto Bots Now Execute Trades Before Human Traders See Price Moves",
+    "file": "html/article-1759-ai-crypto-bots-now-execute-trades-before-human-traders-see-price-moves-20261119-130235.html",
+    "timestamp": "20261119-130235",
+    "full_timestamp": "2026-11-19T13:02:35-08:00",
+    "summary": "AI trading bots are evolving from reactive automation tools into predictive systems that can anticipate market moves and execute trades before human traders can react.",
+    "original_topic": "AI Crypto Trading Bots & Performance",
+    "search_query": "AI crypto trading bots front-running human traders 2026",
+    "source_count": 12,
+    "tags": "AI trading, crypto markets, front-running, market speed",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
