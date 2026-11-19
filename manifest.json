@@ -22879,5 +22879,18 @@
     "source_count": 12,
     "tags": "Apple, silicon, LLMs, local inference",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1751,
+    "topic": "AI Auto-Colorists Now Match Director's Vision From Script Alone",
+    "file": "html/article-1751-ai-auto-colorists-now-match-director-s-vision-from-script-alone-20261119-050200.html",
+    "timestamp": "20261119-050200",
+    "full_timestamp": "2026-11-19T05:02:00-08:00",
+    "summary": "AI colorists are shifting from shot-by-shot matching to script-driven grading, promising faster workflows while raising questions about creative control and the role of human colorists.",
+    "original_topic": "AI-Powered Video Editing & Post-Production",
+    "search_query": "AI auto color grading from script 2026",
+    "source_count": 12,
+    "tags": "AI video, color grading, post-production, Hollywood",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
