@@ -23009,5 +23009,18 @@
     "source_count": 12,
     "tags": "AI, mental health, FDA, therapy",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1761,
+    "topic": "AI Video Avatars Now Pass Live Turing-Style Tests in Hiring Simulations",
+    "file": "html/article-1761-ai-video-avatars-now-pass-live-turing-style-tests-in-hiring-simulations-20261119-150156.html",
+    "timestamp": "20261119-150156",
+    "full_timestamp": "2026-11-19T15:01:56-08:00",
+    "summary": "A new AI video avatar model passed a real-time video Turing test, convincing nearly half of human participants they were interacting with a person, marking a major leap in synthetic media realism.",
+    "original_topic": "AI Video Avatars & Virtual Presenters",
+    "search_query": "AI video avatar passes live Turing test hiring simulation 2026",
+    "source_count": 12,
+    "tags": "AI avatars, deepfakes, hiring tech, Turing test",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
