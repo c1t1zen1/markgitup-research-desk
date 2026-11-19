@@ -22853,5 +22853,18 @@
     "source_count": 12,
     "tags": "Apple, on-device AI, privacy, iPhone",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1749,
+    "topic": "AI-Generated Robocalls Target Swing Voters in Final Week of Midterms",
+    "file": "html/article-1749-ai-generated-robocalls-target-swing-voters-in-final-week-of-midterms-20261119-030234.html",
+    "timestamp": "20261119-030234",
+    "full_timestamp": "2026-11-19T03:02:34-08:00",
+    "summary": "As the 2026 midterms approach, AI-generated robocalls are emerging as a potent tool for voter persuasion, raising concerns about consent, authenticity, and the potential for synthetic voices to flood swing districts in the final days of the campaign.",
+    "original_topic": "AI in US Elections & Campaigns",
+    "search_query": "AI robocalls swing voters 2026 midterm elections",
+    "source_count": 12,
+    "tags": "AI, elections, synthetic media, campaigns",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
