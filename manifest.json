@@ -22827,5 +22827,18 @@
     "source_count": 12,
     "tags": "AI, intelligence, surveillance, NSA",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1747,
+    "topic": "AI Video Clips Now Outpace Human Creators on Major Social Feeds",
+    "file": "html/article-1747-ai-video-clips-now-outpace-human-creators-on-major-social-feeds-20261119-010219.html",
+    "timestamp": "20261119-010219",
+    "full_timestamp": "2026-11-19T01:02:19-08:00",
+    "summary": "AI-generated video clips are now a measurable share of major social feeds, shifting engagement patterns and prompting new detection and disclosure efforts.",
+    "original_topic": "AI Short Form Video & Social Media",
+    "search_query": "AI generated short videos dominate social media feeds 2026",
+    "source_count": 12,
+    "tags": "AI video, social media, content saturation, engagement metrics",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
