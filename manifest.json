@@ -22944,5 +22944,18 @@
     "source_count": 12,
     "tags": "LLMs, Apple Silicon, quantization, local AI",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1756,
+    "topic": "SEC Mandates AI Disclosure in Financial Statements for Public Companies",
+    "file": "html/article-1756-sec-mandates-ai-disclosure-in-financial-statements-for-public-companies-20261119-100227.html",
+    "timestamp": "20261119-100227",
+    "full_timestamp": "2026-11-19T10:02:27-08:00",
+    "summary": "SEC enforcement officials are actively scrutinizing public companies' AI disclosures, signaling that AI-generated content in financial filings will be judged under traditional materiality and anti-fraud standards.",
+    "original_topic": "Generative AI for Financial Reporting",
+    "search_query": "SEC AI disclosure financial statements mandate 2026",
+    "source_count": 12,
+    "tags": "AI, finance, regulation, SEC",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
