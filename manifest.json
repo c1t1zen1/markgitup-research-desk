@@ -22840,5 +22840,18 @@
     "source_count": 12,
     "tags": "AI video, social media, content saturation, engagement metrics",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1748,
+    "topic": "Apple's Local AI Now Runs on iPhone Without Cloud",
+    "file": "html/article-1748-apple-s-local-ai-now-runs-on-iphone-without-cloud-20261119-020219.html",
+    "timestamp": "20261119-020219",
+    "full_timestamp": "2026-11-19T02:02:19-08:00",
+    "summary": "Apple's on-device AI strategy is shifting from Mac-centric to iPhone-first, with local processing now the default for privacy-focused AI features.",
+    "original_topic": "Privacy-First Local AI on Mac",
+    "search_query": "Apple iPhone local AI no cloud 2026",
+    "source_count": 12,
+    "tags": "Apple, on-device AI, privacy, iPhone",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
