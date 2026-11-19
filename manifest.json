@@ -22905,5 +22905,18 @@
     "source_count": 12,
     "tags": "AI agents, software contracts, autonomous negotiation, enterprise AI",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1753,
+    "topic": "Apple M6 Neural Engine Benchmarks Expose AI Compiler Bottlenecks",
+    "file": "html/article-1753-apple-m6-neural-engine-benchmarks-expose-ai-compiler-bottlenecks-20261119-070202.html",
+    "timestamp": "20261119-070202",
+    "full_timestamp": "2026-11-19T07:02:02-08:00",
+    "summary": "New benchmarks of Apple's M6 chip reveal that AI compiler optimizations are lagging behind hardware gains, creating a specific bottleneck for developers targeting Apple Silicon.",
+    "original_topic": "AI Development Tools for Apple Silicon",
+    "search_query": "Apple M6 neural engine AI compiler benchmarks 2026 latest",
+    "source_count": 12,
+    "tags": "Apple Silicon,AI Development,Compiler Optimization,Benchmarks",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
