@@ -22957,5 +22957,18 @@
     "source_count": 12,
     "tags": "AI, finance, regulation, SEC",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1757,
+    "topic": "AI Video Tools Now Generate Full Films From Text Prompts",
+    "file": "html/article-1757-ai-video-tools-now-generate-full-films-from-text-prompts-20261119-110148.html",
+    "timestamp": "20261119-110148",
+    "full_timestamp": "2026-11-19T11:01:48-08:00",
+    "summary": "AI video tools now generate feature-length films from single text prompts, a major leap from short clips that could reshape how movies are made.",
+    "original_topic": "AI-Generated Video for Filmmaking & Content Creation",
+    "search_query": "AI text to full feature film generation 2026",
+    "source_count": 12,
+    "tags": "AI video, filmmaking, text-to-film, generative AI",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
