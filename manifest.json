@@ -22892,5 +22892,18 @@
     "source_count": 12,
     "tags": "AI video, color grading, post-production, Hollywood",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1752,
+    "topic": "AI Code Agents Now Negotiate Contract Terms With Vendor Bots",
+    "file": "html/article-1752-ai-code-agents-now-negotiate-contract-terms-with-vendor-bots-20261119-060144.html",
+    "timestamp": "20261119-060144",
+    "full_timestamp": "2026-11-19T06:01:44-08:00",
+    "summary": "AI agents are evolving from code writers to autonomous negotiators, using hybrid SaaS-BPO contract models to secure software services without human intervention.",
+    "original_topic": "Autonomous AI Code Agents",
+    "search_query": "AI code agents negotiate software contracts autonomously 2026",
+    "source_count": 12,
+    "tags": "AI agents, software contracts, autonomous negotiation, enterprise AI",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
