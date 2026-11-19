@@ -22814,5 +22814,18 @@
     "source_count": 8,
     "tags": "AI lobbying, data privacy, federal policy, 2026",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1746,
+    "topic": "NSA's AI Signal Processing Cuts Intercept Latency by 60%",
+    "file": "html/article-1746-nsa-s-ai-signal-processing-cuts-intercept-latency-by-60-20261119-000132.html",
+    "timestamp": "20261119-000132",
+    "full_timestamp": "2026-11-19T00:01:32-08:00",
+    "summary": "The NSA is integrating AI into signal processing to cut intercept latency, potentially transforming real-time intelligence capabilities.",
+    "original_topic": "AI in US Intelligence & Surveillance",
+    "search_query": "NSA AI signal processing latency reduction 2026",
+    "source_count": 12,
+    "tags": "AI, intelligence, surveillance, NSA",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
