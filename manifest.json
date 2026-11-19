@@ -22801,5 +22801,18 @@
     "source_count": 12,
     "tags": "['AI', 'video', 'copyright', 'editing']",
     "model_names": "/home/pi/models/HermesForge-LFM3-1.7B-EmbeddedKnowledge-Q8_0.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1745,
+    "topic": "AI Lobbying Pushes for Federal Data Privacy Standards",
+    "file": "html/article-1745-ai-lobbying-pushes-for-federal-data-privacy-standards-20261118-230159.html",
+    "timestamp": "20261118-230159",
+    "full_timestamp": "2026-11-18T23:01:59-08:00",
+    "summary": "AI firms are spending record sums lobbying Washington to shape emerging federal data privacy standards, with Meta leading Big Tech spending in Q3 2026.",
+    "original_topic": "AI Lobbying & Policy in Washington",
+    "search_query": "AI lobbying federal data privacy standards 2026",
+    "source_count": 8,
+    "tags": "AI lobbying, data privacy, federal policy, 2026",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
