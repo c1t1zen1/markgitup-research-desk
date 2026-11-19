@@ -22918,5 +22918,18 @@
     "source_count": 12,
     "tags": "Apple Silicon,AI Development,Compiler Optimization,Benchmarks",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1754,
+    "topic": "EU AI Act's Deepfake Rules Take Effect as First Fines Loom",
+    "file": "html/article-1754-eu-ai-act-s-deepfake-rules-take-effect-as-first-fines-loom-20261119-080203.html",
+    "timestamp": "20261119-080203",
+    "full_timestamp": "2026-11-19T08:02:03-08:00",
+    "summary": "The EU AI Act's deepfake disclosure rules become enforceable on August 2, 2026, with fines up to €15 million or 3% of global turnover for non-compliance.",
+    "original_topic": "Deepfake Legislation & Synthetic Media Laws",
+    "search_query": "EU AI Act deepfake disclosure rules enforcement fines 2026",
+    "source_count": 12,
+    "tags": "deepfakes, EU regulation, AI Act, synthetic media",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
