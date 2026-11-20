@@ -23035,5 +23035,18 @@
     "source_count": 12,
     "tags": "AI, video editing, lip sync, post-production",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1763,
+    "topic": "TikTok Tests AI-Generated Ads That Adapt in Real Time to Viewer Mood",
+    "file": "html/article-1763-tiktok-tests-ai-generated-ads-that-adapt-in-real-time-to-viewer-mood-20261119-170200.html",
+    "timestamp": "20261119-170200",
+    "full_timestamp": "2026-11-19T17:02:00-08:00",
+    "summary": "TikTok is testing AI systems that generate and modify ad creative in real time based on viewer signals, marking a shift from static targeting to dynamic, adaptive advertising.",
+    "original_topic": "AI Short Form Video & Social Media",
+    "search_query": "TikTok AI mood adaptive ads test 2026",
+    "source_count": 12,
+    "tags": "AI, advertising, social media, TikTok",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
