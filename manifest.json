@@ -23074,5 +23074,18 @@
     "source_count": 12,
     "tags": "AI, US politics, policy research, elections",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1766,
+    "topic": "Smart Homes Now Auto-File Insurance Claims After AI-Detected Damage",
+    "file": "html/article-1766-smart-homes-now-auto-file-insurance-claims-after-ai-detected-damage-20261119-200157.html",
+    "timestamp": "20261119-200157",
+    "full_timestamp": "2026-11-19T20:01:57-08:00",
+    "summary": "Smart home sensors are beginning to detect damage and file insurance claims automatically, potentially cutting response times but raising questions about accuracy and privacy.",
+    "original_topic": "AI-Powered Smart Homes & Automation",
+    "search_query": "AI smart home auto insurance claims 2026",
+    "source_count": 12,
+    "tags": "smart homes, AI insurance, automation, 2026",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
