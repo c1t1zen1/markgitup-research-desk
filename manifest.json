@@ -23113,5 +23113,18 @@
     "source_count": 12,
     "tags": "local-ai,macos,developer-tools,offline",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1769,
+    "topic": "Apple's On-Device AI Now Encrypts Model Weights in Transit",
+    "file": "html/article-1769-apple-s-on-device-ai-now-encrypts-model-weights-in-transit-20261119-230157.html",
+    "timestamp": "20261119-230157",
+    "full_timestamp": "2026-11-19T23:01:57-08:00",
+    "summary": "Apple's WWDC 2026 Core AI framework promises encrypted on-device model transfers, aiming to secure local AI inference against interception and tampering while maintaining privacy.",
+    "original_topic": "Privacy-First Local AI on Mac",
+    "search_query": "Apple on-device AI model weight encryption transit 2026",
+    "source_count": 12,
+    "tags": "Apple, AI security, encryption, on-device",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
