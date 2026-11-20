@@ -23126,5 +23126,18 @@
     "source_count": 12,
     "tags": "Apple, AI security, encryption, on-device",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1770,
+    "topic": "Banks Deploy AI to Catch Synthetic Identity Fraud in Real Time",
+    "file": "html/article-1770-banks-deploy-ai-to-catch-synthetic-identity-fraud-in-real-time-20261120-000208.html",
+    "timestamp": "20261120-000208",
+    "full_timestamp": "2026-11-20T00:02:08-08:00",
+    "summary": "Banks are deploying AI systems to detect synthetic identity fraud in real time as the crime grows faster than traditional detection methods can handle.",
+    "original_topic": "AI Fraud Detection in Banking & Finance",
+    "search_query": "AI synthetic identity fraud detection banking 2026",
+    "source_count": 12,
+    "tags": "AI, banking, fraud detection, synthetic identity",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
