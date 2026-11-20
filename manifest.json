@@ -23152,5 +23152,18 @@
     "source_count": 12,
     "tags": "AI policy, US Senate, liability, 2026",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1772,
+    "topic": "Hedge Funds Quietly Shift to On-Prem LLM Clusters for Trade Alpha",
+    "file": "html/article-1772-hedge-funds-quietly-shift-to-on-prem-llm-clusters-for-trade-alpha-20261120-020153.html",
+    "timestamp": "20261120-020153",
+    "full_timestamp": "2026-11-20T02:01:53-08:00",
+    "summary": "Hedge funds are migrating LLM workloads from public cloud APIs to private on-prem clusters, citing latency, data privacy, and cost as drivers for infrastructure change.",
+    "original_topic": "LLMs in Hedge Funds & Trading",
+    "search_query": "hedge funds on-premise LLM clusters trading 2026",
+    "source_count": 12,
+    "tags": "hedge funds, LLMs, trading infrastructure, on-premise AI",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
