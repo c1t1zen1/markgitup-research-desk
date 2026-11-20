@@ -23100,5 +23100,18 @@
     "source_count": 12,
     "tags": "AI law, legal automation, settlements, federal courts",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1768,
+    "topic": "Local AI Stacks Now Run Full Dev Pipelines Offline on Mac",
+    "file": "html/article-1768-local-ai-stacks-now-run-full-dev-pipelines-offline-on-mac-20261119-220204.html",
+    "timestamp": "20261119-220204",
+    "full_timestamp": "2026-11-19T22:02:04-08:00",
+    "summary": "Apple Silicon Macs are emerging as platforms for fully offline AI development stacks, shifting workflows away from cloud dependency toward sovereign, local toolchains.",
+    "original_topic": "Local AI Tools & Stacks for macOS",
+    "search_query": "local AI development stack macOS offline 2026",
+    "source_count": 12,
+    "tags": "local-ai,macos,developer-tools,offline",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
