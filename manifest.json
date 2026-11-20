@@ -23308,5 +23308,18 @@
     "source_count": 12,
     "tags": "AI, banking, biometrics, fraud",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1784,
+    "topic": "Quantized LLMs Now Run Real-Time Voice Agents on Mac",
+    "file": "html/article-1784-quantized-llms-now-run-real-time-voice-agents-on-mac-20261120-140213.html",
+    "timestamp": "20261120-140213",
+    "full_timestamp": "2026-11-20T14:02:13-08:00",
+    "summary": "Quantized LLMs are enabling real-time, on-device voice agents on Mac hardware, shifting AI interaction from text to low-latency speech without cloud dependency.",
+    "original_topic": "Quantized LLMs Running on Mac Hardware",
+    "search_query": "quantized LLM real-time voice agent Mac hardware 2026",
+    "source_count": 12,
+    "tags": "quantized-llm,mac,voice-agents,edge-ai",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
