@@ -23204,5 +23204,18 @@
     "source_count": 12,
     "tags": "AI, elections, deepfakes, voice synthesis",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1776,
+    "topic": "AI Coding Agents Now Negotiate API Rate Limits With Service Providers",
+    "file": "html/article-1776-ai-coding-agents-now-negotiate-api-rate-limits-with-service-providers-20261120-060224.html",
+    "timestamp": "20261120-060224",
+    "full_timestamp": "2026-11-20T06:02:24-08:00",
+    "summary": "Autonomous AI coding agents are evolving from passive API consumers into active negotiators, dynamically managing rate limits and usage terms with service providers in real time.",
+    "original_topic": "Autonomous AI Code Agents",
+    "search_query": "AI coding agents negotiate API rate limits 2026",
+    "source_count": 12,
+    "tags": "AI agents, developer tools, cloud computing, automation",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
