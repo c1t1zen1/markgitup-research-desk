@@ -23230,5 +23230,18 @@
     "source_count": 12,
     "tags": "AI, lobbying, predictive analytics, policy",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1778,
+    "topic": "Apple's M5 Ultra Silently Outperforms Nvidia GPUs in Local LLM Inference",
+    "file": "html/article-1778-apple-s-m5-ultra-silently-outperforms-nvidia-gpus-in-local-llm-inference-20261120-080208.html",
+    "timestamp": "20261120-080208",
+    "full_timestamp": "2026-11-20T08:02:08-08:00",
+    "summary": "Independent benchmarks suggest Apple's M5 Ultra chip rivals entry-level Nvidia GPUs for local LLM inference, challenging assumptions about GPU necessity for on-device AI workloads.",
+    "original_topic": "M Series Apple Silicon LLM Inference",
+    "search_query": "Apple M5 Ultra vs Nvidia GPU LLM inference benchmark 2026 latest",
+    "source_count": 12,
+    "tags": "Apple Silicon, LLM Inference, Hardware Benchmarks",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
