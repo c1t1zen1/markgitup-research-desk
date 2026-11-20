@@ -23217,5 +23217,18 @@
     "source_count": 12,
     "tags": "AI agents, developer tools, cloud computing, automation",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1777,
+    "topic": "AI Lobbying Firms Now Use Predictive Analytics to Target Key Senators",
+    "file": "html/article-1777-ai-lobbying-firms-now-use-predictive-analytics-to-target-key-senators-20261120-070209.html",
+    "timestamp": "20261120-070209",
+    "full_timestamp": "2026-11-20T07:02:09-08:00",
+    "summary": "AI lobbying firms are deploying predictive analytics to identify and target influential senators, reshaping how tech companies influence policy in Washington.",
+    "original_topic": "AI Lobbying & Policy in Washington",
+    "search_query": "AI lobbying predictive analytics targeting senators 2026",
+    "source_count": 12,
+    "tags": "AI, lobbying, predictive analytics, policy",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
