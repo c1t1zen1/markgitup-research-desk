@@ -23022,5 +23022,18 @@
     "source_count": 12,
     "tags": "AI avatars, deepfakes, hiring tech, Turing test",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1762,
+    "topic": "AI Post-Production Tools Now Auto-Sync Audio to Lip Movements",
+    "file": "html/article-1762-ai-post-production-tools-now-auto-sync-audio-to-lip-movements-20261119-160228.html",
+    "timestamp": "20261119-160228",
+    "full_timestamp": "2026-11-19T16:02:28-08:00",
+    "summary": "AI lip-sync tools now match mouth movements to replacement audio across 30+ languages, enabling faster dubbing and avatar creation for creators, marketers, and educators.",
+    "original_topic": "AI-Powered Video Editing & Post-Production",
+    "search_query": "AI lip sync audio post-production tool 2026",
+    "source_count": 12,
+    "tags": "AI, video editing, lip sync, post-production",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
