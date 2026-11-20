@@ -23165,5 +23165,18 @@
     "source_count": 12,
     "tags": "hedge funds, LLMs, trading infrastructure, on-premise AI",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1773,
+    "topic": "NSA Tests Quantum-Resistant Encryption Against AI Codebreakers",
+    "file": "html/article-1773-nsa-tests-quantum-resistant-encryption-against-ai-codebreakers-20261120-030203.html",
+    "timestamp": "20261120-030203",
+    "full_timestamp": "2026-11-20T03:02:03-08:00",
+    "summary": "The NSA is mandating a transition to quantum-resistant encryption by 2027, preparing US intelligence systems for an emerging threat landscape where quantum computing and AI could compromise current cryptographic standards.",
+    "original_topic": "AI in US Intelligence & Surveillance",
+    "search_query": "NSA quantum-resistant encryption AI codebreakers 2026",
+    "source_count": 12,
+    "tags": "AI, cybersecurity, NSA, encryption",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
