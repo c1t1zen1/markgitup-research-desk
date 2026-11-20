@@ -23295,5 +23295,18 @@
     "source_count": 12,
     "tags": "AI, intelligence, insider threats, surveillance",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1783,
+    "topic": "Banks Now Use AI to Detect Fraud From Biometric Gait Analysis",
+    "file": "html/article-1783-banks-now-use-ai-to-detect-fraud-from-biometric-gait-analysis-20261120-130158.html",
+    "timestamp": "20261120-130158",
+    "full_timestamp": "2026-11-20T13:01:58-08:00",
+    "summary": "Banks are moving beyond facial recognition and voice, exploring gait analysis from mobile sensors as a new biometric layer to catch AI-driven fraud in real time.",
+    "original_topic": "AI Fraud Detection in Banking & Finance",
+    "search_query": "AI gait analysis fraud detection banks 2026",
+    "source_count": 12,
+    "tags": "AI, banking, biometrics, fraud",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
