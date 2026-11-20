@@ -23321,5 +23321,18 @@
     "source_count": 12,
     "tags": "quantized-llm,mac,voice-agents,edge-ai",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1785,
+    "topic": "AI Now Generates Viral 15-Second Ads From Product Photos Alone",
+    "file": "html/article-1785-ai-now-generates-viral-15-second-ads-from-product-photos-alone-20261120-150323.html",
+    "timestamp": "20261120-150323",
+    "full_timestamp": "2026-11-20T15:03:23-08:00",
+    "summary": "A new AI feature from Meitu's MVLAND converts static product images into 30-second short-form video ads, marking a shift from text-to-video generation toward automated, image-driven ad production for social commerce.",
+    "original_topic": "AI Short Form Video & Social Media",
+    "search_query": "AI generates short form ads from product photos 2026",
+    "source_count": 2,
+    "tags": "AI, advertising, short form video, marketing",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
