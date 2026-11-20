@@ -23048,5 +23048,18 @@
     "source_count": 12,
     "tags": "AI, advertising, social media, TikTok",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1764,
+    "topic": "AI Video Models Now Generate Consistent Characters Across Multiple Scenes",
+    "file": "html/article-1764-ai-video-models-now-generate-consistent-characters-across-multiple-scene-20261119-180155.html",
+    "timestamp": "20261119-180155",
+    "full_timestamp": "2026-11-19T18:01:55-08:00",
+    "summary": "A persistent flaw in AI video—characters changing between shots—is being solved by reference-image models that lock faces, outfits, and voices across scenes.",
+    "original_topic": "AI Video Generation Models",
+    "search_query": "AI video generation consistent characters multiple scenes 2026",
+    "source_count": 12,
+    "tags": "AI video, character consistency, deep learning, 2026",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
