@@ -23282,5 +23282,18 @@
     "source_count": 12,
     "tags": "AI, finance, satellite data, earnings",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1782,
+    "topic": "AI Now Flags Insider Threats Before Human Analysts Notice",
+    "file": "html/article-1782-ai-now-flags-insider-threats-before-human-analysts-notice-20261120-120202.html",
+    "timestamp": "20261120-120202",
+    "full_timestamp": "2026-11-20T12:02:02-08:00",
+    "summary": "AI tools are beginning to surface insider risk signals before human analysts, but messy data and unmanaged AI assistants complicate the picture.",
+    "original_topic": "AI in US Intelligence & Surveillance",
+    "search_query": "AI insider threat detection intelligence agencies 2026",
+    "source_count": 12,
+    "tags": "AI, intelligence, insider threats, surveillance",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
