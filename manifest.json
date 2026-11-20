@@ -23191,5 +23191,18 @@
     "source_count": 12,
     "tags": "AI, satellite imagery, market prediction, retail",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1775,
+    "topic": "AI Deepfake Phone Calls Now Target Voters During Early Balloting",
+    "file": "html/article-1775-ai-deepfake-phone-calls-now-target-voters-during-early-balloting-20261120-050145.html",
+    "timestamp": "20261120-050145",
+    "full_timestamp": "2026-11-20T05:01:45-08:00",
+    "summary": "AI-generated voice calls are emerging as a targeted tool to sway voters during early balloting, exploiting the period's lower scrutiny and testing new legal and technological defenses.",
+    "original_topic": "AI Misinformation & Election Integrity",
+    "search_query": "AI deepfake robocalls election 2026 early voting",
+    "source_count": 12,
+    "tags": "AI, elections, deepfakes, voice synthesis",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
