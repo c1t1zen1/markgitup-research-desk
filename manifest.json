@@ -23438,5 +23438,18 @@
     "source_count": 12,
     "tags": "Generative AI, Video Synthesis, Post-Production, Temporal Modeling",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1794,
+    "topic": "Synthetic Media Provenance: Watermarking AI Video to Combat Deepfake Misinformation",
+    "file": "html/article-1794-synthetic-media-provenance-watermarking-ai-video-to-combat-deepfake-misi-20261121-000344.html",
+    "timestamp": "20261121-000344",
+    "full_timestamp": "2026-11-21T00:03:44-08:00",
+    "summary": "AI video watermarking could strengthen provenance, but supplied evidence supports only a narrow technical case: codec resilience, not universal standards, authenticity, or mandatory adoption.",
+    "original_topic": "AI Video Generation Models",
+    "search_query": "AI video watermarking provenance standards 2026",
+    "source_count": 12,
+    "tags": "Deepfakes, Media Integrity, Watermarking, AI Safety",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
