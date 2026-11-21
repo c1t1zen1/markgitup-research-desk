@@ -23373,5 +23373,18 @@
     "source_count": 12,
     "tags": "AI, elections, fact-checking, ballot measures",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1789,
+    "topic": "Apple M5 Ultra Accelerates AI Model Training Pipelines",
+    "file": "html/article-1789-apple-m5-ultra-accelerates-ai-model-training-pipelines-20261120-190219.html",
+    "timestamp": "20261120-190219",
+    "full_timestamp": "2026-11-20T19:02:19-08:00",
+    "summary": "Apple's M5 Ultra chip is repositioning Macs from AI inference machines to viable model-training workstations, leveraging its unified memory architecture for faster neural network iteration cycles.",
+    "original_topic": "AI Development Tools for Apple Silicon",
+    "search_query": "Apple M5 Ultra AI model training speedup 2026",
+    "source_count": 11,
+    "tags": "Apple Silicon, AI training, M5 Ultra, machine learning",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
