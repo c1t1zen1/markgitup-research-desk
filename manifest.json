@@ -23477,5 +23477,18 @@
     "source_count": 12,
     "tags": "DeFi, AI Agents, Crypto, Arbitrage",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1797,
+    "topic": "Edge AI Models Secure Sensitive Health Data on Personal Devices",
+    "file": "html/article-1797-edge-ai-models-secure-sensitive-health-data-on-personal-devices-20261121-030519.html",
+    "timestamp": "20261121-030519",
+    "full_timestamp": "2026-11-21T03:05:19-08:00",
+    "summary": "Local AI could reduce health-data exposure on personal devices, but privacy gains depend on zero-egress design, governance, security controls, and clinical validation.",
+    "original_topic": "Privacy-First Local AI on Mac",
+    "search_query": "on-device LLM healthcare data privacy 2026",
+    "source_count": 12,
+    "tags": "HealthAI, EdgeComputing, DataPrivacy, LocalLLM",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
