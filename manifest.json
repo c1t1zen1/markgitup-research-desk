@@ -23568,5 +23568,18 @@
     "source_count": 12,
     "tags": "Quantum AI, FinTech, High-Frequency Trading, Market Prediction",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1804,
+    "topic": "AI Code Agents Debugging Legacy Systems with Formal Verification Techniques",
+    "file": "html/article-1804-ai-code-agents-debugging-legacy-systems-with-formal-verification-techniq-20261121-100344.html",
+    "timestamp": "20261121-100344",
+    "full_timestamp": "2026-11-21T10:03:44-08:00",
+    "summary": "Formal verification could make AI-assisted legacy modernization more trustworthy, but supplied evidence supports guarded experimentation—not claims of autonomous correctness.",
+    "original_topic": "Autonomous AI Code Agents",
+    "search_query": "AI code agents formal verification legacy software 2026 latest",
+    "source_count": 12,
+    "tags": "AI Agents, Software Engineering, Formal Methods, Legacy Code",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
