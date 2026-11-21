@@ -23555,5 +23555,18 @@
     "source_count": 12,
     "tags": "LocalAI, ContextWindow, Mac, LLM",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1803,
+    "topic": "Quantum-Enhanced AI Models Forecast Volatility in High-Frequency Trading Markets",
+    "file": "html/article-1803-quantum-enhanced-ai-models-forecast-volatility-in-high-frequency-trading-20261121-090344.html",
+    "timestamp": "20261121-090344",
+    "full_timestamp": "2026-11-21T09:03:44-08:00",
+    "summary": "Quantum machine learning may sharpen short-horizon market forecasts, but supplied evidence supports an emerging research direction—not proven high-frequency trading performance.",
+    "original_topic": "AI Stock Prediction & Market Analysis",
+    "search_query": "Quantum machine learning stock market prediction 2026",
+    "source_count": 12,
+    "tags": "Quantum AI, FinTech, High-Frequency Trading, Market Prediction",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
