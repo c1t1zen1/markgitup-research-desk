@@ -23451,5 +23451,18 @@
     "source_count": 12,
     "tags": "Deepfakes, Media Integrity, Watermarking, AI Safety",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1795,
+    "topic": "Hyper-Realistic AI Avatars Adopt Emotional Nuance for Empathetic Customer Service",
+    "file": "html/article-1795-hyper-realistic-ai-avatars-adopt-emotional-nuance-for-empathetic-custome-20261121-010342.html",
+    "timestamp": "20261121-010342",
+    "full_timestamp": "2026-11-21T01:03:42-08:00",
+    "summary": "AI avatars are moving beyond lifelike appearance toward context-aware emotional responses, but supplied evidence shows an emerging capability, not proven empathetic performance.",
+    "original_topic": "AI Video Avatars & Virtual Presenters",
+    "search_query": "AI avatar emotional intelligence customer service 2026",
+    "source_count": 12,
+    "tags": "AI, Virtual Presenters, Emotional AI, Customer Experience",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
