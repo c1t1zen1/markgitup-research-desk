@@ -23529,5 +23529,18 @@
     "source_count": 12,
     "tags": "Generative Video, Interactivity, Real-Time AI, Media Synthesis",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1801,
+    "topic": "AI Climate Control Learns Local Microclimates for Ultra-Efficient Home Energy Use",
+    "file": "html/article-1801-ai-climate-control-learns-local-microclimates-for-ultra-efficient-home-e-20261121-070341.html",
+    "timestamp": "20261121-070341",
+    "full_timestamp": "2026-11-21T07:03:41-08:00",
+    "summary": "AI climate control could move home energy management beyond fixed schedules by learning patterns, predicting conditions, and adapting decisions to each building’s changing thermal behavior.",
+    "original_topic": "AI-Powered Smart Homes & Automation",
+    "search_query": "AI home energy optimization microclimate learning 2026 latest",
+    "source_count": 10,
+    "tags": "Smart Home, Energy Efficiency, Climate AI, IoT",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
