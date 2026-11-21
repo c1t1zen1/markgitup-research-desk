@@ -23490,5 +23490,18 @@
     "source_count": 12,
     "tags": "HealthAI, EdgeComputing, DataPrivacy, LocalLLM",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1798,
+    "topic": "LLMs Fine-Tuned on Proprietary Trading Signals for Alpha Generation",
+    "file": "html/article-1798-llms-fine-tuned-on-proprietary-trading-signals-for-alpha-generation-20261121-040352.html",
+    "timestamp": "20261121-040352",
+    "full_timestamp": "2026-11-21T04:03:52-08:00",
+    "summary": "Proprietary signal fine-tuning could specialize LLMs for alpha research, but supplied evidence supports a research direction—not proven trading performance or durable excess returns.",
+    "original_topic": "LLMs in Hedge Funds & Trading",
+    "search_query": "LLM fine-tuning proprietary trading signals hedge funds 2026 latest",
+    "source_count": 12,
+    "tags": "LLMs, Hedge Funds, Quantitative Finance, Alpha Generation",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
