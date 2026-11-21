@@ -23399,5 +23399,18 @@
     "source_count": 12,
     "tags": "local-ai,rag,apple-silicon,macos",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1791,
+    "topic": "AI Code Agents Now Write and Run Their Own Tests",
+    "file": "html/article-1791-ai-code-agents-now-write-and-run-their-own-tests-20261120-210213.html",
+    "timestamp": "20261120-210213",
+    "full_timestamp": "2026-11-20T21:02:13-08:00",
+    "summary": "AI coding agents are shifting from writing code to autonomously generating, running, and refining tests, closing the loop between implementation and validation.",
+    "original_topic": "Autonomous AI Code Agents",
+    "search_query": "AI code agents generate and execute unit tests 2026",
+    "source_count": 12,
+    "tags": "AI, software development, testing, automation",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
