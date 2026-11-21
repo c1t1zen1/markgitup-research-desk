@@ -23425,5 +23425,18 @@
     "source_count": 12,
     "tags": "AI law, settlement, mediation, legal tech",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1793,
+    "topic": "Generative Video Models Achieve Photorealistic Temporal Consistency in Long-Form Content",
+    "file": "html/article-1793-generative-video-models-achieve-photorealistic-temporal-consistency-in-l-20261120-230343.html",
+    "timestamp": "20261120-230343",
+    "full_timestamp": "2026-11-20T23:03:43-08:00",
+    "summary": "Generative video is moving toward coherent long-form storytelling, but supplied evidence shows temporal consistency remains an unresolved engineering challenge rather than a completed breakthrough.",
+    "original_topic": "AI-Powered Video Editing & Post-Production",
+    "search_query": "Generative video temporal consistency photorealism 2026",
+    "source_count": 12,
+    "tags": "Generative AI, Video Synthesis, Post-Production, Temporal Modeling",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
