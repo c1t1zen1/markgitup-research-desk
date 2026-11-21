@@ -23386,5 +23386,18 @@
     "source_count": 11,
     "tags": "Apple Silicon, AI training, M5 Ultra, machine learning",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1790,
+    "topic": "MacBook Pros Now Run Full RAG Pipelines Without Cloud",
+    "file": "html/article-1790-macbook-pros-now-run-full-rag-pipelines-without-cloud-20261120-200219.html",
+    "timestamp": "20261120-200219",
+    "full_timestamp": "2026-11-20T20:02:19-08:00",
+    "summary": "Apple Silicon's unified memory architecture enables complete RAG pipelines to run locally on MacBooks, eliminating cloud dependency for retrieval-augmented AI applications.",
+    "original_topic": "Local AI Tools & Stacks for macOS",
+    "search_query": "MacBook Pro local RAG retrieval augmented generation 2026",
+    "source_count": 12,
+    "tags": "local-ai,rag,apple-silicon,macos",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
