@@ -23607,5 +23607,18 @@
     "source_count": 12,
     "tags": "AI, Elections, Microtargeting, PoliticalTech",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1807,
+    "topic": "M-Series Silicon Enables Real-Time, Multi-Modal Inference on Personal Devices",
+    "file": "html/article-1807-m-series-silicon-enables-real-time-multi-modal-inference-on-personal-dev-20261121-130343.html",
+    "timestamp": "20261121-130343",
+    "full_timestamp": "2026-11-21T13:03:43-08:00",
+    "summary": "Apple Silicon’s unified memory and emerging native runtimes may bring practical local multimodal inference closer, but supplied evidence remains stronger for vision and frameworks than real-time audio performance.",
+    "original_topic": "M Series Apple Silicon LLM Inference",
+    "search_query": "Apple Silicon multi-modal LLM inference performance 2026",
+    "source_count": 12,
+    "tags": "Edge AI, Multi-Modal, Apple Silicon, LLM",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
