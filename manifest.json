@@ -23516,5 +23516,18 @@
     "source_count": 12,
     "tags": "RegTech, Generative AI, Compliance, Financial Reporting",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1800,
+    "topic": "AI Video Generation Adapts to Real-Time, Low-Latency Interactive Storytelling",
+    "file": "html/article-1800-ai-video-generation-adapts-to-real-time-low-latency-interactive-storytel-20261121-060340.html",
+    "timestamp": "20261121-060340",
+    "full_timestamp": "2026-11-21T06:03:40-08:00",
+    "summary": "AI video research is moving toward responsive narratives, where autoregressive systems and avatar APIs aim to turn user input into video with interactive latency.",
+    "original_topic": "AI Video Generation Models",
+    "search_query": "real-time interactive video generation latency 2026 latest",
+    "source_count": 12,
+    "tags": "Generative Video, Interactivity, Real-Time AI, Media Synthesis",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
