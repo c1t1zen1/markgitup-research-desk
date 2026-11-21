@@ -23360,5 +23360,18 @@
     "source_count": 10,
     "tags": "AI, mental health, FDA, digital therapeutics",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1788,
+    "topic": "AI Fact-Checkers Now Score Ballot Measures in Real Time",
+    "file": "html/article-1788-ai-fact-checkers-now-score-ballot-measures-in-real-time-20261120-180216.html",
+    "timestamp": "20261120-180216",
+    "full_timestamp": "2026-11-20T18:02:16-08:00",
+    "summary": "AI tools are shifting from detecting deepfakes to evaluating the factual accuracy of ballot measures and campaign ads in real time, raising new questions about election integrity.",
+    "original_topic": "AI Misinformation & Election Integrity",
+    "search_query": "AI real-time fact-checking ballot measures 2026",
+    "source_count": 12,
+    "tags": "AI, elections, fact-checking, ballot measures",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
