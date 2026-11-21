@@ -23581,5 +23581,18 @@
     "source_count": 12,
     "tags": "AI Agents, Software Engineering, Formal Methods, Legacy Code",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1805,
+    "topic": "AI Bots Navigate Stablecoin De-pegging Risks in Decentralized Finance",
+    "file": "html/article-1805-ai-bots-navigate-stablecoin-de-pegging-risks-in-decentralized-finance-20261121-110509.html",
+    "timestamp": "20261121-110509",
+    "full_timestamp": "2026-11-21T11:05:09-08:00",
+    "summary": "AI may help detect and manage stablecoin stress, but supplied research also shows information shocks can synchronize selling and amplify de-pegging.",
+    "original_topic": "AI Crypto Trading Bots & Performance",
+    "search_query": "AI trading bots stablecoin de-pegging risk management 2026 latest",
+    "source_count": 12,
+    "tags": "DeFi, Stablecoins, Risk Management, AI",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
