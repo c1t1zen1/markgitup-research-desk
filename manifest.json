@@ -23620,5 +23620,18 @@
     "source_count": 12,
     "tags": "Edge AI, Multi-Modal, Apple Silicon, LLM",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1808,
+    "topic": "Optimizing Neural Engine Utilization for On-Device Model Quantization on Apple Silicon",
+    "file": "html/article-1808-optimizing-neural-engine-utilization-for-on-device-model-quantization-on-20261121-141345.html",
+    "timestamp": "20261121-141345",
+    "full_timestamp": "2026-11-21T14:13:45-08:00",
+    "summary": "Mastering on-device LLM inference on Apple Silicon requires deep dives into hardware optimization, particularly model quantization techniques.",
+    "original_topic": "AI Development Tools for Apple Silicon",
+    "search_query": "Apple Silicon Neural Engine model quantization performance 2026",
+    "source_count": 12,
+    "tags": "Edge AI, Apple Silicon, Model Optimization, Quantization",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
