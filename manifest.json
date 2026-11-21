@@ -23334,5 +23334,18 @@
     "source_count": 2,
     "tags": "AI, advertising, short form video, marketing",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1786,
+    "topic": "AI Home Hubs Now Predict Outages Before Grid Fails",
+    "file": "html/article-1786-ai-home-hubs-now-predict-outages-before-grid-fails-20261120-160223.html",
+    "timestamp": "20261120-160223",
+    "full_timestamp": "2026-11-20T16:02:23-08:00",
+    "summary": "Household AI systems are evolving from reactive automation to predictive resilience, using grid data and machine learning to anticipate power outages before they occur.",
+    "original_topic": "AI-Powered Smart Homes & Automation",
+    "search_query": "AI home hub predict power outage grid 2026",
+    "source_count": 12,
+    "tags": "smart homes, predictive AI, energy, infrastructure",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
