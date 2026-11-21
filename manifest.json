@@ -23542,5 +23542,18 @@
     "source_count": 10,
     "tags": "Smart Home, Energy Efficiency, Climate AI, IoT",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1802,
+    "topic": "Local LLMs Achieve Near-Human Contextual Memory Through Persistent State on Mac",
+    "file": "html/article-1802-local-llms-achieve-near-human-contextual-memory-through-persistent-state-20261121-081239.html",
+    "timestamp": "20261121-081239",
+    "full_timestamp": "2026-11-21T08:12:39-08:00",
+    "summary": "Local LLMs on Mac are moving beyond simple chats, achieving near-human memory through persistent state management.",
+    "original_topic": "Privacy-First Local AI on Mac",
+    "search_query": "persistent state local LLM memory Mac 2026 latest",
+    "source_count": 12,
+    "tags": "LocalAI, ContextWindow, Mac, LLM",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
