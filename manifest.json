@@ -23854,5 +23854,18 @@
     "source_count": 12,
     "tags": "LocalAI, Enterprise, Privacy, macOS",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1826,
+    "topic": "AI's Role in Real-Time Geospatial Intelligence for Border Security Operations",
+    "file": "html/article-1826-ai-s-role-in-real-time-geospatial-intelligence-for-border-security-opera-20261122-080346.html",
+    "timestamp": "20261122-080346",
+    "full_timestamp": "2026-11-22T08:03:46-08:00",
+    "summary": "AI could fuse satellite and drone streams into faster border monitoring, but supplied evidence supports a cautious projection rather than proof of mature real-time operational capability.",
+    "original_topic": "AI in US Intelligence & Surveillance",
+    "search_query": "AI geospatial intelligence border surveillance 2026",
+    "source_count": 12,
+    "tags": "Geospatial AI, Border Security, Surveillance, Real-Time Data",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
