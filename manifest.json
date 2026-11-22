@@ -23750,5 +23750,18 @@
     "source_count": 12,
     "tags": "AI, lobbying, policy, Washington",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1818,
+    "topic": "Apple's Local AI Chip Powers Real-Time Translation on Mac",
+    "file": "html/article-1818-apple-s-local-ai-chip-powers-real-time-translation-on-mac-20261122-000157.html",
+    "timestamp": "20261122-000157",
+    "full_timestamp": "2026-11-22T00:01:57-08:00",
+    "summary": "Apple's M4 chip and Apple Intelligence bring on-device, real-time translation to Mac, prioritizing offline performance and privacy over cloud-based alternatives.",
+    "original_topic": "Local AI Tools & Stacks for macOS",
+    "search_query": "Apple M4 chip local AI translation Mac 2026",
+    "source_count": 12,
+    "tags": "Apple M4, local AI, translation, Mac",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
