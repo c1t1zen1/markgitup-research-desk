@@ -23880,5 +23880,18 @@
     "source_count": 12,
     "tags": "Quantization, Edge AI, Apple Silicon, Efficiency",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1828,
+    "topic": "Autonomous AI Agents Managing Complex Software Deployment Pipelines in DevOps",
+    "file": "html/article-1828-autonomous-ai-agents-managing-complex-software-deployment-pipelines-in-d-20261122-100335.html",
+    "timestamp": "20261122-100335",
+    "full_timestamp": "2026-11-22T10:03:35-08:00",
+    "summary": "AI agents may expand from coding assistants into CI/CD operators, but supplied evidence supports a cautious forecast rather than proof of autonomous deployment at scale.",
+    "original_topic": "Autonomous AI Code Agents",
+    "search_query": "autonomous AI agents software deployment pipelines 2026",
+    "source_count": 12,
+    "tags": "DevOps, AI Agents, Software Engineering, Automation",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
