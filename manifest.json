@@ -23724,5 +23724,18 @@
     "source_count": 12,
     "tags": "AI, elections, deepfakes, voter registration",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1816,
+    "topic": "AI Trading Models Exploit Microsecond Latency Arbitrage in Crypto Markets",
+    "file": "html/article-1816-ai-trading-models-exploit-microsecond-latency-arbitrage-in-crypto-market-20261121-220201.html",
+    "timestamp": "20261121-220201",
+    "full_timestamp": "2026-11-21T22:02:01-08:00",
+    "summary": "AI-powered bots are exploiting sub-millisecond price discrepancies across crypto exchanges, transforming arbitrage into a high-speed, automated competition that favors sophisticated infrastructure.",
+    "original_topic": "LLMs in Hedge Funds & Trading",
+    "search_query": "AI trading models latency arbitrage crypto 2026",
+    "source_count": 12,
+    "tags": "AI, trading, crypto, arbitrage",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
