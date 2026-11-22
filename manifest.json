@@ -23932,5 +23932,18 @@
     "source_count": 12,
     "tags": "LocalAI, FineTuning, Privacy, AppleSilicon",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1832,
+    "topic": "AI Regulatory Sandboxes: Testing Autonomous Agent Governance in Federal Agencies",
+    "file": "html/article-1832-ai-regulatory-sandboxes-testing-autonomous-agent-governance-in-federal-a-20261122-141355.html",
+    "timestamp": "20261122-141355",
+    "full_timestamp": "2026-11-22T14:13:55-08:00",
+    "summary": "Federal agencies are establishing regulatory sandboxes to practically test autonomous AI agents, moving governance discussions into real-world operational environments.",
+    "original_topic": "AI Lobbying & Policy in Washington",
+    "search_query": "AI regulatory sandboxes federal government deployment 2026 latest",
+    "source_count": 10,
+    "tags": "AI Governance, Federal Tech, Regulatory Sandbox, Autonomous Agents",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
