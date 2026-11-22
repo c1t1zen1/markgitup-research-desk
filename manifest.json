@@ -23893,5 +23893,18 @@
     "source_count": 12,
     "tags": "DevOps, AI Agents, Software Engineering, Automation",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1829,
+    "topic": "AI-Generated Micro-Narratives Reshaping Attention Economies in Short-Form Video",
+    "file": "html/article-1829-ai-generated-micro-narratives-reshaping-attention-economies-in-short-for-20261122-110351.html",
+    "timestamp": "20261122-110351",
+    "full_timestamp": "2026-11-22T11:03:51-08:00",
+    "summary": "AI video tools are expanding rapidly, but supplied evidence supports platform growth more strongly than claims that machines now engineer serialized, retention-optimized micro-narratives.",
+    "original_topic": "AI Short Form Video & Social Media",
+    "search_query": "AI narrative generation short-form video platforms 2026",
+    "source_count": 12,
+    "tags": "Generative AI, Social Media, Narrative Design, Attention Economy",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
