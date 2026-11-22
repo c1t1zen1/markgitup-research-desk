@@ -23711,5 +23711,18 @@
     "source_count": 12,
     "tags": "Synthetic Media, Provenance, Blockchain, Media Forensics",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1815,
+    "topic": "AI Deepfakes Target Voter Registration Deadlines in Swing States",
+    "file": "html/article-1815-ai-deepfakes-target-voter-registration-deadlines-in-swing-states-20261121-210201.html",
+    "timestamp": "20261121-210201",
+    "full_timestamp": "2026-11-21T21:02:01-08:00",
+    "summary": "As 31 states enact deepfake laws ahead of the 2026 midterms, AI-generated fake voter registration materials threaten to exploit the regulatory patchwork and confuse voters in swing states.",
+    "original_topic": "AI Misinformation & Election Integrity",
+    "search_query": "AI deepfakes voter registration deadlines swing states 2026",
+    "source_count": 12,
+    "tags": "AI, elections, deepfakes, voter registration",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
