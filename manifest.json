@@ -23763,5 +23763,18 @@
     "source_count": 12,
     "tags": "Apple M4, local AI, translation, Mac",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1819,
+    "topic": "AI Post-Production Tools Now Auto-Grade Color Using Scene Emotion Analysis",
+    "file": "html/article-1819-ai-post-production-tools-now-auto-grade-color-using-scene-emotion-analys-20261122-010137.html",
+    "timestamp": "20261122-010137",
+    "full_timestamp": "2026-11-22T01:01:37-08:00",
+    "summary": "AI color grading tools now analyze scene emotion to auto-apply cinematic looks, but experts say they excel at technical normalization, not final artistic intent.",
+    "original_topic": "AI-Powered Video Editing & Post-Production",
+    "search_query": "AI color grading emotion analysis post-production 2026",
+    "source_count": 12,
+    "tags": "AI, video editing, color grading, post-production",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
