@@ -23672,5 +23672,18 @@
     "source_count": 12,
     "tags": "XR, AI Avatars, Spatial Computing, Digital Identity",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1812,
+    "topic": "AI Short-Form Video Tools Target Micro-Influencer Market with Real-Time Trend Adaptation",
+    "file": "html/article-1812-ai-short-form-video-tools-target-micro-influencer-market-with-real-time-20261121-180151.html",
+    "timestamp": "20261121-180151",
+    "full_timestamp": "2026-11-21T18:01:51-08:00",
+    "summary": "AI short-form video tools are emerging to help micro-influencers rapidly adapt content to trending topics, potentially reshaping how smaller creators compete for audience attention online.",
+    "original_topic": "AI Short Form Video & Social Media",
+    "search_query": "AI short-form video tools micro-influencer trend adaptation 2026",
+    "source_count": 10,
+    "tags": "AI video, social media, micro-influencers, content creation",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
