@@ -23659,5 +23659,18 @@
     "source_count": 12,
     "tags": "LegalTech, PredictiveAnalytics, TortLaw, AIinLaw",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1811,
+    "topic": "AI Avatars in XR: Bridging Digital Identity and Spatial Computing Interfaces",
+    "file": "html/article-1811-ai-avatars-in-xr-bridging-digital-identity-and-spatial-computing-interfa-20261121-170343.html",
+    "timestamp": "20261121-170343",
+    "full_timestamp": "2026-11-21T17:03:43-08:00",
+    "summary": "AI avatars may evolve from scripted presenters into context-aware XR entities, but supplied evidence supports possibility and direction more strongly than deployment certainty.",
+    "original_topic": "AI Video Avatars & Virtual Presenters",
+    "search_query": "AI avatars spatial computing mixed reality interaction 2026 latest",
+    "source_count": 12,
+    "tags": "XR, AI Avatars, Spatial Computing, Digital Identity",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
