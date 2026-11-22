@@ -23945,5 +23945,18 @@
     "source_count": 10,
     "tags": "AI Governance, Federal Tech, Regulatory Sandbox, Autonomous Agents",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1833,
+    "topic": "AI Presenters Now React to Live Audience Questions in Real Time",
+    "file": "html/article-1833-ai-presenters-now-react-to-live-audience-questions-in-real-time-20261122-150145.html",
+    "timestamp": "20261122-150145",
+    "full_timestamp": "2026-11-22T15:01:45-08:00",
+    "summary": "AI presenters are evolving from scripted video clips into interactive digital hosts that can field spontaneous audience questions during live streams and events.",
+    "original_topic": "AI Video Avatars & Virtual Presenters",
+    "search_query": "AI virtual presenter live audience interaction 2026",
+    "source_count": 11,
+    "tags": "AI avatars, live streaming, virtual presenters, real-time interaction",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
