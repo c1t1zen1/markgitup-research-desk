@@ -23737,5 +23737,18 @@
     "source_count": 12,
     "tags": "AI, trading, crypto, arbitrage",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1817,
+    "topic": "AI Lobbyists Flood Capitol with Personalized Policy Briefs",
+    "file": "html/article-1817-ai-lobbyists-flood-capitol-with-personalized-policy-briefs-20261121-230134.html",
+    "timestamp": "20261121-230134",
+    "full_timestamp": "2026-11-21T23:01:34-08:00",
+    "summary": "AI lobbyists are shifting from traditional events to mass-producing customized policy briefs for individual lawmakers, flooding Capitol offices with tailored arguments.",
+    "original_topic": "AI Lobbying & Policy in Washington",
+    "search_query": "AI-generated lobbying briefs lawmakers 2026",
+    "source_count": 12,
+    "tags": "AI, lobbying, policy, Washington",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
