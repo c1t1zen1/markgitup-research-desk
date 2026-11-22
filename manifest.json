@@ -23776,5 +23776,18 @@
     "source_count": 12,
     "tags": "AI, video editing, color grading, post-production",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1820,
+    "topic": "AI-Driven Predictive Policing Expands Across Major US Cities",
+    "file": "html/article-1820-ai-driven-predictive-policing-expands-across-major-us-cities-20261122-020136.html",
+    "timestamp": "20261122-020136",
+    "full_timestamp": "2026-11-22T02:01:36-08:00",
+    "summary": "Municipal police departments are rapidly adopting AI risk-assessment tools to forecast crime, a shift that promises efficiency but raises transparency concerns.",
+    "original_topic": "AI in US Intelligence & Surveillance",
+    "search_query": "AI predictive policing expansion US cities 2026",
+    "source_count": 12,
+    "tags": "AI,policing,US,law-enforcement",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
