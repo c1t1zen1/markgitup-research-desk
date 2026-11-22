@@ -23789,5 +23789,18 @@
     "source_count": 12,
     "tags": "AI,policing,US,law-enforcement",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1821,
+    "topic": "AI Fraud Detection Flags Synthetic Identity Rings in Real Time",
+    "file": "html/article-1821-ai-fraud-detection-flags-synthetic-identity-rings-in-real-time-20261122-030146.html",
+    "timestamp": "20261122-030146",
+    "full_timestamp": "2026-11-22T03:01:46-08:00",
+    "summary": "AI systems are replacing rule-based models to detect coordinated synthetic identity fraud in real time, marking a 2026 shift in financial crime prevention.",
+    "original_topic": "AI Fraud Detection in Banking & Finance",
+    "search_query": "AI fraud detection synthetic identity rings 2026",
+    "source_count": 12,
+    "tags": "AI, fraud detection, synthetic identity, finance",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
