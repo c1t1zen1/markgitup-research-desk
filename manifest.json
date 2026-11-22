@@ -23828,5 +23828,18 @@
     "source_count": 12,
     "tags": "Generative AI, Video Synthesis, Physics Simulation, Computer Graphics",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1824,
+    "topic": "AI's Impact on Campaign Finance Transparency and Disclosure Requirements",
+    "file": "html/article-1824-ai-s-impact-on-campaign-finance-transparency-and-disclosure-requirements-20261122-060342.html",
+    "timestamp": "20261122-060342",
+    "full_timestamp": "2026-11-22T06:03:42-08:00",
+    "summary": "Campaign disclosures are beginning to reveal AI spending, but supplied evidence does not yet establish how automation obscures dark money or defeats current reporting rules.",
+    "original_topic": "AI in US Elections & Campaigns",
+    "search_query": "AI influence on campaign finance reporting 2026",
+    "source_count": 12,
+    "tags": "Campaign Finance, AI Regulation, Transparency, Elections",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
