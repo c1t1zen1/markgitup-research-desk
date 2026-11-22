@@ -23685,5 +23685,18 @@
     "source_count": 10,
     "tags": "AI video, social media, micro-influencers, content creation",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1813,
+    "topic": "AI-Driven Personalized Neurofeedback for Early Detection of Mood Disorders",
+    "file": "html/article-1813-ai-driven-personalized-neurofeedback-for-early-detection-of-mood-disorde-20261121-190343.html",
+    "timestamp": "20261121-190343",
+    "full_timestamp": "2026-11-21T19:03:43-08:00",
+    "summary": "AI-enhanced neurofeedback could connect real-time EEG signals with personalized mental-health support, but limited validation, bias, privacy, and overfitting constrain claims about early mood-disorder detection.",
+    "original_topic": "AI in Mental Health & Therapy",
+    "search_query": "AI neurofeedback mental health real-time monitoring 2026 latest",
+    "source_count": 12,
+    "tags": "Neurotech, Mental Health, AI Diagnostics, Biofeedback",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
