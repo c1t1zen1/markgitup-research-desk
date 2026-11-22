@@ -23919,5 +23919,18 @@
     "source_count": 12,
     "tags": "FinTech, RegulatoryTech, GenerativeAI, Compliance",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1831,
+    "topic": "Mac Local AI: Bridging Privacy Gaps with On-Device Model Fine-Tuning",
+    "file": "html/article-1831-mac-local-ai-bridging-privacy-gaps-with-on-device-model-fine-tuning-20261122-131334.html",
+    "timestamp": "20261122-131334",
+    "full_timestamp": "2026-11-22T13:13:34-08:00",
+    "summary": "Customize local AI models directly on Mac hardware using techniques like LoRA, ensuring data stays private and off external servers.",
+    "original_topic": "Privacy-First Local AI on Mac",
+    "search_query": "on-device LLM fine-tuning macOS privacy advancements 2026 latest",
+    "source_count": 12,
+    "tags": "LocalAI, FineTuning, Privacy, AppleSilicon",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
