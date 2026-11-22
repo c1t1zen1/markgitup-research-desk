@@ -23906,5 +23906,18 @@
     "source_count": 12,
     "tags": "Generative AI, Social Media, Narrative Design, Attention Economy",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1830,
+    "topic": "Generative AI Auditing Complex Financial Instruments for Regulatory Compliance",
+    "file": "html/article-1830-generative-ai-auditing-complex-financial-instruments-for-regulatory-comp-20261122-120349.html",
+    "timestamp": "20261122-120349",
+    "full_timestamp": "2026-11-22T12:03:49-08:00",
+    "summary": "Generative models may help stress-test novel derivatives, but supplied evidence supports governance and monitoring more strongly than claims of standards-validation capability.",
+    "original_topic": "Generative AI for Financial Reporting",
+    "search_query": "Generative AI financial instrument compliance auditing 2026",
+    "source_count": 12,
+    "tags": "FinTech, RegulatoryTech, GenerativeAI, Compliance",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
