@@ -24114,5 +24114,18 @@
     "source_count": 12,
     "tags": "Affective Computing, Biometrics, Digital Therapy, Mental Health AI",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1846,
+    "topic": "AI Legal Agents Face Unauthorized-Practice Rules as Firms Delegate Client Work",
+    "file": "html/article-1846-ai-legal-agents-face-unauthorized-practice-rules-as-firms-delegate-clien-20261123-040240.html",
+    "timestamp": "20261123-040240",
+    "full_timestamp": "2026-11-23T04:02:40-08:00",
+    "summary": "Sparse supplied evidence points to a basic boundary: client-facing legal discretion by nonattorneys or companies may trigger unauthorized-practice concerns, while firm technology adoption accelerates.",
+    "original_topic": "AI in Legal Systems & Law Practice",
+    "search_query": "2026 legal AI agents unauthorized practice law bar opinion",
+    "source_count": 12,
+    "tags": "legal AI,unauthorized practice,professional ethics,law firms",
+    "model_names": "GPT 5.6 Luna"
   }
 ]
