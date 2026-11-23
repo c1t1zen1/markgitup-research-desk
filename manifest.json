@@ -24192,5 +24192,18 @@
     "source_count": 7,
     "tags": "AI, Crypto, Regulation, Compliance",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1852,
+    "topic": "International Harmonization Efforts Tackle Cross-Border Deepfake Liability Frameworks",
+    "file": "html/article-1852-international-harmonization-efforts-tackle-cross-border-deepfake-liabili-20261123-100352.html",
+    "timestamp": "20261123-100352",
+    "full_timestamp": "2026-11-23T10:03:52-08:00",
+    "summary": "Deepfake rules remain fragmented, but disclosure, takedown, due-diligence, and labeling measures expose the legal pressure points any cross-border liability framework must reconcile.",
+    "original_topic": "Deepfake Legislation & Synthetic Media Laws",
+    "search_query": "global standards synthetic media liability law 2026",
+    "source_count": 12,
+    "tags": "International Law, Synthetic Media, AI Governance, Cross-Border",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
