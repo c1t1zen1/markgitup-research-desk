@@ -24218,5 +24218,18 @@
     "source_count": 12,
     "tags": "AI Agents, Software Engineering, Multi-Agent Systems, Code Refactoring",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1854,
+    "topic": "MLX Distributed Inference Reopens the Case for Mac Clusters in AI Development",
+    "file": "html/article-1854-mlx-distributed-inference-reopens-the-case-for-mac-clusters-in-ai-develo-20261123-120438.html",
+    "timestamp": "20261123-120438",
+    "full_timestamp": "2026-11-23T12:04:38-08:00",
+    "summary": "Apple’s MLX distributed-inference work shifts Mac AI development from optimizing one machine toward coordinating several, while networking and workload partitioning become central constraints.",
+    "original_topic": "AI Development Tools for Apple Silicon",
+    "search_query": "MLX distributed inference Mac cluster developer tools 2026",
+    "source_count": 12,
+    "tags": "MLX, distributed inference, Mac development, Apple Silicon",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
