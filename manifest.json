@@ -23958,5 +23958,18 @@
     "source_count": 11,
     "tags": "AI avatars, live streaming, virtual presenters, real-time interaction",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1834,
+    "topic": "Apple's New AI Video Suite Automates Professional Post-Production Workflows",
+    "file": "html/article-1834-apple-s-new-ai-video-suite-automates-professional-post-production-workfl-20261122-160156.html",
+    "timestamp": "20261122-160156",
+    "full_timestamp": "2026-11-22T16:01:56-08:00",
+    "summary": "Apple's Creator Studio updates integrate AI capabilities across Final Cut Pro, Logic Pro, and other creative apps, promising to automate complex post-production tasks for professional content creators.",
+    "original_topic": "AI-Powered Video Editing & Post-Production",
+    "search_query": "Apple AI video editing post-production automation 2026",
+    "source_count": 12,
+    "tags": "AI, video editing, Apple, automation",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
