@@ -24127,5 +24127,18 @@
     "source_count": 12,
     "tags": "legal AI,unauthorized practice,professional ethics,law firms",
     "model_names": "GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1847,
+    "topic": "Real-Time Neural Rendering: AI Video Models Synthesizing Physics-Accurate Simulations",
+    "file": "html/article-1847-real-time-neural-rendering-ai-video-models-synthesizing-physics-accurate-20261123-050347.html",
+    "timestamp": "20261123-050347",
+    "full_timestamp": "2026-11-23T05:03:47-08:00",
+    "summary": "AI video research is moving toward real-time, action-conditioned rendering, but supplied evidence supports an emerging direction—not yet proven industrial-grade physics accuracy.",
+    "original_topic": "AI Video Generation Models",
+    "search_query": "real-time neural rendering physics simulation video generation 2026 latest",
+    "source_count": 12,
+    "tags": "Neural Rendering, Physics Simulation, Video Generation, Real-Time AI",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
