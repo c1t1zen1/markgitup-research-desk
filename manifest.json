@@ -23984,5 +23984,18 @@
     "source_count": 10,
     "tags": "AI legislation,synthetic media,EU regulation,deepfakes",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1836,
+    "topic": "Apple M5 Ultra Runs 70B-Parameter LLMs Entirely On-Device",
+    "file": "html/article-1836-apple-m5-ultra-runs-70b-parameter-llms-entirely-on-device-20261122-180143.html",
+    "timestamp": "20261122-180143",
+    "full_timestamp": "2026-11-22T18:01:43-08:00",
+    "summary": "The M5 Ultra's up to 512GB unified memory enables 70B-parameter LLMs to run entirely on-device, marking a significant leap in local AI capability for Mac users.",
+    "original_topic": "M Series Apple Silicon LLM Inference",
+    "search_query": "Apple M5 Ultra 70 billion parameter local LLM 2026 latest",
+    "source_count": 12,
+    "tags": "Apple Silicon, M5 Ultra, Large Language Models, On-Device AI",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
