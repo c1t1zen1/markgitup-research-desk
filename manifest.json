@@ -23971,5 +23971,18 @@
     "source_count": 12,
     "tags": "AI, video editing, Apple, automation",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1835,
+    "topic": "EU Mandates AI Disclosure Labels on All Synthetic Media by 2027",
+    "file": "html/article-1835-eu-mandates-ai-disclosure-labels-on-all-synthetic-media-by-2027-20261122-170141.html",
+    "timestamp": "20261122-170141",
+    "full_timestamp": "2026-11-22T17:01:41-08:00",
+    "summary": "The EU is moving toward mandatory disclosure labels for AI-generated and synthetic media, a regulatory milestone that could reshape how digital content is verified and distributed across Europe and beyond.",
+    "original_topic": "Deepfake Legislation & Synthetic Media Laws",
+    "search_query": "EU AI disclosure labels synthetic media 2027 mandate 2026 latest",
+    "source_count": 10,
+    "tags": "AI legislation,synthetic media,EU regulation,deepfakes",
+    "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
   }
 ]
