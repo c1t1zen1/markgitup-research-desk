@@ -24140,5 +24140,18 @@
     "source_count": 12,
     "tags": "Neural Rendering, Physics Simulation, Video Generation, Real-Time AI",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1848,
+    "topic": "AI Video Editing Adapts to Real-Time 3D Scene Reconstruction in Production",
+    "file": "html/article-1848-ai-video-editing-adapts-to-real-time-3d-scene-reconstruction-in-producti-20261123-060355.html",
+    "timestamp": "20261123-060355",
+    "full_timestamp": "2026-11-23T06:03:55-08:00",
+    "summary": "Generative video workflows are beginning to meet AI-assisted 3D reconstruction, but supplied evidence supports a direction of travel more strongly than proven production capability.",
+    "original_topic": "AI-Powered Video Editing & Post-Production",
+    "search_query": "AI video editing 3D scene reconstruction workflows 2026",
+    "source_count": 12,
+    "tags": "Volumetric Video, 3D Generation, Post-Production, AI Workflow",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
