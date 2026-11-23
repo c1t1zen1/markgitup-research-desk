@@ -24088,5 +24088,18 @@
     "source_count": 12,
     "tags": "Climate Finance, Risk Modeling, AI, ESG",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1844,
+    "topic": "Edge AI for Home Energy Grids: Predictive Load Balancing via Localized Sensor Fusion",
+    "file": "html/article-1844-edge-ai-for-home-energy-grids-predictive-load-balancing-via-localized-se-20261123-020352.html",
+    "timestamp": "20261123-020352",
+    "full_timestamp": "2026-11-23T02:03:52-08:00",
+    "summary": "Local edge AI could move home energy management from reactive automation toward predictive load balancing, but supplied evidence remains uneven and largely conceptual.",
+    "original_topic": "AI-Powered Smart Homes & Automation",
+    "search_query": "Edge AI smart home energy grid load balancing 2026",
+    "source_count": 12,
+    "tags": "Energy, Edge AI, IoT, Smart Grid",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
