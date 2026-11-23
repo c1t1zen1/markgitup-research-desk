@@ -24153,5 +24153,18 @@
     "source_count": 12,
     "tags": "Volumetric Video, 3D Generation, Post-Production, AI Workflow",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1849,
+    "topic": "Personalized AI Companions for Chronic Illness Management and Emotional Support",
+    "file": "html/article-1849-personalized-ai-companions-for-chronic-illness-management-and-emotional-20261123-070340.html",
+    "timestamp": "20261123-070340",
+    "full_timestamp": "2026-11-23T07:03:40-08:00",
+    "summary": "Personalized AI companions could extend emotional support into chronic illness care, but supplied evidence shows momentum and promise—not proof of safety, effectiveness, or clinical outcomes.",
+    "original_topic": "AI in Mental Health & Therapy",
+    "search_query": "AI companions chronic illness mental support 2026",
+    "source_count": 12,
+    "tags": "AI, Mental Health, Chronic Illness, Digital Therapeutics",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
