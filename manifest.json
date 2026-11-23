@@ -24101,5 +24101,18 @@
     "source_count": 12,
     "tags": "Energy, Edge AI, IoT, Smart Grid",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1845,
+    "topic": "Affective Computing in Therapy: Real-Time Physiological Feedback for AI Mental Health Triage",
+    "file": "html/article-1845-affective-computing-in-therapy-real-time-physiological-feedback-for-ai-m-20261123-030350.html",
+    "timestamp": "20261123-030350",
+    "full_timestamp": "2026-11-23T03:03:50-08:00",
+    "summary": "Affective computing adds physiological signals to therapeutic AI, promising richer mental-health monitoring while exposing uncertainty around inference, accuracy, privacy, and clinical use.",
+    "original_topic": "AI in Mental Health & Therapy",
+    "search_query": "Affective computing physiological monitoring mental health AI 2026",
+    "source_count": 12,
+    "tags": "Affective Computing, Biometrics, Digital Therapy, Mental Health AI",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
