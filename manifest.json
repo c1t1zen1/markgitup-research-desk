@@ -24062,5 +24062,18 @@
     "source_count": 12,
     "tags": "DAO, AI Governance, Crypto Finance, Autonomous Agents",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1842,
+    "topic": "Synthetic Media Provenance: Blockchain Tracking for AI-Generated Cinematic Assets",
+    "file": "html/article-1842-synthetic-media-provenance-blockchain-tracking-for-ai-generated-cinemati-20261123-001248.html",
+    "timestamp": "20261123-001248",
+    "full_timestamp": "2026-11-23T00:12:48-08:00",
+    "summary": "Blockchain and Content Credentials are vital for establishing immutable provenance and fighting deepfakes in AI-generated cinematic assets.",
+    "original_topic": "AI-Generated Video for Filmmaking & Content Creation",
+    "search_query": "blockchain provenance synthetic media video generation 2026 latest",
+    "source_count": 12,
+    "tags": "Media Provenance, Blockchain, Generative AI, Filmmaking",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
