@@ -24166,5 +24166,18 @@
     "source_count": 12,
     "tags": "AI, Mental Health, Chronic Illness, Digital Therapeutics",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1850,
+    "topic": "AI Lobbying Disclosure: New Federal Rules Mandate Agent Transparency in Capitol Hill",
+    "file": "html/article-1850-ai-lobbying-disclosure-new-federal-rules-mandate-agent-transparency-in-c-20261123-080347.html",
+    "timestamp": "20261123-080347",
+    "full_timestamp": "2026-11-23T08:03:47-08:00",
+    "summary": "Supplied evidence confirms existing federal lobbying reports but does not establish new rules requiring disclosure when AI agents participate in congressional lobbying.",
+    "original_topic": "AI Lobbying & Policy in Washington",
+    "search_query": "AI lobbying disclosure rules Washington D.C. 2026",
+    "source_count": 12,
+    "tags": "AI Policy, Lobbying, Regulation, Washington",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
