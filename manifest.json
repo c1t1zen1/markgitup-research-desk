@@ -24010,5 +24010,18 @@
     "source_count": 12,
     "tags": "Insider Trading, Behavioral AI, FinTech, Compliance",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1838,
+    "topic": "Optimizing Neural Engine Utilization for Multimodal Apple Silicon AI Workloads",
+    "file": "html/article-1838-optimizing-neural-engine-utilization-for-multimodal-apple-silicon-ai-wor-20261122-200346.html",
+    "timestamp": "20261122-200346",
+    "full_timestamp": "2026-11-22T20:03:46-08:00",
+    "summary": "Apple Silicon’s Neural Engine offers a promising path for on-device multimodal AI, but supplied evidence leaves workload mapping, software support, and measured utilization unresolved.",
+    "original_topic": "AI Development Tools for Apple Silicon",
+    "search_query": "Apple Silicon Neural Engine multimodal AI optimization 2026",
+    "source_count": 12,
+    "tags": "Apple Silicon, Neural Engine, Multimodal AI, Edge Computing",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
