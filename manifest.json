@@ -24179,5 +24179,18 @@
     "source_count": 12,
     "tags": "AI Policy, Lobbying, Regulation, Washington",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1851,
+    "topic": "AI Bots Navigating Regulatory Sandboxes in Digital Asset Trading",
+    "file": "html/article-1851-ai-bots-navigating-regulatory-sandboxes-in-digital-asset-trading-20261123-090516.html",
+    "timestamp": "20261123-090516",
+    "full_timestamp": "2026-11-23T09:05:16-08:00",
+    "summary": "Supplied evidence describes AI trading bots and platform categories, but provides no verified detail on regulatory sandboxes, leaving compliance conclusions necessarily limited.",
+    "original_topic": "AI Crypto Trading Bots & Performance",
+    "search_query": "AI trading bots compliance regulatory frameworks 2026",
+    "source_count": 7,
+    "tags": "AI, Crypto, Regulation, Compliance",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
