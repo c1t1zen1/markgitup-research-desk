@@ -23997,5 +23997,18 @@
     "source_count": 12,
     "tags": "Apple Silicon, M5 Ultra, Large Language Models, On-Device AI",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1837,
+    "topic": "AI's Role in Detecting Insider Trading via Behavioral Biometrics in Trading Platforms",
+    "file": "html/article-1837-ai-s-role-in-detecting-insider-trading-via-behavioral-biometrics-in-trad-20261122-191055.html",
+    "timestamp": "20261122-191055",
+    "full_timestamp": "2026-11-22T19:10:55-08:00",
+    "summary": "Behavioral biometrics offers a nuanced approach to detecting insider trading by analyzing subtle user interaction patterns, moving beyond simple transaction monitoring.",
+    "original_topic": "AI Fraud Detection in Banking & Finance",
+    "search_query": "AI behavioral biometrics insider trading detection finance 2026 latest",
+    "source_count": 12,
+    "tags": "Insider Trading, Behavioral AI, FinTech, Compliance",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
