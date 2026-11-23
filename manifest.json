@@ -24205,5 +24205,18 @@
     "source_count": 12,
     "tags": "International Law, Synthetic Media, AI Governance, Cross-Border",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1853,
+    "topic": "AI Agents Orchestrating Multi-Agent Swarms for Complex Software Refactoring",
+    "file": "html/article-1853-ai-agents-orchestrating-multi-agent-swarms-for-complex-software-refactor-20261123-111203.html",
+    "timestamp": "20261123-111203",
+    "full_timestamp": "2026-11-23T11:12:03-08:00",
+    "summary": "AI agents are evolving beyond single tasks to orchestrate multi-agent swarms for comprehensive, large-scale software refactoring.",
+    "original_topic": "Autonomous AI Code Agents",
+    "search_query": "multi-agent systems autonomous code refactoring 2026",
+    "source_count": 12,
+    "tags": "AI Agents, Software Engineering, Multi-Agent Systems, Code Refactoring",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
