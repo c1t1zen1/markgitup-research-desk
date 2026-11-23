@@ -24231,5 +24231,18 @@
     "source_count": 12,
     "tags": "MLX, distributed inference, Mac development, Apple Silicon",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1855,
+    "topic": "MCP Turns macOS Local AI Apps Into Permissioned Desktop Automation Hubs",
+    "file": "html/article-1855-mcp-turns-macos-local-ai-apps-into-permissioned-desktop-automation-hubs-20261123-131344.html",
+    "timestamp": "20261123-131344",
+    "full_timestamp": "2026-11-23T13:13:44-08:00",
+    "summary": "MCP protocols are transforming local macOS AI by shifting focus from model training to controlled, permissioned desktop automation and tool access.",
+    "original_topic": "Local AI Tools & Stacks for macOS",
+    "search_query": "macOS local AI apps MCP permissions desktop automation 2026",
+    "source_count": 12,
+    "tags": "MCP, macOS, local AI, desktop automation",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
