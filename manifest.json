@@ -24426,5 +24426,18 @@
     "source_count": 12,
     "tags": "Quantization, Edge AI, Apple Silicon, LLMs",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1870,
+    "topic": "Regulatory Scrutiny on AI Avatar Disclosure in Live Broadcast Media",
+    "file": "html/article-1870-regulatory-scrutiny-on-ai-avatar-disclosure-in-live-broadcast-media-20261124-040353.html",
+    "timestamp": "20261124-040353",
+    "full_timestamp": "2026-11-24T04:03:53-08:00",
+    "summary": "Sparse 2026 guidance points toward clearer AI-presenter labeling, but supplied evidence does not yet establish a settled legal standard for live broadcast disclosure.",
+    "original_topic": "AI Video Avatars & Virtual Presenters",
+    "search_query": "AI avatar disclosure requirements broadcast media 2026",
+    "source_count": 12,
+    "tags": "AI Avatars, Media Regulation, Synthetic Media, Broadcast Ethics",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
