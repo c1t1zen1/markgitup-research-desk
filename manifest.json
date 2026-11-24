@@ -24413,5 +24413,18 @@
     "source_count": 12,
     "tags": "Edge AI, M-Series, Industrial IoT, Local LLMs",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1869,
+    "topic": "Quantized LLMs Powering On-Device Real-Time Language Models on M3/M4 Silicon",
+    "file": "html/article-1869-quantized-llms-powering-on-device-real-time-language-models-on-m3-m4-sil-20261124-030402.html",
+    "timestamp": "20261124-030402",
+    "full_timestamp": "2026-11-24T03:04:02-08:00",
+    "summary": "Highly quantized models may make M3/M4 Macs viable for low-latency local language tasks, but comparable measurements, memory data, and reproducible tests remain essential.",
+    "original_topic": "Quantized LLMs Running on Mac Hardware",
+    "search_query": "LLM quantization M3 M4 performance benchmarks 2026",
+    "source_count": 12,
+    "tags": "Quantization, Edge AI, Apple Silicon, LLMs",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
