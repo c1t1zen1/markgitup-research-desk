@@ -24452,5 +24452,18 @@
     "source_count": 12,
     "tags": "LLMs, Quantization, Mac, EdgeAI",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1872,
+    "topic": "AI-Assisted Signals Intelligence: Ethical Drift in US Intelligence Gathering",
+    "file": "html/article-1872-ai-assisted-signals-intelligence-ethical-drift-in-us-intelligence-gather-20261124-060347.html",
+    "timestamp": "20261124-060347",
+    "full_timestamp": "2026-11-24T06:03:47-08:00",
+    "summary": "As AI enters real-time signals intelligence, thin public evidence leaves the central ethical question unresolved: whether speed is outrunning accountability, legality, and human oversight.",
+    "original_topic": "AI in US Intelligence & Surveillance",
+    "search_query": "AI signal intelligence ethical guidelines 2026",
+    "source_count": 12,
+    "tags": "AI, Intelligence, Ethics, Surveillance",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
