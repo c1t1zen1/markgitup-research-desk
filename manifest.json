@@ -24517,5 +24517,18 @@
     "source_count": 12,
     "tags": "AI Policy, Legislative Integrity, Deepfakes, Governance",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1877,
+    "topic": "Legal Frameworks for Synthetic Identity Fraud in Decentralized Digital Ecosystems",
+    "file": "html/article-1877-legal-frameworks-for-synthetic-identity-fraud-in-decentralized-digital-e-20261124-110346.html",
+    "timestamp": "20261124-110346",
+    "full_timestamp": "2026-11-24T11:03:46-08:00",
+    "summary": "Synthetic identities, deepfakes, and decentralized finance expose a regulatory gap: existing fraud rules may reach impersonation, while platform-specific safeguards remain uncertain.",
+    "original_topic": "Deepfake Legislation & Synthetic Media Laws",
+    "search_query": "synthetic identity fraud decentralized finance legislation 2026",
+    "source_count": 12,
+    "tags": "Deepfake, DeFi, Identity Fraud, Regulation",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
