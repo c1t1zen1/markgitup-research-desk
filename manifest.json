@@ -24478,5 +24478,18 @@
     "source_count": 11,
     "tags": "Edge AI, Computer Vision, Industrial IoT, Apple Silicon",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1874,
+    "topic": "Autonomous AI Agents Managing Complex, Multi-Step Software Deployment Pipelines",
+    "file": "html/article-1874-autonomous-ai-agents-managing-complex-multi-step-software-deployment-pip-20261124-080337.html",
+    "timestamp": "20261124-080337",
+    "full_timestamp": "2026-11-24T08:03:37-08:00",
+    "summary": "Enterprise deployment agents promise coordinated pipeline work beyond code generation, but supplied evidence remains largely promotional, thin, and insufficient to validate autonomous production reliability.",
+    "original_topic": "Autonomous AI Code Agents",
+    "search_query": "AI code agents managing CI/CD pipelines 2026",
+    "source_count": 12,
+    "tags": "Autonomous Agents, DevOps, Software Engineering, AI Automation",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
