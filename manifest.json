@@ -24543,5 +24543,18 @@
     "source_count": 12,
     "tags": "Digital Twins, Video Synthesis, Industrial AI, Simulation",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1879,
+    "topic": "AI Model Watermarking Evasion: New Adversarial Attacks Threaten Election Integrity",
+    "file": "html/article-1879-ai-model-watermarking-evasion-new-adversarial-attacks-threaten-election-20261124-131141.html",
+    "timestamp": "20261124-131141",
+    "full_timestamp": "2026-11-24T13:11:41-08:00",
+    "summary": "Malicious actors are developing sophisticated adversarial attacks to bypass AI watermarking, threatening the integrity of synthetic political content.",
+    "original_topic": "AI Misinformation & Election Integrity",
+    "search_query": "adversarial attacks on AI watermarking election content 2026 latest",
+    "source_count": 12,
+    "tags": "AI Misinformation, Watermarking, Election Security, Adversarial AI",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
