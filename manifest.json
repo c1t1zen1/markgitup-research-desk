@@ -24504,5 +24504,18 @@
     "source_count": 12,
     "tags": "AI video, provenance, broadcast, deepfake",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1876,
+    "topic": "AI-Generated Policy Briefs: Deepfakes in Legislative Drafting and Lobbying",
+    "file": "html/article-1876-ai-generated-policy-briefs-deepfakes-in-legislative-drafting-and-lobbyin-20261124-100345.html",
+    "timestamp": "20261124-100345",
+    "full_timestamp": "2026-11-24T10:03:45-08:00",
+    "summary": "AI-generated policy briefs can accelerate legislative analysis while introducing a new influence risk: polished, error-filled documents entering lawmaking and lobbying channels.",
+    "original_topic": "AI in US Elections & Campaigns",
+    "search_query": "AI generated policy briefs legislative drafting 2026",
+    "source_count": 12,
+    "tags": "AI Policy, Legislative Integrity, Deepfakes, Governance",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
