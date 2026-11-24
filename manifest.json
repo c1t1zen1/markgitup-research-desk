@@ -24400,5 +24400,18 @@
     "source_count": 12,
     "tags": "AI, Elections, Regulation, Campaigning",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1868,
+    "topic": "M-Series Silicon's Role in Edge LLM Deployment for Industrial IoT",
+    "file": "html/article-1868-m-series-silicon-s-role-in-edge-llm-deployment-for-industrial-iot-20261124-020350.html",
+    "timestamp": "20261124-020350",
+    "full_timestamp": "2026-11-24T02:03:50-08:00",
+    "summary": "Apple Silicon could support private, local industrial LLM workloads, but supplied evidence shows enabling architecture and deployment promise—not validated factory performance or reliability.",
+    "original_topic": "M Series Apple Silicon LLM Inference",
+    "search_query": "Apple Silicon LLM inference industrial IoT deployment 2026 latest",
+    "source_count": 12,
+    "tags": "Edge AI, M-Series, Industrial IoT, Local LLMs",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
