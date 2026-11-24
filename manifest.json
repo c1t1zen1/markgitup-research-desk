@@ -24491,5 +24491,18 @@
     "source_count": 12,
     "tags": "Autonomous Agents, DevOps, Software Engineering, AI Automation",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1875,
+    "topic": "Deepfakes in Live Broadcasts: New Watermarking Standards Challenge Synthetic Video Integrity",
+    "file": "html/article-1875-deepfakes-in-live-broadcasts-new-watermarking-standards-challenge-synthe-20261124-090344.html",
+    "timestamp": "20261124-090344",
+    "full_timestamp": "2026-11-24T09:03:44-08:00",
+    "summary": "Live-video provenance is moving from concept to implementation as C2PA 2.3 extends Content Credentials into broadcasting, streaming, and additional media formats.",
+    "original_topic": "AI-Generated Video for Filmmaking & Content Creation",
+    "search_query": "C2PA standards for live broadcast AI video 2026 latest",
+    "source_count": 12,
+    "tags": "AI video, provenance, broadcast, deepfake",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
