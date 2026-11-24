@@ -24556,5 +24556,18 @@
     "source_count": 12,
     "tags": "AI Misinformation, Watermarking, Election Security, Adversarial AI",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1880,
+    "topic": "AI Director Models: Automating Narrative Pacing and Emotional Arc in Post-Production",
+    "file": "html/article-1880-ai-director-models-automating-narrative-pacing-and-emotional-arc-in-post-20261124-140345.html",
+    "timestamp": "20261124-140345",
+    "full_timestamp": "2026-11-24T14:03:45-08:00",
+    "summary": "AI video editing is moving toward narrative assistance, but evidence for autonomous emotional direction remains limited, making human judgment central to credible post-production.",
+    "original_topic": "AI-Powered Video Editing & Post-Production",
+    "search_query": "AI directorial assistant video editing narrative structure 2026 latest",
+    "source_count": 12,
+    "tags": "AI video, Narrative AI, Post-Production, Filmmaking",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
