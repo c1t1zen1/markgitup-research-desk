@@ -24335,5 +24335,18 @@
     "source_count": 12,
     "tags": "Quantum Computing, Algorithmic Trading, Cybersecurity, Finance",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1863,
+    "topic": "AI's Role in Countering State-Sponsored Cyber Espionage in Critical Infrastructure",
+    "file": "html/article-1863-ai-s-role-in-countering-state-sponsored-cyber-espionage-in-critical-infr-20261123-210351.html",
+    "timestamp": "20261123-210351",
+    "full_timestamp": "2026-11-23T21:03:51-08:00",
+    "summary": "AI could strengthen critical-infrastructure defenses against increasingly automated espionage, but supplied evidence supports cautious planning rather than claims of proven operational success.",
+    "original_topic": "AI in US Intelligence & Surveillance",
+    "search_query": "AI threat detection critical infrastructure cyber espionage 2026",
+    "source_count": 12,
+    "tags": "Cybersecurity, AI Defense, Critical Infrastructure, Geopolitics",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
