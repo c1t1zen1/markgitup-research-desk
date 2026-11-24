@@ -24465,5 +24465,18 @@
     "source_count": 12,
     "tags": "AI, Intelligence, Ethics, Surveillance",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1873,
+    "topic": "Optimizing Vision Models for Real-Time Industrial Inspection on Apple Silicon",
+    "file": "html/article-1873-optimizing-vision-models-for-real-time-industrial-inspection-on-apple-si-20261124-070342.html",
+    "timestamp": "20261124-070342",
+    "full_timestamp": "2026-11-24T07:03:42-08:00",
+    "summary": "Industrial vision on Apple Silicon remains a plausible deployment direction, but supplied evidence does not establish model performance, hardware capabilities, or inspection readiness.",
+    "original_topic": "AI Development Tools for Apple Silicon",
+    "search_query": "Apple Silicon vision models industrial inspection 2026",
+    "source_count": 11,
+    "tags": "Edge AI, Computer Vision, Industrial IoT, Apple Silicon",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
