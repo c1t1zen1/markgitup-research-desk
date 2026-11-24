@@ -24439,5 +24439,18 @@
     "source_count": 12,
     "tags": "AI Avatars, Media Regulation, Synthetic Media, Broadcast Ethics",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1871,
+    "topic": "Optimizing Quantized LLMs for Heterogeneous Mac Hardware Architectures in 2026",
+    "file": "html/article-1871-optimizing-quantized-llms-for-heterogeneous-mac-hardware-architectures-i-20261124-050354.html",
+    "timestamp": "20261124-050354",
+    "full_timestamp": "2026-11-24T05:03:54-08:00",
+    "summary": "Quantization choices now depend on Mac tier, unified memory, runtime, and model size; benchmark labels and hardware specialization matter as much as headline token rates.",
+    "original_topic": "Quantized LLMs Running on Mac Hardware",
+    "search_query": "LLM quantization performance M-series chipsets macOS 2026 latest",
+    "source_count": 12,
+    "tags": "LLMs, Quantization, Mac, EdgeAI",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
