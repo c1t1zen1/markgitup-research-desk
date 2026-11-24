@@ -24387,5 +24387,18 @@
     "source_count": 12,
     "tags": "synthetic performers, likeness rights, film labor, AI production",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1867,
+    "topic": "AI Campaign Micro-Targeting: Regulatory Scrutiny on Predictive Voter Behavior Models",
+    "file": "html/article-1867-ai-campaign-micro-targeting-regulatory-scrutiny-on-predictive-voter-beha-20261124-010345.html",
+    "timestamp": "20261124-010345",
+    "full_timestamp": "2026-11-24T01:03:45-08:00",
+    "summary": "AI-powered voter segmentation promises sharper campaign relevance, but supplied evidence leaves predictive accuracy, legal accountability, and deployment safeguards largely unresolved.",
+    "original_topic": "AI in US Elections & Campaigns",
+    "search_query": "AI voter micro-targeting regulations 2026",
+    "source_count": 12,
+    "tags": "AI, Elections, Regulation, Campaigning",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
