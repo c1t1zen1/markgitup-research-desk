@@ -24322,5 +24322,18 @@
     "source_count": 12,
     "tags": "political advertising,content provenance,election integrity",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1862,
+    "topic": "AI-Driven Algorithmic Trading Adapts to Quantum Computing Threats in Finance",
+    "file": "html/article-1862-ai-driven-algorithmic-trading-adapts-to-quantum-computing-threats-in-fin-20261123-200347.html",
+    "timestamp": "20261123-200347",
+    "full_timestamp": "2026-11-23T20:03:47-08:00",
+    "summary": "AI trading systems may face a future cryptographic disruption as quantum advances threaten RSA and elliptic-curve protections surrounding high-speed financial operations.",
+    "original_topic": "AI Stock Prediction & Market Analysis",
+    "search_query": "AI trading vulnerability quantum computing cryptography 2026",
+    "source_count": 12,
+    "tags": "Quantum Computing, Algorithmic Trading, Cybersecurity, Finance",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
