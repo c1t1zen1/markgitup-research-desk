@@ -24569,5 +24569,18 @@
     "source_count": 12,
     "tags": "AI video, Narrative AI, Post-Production, Filmmaking",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1881,
+    "topic": "Generative AI's Impact on Financial Statement Narrative Consistency and Disclosure",
+    "file": "html/article-1881-generative-ai-s-impact-on-financial-statement-narrative-consistency-and-20261124-150345.html",
+    "timestamp": "20261124-150345",
+    "full_timestamp": "2026-11-24T15:03:45-08:00",
+    "summary": "Generative AI may make financial-report narratives clearer and more consistent, but drafting disclosures introduces new risks of factual drift, opaque authorship, and control failure.",
+    "original_topic": "Generative AI for Financial Reporting",
+    "search_query": "Generative AI financial reporting narrative consistency 2026",
+    "source_count": 12,
+    "tags": "Generative AI, Financial Reporting, Disclosure, Narrative Generation",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
