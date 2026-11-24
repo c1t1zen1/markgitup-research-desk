@@ -24296,5 +24296,18 @@
     "source_count": 12,
     "tags": "Cognitive Science, Media Psychology, Attention Economy, AI Consumption",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1860,
+    "topic": "Instant Payments Force Banks to Rebuild Fraud Detection Around Authorized Push Payments",
+    "file": "html/article-1860-instant-payments-force-banks-to-rebuild-fraud-detection-around-authorize-20261123-180435.html",
+    "timestamp": "20261123-180435",
+    "full_timestamp": "2026-11-23T18:04:35-08:00",
+    "summary": "Instant payment adoption is moving bank fraud controls beyond unauthorized access toward detecting customer-authorized deception before irreversible funds movement.",
+    "original_topic": "AI Fraud Detection in Banking & Finance",
+    "search_query": "2026 instant payments authorized push payment fraud detection bank liability rules",
+    "source_count": 12,
+    "tags": "instant payments, authorized push payment, bank liability, fraud detection",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
