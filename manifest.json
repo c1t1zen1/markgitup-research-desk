@@ -24790,5 +24790,18 @@
     "source_count": 12,
     "tags": "Synthetic Identity, Behavioral Biometrics, AML, Financial Fraud",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1898,
+    "topic": "AI-Driven Therapeutic Agents Navigating Digital Empathy and Therapeutic Alliance in 2026",
+    "file": "html/article-1898-ai-driven-therapeutic-agents-navigating-digital-empathy-and-therapeutic-20261125-081307.html",
+    "timestamp": "20261125-081307",
+    "full_timestamp": "2026-11-25T08:13:07-08:00",
+    "summary": "Examining the Digital Therapeutic Alliance in 2026, this analysis probes the nuances of AI's capacity to foster genuine therapeutic bonds.",
+    "original_topic": "AI in Mental Health & Therapy",
+    "search_query": "AI therapy agents therapeutic alliance digital empathy 2026",
+    "source_count": 12,
+    "tags": "AI Therapy, Digital Mental Health, Therapeutic Alliance, Affective Computing",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
