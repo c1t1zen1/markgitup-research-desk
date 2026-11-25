@@ -24725,5 +24725,18 @@
     "source_count": 12,
     "tags": "Local AI, macOS, LLM Optimization, Edge Computing",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1893,
+    "topic": "Post-Quantum Cryptography Threats to Banking Transaction Integrity: AI Defense Strategies",
+    "file": "html/article-1893-post-quantum-cryptography-threats-to-banking-transaction-integrity-ai-de-20261125-031253.html",
+    "timestamp": "20261125-031253",
+    "full_timestamp": "2026-11-25T03:12:53-08:00",
+    "summary": "Quantum computing threatens banking integrity; AI-driven defenses and Post-Quantum Cryptography are essential for future financial security.",
+    "original_topic": "AI Fraud Detection in Banking & Finance",
+    "search_query": "AI defense against quantum computing financial transactions 2026",
+    "source_count": 12,
+    "tags": "Quantum Security, Cryptography, Banking Risk, AI Defense",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
