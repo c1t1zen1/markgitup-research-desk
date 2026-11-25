@@ -24647,5 +24647,18 @@
     "source_count": 12,
     "tags": "Healthcare, Edge AI, Privacy, Apple Silicon",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1887,
+    "topic": "Personalized Digital Companions: Ethical Boundaries for AI Support in Chronic Mental Illness",
+    "file": "html/article-1887-personalized-digital-companions-ethical-boundaries-for-ai-support-in-chr-20261124-210417.html",
+    "timestamp": "20261124-210417",
+    "full_timestamp": "2026-11-24T21:04:17-08:00",
+    "summary": "Long-term AI companions could widen mental-health support, but personalization also intensifies unresolved questions about consent, privacy, dependency, clinical responsibility, and regulation.",
+    "original_topic": "AI in Mental Health & Therapy",
+    "search_query": "AI companions mental health ethical guidelines 2026",
+    "source_count": 12,
+    "tags": "AI Ethics, Mental Health, Digital Companions, Clinical AI",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
