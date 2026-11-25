@@ -24686,5 +24686,18 @@
     "source_count": 12,
     "tags": "HFT, LLMs, Market Microstructure, Latency",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1890,
+    "topic": "Optimizing On-Device LLM Inference for Low-Power Edge Computing on macOS",
+    "file": "html/article-1890-optimizing-on-device-llm-inference-for-low-power-edge-computing-on-macos-20261125-001333.html",
+    "timestamp": "20261125-001333",
+    "full_timestamp": "2026-11-25T00:13:33-08:00",
+    "summary": "Achieving efficient on-device LLM inference on macOS requires deep dives into quantization and model compression for low-power edge computing.",
+    "original_topic": "Local AI Tools & Stacks for macOS",
+    "search_query": "macOS edge AI model quantization performance 2026",
+    "source_count": 12,
+    "tags": "Edge AI, Quantization, Apple Silicon, Low Power",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
