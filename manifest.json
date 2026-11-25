@@ -24699,5 +24699,18 @@
     "source_count": 12,
     "tags": "Edge AI, Quantization, Apple Silicon, Low Power",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1891,
+    "topic": "AI Video Moderation: Detecting Micro-Targeted Misinformation in Short-Form Feeds",
+    "file": "html/article-1891-ai-video-moderation-detecting-micro-targeted-misinformation-in-short-for-20261125-011439.html",
+    "timestamp": "20261125-011439",
+    "full_timestamp": "2026-11-25T01:14:39-08:00",
+    "summary": "AI video moderation faces a new threat: subtle, micro-targeted misinformation pushed through rapid-fire short-form feeds.",
+    "original_topic": "AI Short Form Video & Social Media",
+    "search_query": "AI detection micro-targeted misinformation short-form video 2026 latest",
+    "source_count": 11,
+    "tags": "AI moderation, misinformation, social media, synthetic media",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
