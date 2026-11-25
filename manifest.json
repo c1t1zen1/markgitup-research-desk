@@ -24855,5 +24855,18 @@
     "source_count": 10,
     "tags": "AI, elections, predictive modeling, 2026 midterms",
     "model_names": "/Users/c1t1zen/models/gguf/qwen3.8-27b-turbo-fcf-735-882/Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-"
+  },
+  {
+    "article_number": 1903,
+    "topic": "Optimizing ML Model Quantization for Vision Tasks on Apple Neural Engine",
+    "file": "html/article-1903-optimizing-ml-model-quantization-for-vision-tasks-on-apple-neural-engine-20261125-130433.html",
+    "timestamp": "20261125-130433",
+    "full_timestamp": "2026-11-25T13:04:33-08:00",
+    "summary": "Apple Neural Engine vision optimization remains an evidence gap: supplied sources discuss Apple Silicon LLM quantization, not operator-level computer-vision deployment.",
+    "original_topic": "AI Development Tools for Apple Silicon",
+    "search_query": "Apple Silicon vision model quantization performance 2026",
+    "source_count": 12,
+    "tags": "Apple Silicon, Computer Vision, Model Optimization, Neural Engine",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
