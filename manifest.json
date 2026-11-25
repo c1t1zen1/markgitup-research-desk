@@ -24868,5 +24868,18 @@
     "source_count": 12,
     "tags": "Apple Silicon, Computer Vision, Model Optimization, Neural Engine",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1904,
+    "topic": "AI's Role in Countering Foreign Influence Operations via Signals Intelligence",
+    "file": "html/article-1904-ai-s-role-in-countering-foreign-influence-operations-via-signals-intelli-20261125-140639.html",
+    "timestamp": "20261125-140639",
+    "full_timestamp": "2026-11-25T14:06:39-08:00",
+    "summary": "AI is moving foreign influence defense toward signal-rich detection of scalable campaigns, but supplied evidence supports cautious assessment—not proof of a mature, publicly documented intelligence pipeline.",
+    "original_topic": "AI in US Intelligence & Surveillance",
+    "search_query": "AI signals intelligence foreign influence operations 2026",
+    "source_count": 12,
+    "tags": "Signals Intelligence, Foreign Influence, AI Security, Geopolitics",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
