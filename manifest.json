@@ -24829,5 +24829,18 @@
     "source_count": 12,
     "tags": "Software Engineering, AI Agents, Technical Debt, DevOps",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1901,
+    "topic": "AI Lobbying: Algorithmic Influence on Regulatory Drafting and Legislative Text",
+    "file": "html/article-1901-ai-lobbying-algorithmic-influence-on-regulatory-drafting-and-legislative-20261125-111318.html",
+    "timestamp": "20261125-111318",
+    "full_timestamp": "2026-11-25T11:13:18-08:00",
+    "summary": "AI's growing role in Washington's policy sphere suggests advanced models may soon shape the very language of legislation.",
+    "original_topic": "AI Lobbying & Policy in Washington",
+    "search_query": "AI automated policy drafting Washington D.C. 2026",
+    "source_count": 12,
+    "tags": "AI Policy, Legislative Tech, Lobbying, Regulatory AI",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
