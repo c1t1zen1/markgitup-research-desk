@@ -24816,5 +24816,18 @@
     "source_count": 12,
     "tags": "Deepfakes, Local Politics, AI Forensics, Misinformation",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1900,
+    "topic": "Autonomous AI Agents for Proactive Software Refactoring and Legacy Code Modernization",
+    "file": "html/article-1900-autonomous-ai-agents-for-proactive-software-refactoring-and-legacy-code-20261125-101334.html",
+    "timestamp": "20261125-101334",
+    "full_timestamp": "2026-11-25T10:13:34-08:00",
+    "summary": "Autonomous AI agents are emerging to tackle enterprise technical debt by automating complex software refactoring and legacy code modernization.",
+    "original_topic": "Autonomous AI Code Agents",
+    "search_query": "AI agents automated legacy code refactoring 2026",
+    "source_count": 12,
+    "tags": "Software Engineering, AI Agents, Technical Debt, DevOps",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
