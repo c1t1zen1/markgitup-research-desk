@@ -24751,5 +24751,18 @@
     "source_count": 12,
     "tags": "Video Provenance, Digital Forensics, Blockchain, Synthetic Media",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1895,
+    "topic": "Generative AI in XBRL Tagging: Automating Complex Regulatory Data Mapping",
+    "file": "html/article-1895-generative-ai-in-xbrl-tagging-automating-complex-regulatory-data-mapping-20261125-050449.html",
+    "timestamp": "20261125-050449",
+    "full_timestamp": "2026-11-25T05:04:49-08:00",
+    "summary": "Generative AI may ease XBRL tagging bottlenecks, but supplied evidence points to unresolved taxonomy, validation, security, and filer-liability challenges.",
+    "original_topic": "Generative AI for Financial Reporting",
+    "search_query": "Generative AI XBRL tagging automation financial reporting 2026",
+    "source_count": 12,
+    "tags": "XBRL, Financial Compliance, Generative AI, Data Standardization",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
