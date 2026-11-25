@@ -24634,5 +24634,18 @@
     "source_count": 12,
     "tags": "AI governance, legislative process, expert testimony, policy influence",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1886,
+    "topic": "M-Series LLMs for Localized, Privacy-Preserving Healthcare Diagnostics in 2026",
+    "file": "html/article-1886-m-series-llms-for-localized-privacy-preserving-healthcare-diagnostics-in-20261124-200434.html",
+    "timestamp": "20261124-200434",
+    "full_timestamp": "2026-11-24T20:04:34-08:00",
+    "summary": "On-device LLMs on M-Series Macs could reduce data exposure in healthcare, but privacy compliance still depends on model governance, security controls, and evidence beyond promotional or benchmark claims.",
+    "original_topic": "M Series Apple Silicon LLM Inference",
+    "search_query": "Apple Silicon LLM medical diagnostics privacy 2026",
+    "source_count": 12,
+    "tags": "Healthcare, Edge AI, Privacy, Apple Silicon",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
