@@ -24803,5 +24803,18 @@
     "source_count": 12,
     "tags": "AI Therapy, Digital Mental Health, Therapeutic Alliance, Affective Computing",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1899,
+    "topic": "AI-Generated Deepfakes in Localized Political Discourse: New Detection Paradigms",
+    "file": "html/article-1899-ai-generated-deepfakes-in-localized-political-discourse-new-detection-pa-20261125-090412.html",
+    "timestamp": "20261125-090412",
+    "full_timestamp": "2026-11-25T09:04:12-08:00",
+    "summary": "Localized political deepfakes demand detection systems that combine media forensics, provenance, human review, and community context rather than relying on visual intuition alone.",
+    "original_topic": "AI Misinformation & Election Integrity",
+    "search_query": "AI deepfake detection localized political speech 2026",
+    "source_count": 12,
+    "tags": "Deepfakes, Local Politics, AI Forensics, Misinformation",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
