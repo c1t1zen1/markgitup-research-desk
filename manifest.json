@@ -24777,5 +24777,18 @@
     "source_count": 12,
     "tags": "sensor fusion, edge AI, home automation, multi-modal",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1897,
+    "topic": "Real-Time Behavioral Biometrics: AI Detecting Synthetic Identity Fraud in Digital Onboarding",
+    "file": "html/article-1897-real-time-behavioral-biometrics-ai-detecting-synthetic-identity-fraud-in-20261125-070436.html",
+    "timestamp": "20261125-070436",
+    "full_timestamp": "2026-11-25T07:04:36-08:00",
+    "summary": "As synthetic identities challenge one-time credential checks, behavioral biometrics could give digital onboarding a richer fraud signal—while introducing privacy, biometric-theft, and governance risks.",
+    "original_topic": "AI Fraud Detection in Banking & Finance",
+    "search_query": "AI behavioral biometrics synthetic identity fraud 2026",
+    "source_count": 12,
+    "tags": "Synthetic Identity, Behavioral Biometrics, AML, Financial Fraud",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
