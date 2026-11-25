@@ -24881,5 +24881,18 @@
     "source_count": 12,
     "tags": "Signals Intelligence, Foreign Influence, AI Security, Geopolitics",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1905,
+    "topic": "Generative AI's Impact on Algorithmic Trading Strategies and Market Volatility",
+    "file": "html/article-1905-generative-ai-s-impact-on-algorithmic-trading-strategies-and-market-vola-20261125-151428.html",
+    "timestamp": "20261125-151428",
+    "full_timestamp": "2026-11-25T15:14:28-08:00",
+    "summary": "Generative AI is reshaping algorithmic trading, embedding complexity and unpredictability into modern financial market operations.",
+    "original_topic": "AI Stock Prediction & Market Analysis",
+    "search_query": "Generative AI algorithmic trading market impact 2026",
+    "source_count": 12,
+    "tags": "Generative AI, Algorithmic Trading, Market Volatility, FinTech",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
