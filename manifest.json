@@ -24712,5 +24712,18 @@
     "source_count": 11,
     "tags": "AI moderation, misinformation, social media, synthetic media",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1892,
+    "topic": "Quantifying Local AI Performance on Apple Silicon: Benchmarking Privacy vs. Latency",
+    "file": "html/article-1892-quantifying-local-ai-performance-on-apple-silicon-benchmarking-privacy-v-20261125-021143.html",
+    "timestamp": "20261125-021143",
+    "full_timestamp": "2026-11-25T02:11:43-08:00",
+    "summary": "Benchmarking the trade-offs between privacy and speed for local AI inference across Apple Silicon generations.",
+    "original_topic": "Privacy-First Local AI on Mac",
+    "search_query": "macOS local LLM inference benchmarks Apple Silicon 2026",
+    "source_count": 12,
+    "tags": "Local AI, macOS, LLM Optimization, Edge Computing",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
