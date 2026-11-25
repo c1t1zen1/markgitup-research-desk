@@ -24608,5 +24608,18 @@
     "source_count": 12,
     "tags": "DAO, AI, Crypto, Governance",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1884,
+    "topic": "Proactive AI Home Agents Predicting and Mitigating Household Energy Spikes",
+    "file": "html/article-1884-proactive-ai-home-agents-predicting-and-mitigating-household-energy-spik-20261124-180341.html",
+    "timestamp": "20261124-180341",
+    "full_timestamp": "2026-11-24T18:03:41-08:00",
+    "summary": "Proactive home agents could forecast irregular household demand and coordinate appliances, but supplied evidence supports a research direction—not proven savings or reliable autonomous control.",
+    "original_topic": "AI-Powered Smart Homes & Automation",
+    "search_query": "AI home energy load forecasting proactive management 2026",
+    "source_count": 12,
+    "tags": "Smart Home, Energy AI, Predictive Maintenance, Automation",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
