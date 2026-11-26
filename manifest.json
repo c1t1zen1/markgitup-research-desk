@@ -25076,5 +25076,18 @@
     "source_count": 12,
     "tags": "Financial Reporting, Generative AI, SEC, Risk Management",
     "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1920,
+    "topic": "AI Video Synthesis and Copyright: New Global IP Enforcement Challenges Emerge",
+    "file": "html/article-1920-ai-video-synthesis-and-copyright-new-global-ip-enforcement-challenges-em-20261126-060803.html",
+    "timestamp": "20261126-060803",
+    "full_timestamp": "2026-11-26T06:08:03-08:00",
+    "summary": "AI video is moving into a fragmented copyright environment where training data, output ownership, and cross-border enforcement remain unsettled for studios and creators.",
+    "original_topic": "AI-Generated Video for Filmmaking & Content Creation",
+    "search_query": "international copyright AI generated video rulings 2026",
+    "source_count": 12,
+    "tags": "IP law, generative AI, filmmaking, copyright",
+    "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf + GPT 5.6 Luna"
   }
 ]
