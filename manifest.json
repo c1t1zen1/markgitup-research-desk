@@ -25089,5 +25089,18 @@
     "source_count": 12,
     "tags": "IP law, generative AI, filmmaking, copyright",
     "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1921,
+    "topic": "Real-Time Affective Computing in Teletherapy: Detecting Subtle Distress Signals",
+    "file": "html/article-1921-real-time-affective-computing-in-teletherapy-detecting-subtle-distress-s-20261126-071252.html",
+    "timestamp": "20261126-071252",
+    "full_timestamp": "2026-11-26T07:12:52-08:00",
+    "summary": "Real-time affective computing integrates AI to detect subtle, non-verbal distress signals during live teletherapy, enhancing mental health assessment.",
+    "original_topic": "AI in Mental Health & Therapy",
+    "search_query": "affective computing mental health real-time 2026",
+    "source_count": 12,
+    "tags": "teletherapy, affective computing, mental health AI, real-time",
+    "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf"
   }
 ]
