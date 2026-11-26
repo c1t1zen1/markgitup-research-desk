@@ -25063,5 +25063,18 @@
     "source_count": 12,
     "tags": "elections,deepfakes,disclosure laws,campaign compliance",
     "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1919,
+    "topic": "Generative AI for Proactive Financial Risk Disclosure in Quarterly Filings",
+    "file": "html/article-1919-generative-ai-for-proactive-financial-risk-disclosure-in-quarterly-filin-20261126-050808.html",
+    "timestamp": "20261126-050808",
+    "full_timestamp": "2026-11-26T05:08:08-08:00",
+    "summary": "Generative AI could help teams anticipate and draft quarterly risk disclosures, but the supplied evidence supports only a cautious forecast, not proven reporting performance.",
+    "original_topic": "Generative AI for Financial Reporting",
+    "search_query": "Generative AI proactive financial risk disclosure SEC 2026",
+    "source_count": 12,
+    "tags": "Financial Reporting, Generative AI, SEC, Risk Management",
+    "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf + GPT 5.6 Luna"
   }
 ]
