@@ -24920,5 +24920,18 @@
     "source_count": 12,
     "tags": "Deepfake, Liability, AI Law, Regulation",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1908,
+    "topic": "AI Video Summarization: Navigating Attention Spans in Hyper-Personalized Short-Form Feeds",
+    "file": "html/article-1908-ai-video-summarization-navigating-attention-spans-in-hyper-personalized-20261125-181333.html",
+    "timestamp": "20261125-181333",
+    "full_timestamp": "2026-11-25T18:13:33-08:00",
+    "summary": "AI video summarization is reshaping short-form feeds by distilling long content into personalized micro-clips, addressing modern attention scarcity.",
+    "original_topic": "AI Short Form Video & Social Media",
+    "search_query": "AI video summarization personalized short-form content 2026",
+    "source_count": 12,
+    "tags": "Video Summarization, Attention Economy, Personalized AI, Social Media",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
