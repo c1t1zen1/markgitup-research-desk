@@ -24933,5 +24933,18 @@
     "source_count": 12,
     "tags": "Video Summarization, Attention Economy, Personalized AI, Social Media",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1909,
+    "topic": "Edge LLMs on Mac: Securing Personal Data Against Cloud Surveillance in 2026",
+    "file": "html/article-1909-edge-llms-on-mac-securing-personal-data-against-cloud-surveillance-in-20-20261125-191604.html",
+    "timestamp": "20261125-191604",
+    "full_timestamp": "2026-11-25T19:16:04-08:00",
+    "summary": "Running LLMs locally on Mac shifts data control from the cloud to your hardware, offering a potent defense against surveillance in 2026.",
+    "original_topic": "Privacy-First Local AI on Mac",
+    "search_query": "local large language models privacy Mac 2026",
+    "source_count": 12,
+    "tags": "Local AI, Privacy, Apple Silicon, Edge Computing",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
