@@ -24907,5 +24907,18 @@
     "source_count": 12,
     "tags": "Synthetic Data, Market Risk, LLMs, Regulation",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1907,
+    "topic": "Liability Frameworks for Synthetic Media: Who Owns the Deepfake Harm?",
+    "file": "html/article-1907-liability-frameworks-for-synthetic-media-who-owns-the-deepfake-harm-20261125-170622.html",
+    "timestamp": "20261125-170622",
+    "full_timestamp": "2026-11-25T17:06:22-08:00",
+    "summary": "Synthetic-media harm is moving from a detection problem toward fragmented responsibility, where federal and state rules, private remedies, coverage limits, and incomplete evidence shape who may answer.",
+    "original_topic": "Deepfake Legislation & Synthetic Media Laws",
+    "search_query": "US state deepfake liability legislation 2026",
+    "source_count": 12,
+    "tags": "Deepfake, Liability, AI Law, Regulation",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
