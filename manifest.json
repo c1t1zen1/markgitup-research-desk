@@ -24946,5 +24946,18 @@
     "source_count": 12,
     "tags": "Local AI, Privacy, Apple Silicon, Edge Computing",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1910,
+    "topic": "AI Video Generation in Interactive Narrative Worlds: Real-Time Branching Storylines",
+    "file": "html/article-1910-ai-video-generation-in-interactive-narrative-worlds-real-time-branching-20261125-200438.html",
+    "timestamp": "20261125-200438",
+    "full_timestamp": "2026-11-25T20:04:38-08:00",
+    "summary": "Generative video could turn branching narratives into responsive worlds, but the supplied evidence points first to unresolved context, state, latency, and source-quality challenges.",
+    "original_topic": "AI-Generated Video for Filmmaking & Content Creation",
+    "search_query": "real-time generative video interactive storytelling 2026",
+    "source_count": 12,
+    "tags": "Interactive Media, Generative Video, Narrative AI, Gaming",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
