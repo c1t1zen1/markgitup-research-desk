@@ -24959,5 +24959,18 @@
     "source_count": 12,
     "tags": "Interactive Media, Generative Video, Narrative AI, Gaming",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1911,
+    "topic": "Quantized LLMs on Mac: Low-Latency Inference for On-Device Enterprise Knowledge Retrieval",
+    "file": "html/article-1911-quantized-llms-on-mac-low-latency-inference-for-on-device-enterprise-kno-20261125-210607.html",
+    "timestamp": "20261125-210607",
+    "full_timestamp": "2026-11-25T21:06:07-08:00",
+    "summary": "Quantized local LLMs could make Mac-based enterprise RAG more private and responsive, but supplied evidence supports architecture and controls—not Mac performance or quantization claims.",
+    "original_topic": "Quantized LLMs Running on Mac Hardware",
+    "search_query": "local LLM RAG enterprise data privacy Mac 2026 latest",
+    "source_count": 12,
+    "tags": "RAG, Edge AI, Data Privacy, LLMs",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
   }
 ]
