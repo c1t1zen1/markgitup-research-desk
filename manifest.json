@@ -25102,5 +25102,18 @@
     "source_count": 12,
     "tags": "teletherapy, affective computing, mental health AI, real-time",
     "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf"
+  },
+  {
+    "article_number": 1922,
+    "topic": "Decentralized AI Agents Managing Real-Time DeFi Protocol Risk in 2026",
+    "file": "html/article-1922-decentralized-ai-agents-managing-real-time-defi-protocol-risk-in-2026-20261126-080422.html",
+    "timestamp": "20261126-080422",
+    "full_timestamp": "2026-11-26T08:04:22-08:00",
+    "summary": "Autonomous agents are moving from strategy generation toward live DeFi operations, where wallet control, protocol risk, governance limits, and security determine whether automation helps or harms.",
+    "original_topic": "AI Crypto Trading Bots & Performance",
+    "search_query": "AI agents DeFi protocol risk management November 2026",
+    "source_count": 12,
+    "tags": "DeFi, AI Agents, Crypto Risk, Autonomous Finance",
+    "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf + GPT 5.6 Luna"
   }
 ]
