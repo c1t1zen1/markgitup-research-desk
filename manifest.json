@@ -25167,5 +25167,18 @@
     "source_count": 12,
     "tags": "grid flexibility, demand response, home energy, smart devices",
     "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1927,
+    "topic": "LLMs Adapting to Real-Time Volatility in High-Frequency Trading Infrastructure",
+    "file": "html/article-1927-llms-adapting-to-real-time-volatility-in-high-frequency-trading-infrastr-20261126-130457.html",
+    "timestamp": "20261126-130457",
+    "full_timestamp": "2026-11-26T13:04:57-08:00",
+    "summary": "LLMs may help HFT infrastructure absorb fast-moving information, but supplied evidence supports latency-aware integration and observability more strongly than proven, production-grade volatility adaptation.",
+    "original_topic": "LLMs in Hedge Funds & Trading",
+    "search_query": "LLM integration high-frequency trading latency 2026",
+    "source_count": 12,
+    "tags": "HFT, LLM, Low-Latency, Finance",
+    "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf + GPT 5.6 Luna"
   }
 ]
