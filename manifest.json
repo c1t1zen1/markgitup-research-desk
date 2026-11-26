@@ -24894,5 +24894,18 @@
     "source_count": 12,
     "tags": "Generative AI, Algorithmic Trading, Market Volatility, FinTech",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
+  },
+  {
+    "article_number": 1906,
+    "topic": "LLMs and Synthetic Market Data: Regulatory Scrutiny on Simulated Trading Environments",
+    "file": "html/article-1906-llms-and-synthetic-market-data-regulatory-scrutiny-on-simulated-trading-20261125-161244.html",
+    "timestamp": "20261125-161244",
+    "full_timestamp": "2026-11-25T16:12:44-08:00",
+    "summary": "Regulatory scrutiny intensifies as hedge funds use LLMs to test strategies on synthetic market data, raising systemic risk concerns.",
+    "original_topic": "LLMs in Hedge Funds & Trading",
+    "search_query": "synthetic market data LLM regulatory risk 2026",
+    "source_count": 12,
+    "tags": "Synthetic Data, Market Risk, LLMs, Regulation",
+    "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf"
   }
 ]
