@@ -25024,5 +25024,18 @@
     "source_count": 12,
     "tags": "DeFi, AI, Regulation, Crypto",
     "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1916,
+    "topic": "Hyper-Realistic AI Avatars in Extended Reality Training Simulations for Industrial Safety",
+    "file": "html/article-1916-hyper-realistic-ai-avatars-in-extended-reality-training-simulations-for-20261126-021216.html",
+    "timestamp": "20261126-021216",
+    "full_timestamp": "2026-11-26T02:12:16-08:00",
+    "summary": "Hyper-realistic AI avatars are advancing enterprise XR training, offering safer, more responsive simulations for high-stakes industrial safety applications.",
+    "original_topic": "AI Video Avatars & Virtual Presenters",
+    "search_query": "AI virtual presenters industrial safety XR training 2026",
+    "source_count": 12,
+    "tags": "XR, Industrial AI, Training, Avatars",
+    "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf"
   }
 ]
