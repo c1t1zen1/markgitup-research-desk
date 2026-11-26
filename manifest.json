@@ -25115,5 +25115,18 @@
     "source_count": 12,
     "tags": "DeFi, AI Agents, Crypto Risk, Autonomous Finance",
     "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1923,
+    "topic": "AI Avatars in Diplomatic Briefings: Authenticity and Trust in Global Negotiations",
+    "file": "html/article-1923-ai-avatars-in-diplomatic-briefings-authenticity-and-trust-in-global-nego-20261126-091453.html",
+    "timestamp": "20261126-091453",
+    "full_timestamp": "2026-11-26T09:14:53-08:00",
+    "summary": "AI avatars in diplomacy raise critical questions about authenticity and trust as international forums explore AI's role in global negotiations.",
+    "original_topic": "AI Video Avatars & Virtual Presenters",
+    "search_query": "AI avatar use in UN diplomatic meetings 2026",
+    "source_count": 12,
+    "tags": "diplomacy, synthetic media, international relations, trust",
+    "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf"
   }
 ]
