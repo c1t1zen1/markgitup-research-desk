@@ -25050,5 +25050,18 @@
     "source_count": 12,
     "tags": "SMB, Data Privacy, On-Device AI",
     "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1918,
+    "topic": "The 2026 Midterms Turn Deepfake Disclosure Laws Into a Patchwork Campaign Compliance Test",
+    "file": "html/article-1918-the-2026-midterms-turn-deepfake-disclosure-laws-into-a-patchwork-campaig-20261126-040647.html",
+    "timestamp": "20261126-040647",
+    "full_timestamp": "2026-11-26T04:06:47-08:00",
+    "summary": "State deepfake rules could turn one synthetic campaign ad into multiple disclosure, timing, and compliance problems before the 2026 midterms.",
+    "original_topic": "Deepfake Legislation & Synthetic Media Laws",
+    "search_query": "2026 midterm campaign AI deepfake disclosure laws state ballot",
+    "source_count": 12,
+    "tags": "elections,deepfakes,disclosure laws,campaign compliance",
+    "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf + GPT 5.6 Luna"
   }
 ]
