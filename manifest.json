@@ -24972,5 +24972,18 @@
     "source_count": 12,
     "tags": "RAG, Edge AI, Data Privacy, LLMs",
     "model_names": "/home/pi/models/gemma-4-E4B-it-Q4_K_M.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1912,
+    "topic": "M-Series LLMs Powering Localized Healthcare Diagnostics on Apple Silicon",
+    "file": "html/article-1912-m-series-llms-powering-localized-healthcare-diagnostics-on-apple-silicon-20261125-221448.html",
+    "timestamp": "20261125-221448",
+    "full_timestamp": "2026-11-25T22:14:48-08:00",
+    "summary": "M-Series LLMs enable localized, privacy-preserving healthcare diagnostics, moving LLMs from general knowledge to critical clinical support.",
+    "original_topic": "M Series Apple Silicon LLM Inference",
+    "search_query": "on-device LLM medical diagnostics M-series 2026",
+    "source_count": 12,
+    "tags": "EdgeAI, Healthcare, AppleSilicon, LLM",
+    "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf"
   }
 ]
