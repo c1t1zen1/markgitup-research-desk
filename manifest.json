@@ -25154,5 +25154,18 @@
     "source_count": 12,
     "tags": "ISR, SensorFusion, CounterIntelligence, AI",
     "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1926,
+    "topic": "Utility AI Demand Response Puts Smart Homes at Center of Grid Flexibility",
+    "file": "html/article-1926-utility-ai-demand-response-puts-smart-homes-at-center-of-grid-flexibilit-20261126-120548.html",
+    "timestamp": "20261126-120548",
+    "full_timestamp": "2026-11-26T12:05:48-08:00",
+    "summary": "The supplied evidence does not document utility demand response or smart-home control; it supports only a cautious framing of unanswered consent, reliability, and automation questions.",
+    "original_topic": "AI-Powered Smart Homes & Automation",
+    "search_query": "2026 utility AI demand response thermostats batteries EV chargers smart homes",
+    "source_count": 12,
+    "tags": "grid flexibility, demand response, home energy, smart devices",
+    "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf + GPT 5.6 Luna"
   }
 ]
