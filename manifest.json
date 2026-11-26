@@ -25011,5 +25011,18 @@
     "source_count": 12,
     "tags": "judicial AI, algorithmic fairness, legal tech, precedent auditing",
     "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1915,
+    "topic": "Decentralized AI Agents Navigating Regulatory Sandboxes in Global Crypto Markets",
+    "file": "html/article-1915-decentralized-ai-agents-navigating-regulatory-sandboxes-in-global-crypto-20261126-010434.html",
+    "timestamp": "20261126-010434",
+    "full_timestamp": "2026-11-26T01:04:34-08:00",
+    "summary": "Crypto AI agents may enter sandboxes before gaining regulatory certainty, but supplied evidence shows frameworks developing faster than proven decentralized trading practice.",
+    "original_topic": "AI Crypto Trading Bots & Performance",
+    "search_query": "AI crypto regulatory sandbox 2026 developments",
+    "source_count": 12,
+    "tags": "DeFi, AI, Regulation, Crypto",
+    "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf + GPT 5.6 Luna"
   }
 ]
