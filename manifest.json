@@ -24998,5 +24998,18 @@
     "source_count": 12,
     "tags": "Spatial Video, AI Editing, Immersive Media, Post-Production",
     "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1914,
+    "topic": "AI Auditing Judicial Precedent: Ensuring Algorithmic Fairness in Legal Reasoning",
+    "file": "html/article-1914-ai-auditing-judicial-precedent-ensuring-algorithmic-fairness-in-legal-re-20261126-000424.html",
+    "timestamp": "20261126-000424",
+    "full_timestamp": "2026-11-26T00:04:24-08:00",
+    "summary": "Auditing precedent with AI could expose patterns of bias, but thin evidence, imperfect detection, and unsettled court rules demand cautious, transparent human review.",
+    "original_topic": "AI in Legal Systems & Law Practice",
+    "search_query": "AI bias detection in judicial case law 2026",
+    "source_count": 12,
+    "tags": "judicial AI, algorithmic fairness, legal tech, precedent auditing",
+    "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf + GPT 5.6 Luna"
   }
 ]
