@@ -24985,5 +24985,18 @@
     "source_count": 12,
     "tags": "EdgeAI, Healthcare, AppleSilicon, LLM",
     "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf"
+  },
+  {
+    "article_number": 1913,
+    "topic": "AI Editing Adapts to Next-Gen Spatial Video Formats for Immersive Content",
+    "file": "html/article-1913-ai-editing-adapts-to-next-gen-spatial-video-formats-for-immersive-conten-20261125-230618.html",
+    "timestamp": "20261125-230618",
+    "full_timestamp": "2026-11-25T23:06:18-08:00",
+    "summary": "The supplied evidence defines AI broadly but does not document spatial video formats, editing workflows, or post-production systems, so claims about immersive adaptation remain unverified.",
+    "original_topic": "AI-Powered Video Editing & Post-Production",
+    "search_query": "AI post-production spatial video editing standards 2026",
+    "source_count": 12,
+    "tags": "Spatial Video, AI Editing, Immersive Media, Post-Production",
+    "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf + GPT 5.6 Luna"
   }
 ]
