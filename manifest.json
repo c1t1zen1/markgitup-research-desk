@@ -25245,5 +25245,18 @@
     "source_count": 12,
     "tags": "platform liability, content moderation, election integrity, generative AI",
     "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf"
+  },
+  {
+    "article_number": 1933,
+    "topic": "AI Detecting Micro-Transaction Fraud in Cross-Border Digital Payments",
+    "file": "html/article-1933-ai-detecting-micro-transaction-fraud-in-cross-border-digital-payments-20261126-190626.html",
+    "timestamp": "20261126-190626",
+    "full_timestamp": "2026-11-26T19:06:26-08:00",
+    "summary": "Small-value cross-border payments sharpen a detection problem: supplied evidence points to real-time AI scoring, contextual signals, and trade-offs among fraud, declines, cost, and governance.",
+    "original_topic": "AI Fraud Detection in Banking & Finance",
+    "search_query": "AI micro-transaction fraud detection cross-border payments 2026",
+    "source_count": 12,
+    "tags": "micro-transactions, cross-border, fraud detection, digital payments",
+    "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf + GPT 5.6 Luna"
   }
 ]
