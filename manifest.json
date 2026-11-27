@@ -25466,5 +25466,18 @@
     "source_count": 12,
     "tags": "AI therapy, suicide prevention, clinical liability, regulation",
     "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1950,
+    "topic": "Real-Time AI Avatars Navigating Global Copyright and Personality Rights in 2026",
+    "file": "html/article-1950-real-time-ai-avatars-navigating-global-copyright-and-personality-rights-20261127-121206.html",
+    "timestamp": "20261127-121206",
+    "full_timestamp": "2026-11-27T12:12:06-08:00",
+    "summary": "Global copyright and personality rights challenge real-time AI avatars in 2026, demanding clear licensing and human authorship.",
+    "original_topic": "AI Video Avatars & Virtual Presenters",
+    "search_query": "AI avatar personality rights global copyright 2026",
+    "source_count": 12,
+    "tags": "AI, Avatars, Copyright, IP Law",
+    "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf"
   }
 ]
