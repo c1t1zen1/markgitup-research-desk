@@ -25258,5 +25258,18 @@
     "source_count": 12,
     "tags": "micro-transactions, cross-border, fraud detection, digital payments",
     "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1934,
+    "topic": "AI Short-Form Video Regulation Meets Emerging Digital Identity Standards in 2026",
+    "file": "html/article-1934-ai-short-form-video-regulation-meets-emerging-digital-identity-standards-20261126-201245.html",
+    "timestamp": "20261126-201245",
+    "full_timestamp": "2026-11-26T20:12:45-08:00",
+    "summary": "2026 forecasts link AI short-form video moderation with emerging global digital identity standards, demanding verification in digital spaces.",
+    "original_topic": "AI Short Form Video & Social Media",
+    "search_query": "digital identity verification short form video regulations 2026",
+    "source_count": 12,
+    "tags": "digital identity, content regulation, AI video, 2026 policy",
+    "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf"
   }
 ]
