@@ -25297,5 +25297,18 @@
     "source_count": 12,
     "tags": "AI, Elections, Campaign Compliance, State Law",
     "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1937,
+    "topic": "AI Lobbying Battle Shifts to Federal Preemption as States Tighten Algorithm Rules",
+    "file": "html/article-1937-ai-lobbying-battle-shifts-to-federal-preemption-as-states-tighten-algori-20261126-231344.html",
+    "timestamp": "20261126-231344",
+    "full_timestamp": "2026-11-26T23:13:44-08:00",
+    "summary": "AI lobbying focus is reportedly shifting from disclosure debates to a federal push to preempt state algorithm safeguards across the U.S.",
+    "original_topic": "AI Lobbying & Policy in Washington",
+    "search_query": "AI industry seeks federal preemption of state AI laws Congress 2026",
+    "source_count": 12,
+    "tags": "federal preemption, state AI laws, lobbying",
+    "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf + GPT 5.6 Luna"
   }
 ]
