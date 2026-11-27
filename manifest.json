@@ -25440,5 +25440,18 @@
     "source_count": 12,
     "tags": "prediction markets, trading bots, liquidity, crypto performance",
     "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1948,
+    "topic": "AI Code Agents Managing Complex Multi-Modal Software Deployment Across Cloud and Edge",
+    "file": "html/article-1948-ai-code-agents-managing-complex-multi-modal-software-deployment-across-c-20261127-101233.html",
+    "timestamp": "20261127-101233",
+    "full_timestamp": "2026-11-27T10:12:33-08:00",
+    "summary": "AI Code Agents are moving beyond simple code generation to orchestrate complex, multi-modal software deployments across diverse cloud and edge infrastructures.",
+    "original_topic": "Autonomous AI Code Agents",
+    "search_query": "AI code agents multi-modal deployment edge cloud 2026",
+    "source_count": 12,
+    "tags": "AI Agents, Software Engineering, Edge Computing, MLOps",
+    "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf"
   }
 ]
