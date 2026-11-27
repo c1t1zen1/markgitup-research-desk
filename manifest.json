@@ -25323,5 +25323,18 @@
     "source_count": 12,
     "tags": "synthetic media, provenance, C2PA, deepfake",
     "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf"
+  },
+  {
+    "article_number": 1939,
+    "topic": "AI Video Editing Adapts to New EU Digital Services Act Compliance Needs",
+    "file": "html/article-1939-ai-video-editing-adapts-to-new-eu-digital-services-act-compliance-needs-20261127-011239.html",
+    "timestamp": "20261127-011239",
+    "full_timestamp": "2026-11-27T01:12:39-08:00",
+    "summary": "EU's Digital Services Act mandates new compliance for AI video tools, requiring provenance tracking ahead of 2026 regulations.",
+    "original_topic": "AI-Powered Video Editing & Post-Production",
+    "search_query": "EU Digital Services Act video content moderation AI 2026 latest",
+    "source_count": 12,
+    "tags": "EU AI, Video Compliance, Digital Services Act, Generative AI",
+    "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf"
   }
 ]
