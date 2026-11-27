@@ -25388,5 +25388,18 @@
     "source_count": 12,
     "tags": "Federated Learning, Medical AI, macOS, Privacy",
     "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf"
+  },
+  {
+    "article_number": 1944,
+    "topic": "AI Short-Form Video Monetization Shifts to Creator Data Sovereignty Models",
+    "file": "html/article-1944-ai-short-form-video-monetization-shifts-to-creator-data-sovereignty-mode-20261127-061427.html",
+    "timestamp": "20261127-061427",
+    "full_timestamp": "2026-11-27T06:14:27-08:00",
+    "summary": "AI short-form video monetization is shifting focus from platform rules to creator control over proprietary engagement data.",
+    "original_topic": "AI Short Form Video & Social Media",
+    "search_query": "creator data sovereignty short-form video monetization 2026",
+    "source_count": 12,
+    "tags": "creator economy, data sovereignty, short-form video, monetization",
+    "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf"
   }
 ]
