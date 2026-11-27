@@ -25310,5 +25310,18 @@
     "source_count": 12,
     "tags": "federal preemption, state AI laws, lobbying",
     "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1938,
+    "topic": "Synthetic Video Provenance: New Watermarking Standards Combat Deepfake Misinformation",
+    "file": "html/article-1938-synthetic-video-provenance-new-watermarking-standards-combat-deepfake-mi-20261127-001300.html",
+    "timestamp": "20261127-001300",
+    "full_timestamp": "2026-11-27T00:13:00-08:00",
+    "summary": "C2PA is establishing technical standards for synthetic video provenance, embedding cryptographic credentials to combat deepfake misinformation.",
+    "original_topic": "AI Video Generation Models",
+    "search_query": "C2PA synthetic media watermarking adoption 2026",
+    "source_count": 12,
+    "tags": "synthetic media, provenance, C2PA, deepfake",
+    "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf"
   }
 ]
