@@ -25284,5 +25284,18 @@
     "source_count": 12,
     "tags": "Edge AI, Industrial IoT, M Series, Local LLM",
     "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1936,
+    "topic": "AI Voter Mobilization Strategies Navigating State-Specific Election Integrity Rules",
+    "file": "html/article-1936-ai-voter-mobilization-strategies-navigating-state-specific-election-inte-20261126-220510.html",
+    "timestamp": "20261126-220510",
+    "full_timestamp": "2026-11-26T22:05:10-08:00",
+    "summary": "AI outreach can expand campaign reach, but supplied evidence supports only a cautious playbook: separate mobilization from persuasion, plan for chatbot risks, and verify state rules locally.",
+    "original_topic": "AI in US Elections & Campaigns",
+    "search_query": "AI political mobilization state election integrity 2026",
+    "source_count": 12,
+    "tags": "AI, Elections, Campaign Compliance, State Law",
+    "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf + GPT 5.6 Luna"
   }
 ]
