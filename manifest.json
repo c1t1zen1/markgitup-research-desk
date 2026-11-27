@@ -25492,5 +25492,18 @@
     "source_count": 12,
     "tags": "decentralized voting, AI audit, election integrity, blockchain",
     "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1952,
+    "topic": "M Series LLM Inference Optimizes for Next-Gen Spatial Computing Experiences",
+    "file": "html/article-1952-m-series-llm-inference-optimizes-for-next-gen-spatial-computing-experien-20261127-140431.html",
+    "timestamp": "20261127-140431",
+    "full_timestamp": "2026-11-27T14:04:31-08:00",
+    "summary": "Apple Silicon’s local-inference story may shift from raw throughput toward private, responsive AI assistance in spatial interfaces, but supplied evidence still stops short of proving integration.",
+    "original_topic": "M Series Apple Silicon LLM Inference",
+    "search_query": "Apple M Series LLM spatial computing integration 2026",
+    "source_count": 12,
+    "tags": "Apple Silicon, Spatial Computing, Edge AI, LLM",
+    "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf + GPT 5.6 Luna"
   }
 ]
