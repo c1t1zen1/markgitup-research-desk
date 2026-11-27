@@ -25336,5 +25336,18 @@
     "source_count": 12,
     "tags": "EU AI, Video Compliance, Digital Services Act, Generative AI",
     "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf"
+  },
+  {
+    "article_number": 1940,
+    "topic": "Optimizing Apple Silicon for On-Device Generative AI in Professional Creative Workflows",
+    "file": "html/article-1940-optimizing-apple-silicon-for-on-device-generative-ai-in-professional-cre-20261127-020434.html",
+    "timestamp": "20261127-020434",
+    "full_timestamp": "2026-11-27T02:04:34-08:00",
+    "summary": "Apple Silicon is making local generative AI more practical for creative teams, but current evidence supports tool discovery—not universal claims about speed, compatibility, or production readiness.",
+    "original_topic": "AI Development Tools for Apple Silicon",
+    "search_query": "Apple Silicon local generative AI creative applications 2026",
+    "source_count": 12,
+    "tags": "Apple Silicon, Generative AI, Creative Workflow, Edge ML",
+    "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf + GPT 5.6 Luna"
   }
 ]
