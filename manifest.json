@@ -25427,5 +25427,18 @@
     "source_count": 12,
     "tags": "quantization, macOS, edge ai, video",
     "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf"
+  },
+  {
+    "article_number": 1947,
+    "topic": "Prediction Markets Give AI Crypto Bots a New Performance Benchmark: Accuracy Versus Liquidity",
+    "file": "html/article-1947-prediction-markets-give-ai-crypto-bots-a-new-performance-benchmark-accur-20261127-090706.html",
+    "timestamp": "20261127-090706",
+    "full_timestamp": "2026-11-27T09:07:06-08:00",
+    "summary": "Prediction markets test whether AI crypto bots can turn forecast accuracy into profitable execution, where liquidity, speed, fees, and slippage may matter as much as being right.",
+    "original_topic": "AI Crypto Trading Bots & Performance",
+    "search_query": "AI trading bots prediction market liquidity accuracy 2026 crypto news",
+    "source_count": 12,
+    "tags": "prediction markets, trading bots, liquidity, crypto performance",
+    "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf + GPT 5.6 Luna"
   }
 ]
