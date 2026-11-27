@@ -25271,5 +25271,18 @@
     "source_count": 12,
     "tags": "digital identity, content regulation, AI video, 2026 policy",
     "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf"
+  },
+  {
+    "article_number": 1935,
+    "topic": "M Series LLMs Powering Edge AI for Industrial IoT Anomaly Detection",
+    "file": "html/article-1935-m-series-llms-powering-edge-ai-for-industrial-iot-anomaly-detection-20261126-210448.html",
+    "timestamp": "20261126-210448",
+    "full_timestamp": "2026-11-26T21:04:48-08:00",
+    "summary": "Local M-series LLMs could turn industrial sensor streams into on-premise anomaly explanations, but supplied evidence supports the use case more strongly than Apple-specific deployment claims.",
+    "original_topic": "M Series Apple Silicon LLM Inference",
+    "search_query": "M Series LLM industrial IoT anomaly detection 2026",
+    "source_count": 12,
+    "tags": "Edge AI, Industrial IoT, M Series, Local LLM",
+    "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf + GPT 5.6 Luna"
   }
 ]
