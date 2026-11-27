@@ -25232,5 +25232,18 @@
     "source_count": 12,
     "tags": "LocalAI, macOS, HealthTech, Privacy",
     "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1932,
+    "topic": "AI-Generated Political Narratives and Platform Liability in 2026",
+    "file": "html/article-1932-ai-generated-political-narratives-and-platform-liability-in-2026-20261126-181614.html",
+    "timestamp": "20261126-181614",
+    "full_timestamp": "2026-11-26T18:16:14-08:00",
+    "summary": "By 2026, platform liability for AI-generated political narratives is complex, driven by evolving regulations and operational maturity in content detection.",
+    "original_topic": "AI Misinformation & Election Integrity",
+    "search_query": "social media platform liability AI political content 2026",
+    "source_count": 12,
+    "tags": "platform liability, content moderation, election integrity, generative AI",
+    "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf"
   }
 ]
