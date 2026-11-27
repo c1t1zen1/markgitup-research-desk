@@ -25414,5 +25414,18 @@
     "source_count": 12,
     "tags": "Sovereign Debt, Climate Risk, AI Finance, ESG",
     "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1946,
+    "topic": "Quantized LLMs Accelerate Real-Time Local Video Processing on M3/M4 Macs",
+    "file": "html/article-1946-quantized-llms-accelerate-real-time-local-video-processing-on-m3-m4-macs-20261127-081321.html",
+    "timestamp": "20261127-081321",
+    "full_timestamp": "2026-11-27T08:13:21-08:00",
+    "summary": "Quantized LLMs leverage Apple Silicon (M3/M4) for low-latency, real-time local video processing, moving beyond general inference capabilities.",
+    "original_topic": "Quantized LLMs Running on Mac Hardware",
+    "search_query": "quantized llm real-time video processing macos 2026",
+    "source_count": 12,
+    "tags": "quantization, macOS, edge ai, video",
+    "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf"
   }
 ]
