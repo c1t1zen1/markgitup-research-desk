@@ -25479,5 +25479,18 @@
     "source_count": 12,
     "tags": "AI, Avatars, Copyright, IP Law",
     "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf"
+  },
+  {
+    "article_number": 1951,
+    "topic": "AI Election Integrity Challenges in Decentralized Voting System Audits",
+    "file": "html/article-1951-ai-election-integrity-challenges-in-decentralized-voting-system-audits-20261127-130505.html",
+    "timestamp": "20261127-130505",
+    "full_timestamp": "2026-11-27T13:05:05-08:00",
+    "summary": "AI verification in decentralized voting needs transparent governance, tested controls, and explicit limits on what sparse evidence can establish about accuracy, fairness, and compliance.",
+    "original_topic": "AI Misinformation & Election Integrity",
+    "search_query": "AI auditing decentralized voting systems 2026",
+    "source_count": 12,
+    "tags": "decentralized voting, AI audit, election integrity, blockchain",
+    "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf + GPT 5.6 Luna"
   }
 ]
