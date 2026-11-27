@@ -25206,5 +25206,18 @@
     "source_count": 12,
     "tags": "EdgeML, macOS, ScientificComputing, LocalAI",
     "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1930,
+    "topic": "Quantized LLMs Optimize On-Device Inference for Next-Gen macOS Neural Engine",
+    "file": "html/article-1930-quantized-llms-optimize-on-device-inference-for-next-gen-macos-neural-en-20261126-161302.html",
+    "timestamp": "20261126-161302",
+    "full_timestamp": "2026-11-26T16:13:02-08:00",
+    "summary": "Quantized LLMs leverage macOS hardware acceleration, particularly the Neural Engine, to optimize on-device inference across the latest Apple Silicon.",
+    "original_topic": "Quantized LLMs Running on Mac Hardware",
+    "search_query": "quantized LLMs macOS Neural Engine performance 2026",
+    "source_count": 12,
+    "tags": "LLMs, macOS, Quantization, EdgeAI",
+    "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf"
   }
 ]
