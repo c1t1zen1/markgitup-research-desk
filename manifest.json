@@ -25375,5 +25375,18 @@
     "source_count": 12,
     "tags": "Sovereign AI, US Intelligence, Data Sovereignty, Geopolitics",
     "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1943,
+    "topic": "Federated Learning on macOS for Private Medical Image Analysis",
+    "file": "html/article-1943-federated-learning-on-macos-for-private-medical-image-analysis-20261127-051150.html",
+    "timestamp": "20261127-051150",
+    "full_timestamp": "2026-11-27T05:11:50-08:00",
+    "summary": "Federated Learning on macOS offers a path for private medical image analysis by enabling decentralized model training without sharing sensitive raw patient data.",
+    "original_topic": "Privacy-First Local AI on Mac",
+    "search_query": "federated learning medical imaging macOS 2026",
+    "source_count": 12,
+    "tags": "Federated Learning, Medical AI, macOS, Privacy",
+    "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf"
   }
 ]
