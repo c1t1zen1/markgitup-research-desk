@@ -25453,5 +25453,18 @@
     "source_count": 12,
     "tags": "AI Agents, Software Engineering, Edge Computing, MLOps",
     "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf"
+  },
+  {
+    "article_number": 1949,
+    "topic": "AI Therapy Bots Face Clinical Liability Tests Over Suicide-Risk Safeguards",
+    "file": "html/article-1949-ai-therapy-bots-face-clinical-liability-tests-over-suicide-risk-safeguar-20261127-110533.html",
+    "timestamp": "20261127-110533",
+    "full_timestamp": "2026-11-27T11:05:33-08:00",
+    "summary": "As suicide-risk disclosures move into consumer chatbots, regulators and clinicians are testing whether safeguards, human escalation, and professional judgment can define responsibility.",
+    "original_topic": "AI in Mental Health & Therapy",
+    "search_query": "AI therapy chatbot suicide risk safeguards clinical liability regulation 2026",
+    "source_count": 12,
+    "tags": "AI therapy, suicide prevention, clinical liability, regulation",
+    "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf + GPT 5.6 Luna"
   }
 ]
