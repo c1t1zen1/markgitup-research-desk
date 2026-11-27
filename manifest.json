@@ -25362,5 +25362,18 @@
     "source_count": 12,
     "tags": "AI Agents, Decentralization, Code Verification, Web3",
     "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1942,
+    "topic": "US Intelligence Adapts to Sovereign AI Frameworks in Global Data Sharing",
+    "file": "html/article-1942-us-intelligence-adapts-to-sovereign-ai-frameworks-in-global-data-sharing-20261127-040439.html",
+    "timestamp": "20261127-040439",
+    "full_timestamp": "2026-11-27T04:04:39-08:00",
+    "summary": "US intelligence may face a new deployment question: how to share data across borders while preserving jurisdictional control over models, infrastructure, and sensitive information.",
+    "original_topic": "AI in US Intelligence & Surveillance",
+    "search_query": "US intelligence sovereign AI data sharing 2026",
+    "source_count": 12,
+    "tags": "Sovereign AI, US Intelligence, Data Sovereignty, Geopolitics",
+    "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf + GPT 5.6 Luna"
   }
 ]
