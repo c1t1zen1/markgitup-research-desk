@@ -25349,5 +25349,18 @@
     "source_count": 12,
     "tags": "Apple Silicon, Generative AI, Creative Workflow, Edge ML",
     "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1941,
+    "topic": "Autonomous Code Agents Integrating with Decentralized AI Oracles for Verified Deployment",
+    "file": "html/article-1941-autonomous-code-agents-integrating-with-decentralized-ai-oracles-for-ver-20261127-030433.html",
+    "timestamp": "20261127-030433",
+    "full_timestamp": "2026-11-27T03:04:33-08:00",
+    "summary": "Autonomous code agents could pair independent action with decentralized verification, but the supplied evidence shows adjacent capabilities, not a demonstrated oracle-to-deployment system.",
+    "original_topic": "Autonomous AI Code Agents",
+    "search_query": "autonomous code agents decentralized AI oracles 2026",
+    "source_count": 12,
+    "tags": "AI Agents, Decentralization, Code Verification, Web3",
+    "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf + GPT 5.6 Luna"
   }
 ]
