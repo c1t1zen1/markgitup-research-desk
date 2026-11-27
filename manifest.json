@@ -25505,5 +25505,18 @@
     "source_count": 12,
     "tags": "Apple Silicon, Spatial Computing, Edge AI, LLM",
     "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1953,
+    "topic": "Optimizing Apple Silicon for Next-Gen AR/VR Spatial Computing Development",
+    "file": "html/article-1953-optimizing-apple-silicon-for-next-gen-ar-vr-spatial-computing-developmen-20261127-150629.html",
+    "timestamp": "20261127-150629",
+    "full_timestamp": "2026-11-27T15:06:29-08:00",
+    "summary": "Spatial development on Apple platforms is being shaped by visionOS SDK evolution, Xcode integration, RealityKit, ARKit, tracking, and spatial-audio workflows—not benchmark claims.",
+    "original_topic": "AI Development Tools for Apple Silicon",
+    "search_query": "Apple Vision Pro development SDK updates 2026",
+    "source_count": 12,
+    "tags": "Apple Silicon, Spatial Computing, AR/VR, Developer Tools",
+    "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf + GPT 5.6 Luna"
   }
 ]
