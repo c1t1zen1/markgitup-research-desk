@@ -25648,5 +25648,18 @@
     "source_count": 12,
     "tags": "HFT, Geopolitics, LLM, ProprietaryData",
     "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf"
+  },
+  {
+    "article_number": 1964,
+    "topic": "Generative AI Compliance Tools Address Evolving IFRS 17 Implementation Challenges",
+    "file": "html/article-1964-generative-ai-compliance-tools-address-evolving-ifrs-17-implementation-c-20261128-021148.html",
+    "timestamp": "20261128-021148",
+    "full_timestamp": "2026-11-28T02:11:48-08:00",
+    "summary": "Generative AI tools are emerging to address complex IFRS 17 implementation challenges by automating compliance tasks and enhancing reporting accuracy.",
+    "original_topic": "Generative AI for Financial Reporting",
+    "search_query": "Generative AI IFRS 17 compliance reporting 2026",
+    "source_count": 12,
+    "tags": "IFRS 17, Financial Reporting, Generative AI, Compliance",
+    "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf"
   }
 ]
