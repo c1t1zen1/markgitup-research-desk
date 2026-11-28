@@ -25661,5 +25661,18 @@
     "source_count": 12,
     "tags": "IFRS 17, Financial Reporting, Generative AI, Compliance",
     "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf"
+  },
+  {
+    "article_number": 1965,
+    "topic": "AI Editing Adapts to Real-Time 8K Volumetric Video Capture Workflows",
+    "file": "html/article-1965-ai-editing-adapts-to-real-time-8k-volumetric-video-capture-workflows-20261128-030438.html",
+    "timestamp": "20261128-030438",
+    "full_timestamp": "2026-11-28T03:04:38-08:00",
+    "summary": "AI is beginning to meet real-time volumetric capture, but available evidence supports an emerging workflow direction—not a proven end-to-end 8K editing system.",
+    "original_topic": "AI-Powered Video Editing & Post-Production",
+    "search_query": "AI post-production volumetric video 8K workflows 2026",
+    "source_count": 12,
+    "tags": "volumetric video, 8K, AI editing, post-production",
+    "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf + GPT 5.6 Luna"
   }
 ]
