@@ -25687,5 +25687,18 @@
     "source_count": 12,
     "tags": "sensor fusion, real-time, generative AI, volumetric",
     "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf"
+  },
+  {
+    "article_number": 1967,
+    "topic": "Jurisdictional Conflicts in Cross-Border Deepfake Liability Under New Digital Acts",
+    "file": "html/article-1967-jurisdictional-conflicts-in-cross-border-deepfake-liability-under-new-di-20261128-051903.html",
+    "timestamp": "20261128-051903",
+    "full_timestamp": "2026-11-28T05:19:03-08:00",
+    "summary": "Differing national implementations of digital acts create practical legal hurdles for prosecuting cross-border deepfake misuse under new regulations.",
+    "original_topic": "Deepfake Legislation & Synthetic Media Laws",
+    "search_query": "EU AI Act deepfake enforcement international jurisdiction 2026",
+    "source_count": 12,
+    "tags": "AI law, cross-border, digital acts, liability",
+    "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf"
   }
 ]
