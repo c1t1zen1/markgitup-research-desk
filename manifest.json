@@ -25609,5 +25609,18 @@
     "source_count": 12,
     "tags": "deepfakes, voice authentication, payment scams",
     "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1961,
+    "topic": "AI Lobbying Transparency Demands New Disclosure Rules for Federal Policy Influence",
+    "file": "html/article-1961-ai-lobbying-transparency-demands-new-disclosure-rules-for-federal-policy-20261127-231400.html",
+    "timestamp": "20261127-231400",
+    "full_timestamp": "2026-11-27T23:14:00-08:00",
+    "summary": "Emerging federal and state mandates signal a shift toward mandatory AI influence disclosure in policy, moving beyond simple campaign targeting.",
+    "original_topic": "AI Lobbying & Policy in Washington",
+    "search_query": "AI lobbying disclosure requirements Washington 2026",
+    "source_count": 12,
+    "tags": "AI Policy, Washington D.C., Transparency, Regulation",
+    "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf"
   }
 ]
