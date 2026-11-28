@@ -25726,5 +25726,18 @@
     "source_count": 12,
     "tags": "federated learning, HIPAA, clinical AI, privacy",
     "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf"
+  },
+  {
+    "article_number": 1970,
+    "topic": "Quantized LLMs Achieve Near-Native Performance on M3/M4 for Edge AI",
+    "file": "html/article-1970-quantized-llms-achieve-near-native-performance-on-m3-m4-for-edge-ai-20261128-080609.html",
+    "timestamp": "20261128-080609",
+    "full_timestamp": "2026-11-28T08:06:09-08:00",
+    "summary": "Apple Silicon’s unified memory and expanding benchmark coverage make quantized local inference promising on M3 and M4, but supplied evidence does not yet prove near-native gains.",
+    "original_topic": "Quantized LLMs Running on Mac Hardware",
+    "search_query": "quantized LLM performance M3 M4 November 2026",
+    "source_count": 12,
+    "tags": "Quantization, Apple Silicon, Edge AI, LLM",
+    "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf + GPT 5.6 Luna"
   }
 ]
