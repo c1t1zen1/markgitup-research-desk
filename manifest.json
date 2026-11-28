@@ -25674,5 +25674,18 @@
     "source_count": 12,
     "tags": "volumetric video, 8K, AI editing, post-production",
     "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1966,
+    "topic": "AI Video Generation Adapts to Dynamic, Real-Time Sensor Fusion Inputs",
+    "file": "html/article-1966-ai-video-generation-adapts-to-dynamic-real-time-sensor-fusion-inputs-20261128-041108.html",
+    "timestamp": "20261128-041108",
+    "full_timestamp": "2026-11-28T04:11:08-08:00",
+    "summary": "AI video generation is evolving beyond static prompts to integrate dynamic, real-time sensor fusion data like LiDAR and thermal inputs.",
+    "original_topic": "AI Video Generation Models",
+    "search_query": "real-time video generation sensor fusion 2026",
+    "source_count": 12,
+    "tags": "sensor fusion, real-time, generative AI, volumetric",
+    "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf"
   }
 ]
