@@ -25596,5 +25596,18 @@
     "source_count": 12,
     "tags": "C2PA, open source, provenance, AI ethics",
     "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1960,
+    "topic": "Deepfake Voice Screening Moves Into Bank Call Centers as Payment Scams Escalate",
+    "file": "html/article-1960-deepfake-voice-screening-moves-into-bank-call-centers-as-payment-scams-e-20261127-220521.html",
+    "timestamp": "20261127-220521",
+    "full_timestamp": "2026-11-27T22:05:21-08:00",
+    "summary": "Banks are adding behavioral, device, and verification layers to call-center authentication as reported deepfake voice attacks pressure traditional voice biometrics and customer trust.",
+    "original_topic": "AI Fraud Detection in Banking & Finance",
+    "search_query": "bank deepfake voice detection call center payment scam 2026",
+    "source_count": 12,
+    "tags": "deepfakes, voice authentication, payment scams",
+    "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf + GPT 5.6 Luna"
   }
 ]
