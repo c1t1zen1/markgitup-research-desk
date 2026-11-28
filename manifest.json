@@ -25518,5 +25518,18 @@
     "source_count": 12,
     "tags": "Apple Silicon, Spatial Computing, AR/VR, Developer Tools",
     "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1954,
+    "topic": "Zero-Trust AI Home Gateways Secure Personal Data Against Cloud Exploits",
+    "file": "html/article-1954-zero-trust-ai-home-gateways-secure-personal-data-against-cloud-exploits-20261127-160603.html",
+    "timestamp": "20261127-160603",
+    "full_timestamp": "2026-11-27T16:06:03-08:00",
+    "summary": "Zero-trust home gateways could reduce cloud exposure, but supplied evidence supports network-access principles more strongly than hardware enforcement, local governance, or 2026 privacy compliance.",
+    "original_topic": "AI-Powered Smart Homes & Automation",
+    "search_query": "zero trust edge ai home security 2026",
+    "source_count": 12,
+    "tags": "edge ai, data sovereignty, zero trust, smart home",
+    "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf + GPT 5.6 Luna"
   }
 ]
