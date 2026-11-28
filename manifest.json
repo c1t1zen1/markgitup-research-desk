@@ -25583,5 +25583,18 @@
     "source_count": 12,
     "tags": "macOS, Containerization, LocalAI, Security",
     "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1959,
+    "topic": "AI Video Watermarking Standards Clash with Open Source Model Distribution",
+    "file": "html/article-1959-ai-video-watermarking-standards-clash-with-open-source-model-distributio-20261127-210619.html",
+    "timestamp": "20261127-210619",
+    "full_timestamp": "2026-11-27T21:06:19-08:00",
+    "summary": "C2PA-style provenance can label AI video, but supplied evidence shows open model distribution may preserve valid credentials without proving source, authorship, or legal compliance.",
+    "original_topic": "AI Video Generation Models",
+    "search_query": "C2PA open source model licensing conflicts 2026",
+    "source_count": 12,
+    "tags": "C2PA, open source, provenance, AI ethics",
+    "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf + GPT 5.6 Luna"
   }
 ]
