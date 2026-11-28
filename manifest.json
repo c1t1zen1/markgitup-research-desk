@@ -25739,5 +25739,18 @@
     "source_count": 12,
     "tags": "Quantization, Apple Silicon, Edge AI, LLM",
     "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1971,
+    "topic": "US Intelligence Agencies Integrate Quantum-Resistant AI for Encrypted Surveillance Data",
+    "file": "html/article-1971-us-intelligence-agencies-integrate-quantum-resistant-ai-for-encrypted-su-20261128-091314.html",
+    "timestamp": "20261128-091314",
+    "full_timestamp": "2026-11-28T09:13:14-08:00",
+    "summary": "US intelligence agencies face an operational necessity to integrate quantum-resistant AI to counter 'Harvest Now, Decrypt Later' threats by 2026.",
+    "original_topic": "AI in US Intelligence & Surveillance",
+    "search_query": "US intelligence quantum-resistant AI encryption 2026",
+    "source_count": 12,
+    "tags": "Quantum Computing, Intelligence, AI Security, Cryptography",
+    "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf"
   }
 ]
