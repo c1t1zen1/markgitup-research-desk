@@ -25544,5 +25544,18 @@
     "source_count": 12,
     "tags": "AI, Elections, Data Privacy, Regulation",
     "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1956,
+    "topic": "AI Auditing Legal Compliance in Cross-Border Data Sovereignty Frameworks",
+    "file": "html/article-1956-ai-auditing-legal-compliance-in-cross-border-data-sovereignty-frameworks-20261127-181128.html",
+    "timestamp": "20261127-181128",
+    "full_timestamp": "2026-11-27T18:11:28-08:00",
+    "summary": "AI auditing is crucial for navigating 2026's complex cross-border data sovereignty frameworks, demanding proactive legal compliance.",
+    "original_topic": "AI in Legal Systems & Law Practice",
+    "search_query": "AI legal compliance cross-border data sovereignty 2026",
+    "source_count": 12,
+    "tags": "LegalTech, DataSovereignty, AICompliance, GlobalLaw",
+    "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf"
   }
 ]
