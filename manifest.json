@@ -25635,5 +25635,18 @@
     "source_count": 11,
     "tags": "EU AI Act, Synthetic Media, Provenance, Compliance",
     "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf"
+  },
+  {
+    "article_number": 1963,
+    "topic": "LLMs Detecting Latent Geopolitical Shifts in Private Trading Data",
+    "file": "html/article-1963-llms-detecting-latent-geopolitical-shifts-in-private-trading-data-20261128-011411.html",
+    "timestamp": "20261128-011411",
+    "full_timestamp": "2026-11-28T01:14:11-08:00",
+    "summary": "LLMs are being integrated into hedge fund operations, showing potential for advanced trade signals and analysis of financial data.",
+    "original_topic": "LLMs in Hedge Funds & Trading",
+    "search_query": "LLM analysis private hedge fund geopolitical signals 2026",
+    "source_count": 12,
+    "tags": "HFT, Geopolitics, LLM, ProprietaryData",
+    "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf"
   }
 ]
