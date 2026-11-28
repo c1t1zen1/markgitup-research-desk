@@ -25622,5 +25622,18 @@
     "source_count": 12,
     "tags": "AI Policy, Washington D.C., Transparency, Regulation",
     "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf"
+  },
+  {
+    "article_number": 1962,
+    "topic": "Synthetic Video Provenance Standards Meet EU AI Act Compliance in 2026",
+    "file": "html/article-1962-synthetic-video-provenance-standards-meet-eu-ai-act-compliance-in-2026-20261128-001204.html",
+    "timestamp": "20261128-001204",
+    "full_timestamp": "2026-11-28T00:12:04-08:00",
+    "summary": "Synthetic video provenance standards are aligning with EU AI Act compliance, focusing on tracking synthetic content for creative and ethical use.",
+    "original_topic": "AI-Generated Video for Filmmaking & Content Creation",
+    "search_query": "EU AI Act synthetic video provenance compliance 2026",
+    "source_count": 11,
+    "tags": "EU AI Act, Synthetic Media, Provenance, Compliance",
+    "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf"
   }
 ]
