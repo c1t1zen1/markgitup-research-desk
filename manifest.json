@@ -25570,5 +25570,18 @@
     "source_count": 12,
     "tags": "C2PA, regulation, provenance, synthetic media",
     "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf + GPT 5.6 Luna"
+  },
+  {
+    "article_number": 1958,
+    "topic": "macOS Containerization for Secure, Isolated Local AI Model Execution",
+    "file": "html/article-1958-macos-containerization-for-secure-isolated-local-ai-model-execution-20261127-200624.html",
+    "timestamp": "20261127-200624",
+    "full_timestamp": "2026-11-27T20:06:24-08:00",
+    "summary": "Native macOS containerization could narrow local-model exposure, but supplied evidence supports the security rationale more strongly than the platform-specific isolation claim.",
+    "original_topic": "Local AI Tools & Stacks for macOS",
+    "search_query": "macOS containerized local LLM deployment security 2026 latest",
+    "source_count": 12,
+    "tags": "macOS, Containerization, LocalAI, Security",
+    "model_names": "/home/pi/models/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf + GPT 5.6 Luna"
   }
 ]
